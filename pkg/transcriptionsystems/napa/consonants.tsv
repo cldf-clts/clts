@@ -1,0 +1,152 @@
+GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
+G	voiced	uvular	stop			ɢ
+L	voiced	alveolar	approximant		voicing:devoiced,laterality:lateral	l̥
+M	voiced	bilabial	nasal		voicing:devoiced	m̥
+N	voiced	alveolar	nasal		voicing:devoiced	n̥
+R	voiced	alveolar	trill		voicing:devoiced	r̥
+W	voiced	labio-velar	approximant		voicing:devoiced	w̥
+X	voiceless	uvular	fricative	+		χ
+Y	voiced	palatal	approximant		voicing:devoiced	j̊
+b	voiced	bilabial	stop			b
+b̓	voiced	bilabial	implosive			ɓ
+bᵛ	voiced	labio-dental	affricate			bv
+c	voiceless	alveolar	affricate	+	sibilancy:sibilant	ts
+c̓	voiceless	alveolar	affricate	+	ejection:ejective,sibilancy:sibilant	tsʼ
+d	voiced	alveolar	stop			d
+dj	voiced	post-alveolar	affricate	+	sibilancy:sibilant	dʒ
+dl	voiced	alveolar	affricate	+	laterality:lateral	dɮ
+dz	voiced	alveolar	affricate	+	sibilancy:sibilant	dz
+dð̂	voiced	dental	affricate	+		dð
+d̓	voiced	dental	implosive			ɗ
+d̯	voiced	dental	stop			d̪
+dϑ	voiced	dental	affricate	+		dð
+dᶞ	voiced	dental	affricate			dð
+dᶻ	voiced	alveolar	affricate		sibilancy:sibilant	dz
+f	voiceless	labio-dental	fricative			f
+g	voiced	velar	stop			g
+gy	voiced	palatal	stop	+		ɟ
+gʸ	voiced	velar	stop		palatalization:palatalized	
+g̑	voiced	palatal	stop			ɟ
+g̓	voiced	velar	implosive			ɠ
+g̣	voiced	uvular	stop	+		ɢ
+h	voiceless	glottal	fricative			h
+j	voiced	post-alveolar	fricative	+	sibilancy:sibilant	ʒ
+k	voiceless	velar	stop			k
+ky	voiceless	palatal	stop	+		c
+kʸ	voiceless	palatal	stop	+		c
+kˣ	voiceless	velar	affricate			kx
+k̓	voiceless	velar	stop		ejection:ejective	kʼ
+k̯	voiceless	palatal	stop			c
+k̯̓	voiceless	palatal	stop		ejection:ejective	cʼ
+l	voiced	alveolar	approximant		laterality:lateral	l
+l̓ 	voiced	alveolar	approximant		glottalization:glottalized,laterality:lateral	lˀ
+l̯	voiced	dental	approximant		laterality:lateral	l̪
+m	voiced	bilabial	nasal			m
+m̓	voiced	bilabial	nasal		ejection:ejective	m’
+n	voiced	alveolar	nasal			n
+n̓	voiced	alveolar	nasal		ejection:ejective	n’
+n̯	voiced	dental	nasal			n̪
+p	voiceless	bilabial	stop			p
+p̓	voiceless	bilabial	stop		ejection:ejective	pʼ
+pᶠ	voiceless	labio-dental	affricate			pf
+q	voiceless	uvular	stop			q
+qˣ̣	voiceless	uvular	affricate			qχ
+q̓	voiceless	uvular	stop		ejection:ejective	qʼ
+r	voiced	alveolar	approximant			ɹ
+r̃	voiced	alveolar	trill			r
+r̓ 	voiced	alveolar	tap		glottalization:glottalized,voicing:devoiced	ɾˀ
+s	voiceless	alveolar	fricative		sibilancy:sibilant	s
+s̓	voiceless	alveolar	fricative		ejection:ejective,sibilancy:sibilant	sʼ
+s̯	voiceless	dental	fricative		sibilancy:sibilant	s̪
+t	voiceless	alveolar	stop			t
+tc	voiceless	post-alveolar	affricate	+	sibilancy:sibilant	tʃ
+ts	voiceless	alveolar	affricate	+	sibilancy:sibilant	ts
+tł	voiceless	alveolar	affricate	+	laterality:lateral	tɬ
+tʟ	voiceless	alveolar	affricate	+	laterality:lateral	tɬ
+tʸ	voiceless	post-alveolar	stop			t̠
+tˢ	voiceless	alveolar	affricate		sibilancy:sibilant	ts
+t̓ 	voiceless	alveolar	stop		ejection:ejective	tʼ
+t̓ˢ	voiceless	alveolar	affricate		ejection:ejective,sibilancy:sibilant	tsʼ
+t̓ᶴ	voiceless	post-alveolar	affricate		ejection:ejective,sibilancy:sibilant	tʃʼ
+t̓ᶿ	voiceless	dental	affricate		ejection:ejective	tθ’
+t̪ˢ	voiceless	dental	affricate		sibilancy:sibilant	ts̪
+t̯	voiceless	dental	stop			t̪
+t̯̓	voiceless	dental	stop		ejection:ejective	t̪ʼ
+tθ	voiceless	dental	affricate	+		tθ
+tᶴ	voiceless	post-alveolar	affricate		sibilancy:sibilant	tʃ
+tᶿ	voiceless	dental	affricate			tθ
+v	voiced	labio-dental	fricative			v
+w	voiced	labio-velar	approximant			w
+w̃	voiced	labio-velar	approximant		nasalization:nasalized	w̃
+w̓	voiced	labio-velar	approximant		ejection:ejective	w’
+x	voiceless	velar	fricative			x
+x̣	voiceless	uvular	fricative			χ
+x̯	voiceless	palatal	fricative		sibilancy:sibilant	ç
+y	voiced	palatal	approximant			j
+ỹ	voiced	palatal	approximant		nasalization:nasalized	j̃
+y̓	voiced	palatal	approximant		ejection:ejective	jʼ
+z	voiced	alveolar	fricative		sibilancy:sibilant	z
+z̯	voiced	dental	fricative		sibilancy:sibilant	z̪
+¢	voiceless	alveolar	affricate	+	sibilancy:sibilant	ts
+Ñ	voiced	palatal	nasal		voicing:devoiced	ɲ̊
+ð	voiced	dental	fricative			ð
+ñ	voiced	palatal	nasal			ɲ
+ÿ	voiced	labio-palatal	approximant			ɥ
+č	voiceless	post-alveolar	affricate	+	sibilancy:sibilant	tʃ
+č̓	voiceless	post-alveolar	affricate	+	ejection:ejective,sibilancy:sibilant	tʃʼ
+č̣	voiceless	retroflex	affricate		sibilancy:sibilant	ʈʂ
+č̣̓	voiceless	retroflex	affricate		ejection:ejective,sibilancy:sibilant	ʈʂ’
+ġ	voiced	uvular	stop	+		ɢ
+ġ̓	voiced	uvular	implosive			ʛ
+ġᵞ̇	voiced	uvular	affricate			ɢʁ
+ł	voiceless	alveolar	fricative		laterality:lateral	ɬ
+ł̓	voiceless	alveolar	fricative		ejection:ejective,laterality:lateral	ɬʼ
+ŋ	voiced	velar	nasal			ŋ
+ŋ̇	voiced	uvular	nasal			ɴ
+ŋ̇̓	voiced	uvular	nasal		ejection:ejective	ɴˀ
+ŋ̑	voiced	velar	nasal		palatalization:palatalized	ŋʲ
+ŋ̓	voiced	velar	nasal		ejection:ejective	ŋ’
+ř	voiced	alveolar	tap		voicing:devoiced	ɾ
+š	voiceless	post-alveolar	fricative		sibilancy:sibilant	ʃ
+ž	voiced	post-alveolar	fricative		sibilancy:sibilant	ʒ
+ƛ	voiceless	alveolar	affricate		laterality:lateral	tɬ
+ƛ̓	voiceless	alveolar	affricate		ejection:ejective,laterality:lateral	tɬʼ
+ǰ	voiced	post-alveolar	affricate		sibilancy:sibilant	dʒ
+ȼ	voiceless	post-alveolar	affricate	+	sibilancy:sibilant	tʃ
+ɦ	voiced	glottal	fricative			ɦ
+ɱ	voiced	labio-dental	nasal	+		ɱ
+ɴ	voiced	alveolar	nasal	+	voicing:devoiced	n̥
+ɴ̃	voiced	velar	nasal	+	voicing:devoiced	ŋ̊
+ɸ	voiceless	bilabial	fricative	+		ɸ
+ʔ	voiceless	glottal	stop			ʔ
+ʕ	voiced	pharyngeal	fricative			ʕ
+ʟ	voiceless	alveolar	fricative	+	laterality:lateral	ɬ
+β	voiced	bilabial	fricative			β
+γ	voiced	velar	fricative			ɣ
+γ̇	voiced	uvular	fricative			ʁ
+γ̑	voiced	palatal	fricative			ʝ
+δ	voiced	dental	fricative	+		ð
+θ	voiceless	dental	fricative			θ
+λ	voiced	alveolar	affricate		laterality:lateral	dɮ
+φ	voiceless	bilabial	fricative			ɸ
+ϑ	voiced	dental	fricative	+		ð
+ᴅ	voiced	alveolar	tap	+	voicing:devoiced	ɾ
+ᴍ	voiced	bilabial	nasal	+	voicing:devoiced	m̥
+ḍ	voiced	retroflex	stop			ɖ
+ḥ	voiceless	pharyngeal	fricative			ħ
+ḳ	voiceless	uvular	stop	+		q
+ḷ	voiced	retroflex	approximant		laterality:lateral	ɭ
+ṃ	voiced	labio-dental	nasal			ɱ
+Ṇ 	voiced	velar	nasal		voicing:devoiced	ŋ̊
+ṇ	voiced	retroflex	nasal			
+ṛ	voiced	retroflex	approximant			ɻ
+ṛ̃	voiced	uvular	trill			ʀ
+ṣ	voiceless	retroflex	fricative		sibilancy:sibilant	ʂ
+ṣ̌	voiceless	retroflex	fricative	+	sibilancy:sibilant	ʂ
+ṭ	voiceless	retroflex	stop			ʈ
+ṭ̓ 	voiceless	retroflex	stop		ejection:ejective	ʈ’
+ẋ	voiceless	uvular	fricative	+		χ
+ẓ	voiced	retroflex	fricative		sibilancy:sibilant	ʐ
+ẓ̌	voiced	retroflex	fricative	+	sibilancy:sibilant	ʐ
+’	voiceless	glottal	stop	+		ʔ
+Ɱ	voiced	labio-dental	nasal		voicing:devoiced	ɱ̊

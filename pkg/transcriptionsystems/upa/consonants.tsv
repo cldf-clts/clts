@@ -1,0 +1,76 @@
+GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
+b	voiced	bilabial	stop			
+b͔	voiced	labio-dental	stop			
+b˿	voiceless	labial	click		voicing:revoiced	
+ʙ	voiced	bilabial	stop		voicing:devoiced	
+ʙ͔	voiceless	labio-dental	stop		voicing:devoiced	
+d	voiced	alveolar	stop			
+ď	voiced	alveolar	stop		palatalization:palatalized	
+d˿	voiceless	alveolar	click		voicing:revoiced	
+ᴅ	voiced	alveolar	stop		voicing:devoiced	
+ᴅ́	voiced	alveolar	stop		palatalization:palatalized,voicing:devoiced	
+f	voiceless	labio-dental	fricative			
+g	voiced	velar	stop			
+ǵ	voiced	palatal	stop			
+g͔	voiced	uvular	stop			
+g˿	voiceless	palatal	click		voicing:revoiced	
+ɢ	voiced	velar	stop		voicing:devoiced	
+ɢ́	voiced	palatal	stop		voicing:devoiced	
+ɢ͔	voiced	uvular	stop		voicing:devoiced	
+j	voiced	palatal	fricative			
+k	voiceless	velar	stop			
+ḱ	voiceless	palatal	stop			
+k͔	voiceless	uvular	stop			
+k˿	voiceless	palatal	click			
+l	voiced	alveolar	approximant		laterality:lateral	
+ĺ	voiced	alveolar	approximant		palatalization:palatalized,laterality:lateral	
+ʟ	voiced	alveolar	approximant		voicing:devoiced,laterality:lateral	
+ʟ́	voiced	alveolar	approximant		palatalization:palatalized,voicing:devoiced,laterality:lateral	
+m	voiced	bilabial	nasal			
+m͔	voiced	labio-dental	nasal			
+ᴍ	voiced	bilabial	nasal		voicing:devoiced	
+ᴍ͔	voiced	labio-dental	nasal		voicing:devoiced	
+n	voiced	alveolar	nasal			
+ń	voiced	alveolar	nasal		palatalization:palatalized	
+ɴ	voiced	alveolar	nasal		voicing:devoiced	
+ɴ́	voiced	alveolar	nasal		palatalization:palatalized,voicing:devoiced	
+ᴎ	voiced	velar	nasal		voicing:devoiced	
+ᴎ́	voiced	palatal	nasal		voicing:devoiced	
+ᴎ͔	voiced	uvular	nasal		voicing:devoiced	
+ŋ	voiced	velar	nasal			
+ŋ́	voiced	palatal	nasal			
+ŋ͔	voiced	uvular	nasal			
+p	voiceless	bilabial	stop			
+p͔	voiceless	labio-dental	stop			
+p˿	voiceless	labial	click			
+r	voiced	alveolar	trill			
+ŕ	voiced	alveolar	trill		palatalization:palatalized	
+ʀ	voiced	alveolar	trill		voicing:devoiced	
+ʀ́	voiced	alveolar	trill		palatalization:palatalized,voicing:devoiced	
+s	voiceless	alveolar	fricative		sibilancy:sibilant	
+ś	voiceless	alveolar	fricative		palatalization:palatalized,sibilancy:sibilant	
+š	voiceless	post-alveolar	fricative		sibilancy:sibilant	
+š́	voiceless	post-alveolar	fricative		palatalization:palatalized,sibilancy:sibilant	
+t	voiceless	alveolar	stop			
+ť	voiceless	alveolar	stop		palatalization:palatalized	
+t˿	voiceless	alveolar	click			
+v	voiced	labio-dental	fricative			
+z	voiced	alveolar	fricative		sibilancy:sibilant	
+ź	voiced	alveolar	fricative		palatalization:palatalized,sibilancy:sibilant	
+ž	voiced	post-alveolar	fricative		sibilancy:sibilant	
+ž́	voiced	post-alveolar	fricative		palatalization:palatalized,sibilancy:sibilant	
+ˀ	voiced	velar	approximant			
+ᴤ	voiceless	glottal	fricative			
+β	voiced	bilabial	fricative			
+γ	voiced	velar	fricative			
+γ͔	voiced	uvular	fricative			
+δ	voiced	dental	fricative			
+ϑ	voiceless	dental	fricative			
+ρ	voiced	uvular	trill			
+ᴩ	voiced	uvular	trill		voicing:devoiced	
+φ	voiceless	bilabial	fricative			
+χ	voiceless	velar	fricative			
+χ́	voiceless	palatal	fricative		sibilancy:sibilant	
+χ͔	voiceless	uvular	fricative			
+ψ	voiced	bilabial	trill			
+ᴪ	voiced	bilabial	trill		voicing:devoiced	

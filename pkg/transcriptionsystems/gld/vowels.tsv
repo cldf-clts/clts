@@ -1,0 +1,76 @@
+GRAPHEME	ROUNDEDNESS	HEIGHT	CENTRALITY	ALIAS	EXTRA	NOTE
+a	unrounded	open	front			
+aa	unrounded	open	front	+	duration:long	
+aː	unrounded	open	front		duration:long	
+u	rounded	close	back			
+uu	rounded	close	back	+	duration:long	
+uː	rounded	close	back		duration:long	
+o	rounded	close-mid	back			
+oo	rounded	close-mid	back	+	duration:long	
+oː	rounded	close-mid	back		duration:long	
+e	unrounded	close-mid	front			
+ee	unrounded	close-mid	front	+	duration:long	
+eː	unrounded	close-mid	front		duration:long	
+i	unrounded	close	front			
+ii	unrounded	close	front	+	duration:long	
+iː	unrounded	close	front		duration:long	
+ɔ	rounded	open-mid	back			
+ɔɔ	rounded	open-mid	back	+	duration:long	
+ɔː	rounded	open-mid	back		duration:long	
+ə	unrounded	mid	central			
+əə	unrounded	mid	central	+	duration:long	
+əː	unrounded	mid	central		duration:long	
+ɛ	unrounded	open-mid	front			
+ɛɛ	unrounded	open-mid	front	+	duration:long	
+ɛː	unrounded	open-mid	front		duration:long	
+ɯ	unrounded	close	back			
+ɯɯ	unrounded	close	back	+	duration:long	
+ɯː	unrounded	close	back		duration:long	
+ʉ	rounded	close	central			
+ʉʉ	rounded	close	central	+	duration:long	
+ʉː	rounded	close	central		duration:long	
+ɑ	unrounded	open	back			
+ɑɑ	unrounded	open	back	+	duration:long	
+ɑː	unrounded	open	back		duration:long	
+ɔ̃	rounded	open-mid	back		nasalization:nasalized	
+ɔ̃ɔ̃	rounded	open-mid	back	+	nasalization:nasalized,duration:long	
+ɔ̃ː	rounded	open-mid	back		nasalization:nasalized,duration:long	
+ɤ	unrounded	close-mid	back			
+ɤɤ	unrounded	close-mid	back	+	duration:long	
+ɤː	unrounded	close-mid	back		duration:long	
+õ	rounded	close-mid	back		nasalization:nasalized	
+õõ	rounded	close-mid	back	+	nasalization:nasalized,duration:long	
+õː	rounded	close-mid	back		nasalization:nasalized,duration:long	
+ɒ	rounded	open	back			
+ɒɒ	rounded	open	back	+	duration:long	
+ɒː	rounded	open	back		duration:long	
+ɛ̃	unrounded	open-mid	front		nasalization:nasalized	
+ɛ̃ɛ̃	unrounded	open-mid	front	+	nasalization:nasalized,duration:long	
+ɛ̃ː	unrounded	open-mid	front		nasalization:nasalized,duration:long	
+ɨ	unrounded	close	central			
+ɨɨ	unrounded	close	central	+	duration:long	
+ɨː	unrounded	close	central		duration:long	
+ı	unrounded	near-close	near-front			
+ıı	unrounded	near-close	near-front	+	duration:long	
+ıː	unrounded	near-close	near-front		duration:long	
+ʏ	rounded	near-close	near-front			
+ʏʏ	rounded	near-close	near-front	+	duration:long	
+ʏː	rounded	near-close	near-front		duration:long	
+ü	rounded	close	front			
+üü	rounded	close	front	+	duration:long	
+üː	rounded	close	front		duration:long	
+ã	unrounded	open	front		nasalization:nasalized	
+ãã	unrounded	open	front	+	nasalization:nasalized,duration:long	
+ãː	unrounded	open	front		nasalization:nasalized,duration:long	
+ä	unrounded	near-open	front			
+ää	unrounded	near-open	front	+	duration:long	
+äː	unrounded	near-open	front		duration:long	
+ö	rounded	open-mid	front			
+öö	rounded	open-mid	front	+	duration:long	
+öː	rounded	open-mid	front		duration:long	
+ɤ̃	unrounded	close-mid	back		nasalization:nasalized	
+ɤ̃ɤ̃	unrounded	close-mid	back	+	nasalization:nasalized,duration:long	
+ɤ̃ː	unrounded	close-mid	back		nasalization:nasalized,duration:long	
+ẽ	unrounded	close-mid	front		nasalization:nasalized	
+ẽẽ	unrounded	close-mid	front	+	nasalization:nasalized,duration:long	
+ẽː	unrounded	close-mid	front		nasalization:nasalized,duration:long	

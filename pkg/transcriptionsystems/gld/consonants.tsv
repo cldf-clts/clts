@@ -1,0 +1,105 @@
+GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
+ɹ	voiced	alveolar	approximant			
+z	voiced	alveolar	fricative		sibilancy:sibilant	
+ƛ	voiceless	alveolar	affricate		laterality:lateral	
+lɦ	voiced	alveolar	approximant		breathiness:breathy,laterality:lateral	
+l̥	voiced	alveolar	approximant		voicing:devoiced,laterality:lateral	
+l̥ʰ	voiced	alveolar	approximant		aspiration:aspirated,voicing:devoiced,laterality:lateral	
+l	voiced	alveolar	approximant		laterality:lateral	
+lʰ	voiced	alveolar	approximant		aspiration:aspirated,laterality:lateral	
+ɬ	voiceless	alveolar	fricative		laterality:lateral	
+nɦ	voiced	alveolar	nasal		breathiness:breathy	
+n̥	voiced	alveolar	nasal		voicing:devoiced	
+n̥ʰ	voiced	alveolar	nasal		aspiration:aspirated,voicing:devoiced	
+n	voiced	alveolar	nasal			
+n̩	voiced	alveolar	nasal		syllabicity:syllabic	
+ʒ	voiced	alveolar	affricate		sibilancy:sibilant	
+c	voiceless	alveolar	affricate		sibilancy:sibilant	
+cʰ	voiceless	alveolar	affricate		aspiration:aspirated,sibilancy:sibilant	
+s	voiceless	alveolar	fricative		sibilancy:sibilant	
+sʰ	voiceless	alveolar	fricative		aspiration:aspirated,sibilancy:sibilant	
+d	voiced	alveolar	stop			
+ʼd	voiced	alveolar	stop		preceding:pre-glottalized	
+dʰ	voiced	alveolar	stop		aspiration:aspirated	
+t	voiceless	alveolar	stop			
+tɦ	voiceless	alveolar	stop		breathiness:breathy	
+ntɦ	voiceless	alveolar	stop		preceding:pre-nasalized,breathiness:breathy	
+tʰ	voiceless	alveolar	stop		aspiration:aspirated	
+ʓ	voiced	alveolo-palatal	affricate		sibilancy:sibilant	
+ɕ	voiceless	alveolo-palatal	affricate		sibilancy:sibilant	
+ɕɦ	voiceless	alveolo-palatal	affricate		breathiness:breathy,sibilancy:sibilant	
+ɕʰ	voiceless	alveolo-palatal	affricate		aspiration:aspirated,sibilancy:sibilant	
+ʑ	voiced	alveolo-palatal	fricative		sibilancy:sibilant	
+ʆ	voiceless	alveolo-palatal	fricative		sibilancy:sibilant	
+ʃʰ	voiceless	alveolo-palatal	fricative	+	aspiration:aspirated,sibilancy:sibilant	
+ʃ	voiceless	alveolo-palatal	fricative	+	sibilancy:sibilant	
+ʆʰ	voiceless	alveolo-palatal	fricative		aspiration:aspirated,sibilancy:sibilant	
+mɦ	voiced	bilabial	nasal		breathiness:breathy	
+m̥	voiced	bilabial	nasal		voicing:devoiced	
+m̥ʰ	voiced	bilabial	nasal		aspiration:aspirated,voicing:devoiced	
+m	voiced	bilabial	nasal			
+m̩	voiced	bilabial	nasal		syllabicity:syllabic	
+b	voiced	bilabial	stop			
+p	voiceless	bilabial	stop			
+pɦ	voiceless	bilabial	stop		breathiness:breathy	
+mpɦ	voiceless	bilabial	stop		preceding:pre-nasalized,breathiness:breathy	
+pʰ	voiceless	bilabial	stop		aspiration:aspirated	
+dᶞ	voiced	dental	affricate			
+tᶿ	voiceless	dental	affricate			
+ð	voiced	dental	fricative			
+θ	voiceless	dental	fricative			
+ɦ	voiced	glottal	fricative			
+h	voiceless	glottal	fricative			
+ʔ	voiceless	glottal	stop			
+w	voiced	labio-velar	approximant			
+hw	voiced	labio-velar	approximant		voicing:devoiced	
+bᵛ	voiced	labio-dental	affricate			
+pᶠ	voiceless	labio-dental	affricate			
+ʋ	voiced	labio-dental	approximant			
+vɦ	voiced	labio-dental	fricative		breathiness:breathy	
+v̥	voiced	labio-dental	fricative		voicing:devoiced	
+v	voiced	labio-dental	fricative			
+f	voiceless	labio-dental	fricative			
+fʰ	voiceless	labio-dental	fricative		aspiration:aspirated	
+yɦ	voiced	palatal	approximant		breathiness:breathy	
+y	voiced	palatal	approximant			
+j	voiced	palatal	approximant	+		
+ɲɦ	voiced	palatal	nasal		breathiness:breathy	
+ɲ̥	voiced	palatal	nasal		voicing:devoiced	
+ɲ̥ʰ	voiced	palatal	nasal		aspiration:aspirated,voicing:devoiced	
+ɲʰ	voiced	palatal	nasal		aspiration:aspirated	
+ɲ	voiced	palatal	nasal			
+ǯ	voiced	post-alveolar	affricate		sibilancy:sibilant	
+č	voiceless	post-alveolar	affricate		sibilancy:sibilant	
+čʰ	voiceless	post-alveolar	affricate		aspiration:aspirated,sibilancy:sibilant	
+ž	voiced	post-alveolar	fricative		sibilancy:sibilant	
+š	voiceless	post-alveolar	fricative		sibilancy:sibilant	
+ʂ	voiceless	retroflex	fricative		sibilancy:sibilant	
+ɭ	voiced	retroflex	approximant		laterality:lateral	
+ɭ̥ʰ	voiced	retroflex	approximant		aspiration:aspirated,laterality:lateral	
+ɳ	voiced	retroflex	nasal			
+ᶚ	voiced	retroflex	affricate		sibilancy:sibilant	
+c̢	voiceless	retroflex	affricate		sibilancy:sibilant	
+c̢ʰ	voiceless	retroflex	affricate		aspiration:aspirated,sibilancy:sibilant	
+ʐ	voiced	retroflex	fricative		sibilancy:sibilant	
+ʈ	voiceless	retroflex	stop			
+ɢʶ	voiced	uvular	affricate			
+qᵡ	voiceless	uvular	affricate			
+ɴ	voiced	uvular	nasal			
+qɦ	voiced	uvular	stop		breathiness:breathy	
+ɢ	voiced	uvular	stop			
+q	voiceless	uvular	stop			
+qʰ	voiceless	uvular	stop		aspiration:aspirated	
+gˠ	voiced	velar	affricate			
+kˣ	voiceless	velar	affricate			
+ɣ	voiced	velar	fricative			
+x	voiceless	velar	fricative			
+ŋɦ	voiced	velar	nasal		breathiness:breathy	
+ŋ̥	voiced	velar	nasal		voicing:devoiced	
+ŋ	voiced	velar	nasal			
+ŋ̩	voiced	velar	nasal		syllabicity:syllabic	
+g	voiced	velar	stop			
+k	voiceless	velar	stop			
+kɦ	voiceless	velar	stop		breathiness:breathy	
+ŋkɦ	voiceless	velar	stop		preceding:pre-nasalized,breathiness:breathy	
+kʰ	voiceless	velar	stop		aspiration:aspirated	

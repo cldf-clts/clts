@@ -1,0 +1,27 @@
+NAME	DESCRIPTION	REFS	TYPE	URITEMPLATE
+chomsky	This is the feature system proposed by [Chomsky and Halle (1968)](:bib:Chomsky1968). The system is limited in so far as it only lists the sounds the scholars identify for English.	Chomsky1968	td	
+wiki	This data is taken from the Wikipedia description of the phonetic alphabet. We have the ambition to link to all pages on Wikipedia dedicated to specific sounds in the world's languages. For the moment, however, the data is likely to contain a lot of gaps.	Wikipedia2018	td	
+bdpa	The data is taken from the *Benchmark database of phonetic alignments* ([List and Prokić 2014](:bib:List2014e)) which offers data on sound sequences in segmented form. The frequency counts reflect the number of varieties in the data for which a given segment could be found. Since the data contains many dialectal datasets, the frequency counts to not reflect general sound distributions but rather the frequency of sound segments in the data.	List2014e	td	
+powoco	The data is taken from the material supplementing the paper *The Potential of automatic word comparison for historical linguistics* ([List et al. 2017](:ref:List2017c)), in which lexical data in supposedly transparent phonetic encoding for 206 language varieties is provided in already segmented form. The frequency counts we offer relate to language varieties in the sample. They should not be confused with phoneme inventory counts, since the data derives from wordlists in which distributions may be skewed.	List2017c	td	
+panphon	The PanPhon project offers a Python API to validate IPA segments and to compare them using an extended feature system. For our project, we link to the PanPhon data file which lists 6454 segments in its current version, some of which are described by the same features and therefore aliases in our definition.	Mortensen2017	td	
+eurasian	The data provided by the "Database of Eurasian Phonological Inventories".	Nikolaev2015	td	http://eurasianphonology.info/search_exact?dialects=True&query={GRAPHEME}
+phoible	The data provided by the Phoible project.	Moran2014	td	http://phoible.org/parameters/{ID}
+ruhlen	The data provided by the "Global Linguistic Database" (Ruhlen 2008) as it was prepared by Creanza et al. (2015).	Creanza2015, Ruhlen2008	td	
+pbase	The data provided by the PBase project which was collected for the study of Mielke (2008).	Mielke2008	td	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input={GRAPHEME}&inany=false&coreinv=on
+lapsyd	The data provided by the LAPSYD database.	Maddieson2013	td	
+nidaba	The data offered by the Nidaba web application.	Eden2015	td	
+multimedia	The data presented on the Multimedia IPA Chart by the Department of Linguistics at University of Victoria.	IPA2017	td	
+diachronica	The online version of the Index Diachronica, which is no longer available in its original form.	Anonymous2014, D2017	td	
+sca	Sound class model (produced in a semi-generative manner with help of LingPy) following List (2014).	List2014d	sc	
+asjp	Sound class model (produced in a semi-generative manner with help of LingPy) following the ASJP (Wichmann et al. 2016) as used in List (2014).	Wichmann2016, List2014d	sc	
+apics	This is the segmental data provided by the [Atlas of Pidgin and Creole Language Structures Online](http://apics-online.info/).	Michaelis2013	td	
+dolgo	Sound class model (produced in a semi-geneative manner with help of LingPy) following Dolgopolsky (1964) as used in List (2014).	Dolgopolsky1964, Dolgopolsky1986, List2014d	sc	
+cv	Simple consonant-vowel-tone sound class model provided by LingPy (List et al. 2017).	List2017i	sc	
+art	A numeric account of sonority based on LingPy as presented in List (2014) and List et al. (2017)	List2014d, List2017i	sc	
+color	A simple color-scheme based on Dolgopolsky's sound classes, used in LingPy.	List2017i, List2014d, Dolgopolsky1964, Dolgopolsky1986	sc	
+beijingdaxue	The inventories given in the Fāngyán Cíhuì (Beijing Daxue 1964).	Cihui	td	
+bipa	Broad version of IPA, understood as a reference for the other systems.	IPA1999, IPA2015	ts	
+gld	Transcription system of the Global Lexicostatistical Database project.	Starostin2011	ts	
+asjpcode	Transcription system of the ASJP project.	Wichmann2016	ts	
+napa	A tentative reconstruction of what is known as the North-American Phonetic Alphabet. Our description is a compromise between different sources, especially Pullum and Ladusaw (1996), but also the information available in Wikipedia (https://en.wikipedia.org/wiki/Americanist_phonetic_notation).	Pullum1996	ts	
+upa	A transcription system is used predominantly for the transcription and reconstruction of Uralic languages.	ISON2419, Setala1901	ts	

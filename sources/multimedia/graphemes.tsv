@@ -1,0 +1,143 @@
+BIPA	GRAPHEME	SOUND	FEATURES	IMAGE
+	p	IPAsounds/VL_bilabial_plosive.mp3	a voiceless bilabial plosive	IPA-101.gif
+	b	IPAsounds/V_bilabial_plosive.mp3	a voiced bilabial plosive	IPA-102.gif
+	t	IPAsounds/VL_alveolar_plosive.mp3	a voiceless alveolar plosive	IPA-103.gif
+	d	IPAsounds/V_alveolar_plosive.mp3	a voiced alveolar plosive	IPA-104.gif
+	ʈ	IPAsounds/VL_retroflex_plosive.mp3	a voiceless retroflex plosive	IPA-105.gif
+	ɖ	IPAsounds/V_retroflex_plosive.mp3	a voiced retroflex plosive	IPA-106.gif
+	c	IPAsounds/VL_palatal_plosive.mp3	a voiceless palatal plosive	IPA-107.gif
+	ɟ	IPAsounds/V_palatal_plosive.mp3	a voiced palatal plosive	IPA-108.gif
+	k	IPAsounds/VL_velar_plosive.mp3	a voiceless velar plosive	IPA-109.gif
+	g	IPAsounds/V_velar_plosive.mp3	a voiced velar plosive	IPA-110.gif
+	q	IPAsounds/VL_uvular_plosive.mp3	a voiceless uvular plosive	IPA-111.gif
+	ɢ	IPAsounds/V_uvular_plosive.mp3	a voiced uvular plosive	IPA-112.gif
+	ʔ	IPAsounds/VL_glottal_plosive.mp3	a voice	IPA-113.gif
+	m	IPAsounds/V_bilabial_nasal.mp3	a voiced bilabial nasal	IPA-114.gif
+	ɱ	IPAsounds/V_labiodental_nasal.mp3	a voiced labiodental nasal	IPA-115.gif
+	n	IPAsounds/V_alveolar_nasal.mp3	a voiced alveolar nasal	IPA-116.gif
+	ɳ	IPAsounds/V_retroflex_nasal.mp3	a voiced retroflex nasal	IPA-117.gif
+	ɲ	IPAsounds/V_palatal_nasal.mp3	a voiced palatal nasal	IPA-118.gif
+	ŋ	IPAsounds/V_velar_nasal.mp3	a voiced velar nasal	IPA-119.gif
+	ɴ	IPAsounds/V_uvular_nasal.mp3	a voiced uvular nasal	IPA-120.gif
+	ʙ	IPAsounds/V_bilabial_trill.mp3	a voiced bilabial trill	IPA-121.gif
+	r	IPAsounds/V_alveolar_trill.mp3	a voiced alveolar trill	IPA-122.gif
+	ʀ	IPAsounds/V_uvular_trill.mp3	a voiced uvular trill	IPA-123.gif
+	ⱱ	IPAsounds/V_labialdental_flap.mp3	a voiced labialdental flap	IPA-184.gif
+	ɾ	IPAsounds/V_alveolar_tap.mp3	a voiced alveolar tap	IPA-124.gif
+	ɽ	IPAsounds/V_retroflex_tap.mp3	a voiced retroflex tap	IPA-125.gif
+	ɱ	IPAsounds/VL_bilabial_fricative.mp3	a voiceless bilabial fricative	IPA-126.gif
+	β	IPAsounds/V_bilabial_fricative.mp3	a voiced bilabial fricative	IPA-127.gif
+	f	IPAsounds/VL_labiodental_fricative.mp3	a voiced labiodental fricative	IPA-128.gif
+	v	IPAsounds/V_labiodental_fricative.mp3	a voiced labiodental fricative	IPA-129.gif
+	θ	IPAsounds/VL_dental_fricative.mp3	a voiceless dental fricative	IPA-130.gif
+	ð	IPAsounds/V_dental_fricative.mp3	a voiced dental fricative	IPA-131.gif
+	s	IPAsounds/VL_alveolar_fricative.mp3	a voiceless alveolar fricative	IPA-132.gif
+	z	IPAsounds/V_alveolar_fricative.mp3	a voiced alveolar fricative	IPA-133.gif
+	ʃ	IPAsounds/VL_postalveolar_fricative.mp3	a voiceless postalveolar fricative	IPA-134.gif
+	ʒ	IPAsounds/V_postalveolar_fricative.mp3	a voiced postalveolar fricative	IPA-135.gif
+	ʂ	IPAsounds/VL_retroflex_fricative.mp3	a voiceless retroflex fricative	IPA-136.gif
+	ʐ	IPAsounds/V_retroflex_fricative.mp3	a voiced retroflex fricative	IPA-137.gif
+	ç	IPAsounds/VL_palatal_fricative.mp3	a voiceless palatal fricative	IPA-138.gif
+	ʝ	IPAsounds/V_palatal_fricative.mp3	a voiced palatal fricative	IPA-139.gif
+	x	IPAsounds/VL_velar_fricative.mp3	a voiceless velar fricative	IPA-140.gif
+	ɣ	IPAsounds/V_velar_fricative.mp3	a voiced velar fricative	IPA-141.gif
+	χ	IPAsounds/VL_uvular_fricative.mp3	a voiceless uvular fricative	IPA-142.gif
+	ʁ	IPAsounds/V_uvular_fricative.mp3	a voiced uvular fricative	IPA-143.gif
+	ħ	IPAsounds/VL_pharyngeal_fricative.mp3	a voiceless pharyngeal fricative	IPA-144.gif
+	ʕ	IPAsounds/V_pharyngeal_fricative.mp3	a voiced pharyngeal fricative	IPA-145.gif
+	h	IPAsounds/VL_glottal_fricative.mp3	a voiceless glottal fricative	IPA-146.gif
+	ɦ	IPAsounds/V_glottal_fricative.mp3	a voiced glottal fricative	IPA-147.gif
+	ɬ	IPAsounds/VL_alveolar_lateral-fricative.mp3	a voiceless alveolar lateral fricative	IPA-148.gif
+	ɮ	IPAsounds/V_alveolar_lateral-fricative.mp3	a voiced alveolar lateral fricative	IPA-149.gif
+	ʋ	IPAsounds/V_labiodental_approximant.mp3	a voiced labiodental approximant	IPA-150.gif
+	ɹ	IPAsounds/V_alveolar_approximant.mp3	a voiced alveolar approximant	IPA-151.gif
+	ɻ	IPAsounds/V_retroflex_approximant.mp3	a voiced retroflex approximant	IPA-152.gif
+	j	IPAsounds/V_palatal_approximant.mp3	a voiced palatal approximant	IPA-153.gif
+	ɰ	IPAsounds/V_velar_approximant.mp3	a voiced velar approximant	IPA-154.gif
+	l	IPAsounds/V_alveolar_lateral-approximant.mp3	a voiced alveolar lateral approximant	IPA-155.gif
+	ɭ	IPAsounds/V_retroflex_lateral-approximant.mp3	a voiced lateral  approximant	IPA-156.gif
+	λ	IPAsounds/V_palatal_lateral-approximant.mp3	a voiced palatal lateral approximant	IPA-157.gif
+	ʟ	IPAsounds/V_velar_lateral-approximant.mp3	a voiced velar lateral approximant	IPA-158.gif
+	ʘ	IPAsounds/bilabial_click.mp3	a bilabial click	IPA-176.gif
+	ǀ	IPAsounds/dental_click.mp3	a dental click	IPA-177.gif
+	ǃ	IPAsounds/postalveolar_click.mp3	a postalveolar click	IPA-178.gif
+	ǂ	IPAsounds/palatoalveolar_click.mp3	a palatoalveolar click	IPA-179.gif
+	ǁ	IPAsounds/alveolar-lateral_click.mp3	an alveolar lateral click	IPA-180.gif
+	ɓ	IPAsounds/V_bilabial_implosive.mp3	a voiced bilabial implosive	IPA-160.gif
+	ɗ	IPAsounds/V_dental_implosive.mp3	a voiced dental/alveolar implosive	IPA-162.gif
+	ʄ	IPAsounds/V_palatal_implosive.mp3	a voiced palatal implosive	IPA-164.gif
+	ɠ	IPAsounds/V_velar_implosive.mp3	a voiced velar implosive	IPA-166.gif
+	ʛ	IPAsounds/V_uvular_implosive.mp3	a voiced uvular implosive	IPA-168.gif
+	pʼ	IPAsounds/VL_bilabial_ejective.mp3	a voiceless bilabial ejective	IPA-101-401.gif
+	tʼ	IPAsounds/VL_dental_ejective.mp3	a voiceless dental/alveolar ejective	IPA-103-401.gif
+	kʼ	IPAsounds/VL_velar_ejective.mp3	a voiceless velar ejective	IPA-109-401.gif
+	sʼ	IPAsounds/VL_alveolar-fricative_ejective.mp3	a voiceless alveolar fricative ejective	IPA-132-401.gif
+	ʍ	IPAsounds/VL_labial-velar_fricative.mp3	a voiceless labial-velar fricative	IPA-169.gif
+	ɕ	IPAsounds/VL_alveolo-palatal_fricative.mp3	a voiceless alveolo-palatal fricative	IPA-182.gif
+	ʑ	IPAsounds/V_alveolo-palatal_fricative.mp3	a voiced alveolo-palatal fricative	IPA-183.gif
+	w	IPAsounds/V_labial-velar_approximant.mp3	a voiced labial-velar approximant	IPA-170.gif
+	ɺ	IPAsounds/V_alveolar_lateral_flap.mp3	a voiced alveolar lateral flap	IPA-181.gif
+	ɥ	IPAsounds/V_labial-palatal_approximant.mp3	a voiced labial-palatal approximant	IPA-171.gif
+	ɧ	IPAsounds/sim_VL_postalveolar_velar_fricative.mp3	a simultaneous voiceless postalveolar and velar fricative	IPA-175.gif
+	ʜ	IPAsounds/VL_epiglottal_fricative.mp3	a voiceless epiglottal fricative	IPA-172.gif
+	ʢ	IPAsounds/V_epiglottal_fricative.mp3	a voiced epiglottal fricative or approximant	IPA-174.gif
+	kp	IPAsounds/kp_affricate.mp3	an affricated kp	IPA-433.gif
+	ts	IPAsounds/ts_affricate.mp3	an affricated ts	IPA-103-132-509.gif
+	ʡ	IPAsounds/epiglottal_plosive.mp3	an epiglottal plosive	IPA-173.gif
+	n̥	IPAsounds/devoiced_V_alveolar_nasal.mp3	a devoiced voiced alveolar nasal	IPA-116-402A.gif
+	d̥	IPAsounds/devoiced_V_alveolar_plosive.mp3	a devoiced voiced alveolar plosive	IPA-104-402A.gif
+	bʱ	IPAsounds/breathy-voiced_bilabial_plosive.mp3	a breathy voiced bilabial plosive	IPA-102-405.gif
+	a̤	IPAsounds/breathy-voiced_open_front_unrounded.mp3	a breathy voiced open front unrounded vowel	IPA-304-405.gif
+	t̪	IPAsounds/dentalized_VL_alveolar_plosive.mp3	a dentalized voiceless alveolar plosive	IPA-103-408.gif
+	d̪	IPAsounds/dentalized_V_alveolar_plosive.mp3	a dentalized voiced alveolar plosive	IPA-104-408.gif
+	s̬	IPAsounds/voiced_VL_alveolar_fricative.mp3	a voiced voiceless alveolar fricative	IPA-132-403.gif
+	t̬	IPAsounds/voiced_VL_alveolar_plosive.mp3	a voiced voiceless alveolar plosive	IPA-103-403.gif
+	b̰	IPAsounds/creaky-voiced_V_bilabial_plosive.mp3	a creaky voiced voiced bilabial plosive	IPA-102-406.gif
+	a̰	IPAsounds/creaky-voiced_open_front_unrounded.mp3	a creaky voiced open front unrounded vowel	IPA-304-406.gif
+	t̺	IPAsounds/apical_VL_alveolar_plosive.mp3	an apical voiceless alveolar plosive	IPA-103-409.gif
+	d̺	IPAsounds/apical_V_alveolar_plosive.mp3	an apical voiced alveolar plosive	IPA-104-409.gif
+	tʰ	IPAsounds/aspirated_VL_alveolar_plosive.mp3	an aspirated voiceless alveolar plosive	IPA-103-404.gif
+	dʰ	IPAsounds/aspirated_V_alveolar_plosive.mp3	an aspirated voiced alveolar plosive	IPA-104-404.gif
+	t̫	IPAsounds/linguolabialized_VL_alveolar_plosive.mp3	a linguolabialized voiceless alveolar plosive	IPA-103-407.gif
+	d̫	IPAsounds/linguolabialized_V_alveolar_plosive.mp3	a linguolabialized voiced alveolar plosive	IPA-104-407.gif
+	t̻	IPAsounds/laminal_VL_alveolar_plosive.mp3	a laminal voiceless alveolar plosive	IPA-103-410.gif
+	d̻	IPAsounds/laminal_V_alveolar_plosive.mp3	a laminal voiced alveolar plosive	IPA-104-410.gif
+	ɔ̹	IPAsounds/more-rounded_open-mid_back_rounded .mp3	a more rounded open-mid back rounded vowel	IPA-306-411.gif
+	tʷ	IPAsounds/labialized_VL_alveolar_plosive.mp3	a labialized voiceless alveolar plosive	IPA-103-420.gif
+	dʷ	IPAsounds/labialized_V_alveolar_plosive.mp3	a labialized voiced alveolar plosive	IPA-104-420.gif
+	ẽ	IPAsounds/nasalized_close-mid_front_unrounded.mp3	nasalized close-mid front unrounded vowel	IPA-302-424.gif
+	ɔ̜	IPAsounds/less-rounded_open-mid_back_rounded .mp3	a less rounded open-mid back rounded vowel	IPA-306-412.gif
+	tʲ	IPAsounds/palatalized_VL_alveolar plosive.mp3	a palatalized voiceless alveolar plosive	IPA-103-421.gif
+	dʲ	IPAsounds/palatalized_V_alveolar plosive.mp3	a palatalized voiced alveolar plosive	IPA-104-421.gif
+	dⁿ	IPAsounds/nasal-release_V_alveolar_plosive.mp3	a nasal released voiced alveolar plosive	IPA-104-425.gif
+	u̟	IPAsounds/advanced_close_back_rounded.mp3	an advanced close back rounded vowel	IPA-308-413.gif
+	tˠ	IPAsounds/velarized_VL_alveolar_plosive.mp3	a velarized voiceless alveolar plosive	IPA-103-422.gif
+	dˠ	IPAsounds/velarized_V_alveolar_plosive.mp3	a velarized voiced alveolar plosive	IPA-104-422.gif
+	dˡ	IPAsounds/lateral-release_V_alveolar_plosive.mp3	a laterally released voiced alveolar plosive	IPA-104-426.gif
+	e̠	IPAsounds/retracted_close-mid_front_unrounded.mp3	a retracted close-mid front unrounded vowel	IPA-302-414.gif
+	tˤ	IPAsounds/pharyngealized_VL_alveolar_plosive.mp3	a pharyngealized voiceless alveolar plosive	IPA-103-423.gif
+	dˤ	IPAsounds/pharyngealized_V_alveolar_plosive.mp3	a pharyngealized voiced alveolar plosive	IPA-104-423.gif
+	d̚	IPAsounds/no-audible-release_V_alveolar_plosive.mp3	a voiced alveolar plosive with no audible release	IPA-104-427.gif
+	ë	IPAsounds/centralized_close-mid_front_unrounded.mp3	a centralized close-mid front unrounded vowel	IPA-302-415.gif
+	ɫ	IPAsounds/velarized_V_alveolar_lateral-approximant.mp3	a velarized or pharyngealized alveolar lateral approximant	IPA-209.gif
+	e̽	IPAsounds/mid-centralized_close-mid_front_unrounded.mp3	a mid-centralized close-mid front unrounded vowel'	IPA-302-416.gif
+	e̝	IPAsounds/raised_close-mid_front_unrounded.mp3	a raised close-mid front unrounded vowel'	IPA-302-429.gif
+	ɹ̝	IPAsounds/raised_V_alveolar_fricative.mp3	a raised voiced alveolar fricative	IPA-151-429.gif
+		IPAsounds/##.mp3	##	IPA-116-431.gif
+	e̞	IPAsounds/lowered_close-mid_front_unrounded.mp3	a lowered close-mid front unrounded vowel'	IPA-302-430.gif
+	β̞	IPAsounds/lowered_V_bilabial_approximant.mp3	a lowered bilabial approximant'	IPA-127-430.gif
+	e̯	IPAsounds/non-syllabic_close-mid_front_unrounded.mp3	a non-syllabic close-mid front unrounded vowel'	IPA-302-432.gif
+	e̘	IPAsounds/advanced-tongue-root_close-mid_front_unrounded.mp3	an advanced tongue root close-mid front unrounded vowel'	IPA-302-417.gif
+	ɚ	IPAsounds/rhotic_mid_central.mp3	rhotic mid central vowel	IPA-327.gif
+	a̢	IPAsounds/rhotic_open_front_unrounded.mp3	rhotic open front unrounded vowel	IPA-304-419.gif
+	e̙	IPAsounds/retracted-tongue-root_close-mid_front_unrounded.mp3	a retracted tongue root close-mid front unrounded vowel'	IPA-302-418.gif
+	e̋	IPAsounds/extra-high-tone_close-mid_front_unrounded.mp3	an extra-high tome close-mid front unrounded vowel	IPA-302-512.gif
+	ě	IPAsounds/rising-contour_close-mid_front_unrounded.mp3	a rising contour close-mid front unrounded vowel	IPA-302-524.gif
+	é	IPAsounds/high-tone_close-mid_front_unrounded.mp3	a high-tone close-mid front unrounded vowel	IPA-302-513.gif
+	ê	IPAsounds/falling-contour_close-mid_front_unrounded.mp3	a falling contour close-mid front unrounded vowel	IPA-302-525.gif
+	ē	IPAsounds/mid-tone_close-mid_front_unrounded.mp3	a mid-tone close-mid front unrounded vowel	IPA-302-514.gif
+		IPAsounds/high-rising-contour_close-mid_front_unrounded.mp3	a high-rising contour close-mid front unrounded vowel	IPA-302-526.gif
+	è	IPAsounds/low-tone_close-mid_front_unrounded.mp3	a low-tone close-mid front unrounded vowel	IPA-302-515.gif
+		IPAsounds/low-rising-contour_close-mid_front_unrounded.mp3	a low-rising contour close-mid front unrounded vowel	IPA-302-527.gif
+	ȅ	IPAsounds/extra-low-tone_close-mid_front_unrounded.mp3	an extra-low tone close-mid front unrounded vowel	IPA-302-516.gif
+		IPAsounds/rising-falling-contour_close-mid_front_unrounded.mp3	a rising-falling contour close-mid front unrounded vowel	IPA-302-528.gif

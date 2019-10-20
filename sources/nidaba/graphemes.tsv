@@ -1,0 +1,1937 @@
+BIPA	GRAPHEME	FEATURES	LATEX
+	a	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	a
+	ɐ	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textturna
+	ɑ	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textscripta
+	ɒ	empty:vowel:−high +low +back +round +voice −nasal −spread glottis −constricted glottis	\textturnscripta
+	ɔ	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textopeno
+	e	empty:vowel:−high −low −back −round +voice −nasal −spread glottis −constricted glottis	e
+	ɛ	empty:vowel:−high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textipa{E}
+	ə	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textschwa
+	ɚ	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textrhookschwa
+	ɘ	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textreve
+	ɜ	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textipa{3}
+	ɝ	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textrhookrevepsilon
+	ɞ	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textcloseepsilon
+	ɤ	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textipa{7}
+	i	empty:vowel:+high −low −back −round +voice −nasal −spread glottis −constricted glottis	i
+	ɪ	empty:vowel:+high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textipa{I}
+	ɨ	empty:vowel:+high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textbari
+	ɯ	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textturnm
+	o	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	o
+	ɵ	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textbaro
+	ø	empty:vowel:−high −low −back +round +voice −nasal −spread glottis −constricted glottis	\o
+	ɶ	empty:vowel:−high +low −back +round +voice −nasal −spread glottis −constricted glottis	\textscoelig
+	œ	empty:vowel:−high −low −back +round +voice −nasal −spread glottis −constricted glottis	\oe
+	u	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	u
+	ʉ	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textbaru
+	ʊ	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textupsilon
+	ʌ	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textturnv
+	y	empty:vowel:+high −low −back +round +voice −nasal −spread glottis −constricted glottis	y
+	ʏ	empty:vowel:+high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textipa{Y}
+	æ	empty:vowel:−high +low −back −round +voice −nasal −spread glottis −constricted glottis	\ae
+	p	labial:plosive:−voice	p
+	b	labial:plosive:+voice	b
+	ɓ	labial:plosive:+voice	\texthtb
+	ɸ	labial:fricative:−voice	\textipa{F}
+	β	labial:fricative:+voice	\textipa{B}
+	p͡ɸ	labial:affricate:−voice	\t{p͡\textipa{F}}
+	b͡β	labial:affricate:+voice	\t{b͡\textipa{B}}
+	ʙ	labial:liquid:+voice −lateral	\textscb
+	m	labial:nasal:+voice +nasal	m
+	f	labiodental:fricative:−voice	f
+	v	labiodental:fricative:+voice	v
+	p͡f	labiodental:affricate:−voice	\t{pf}
+	b͡v	labiodental:affricate:+voice	\t{b͡v}
+	ʋ	labiodental:liquid:+voice −lateral	\textscriptv
+	ɱ	labiodental:nasal:+voice +nasal	\textltailm
+	t̪	dental:plosive:−voice	\textsubbridge{t}
+	d̪	dental:plosive:+voice	\textsubbridge{d}
+	ɗ	dental:plosive:+voice	\texthtd
+	d̠	dental:plosive:+voice	\textsubbar{d}
+	θ	dental:fricative:−voice	\textipa{T}
+	ð	dental:fricative:+voice	\textipa{D}
+	t̪͡θ	dental:affricate:−voice	\t{\textsubbridge{t}͡ \textipa{T}}
+	t̪͡s̪	dental:affricate:−voice	\t{\textsubbridge{t}\textsubbridge{s}}
+	d̪͡z̪	dental:affricate:+voice	\t{\textsubbridge{d}\textsubbridge{z}}
+	d̪͡ɮ̪	dental:affricate:+voice +lateral	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}
+	d̠͡ɮ̠	dental:affricate:+voice +lateral	\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}
+	t̪͡ɬ̪	dental:affricate:+voice +lateral	\t{\textsubbridge{t}͡\textsubbridge{\textbeltl}}
+	d͡z	dental:affricate:+voice	\t{dz}
+	d͡z͎	dental:affricate:+voice	\t{d͡\begin{IPA}\whistle{z}\end{IPA}}
+	ɬ̪	dental:fricative:+voice +lateral	\textsubbridge{\textbeltl}
+	ɮ̪	dental:fricative:+voice +lateral	\textsubbridge{\textlyoghlig}
+	d̪͡ð	dental:affricate:+voice	\t{\textsubbridge{d}͡ð}
+	l̪	dental:liquid:+voice +lateral	\textsubbridge{l}
+	r̪	dental:liquid:+voice −lateral	\textsubbridge{r}
+	ɺ̪	dental:liquid:+voice +lateral	\textsubbridge{\textturnlonglegr}
+	ɹ̪	dental:liquid:+voice −lateral	\textsubbridge{\textturnr}
+	n̪	dental:nasal:+voice +nasal	\textsubbridge{n}
+	t	alveolar:plosive:−voice	t
+	t̠	alveolar:plosive:−voice	\textsubbar{t}
+	d	alveolar:plosive:+voice	d
+	s	alveolar:fricative:−voice	s
+	s͎	alveolar:fricative:−voice	\begin{IPA}\whistle{s}\end{IPA}
+	z	alveolar:fricative:+voice	z
+	z͎	alveolar:fricative:+voice	\begin{IPA}\whistle{z}\end{IPA}
+	t͡s	alveolar:affricate:−voice	\t{ts}
+	t͡s͎	alveolar:affricate:−voice	\t{t͡\begin{IPA}\whistle{s}\end{IPA}}
+	d͡ɮ	alveolar:affricate:+voice +lateral	\t{d͡\textlyoghlig}
+	t͡ɬ	alveolar:affricate:+voice +lateral	\t{t͡\textbeltl}
+	t͡ɬ̲	alveolar:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}
+	ɬ	alveolar:fricative:+voice +lateral	\textbeltl
+	ɬ̠	alveolar:fricative:+voice +lateral	\textsubbar{\textbeltl}
+	ɮ	alveolar:fricative:+voice +lateral	\textlyoghlig
+	ɮ̠	alveolar:fricative:+voice +lateral	\textsubbar{\textlyoghlig}
+	r	alveolar:liquid:+voice −lateral	r
+	r̠	alveolar:liquid:+voice −lateral	\textsubbar{r}
+	ɺ	alveolar:liquid:+voice +lateral	\textturnlonglegr
+	ɺ̠	alveolar:liquid:+voice +lateral	\textsubbar{\textturnlonglegr}
+	ɾ̪	alveolar:liquid:+voice −lateral	\textsubbridge{\textfishhookr}
+	ɾ	alveolar:liquid:+voice −lateral	\textfishhookr
+	ɾ̠	alveolar:liquid:+voice −lateral	\textsubbar{\textfishhookr}
+	ɹ	alveolar:liquid:+voice −lateral	\textturnr
+	ɹ̠	alveolar:liquid:+voice −lateral	\textsubbar{\textturnr}
+	l	alveolar:liquid:+voice +lateral	l
+	l̠	alveolar:liquid:+voice +lateral	\textsubbar{l}
+	ɫ	alveolar:liquid:+voice +lateral	\textltilde
+	n	alveolar:nasal:+voice +nasal	n
+	n̠	alveolar:nasal:+voice +nasal	\textipa{\=*n}
+	ʃ	palatoalveolar:fricative:−voice	\textipa{S}
+	ʒ	palatoalveolar:fricative:+voice	\textyogh
+	t͡ʃ	palatoalveolar:affricate:−voice	\t{t͡\textipa{S}}
+	d͡ʒ	palatoalveolar:affricate:+voice	\t{d͡\textyogh}
+	ʈ	retroflex:plosive:−voice	\textrtailt
+	ɖ	retroflex:plosive:+voice	\textrtaild
+	ʂ	retroflex:fricative:−voice	\textrtails
+	ʐ	retroflex:fricative:+voice	\textrtailz
+	ʈ͡ʂ	retroflex:affricate:−voice	\t{\textrtailt \textrtails}
+	ɖ͡ʐ	retroflex:affricate:+voice	\t{ɖ͡\textrtailz}
+	ɽ	retroflex:liquid:+voice −lateral	\textrtailr
+	ɻ	retroflex:liquid:+voice −lateral	\textturnrrtail
+	ɭ	retroflex:liquid:+voice +lateral	\textturny
+	ɳ	retroflex:nasal:+voice +nasal	\:n
+	j	palatal:glide:+voice	j
+	c	palatal:plosive:−voice	c
+	ɟ	palatal:plosive:+voice	\textbardotlessj
+	c͡ç	palatal:affricate:−voice	\t{c\c{c}}
+	ɟ͡ʝ	palatal:affricate:+voice	\t{ɟ͡\textctj}
+	ç	palatal:fricative:−voice	\c{c}
+	ʝ	palatal:fricative:+voice	\textctj
+	ʎ	palatal:liquid:+voice +lateral	\begin{IPA} +\;G \end{IPA}
+	ɲ	palatal:nasal:+voice +nasal	\textltailn
+	ɰ	velar:glide:+voice	\textturnmrleg
+	ɰ̠	velar:glide:+voice	\textsubbar{\textturnmrleg}
+	k̟	velar:plosive:−voice	\begin{IPA}\|+k̟\end{IPA}
+	k	velar:plosive:−voice	k
+	k̠	velar:plosive:−voice	\textsubbar{k}
+	ɡ	velar:plosive:+voice	ɡ
+	ɠ	velar:plosive:+voice	\texthtg
+	x̟	velar:fricative:−voice	\begin{IPA}\|+x̟\end{IPA}
+	x	velar:fricative:−voice	x
+	x̠	velar:fricative:−voice	\textsubbar{x}
+	ɣ̟	velar:fricative:+voice	\begin{IPA}\|+G̟\end{IPA}
+	ɣ	velar:fricative:+voice	\textipa{G}
+	ɣ̠	velar:fricative:+voice	\textsubbar{\textipa{G}}
+	ɡ̟͡ɣ̟	velar:affricate:+voice	\begin{IPA} \t{\|+g \|+G} \end{IPA}
+	ɡ͡ɣ	velar:affricate:+voice	\t{ɡ͡\textipa{G}}
+	ɡ̠͡ɣ̠	velar:affricate:+voice	\t{\textsubbar{ɡ} \textsubbar{\textipa{G}}}
+	k̟͡x̟	velar:affricate:−voice	\t{\begin{IPA}\|+k̟\|+x̟\end{IPA}}
+	k͡x	velar:affricate:−voice	\t{kx}
+	k̠͡x̠	velar:affricate:−voice	\t{\textsubbar{k}\textsubbar{x}}
+	ʟ	velar:liquid:+voice +lateral	\textscl
+	ʟ̠	velar:liquid:+voice +lateral	\textsubbar{\textscl}
+	ʟ̟	velar:liquid:+voice +lateral	\begin{IPA}\|+\;L\end{ipa}
+	ŋ	velar:nasal:+voice +nasal	\textipa{N}
+	ŋ̟	velar:nasal:+voice +nasal	\begin{IPA}\|+N̟\end{IPA}
+	ŋ̠	velar:nasal:+voice +nasal	\textipa{\=*N}
+	q	uvular:plosive:−voice	q
+	ɢ	uvular:plosive:+voice	\textscg
+	ʛ	uvular:plosive:+voice	\texthtscg
+	ɢ͡ʁ	uvular:affricate:+voice	\t{\textscg \textipa{K}}
+	χ	uvular:fricative:−voice	\textchi
+	ʁ	uvular:fricative:+voice	\textipa{K}
+	q͡χ	uvular:affricate:−voice	\t{q͡\textchi}
+	ʀ	uvular:liquid:+voice −lateral	\textscr
+	ɴ	uvular:nasal:+voice +nasal	\textscn
+	ʕ	pharyngeal:fricative:+voice	\textrevglotstop
+	ħ	pharyngeal:fricative:−voice	\textcrh
+	ʔ	glottal:plosive:−voice	\textglotstop
+	h	glottal:fricative:−voice	h
+	ɦ	glottal:fricative:+voice	\texthth
+		empty:empty:	
+	a̯	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{a}
+	ɐ̯	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textturna}
+	ɑ̯	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textscripta}
+	ɒ̯	empty:vowel:−high +low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textturnscripta}
+	ɔ̯	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textopeno}
+	e̯	empty:vowel:−high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{e}
+	ɛ̯	empty:vowel:−high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{E}}
+	ə̯	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textschwa}
+	ɚ̯	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textrhookschwa}
+	ɘ̯	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textreve}
+	ɜ̯	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{3}}
+	ɝ̯	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textrhookrevepsilon}
+	ɞ̯	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textcloseepsilon}
+	ɤ̯	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{7}}
+	i̯	empty:vowel:+high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{i}
+	ɪ̯	empty:vowel:+high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{I}}
+	ɨ̯	empty:vowel:+high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textbari}
+	ɯ̯	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textturnm}
+	o̯	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{o}
+	ɵ̯	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textbaro}
+	ø̯	empty:vowel:−high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\o}
+	ɶ̯	empty:vowel:−high +low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textscoelig}
+	œ̯	empty:vowel:−high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\oe}
+	u̯	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{u}
+	ʉ̯	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textbaru}
+	ʊ̯	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textupsilon}
+	ʌ̯	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textturnv}
+	y̯	empty:vowel:+high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{y}
+	ʏ̯	empty:vowel:+high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{Y}}
+	æ̯	empty:vowel:−high +low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\ae}
+	ã	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~a}
+	ɐ̃	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textturna}
+	ɑ̃	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textscripta}
+	ɒ̃	empty:vowel:−high +low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textturnscripta}
+	ɔ̃	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textopeno}
+	ẽ	empty:vowel:−high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~e}
+	ɛ̃	empty:vowel:−high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{E}}
+	ə̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textschwa}
+	ɚ̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textrhookschwa}
+	ɘ̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textreve}
+	ɜ̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{3}}
+	ɝ̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textrhookrevepsilon}
+	ɞ̃	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textcloseepsilon}
+	ɤ̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{7}}
+	ĩ	empty:vowel:+high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~i}
+	ɪ̃	empty:vowel:+high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{I}}
+	ɨ̃	empty:vowel:+high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textbari}
+	ɯ̃	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textturnm}
+	õ	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~o}
+	ɵ̃	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textbaro}
+	ø̃	empty:vowel:−high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\o}
+	ɶ̃	empty:vowel:−high +low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textscoelig}
+	œ̃	empty:vowel:−high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\oe}
+	ũ	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~u}
+	ʉ̃	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textbaru}
+	ʊ̃	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textupsilon}
+	ʌ̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textturnv}
+	ỹ	empty:vowel:+high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~y}
+	ʏ̃	empty:vowel:+high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{Y}}
+	æ̃	empty:vowel:−high +low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\ae}
+	j̃	palatal:glide:+voice +nasal	\textipa{\~j}
+	ɰ̃	velar:glide:+voice +nasal	\textipa{\~\textturnmrleg}
+	ã̯	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{a}}
+	ɐ̯̃	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textturna}}
+	ɑ̯̃	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textscripta}}
+	ɒ̯̃	empty:vowel:−high +low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textturnscripta}}
+	ɔ̯̃	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textopeno}}
+	ẽ̯	empty:vowel:−high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{e}}
+	ɛ̯̃	empty:vowel:−high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{E}}}
+	ə̯̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textschwa}}
+	ɚ̯̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textrhookschwa}}
+	ɘ̯̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textreve}}
+	ɜ̯̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{3}}}
+	ɝ̯̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textrhookrevepsilon}}
+	ɞ̯̃	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textcloseepsilon}}
+	ɤ̯̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{7}}}
+	ĩ̯	empty:vowel:+high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{i}}
+	ɪ̯̃	empty:vowel:+high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{I}}}
+	ɨ̯̃	empty:vowel:+high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textbari}}
+	ɯ̯̃	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textturnm}}
+	õ̯	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{o}}
+	ɵ̯̃	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textbaro}}
+	ø̯̃	empty:vowel:−high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\o}}
+	ɶ̯̃	empty:vowel:−high +low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textscoelig}}
+	œ̯̃	empty:vowel:−high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\oe}}
+	ũ̯	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{u}}
+	ʉ̯̃	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textbaru}}
+	ʊ̯̃	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textupsilon}}
+	ʌ̯̃	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textturnv}}
+	ỹ̯	empty:vowel:+high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{y}}
+	ʏ̯̃	empty:vowel:+high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{Y}}}
+	æ̯̃	empty:vowel:−high +low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\ae}}
+	ḁ	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*a
+	ɐ̥	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textturna
+	ɑ̥	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textscripta
+	ɒ̥	empty:vowel:−high +low +back +round −voice −nasal −spread glottis −constricted glottis	*\textturnscripta
+	ɔ̥	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textopeno
+	e̥	empty:vowel:−high −low −back −round −voice −nasal −spread glottis −constricted glottis	*e
+	ɛ̥	empty:vowel:−high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textipa{E}
+	ə̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textschwa
+	ɚ̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textrhookschwa
+	ɘ̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textreve
+	ɜ̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textipa{3}
+	ɝ̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textrhookrevepsilon
+	ɞ̥	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textcloseepsilon
+	ɤ̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textipa{7}
+	i̥	empty:vowel:+high −low −back −round −voice −nasal −spread glottis −constricted glottis	*i
+	ɪ̥	empty:vowel:+high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textipa{I}
+	ɨ̥	empty:vowel:+high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textbari
+	ɯ̥	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textturnm
+	o̥	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*o
+	ɵ̥	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textbaro
+	ø̥	empty:vowel:−high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\o
+	ɶ̥	empty:vowel:−high +low −back +round −voice −nasal −spread glottis −constricted glottis	*\textscoelig
+	œ̥	empty:vowel:−high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\oe
+	u̥	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*u
+	ʉ̥	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textbaru
+	ʊ̥	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textupsilon
+	ʌ̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textturnv
+	y̥	empty:vowel:+high −low −back +round −voice −nasal −spread glottis −constricted glottis	*y
+	ʏ̥	empty:vowel:+high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textipa{Y}
+	æ̥	empty:vowel:−high +low −back −round −voice −nasal −spread glottis −constricted glottis	*\ae
+	ʙ̥	labial:liquid:−voice −lateral	*\textscb
+	m̥	labial:nasal:−voice +nasal	*m
+	ʋ̥	labiodental:liquid:−voice −lateral	*\textscriptv
+	ɱ̥	labiodental:nasal:−voice +nasal	*\textltailm
+	r̥	alveolar:liquid:−voice −lateral	*r
+	ɺ̥	alveolar:liquid:−voice +lateral	*\textturnlonglegr
+	ɾ̥	alveolar:liquid:−voice −lateral	*\textfishhookr
+	ɹ̥	alveolar:liquid:−voice −lateral	*\textturnr
+	l̥	alveolar:liquid:−voice +lateral	*l
+	ɫ̥	alveolar:liquid:−voice +lateral	*\textltilde
+	n̥	alveolar:nasal:−voice +nasal	*n
+	ɽ̥	retroflex:liquid:−voice −lateral	*\textrtailr
+	ɻ̥	retroflex:liquid:−voice −lateral	*\textturnrrtail
+	ɭ̥	retroflex:liquid:−voice +lateral	*\textturny
+	ɳ̥	retroflex:nasal:−voice +nasal	*\:n
+	ʎ̥	palatal:liquid:−voice +lateral	*\begin{IPA} +\;G \end{IPA}
+	ɲ̥	palatal:nasal:−voice +nasal	*\textltailn
+	ʟ̥	velar:liquid:−voice +lateral	*\textscl
+	ŋ̥	velar:nasal:−voice +nasal	*\textipa{N}
+	ʀ̥	uvular:liquid:−voice −lateral	*\textscr
+	ɴ̥	uvular:nasal:−voice +nasal	*\textscn
+	a̯̥	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{a}
+	ɐ̯̥	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textturna}
+	ɑ̯̥	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textscripta}
+	ɒ̯̥	empty:vowel:−high +low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textturnscripta}
+	ɔ̯̥	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textopeno}
+	e̯̥	empty:vowel:−high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{e}
+	ɛ̯̥	empty:vowel:−high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{E}}
+	ə̯̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textschwa}
+	ɚ̯̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textrhookschwa}
+	ɘ̯̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textreve}
+	ɜ̯̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{3}}
+	ɝ̯̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textrhookrevepsilon}
+	ɞ̯̥	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textcloseepsilon}
+	ɤ̯̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{7}}
+	i̯̥	empty:vowel:+high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{i}
+	ɪ̯̥	empty:vowel:+high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{I}}
+	ɨ̯̥	empty:vowel:+high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textbari}
+	ɯ̯̥	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textturnm}
+	o̯̥	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{o}
+	ɵ̯̥	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textbaro}
+	ø̯̥	empty:vowel:−high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\o}
+	ɶ̯̥	empty:vowel:−high +low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textscoelig}
+	œ̯̥	empty:vowel:−high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\oe}
+	u̯̥	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{u}
+	ʉ̯̥	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textbaru}
+	ʊ̯̥	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textupsilon}
+	ʌ̯̥	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textturnv}
+	y̯̥	empty:vowel:+high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{y}
+	ʏ̯̥	empty:vowel:+high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{Y}}
+	æ̯̥	empty:vowel:−high +low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\ae}
+	ḁ̃	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~a}
+	ɐ̥̃	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textturna}
+	ɑ̥̃	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textscripta}
+	ɒ̥̃	empty:vowel:−high +low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textturnscripta}
+	ɔ̥̃	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textopeno}
+	ẽ̥	empty:vowel:−high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~e}
+	ɛ̥̃	empty:vowel:−high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{E}}
+	ə̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textschwa}
+	ɚ̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textrhookschwa}
+	ɘ̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textreve}
+	ɜ̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{3}}
+	ɝ̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textrhookrevepsilon}
+	ɞ̥̃	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textcloseepsilon}
+	ɤ̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{7}}
+	ĩ̥	empty:vowel:+high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~i}
+	ɪ̥̃	empty:vowel:+high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{I}}
+	ɨ̥̃	empty:vowel:+high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textbari}
+	ɯ̥̃	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textturnm}
+	õ̥	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~o}
+	ɵ̥̃	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textbaro}
+	ø̥̃	empty:vowel:−high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\o}
+	ɶ̥̃	empty:vowel:−high +low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textscoelig}
+	œ̥̃	empty:vowel:−high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\oe}
+	ũ̥	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~u}
+	ʉ̥̃	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textbaru}
+	ʊ̥̃	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textupsilon}
+	ʌ̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textturnv}
+	ỹ̥	empty:vowel:+high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~y}
+	ʏ̥̃	empty:vowel:+high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{Y}}
+	æ̥̃	empty:vowel:−high +low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\ae}
+	ã̯̥	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{a}}
+	ɐ̯̥̃	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textturna}}
+	ɑ̯̥̃	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textscripta}}
+	ɒ̯̥̃	empty:vowel:−high +low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textturnscripta}}
+	ɔ̯̥̃	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textopeno}}
+	ẽ̯̥	empty:vowel:−high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{e}}
+	ɛ̯̥̃	empty:vowel:−high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{E}}}
+	ə̯̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textschwa}}
+	ɚ̯̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textrhookschwa}}
+	ɘ̯̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textreve}}
+	ɜ̯̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{3}}}
+	ɝ̯̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textrhookrevepsilon}}
+	ɞ̯̥̃	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textcloseepsilon}}
+	ɤ̯̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{7}}}
+	ĩ̯̥	empty:vowel:+high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{i}}
+	ɪ̯̥̃	empty:vowel:+high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{I}}}
+	ɨ̯̥̃	empty:vowel:+high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textbari}}
+	ɯ̯̥̃	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textturnm}}
+	õ̯̥	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{o}}
+	ɵ̯̥̃	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textbaro}}
+	ø̯̥̃	empty:vowel:−high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\o}}
+	ɶ̯̥̃	empty:vowel:−high +low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textscoelig}}
+	œ̯̥̃	empty:vowel:−high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\oe}}
+	ũ̯̥	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{u}}
+	ʉ̯̥̃	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textbaru}}
+	ʊ̯̥̃	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textupsilon}}
+	ʌ̯̥̃	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textturnv}}
+	ỹ̯̥	empty:vowel:+high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{y}}
+	ʏ̯̥̃	empty:vowel:+high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{Y}}}
+	æ̯̥̃	empty:vowel:−high +low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\ae}}
+	pʰ	labial:plosive:−voice +spread glottis	p extsuperscript{h}
+	bʰ	labial:plosive:+voice +spread glottis	b extsuperscript{h}
+	ɓʰ	labial:plosive:+voice +spread glottis	\texthtb extsuperscript{h}
+	mʰ	labial:nasal:+voice +nasal +spread glottis	m extsuperscript{h}
+	ɱʰ	labiodental:nasal:+voice +nasal +spread glottis	\textltailm extsuperscript{h}
+	ɗʰ	dental:plosive:+voice +spread glottis	\texthtd extsuperscript{h}
+	tʰ	alveolar:plosive:−voice +spread glottis	t extsuperscript{h}
+	dʰ	alveolar:plosive:+voice +spread glottis	d extsuperscript{h}
+	nʰ	alveolar:nasal:+voice +nasal +spread glottis	n extsuperscript{h}
+	ʈʰ	retroflex:plosive:−voice +spread glottis	\textrtailt extsuperscript{h}
+	ɖʰ	retroflex:plosive:+voice +spread glottis	\textrtaild extsuperscript{h}
+	ɳʰ	retroflex:nasal:+voice +nasal +spread glottis	\:n extsuperscript{h}
+	cʰ	palatal:plosive:−voice +spread glottis	c extsuperscript{h}
+	ɟʰ	palatal:plosive:+voice +spread glottis	\textbardotlessj extsuperscript{h}
+	ɲʰ	palatal:nasal:+voice +nasal +spread glottis	\textltailn extsuperscript{h}
+	kʰ	velar:plosive:−voice +spread glottis	k extsuperscript{h}
+	ɡʰ	velar:plosive:+voice +spread glottis	ɡ extsuperscript{h}
+	ɠʰ	velar:plosive:+voice +spread glottis	\texthtg extsuperscript{h}
+	ŋʰ	velar:nasal:+voice +nasal +spread glottis	\textipa{N} extsuperscript{h}
+	qʰ	uvular:plosive:−voice +spread glottis	q extsuperscript{h}
+	ɢʰ	uvular:plosive:+voice +spread glottis	\textscg extsuperscript{h}
+	ʛʰ	uvular:plosive:+voice +spread glottis	\texthtscg extsuperscript{h}
+	ɴʰ	uvular:nasal:+voice +nasal +spread glottis	\textscn extsuperscript{h}
+	ʔʰ	glottal:plosive:−voice +spread glottis	\textglotstop extsuperscript{h}
+	m̥ʰ	labial:nasal:−voice +nasal +spread glottis	*m extsuperscript{h}
+	ɱ̥ʰ	labiodental:nasal:−voice +nasal +spread glottis	*\textltailm extsuperscript{h}
+	n̥ʰ	alveolar:nasal:−voice +nasal +spread glottis	*n extsuperscript{h}
+	ɳ̥ʰ	retroflex:nasal:−voice +nasal +spread glottis	*\:n extsuperscript{h}
+	ɲ̥ʰ	palatal:nasal:−voice +nasal +spread glottis	*\textltailn extsuperscript{h}
+	ŋ̥ʰ	velar:nasal:−voice +nasal +spread glottis	*\textipa{N} extsuperscript{h}
+	ɴ̥ʰ	uvular:nasal:−voice +nasal +spread glottis	*\textscn extsuperscript{h}
+	p̩	labial:plosive:−voice +syllabic	\textipa{\s{p}}
+	b̩	labial:plosive:+voice +syllabic	\textipa{\s{b}}
+	ɓ̩	labial:plosive:+voice +syllabic	\textipa{\s{\texthtb}}
+	ɸ̩	labial:fricative:−voice +syllabic	\textipa{\sF}
+	β̩	labial:fricative:+voice +syllabic	\textipa{\sB}
+	ʙ̩	labial:liquid:+voice −lateral +syllabic	\textipa{\s{\textscb}}
+	m̩	labial:nasal:+voice +nasal +syllabic	\textsyllabic{m}
+	f̩	labiodental:fricative:−voice +syllabic	\textipa{\s{f}}
+	v̩	labiodental:fricative:+voice +syllabic	\textipa{\s{v}}
+	ʋ̩	labiodental:liquid:+voice −lateral +syllabic	\textipa{\s{\textscriptv}}
+	ɱ̩	labiodental:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailm}}
+	ɗ̩	dental:plosive:+voice +syllabic	\textipa{\s{\texthtd}}
+	θ̩	dental:fricative:−voice +syllabic	\textipa{\sT}
+	ð̩	dental:fricative:+voice +syllabic	\textipa{\sD}
+	t̩	alveolar:plosive:−voice +syllabic	\textipa{\s{t}}
+	d̩	alveolar:plosive:+voice +syllabic	\textipa{\s{d}}
+	s̩	alveolar:fricative:−voice +syllabic	\textipa{\s{s}}
+	z̩	alveolar:fricative:+voice +syllabic	\textipa{\s{z}}
+	ɬ̩	alveolar:fricative:+voice +lateral +syllabic	\textipa{\s{\textbeltl}}
+	ɮ̩	alveolar:fricative:+voice +lateral +syllabic	\textipa{\s{\textlyoghlig}}
+	r̩	alveolar:liquid:+voice −lateral +syllabic	\textipa{\s{r}}
+	ɺ̩	alveolar:liquid:+voice +lateral +syllabic	\textipa{\s{\textturnlonglegr}}
+	ɾ̩	alveolar:liquid:+voice −lateral +syllabic	\textipa{\s{\textfishhookr}}
+	ɹ̩	alveolar:liquid:+voice −lateral +syllabic	\textipa{\s{\textturnr}}
+	l̩	alveolar:liquid:+voice +lateral +syllabic	\textsyllabic{l}
+	ɫ̩	alveolar:liquid:+voice +lateral +syllabic	\textsyllabic{\textltilde}
+	n̩	alveolar:nasal:+voice +nasal +syllabic	\textsyllabic{n}
+	ʃ̩	palatoalveolar:fricative:−voice +syllabic	\textipa{\sS}
+	ʒ̩	palatoalveolar:fricative:+voice +syllabic	\textipa{\s{\textyogh}}
+	ʈ̩	retroflex:plosive:−voice +syllabic	\textipa{\s{\textrtailt}}
+	ɖ̩	retroflex:plosive:+voice +syllabic	\textipa{\s{\textrtaild}}
+	ʂ̩	retroflex:fricative:−voice +syllabic	\textipa{\s{\textrtails}}
+	ʐ̩	retroflex:fricative:+voice +syllabic	\textipa{\s{\textrtailz}}
+	ɽ̩	retroflex:liquid:+voice −lateral +syllabic	\textipa{\s{\textrtailr}}
+	ɻ̩	retroflex:liquid:+voice −lateral +syllabic	\textipa{\s{\textturnrrtail}}
+	ɭ̩	retroflex:liquid:+voice +lateral +syllabic	\textipa{\s{\textturny}}
+	ɳ̩	retroflex:nasal:+voice +nasal +syllabic	\textipa{\s{\:n}}
+	c̩	palatal:plosive:−voice +syllabic	\textipa{\s{c}}
+	ɟ̩	palatal:plosive:+voice +syllabic	\textipa{\s{\textbardotlessj}}
+	ç̩	palatal:fricative:−voice +syllabic	\textipa{\s{\c{c}}}
+	ʝ̩	palatal:fricative:+voice +syllabic	\textipa{\s{\textctj}}
+	ʎ̩	palatal:liquid:+voice +lateral +syllabic	\textipa{\s{\begin{IPA} +\;G \end{IPA}}}
+	ɲ̩	palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailn}}
+	k̩	velar:plosive:−voice +syllabic	\textipa{\s{k}}
+	ɡ̩	velar:plosive:+voice +syllabic	\textipa{\s{ɡ}}
+	ɠ̩	velar:plosive:+voice +syllabic	\textipa{\s{\texthtg}}
+	x̩	velar:fricative:−voice +syllabic	\textipa{\s{x}}
+	ɣ̩	velar:fricative:+voice +syllabic	\textipa{\sG}
+	ʟ̩	velar:liquid:+voice +lateral +syllabic	\textipa{\s{\textscl}}
+	ŋ̩	velar:nasal:+voice +nasal +syllabic	\textipa{\sN}
+	q̩	uvular:plosive:−voice +syllabic	\textipa{\s{q}}
+	ɢ̩	uvular:plosive:+voice +syllabic	\textipa{\s{\textscg}}
+	ʛ̩	uvular:plosive:+voice +syllabic	\textipa{\s{\texthtscg}}
+	χ̩	uvular:fricative:−voice +syllabic	\textipa{\s{\textchi}}
+	ʁ̩	uvular:fricative:+voice +syllabic	\textipa{\sK}
+	ʀ̩	uvular:liquid:+voice −lateral +syllabic	\textipa{\s{\textscr}}
+	ɴ̩	uvular:nasal:+voice +nasal +syllabic	\textipa{\s{\textscn}}
+	ʕ̩	pharyngeal:fricative:+voice +syllabic	\textipa{\s{\textrevglotstop}}
+	ħ̩	pharyngeal:fricative:−voice +syllabic	\textipa{\s{\textcrh}}
+	ʔ̩	glottal:plosive:−voice +syllabic	\textipa{\s{\textglotstop}}
+	h̩	glottal:fricative:−voice +syllabic	\textipa{\s{h}}
+	ɦ̩	glottal:fricative:+voice +syllabic	\textipa{\s{\texthth}}
+	ʙ̥̩	labial:liquid:−voice −lateral +syllabic	\textipa{\s{ *\textscb}}
+	m̥̩	labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *m}}
+	ʋ̥̩	labiodental:liquid:−voice −lateral +syllabic	\textipa{\s{ *\textscriptv}}
+	ɱ̥̩	labiodental:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailm}}
+	r̥̩	alveolar:liquid:−voice −lateral +syllabic	\textipa{\s{ *r}}
+	ɺ̥̩	alveolar:liquid:−voice +lateral +syllabic	\textipa{\s{ *\textturnlonglegr}}
+	ɾ̥̩	alveolar:liquid:−voice −lateral +syllabic	\textipa{\s{ *\textfishhookr}}
+	ɹ̥̩	alveolar:liquid:−voice −lateral +syllabic	\textipa{\s{ *\textturnr}}
+	l̥̩	alveolar:liquid:−voice +lateral +syllabic	\textipa{\s{ *l}}
+	ɫ̥̩	alveolar:liquid:−voice +lateral +syllabic	\textipa{\s{ *\textltilde}}
+	n̥̩	alveolar:nasal:−voice +nasal +syllabic	\textipa{\s{ *n}}
+	ɽ̥̩	retroflex:liquid:−voice −lateral +syllabic	\textipa{\s{ *\textrtailr}}
+	ɻ̥̩	retroflex:liquid:−voice −lateral +syllabic	\textipa{\s{ *\textturnrrtail}}
+	ɭ̥̩	retroflex:liquid:−voice +lateral +syllabic	\textipa{\s{ *\textturny}}
+	ɳ̥̩	retroflex:nasal:−voice +nasal +syllabic	\textipa{\s{ *\:n}}
+	ʎ̥̩	palatal:liquid:−voice +lateral +syllabic	\textipa{\s{ *\begin{IPA} +\;G \end{IPA}}}
+	ɲ̥̩	palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailn}}
+	ʟ̥̩	velar:liquid:−voice +lateral +syllabic	\textipa{\s{ *\textscl}}
+	ŋ̥̩	velar:nasal:−voice +nasal +syllabic	*\textipa{\sN}
+	ʀ̥̩	uvular:liquid:−voice −lateral +syllabic	\textipa{\s{ *\textscr}}
+	ɴ̥̩	uvular:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textscn}}
+	pʲ	labial, palatal:plosive:−voice	p\super j
+	bʲ	labial, palatal:plosive:+voice	b\super j
+	ɓʲ	labial, palatal:plosive:+voice	\texthtb\super j
+	ɸʲ	labial, palatal:fricative:−voice	\textipa{F}\super j
+	βʲ	labial, palatal:fricative:+voice	\textipa{B}\super j
+	ʙʲ	labial, palatal:liquid:+voice −lateral	\textscb\super j
+	mʲ	labial, palatal:nasal:+voice +nasal	m\super j
+	fʲ	labiodental, palatal:fricative:−voice	f\super j
+	vʲ	labiodental, palatal:fricative:+voice	v\super j
+	ʋʲ	labiodental, palatal:liquid:+voice −lateral	\textscriptv\super j
+	ɱʲ	labiodental, palatal:nasal:+voice +nasal	\textltailm\super j
+	ɗʲ	dental, palatal:plosive:+voice	\texthtd\super j
+	θʲ	dental, palatal:fricative:−voice	\textipa{T}\super j
+	ðʲ	dental, palatal:fricative:+voice	\textipa{D}\super j
+	tʲ	alveolar, palatal:plosive:−voice	t\super j
+	dʲ	alveolar, palatal:plosive:+voice	d\super j
+	sʲ	alveolar, palatal:fricative:−voice	s\super j
+	zʲ	alveolar, palatal:fricative:+voice	z\super j
+	ɬʲ	alveolar, palatal:fricative:+voice +lateral	\textbeltl\super j
+	ɮʲ	alveolar, palatal:fricative:+voice +lateral	\textlyoghlig\super j
+	rʲ	alveolar, palatal:liquid:+voice −lateral	r\super j
+	ɺʲ	alveolar, palatal:liquid:+voice +lateral	\textturnlonglegr\super j
+	ɾʲ	alveolar, palatal:liquid:+voice −lateral	\textfishhookr\super j
+	ɹʲ	alveolar, palatal:liquid:+voice −lateral	\textturnr\super j
+	lʲ	alveolar, palatal:liquid:+voice +lateral	l\super j
+	ɫʲ	alveolar, palatal:liquid:+voice +lateral	\textltilde\super j
+	nʲ	alveolar, palatal:nasal:+voice +nasal	n\super j
+	ʃʲ	palatoalveolar, palatal:fricative:−voice	\textipa{S}\super j
+	ʒʲ	palatoalveolar, palatal:fricative:+voice	\textyogh\super j
+	ʈʲ	retroflex, palatal:plosive:−voice	\textrtailt\super j
+	ɖʲ	retroflex, palatal:plosive:+voice	\textrtaild\super j
+	ʂʲ	retroflex, palatal:fricative:−voice	\textrtails\super j
+	ʐʲ	retroflex, palatal:fricative:+voice	\textrtailz\super j
+	ɽʲ	retroflex, palatal:liquid:+voice −lateral	\textrtailr\super j
+	ɻʲ	retroflex, palatal:liquid:+voice −lateral	\textturnrrtail\super j
+	ɭʲ	retroflex, palatal:liquid:+voice +lateral	\textturny\super j
+	ɳʲ	retroflex, palatal:nasal:+voice +nasal	\:n\super j
+	cʲ	palatal:plosive:−voice	c\super j
+	ɟʲ	palatal:plosive:+voice	\textbardotlessj\super j
+	çʲ	palatal:fricative:−voice	\c{c}\super j
+	ʝʲ	palatal:fricative:+voice	\textctj\super j
+	ʎʲ	palatal:liquid:+voice +lateral	\begin{IPA} +\;G \end{IPA}\super j
+	ɲʲ	palatal:nasal:+voice +nasal	\textltailn\super j
+	kʲ	velar, palatal:plosive:−voice	k\super j
+	ɡʲ	velar, palatal:plosive:+voice	ɡ\super j
+	ɠʲ	velar, palatal:plosive:+voice	\texthtg\super j
+	xʲ	velar, palatal:fricative:−voice	x\super j
+	ɣʲ	velar, palatal:fricative:+voice	\textipa{G}\super j
+	ʟʲ	velar, palatal:liquid:+voice +lateral	\textscl\super j
+	ŋʲ	velar, palatal:nasal:+voice +nasal	\textipa{N}\super j
+	qʲ	uvular, palatal:plosive:−voice	q\super j
+	ɢʲ	uvular, palatal:plosive:+voice	\textscg\super j
+	ʛʲ	uvular, palatal:plosive:+voice	\texthtscg\super j
+	χʲ	uvular, palatal:fricative:−voice	\textchi\super j
+	ʁʲ	uvular, palatal:fricative:+voice	\textipa{K}\super j
+	ʀʲ	uvular, palatal:liquid:+voice −lateral	\textscr\super j
+	ɴʲ	uvular, palatal:nasal:+voice +nasal	\textscn\super j
+	ʕʲ	pharyngeal, palatal:fricative:+voice	\textrevglotstop\super j
+	ħʲ	pharyngeal, palatal:fricative:−voice	\textcrh\super j
+	ʔʲ	glottal, palatal:plosive:−voice	\textglotstop\super j
+	hʲ	glottal, palatal:fricative:−voice	h\super j
+	ɦʲ	glottal, palatal:fricative:+voice	\texthth\super j
+	ʙ̥ʲ	labial, palatal:liquid:−voice −lateral	*\textscb\super j
+	m̥ʲ	labial, palatal:nasal:−voice +nasal	*m\super j
+	ʋ̥ʲ	labiodental, palatal:liquid:−voice −lateral	*\textscriptv\super j
+	ɱ̥ʲ	labiodental, palatal:nasal:−voice +nasal	*\textltailm\super j
+	r̥ʲ	alveolar, palatal:liquid:−voice −lateral	*r\super j
+	ɺ̥ʲ	alveolar, palatal:liquid:−voice +lateral	*\textturnlonglegr\super j
+	ɾ̥ʲ	alveolar, palatal:liquid:−voice −lateral	*\textfishhookr\super j
+	ɹ̥ʲ	alveolar, palatal:liquid:−voice −lateral	*\textturnr\super j
+	l̥ʲ	alveolar, palatal:liquid:−voice +lateral	*l\super j
+	ɫ̥ʲ	alveolar, palatal:liquid:−voice +lateral	*\textltilde\super j
+	n̥ʲ	alveolar, palatal:nasal:−voice +nasal	*n\super j
+	ɽ̥ʲ	retroflex, palatal:liquid:−voice −lateral	*\textrtailr\super j
+	ɻ̥ʲ	retroflex, palatal:liquid:−voice −lateral	*\textturnrrtail\super j
+	ɭ̥ʲ	retroflex, palatal:liquid:−voice +lateral	*\textturny\super j
+	ɳ̥ʲ	retroflex, palatal:nasal:−voice +nasal	*\:n\super j
+	ʎ̥ʲ	palatal:liquid:−voice +lateral	*\begin{IPA} +\;G \end{IPA}\super j
+	ɲ̥ʲ	palatal:nasal:−voice +nasal	*\textltailn\super j
+	ʟ̥ʲ	velar, palatal:liquid:−voice +lateral	*\textscl\super j
+	ŋ̥ʲ	velar, palatal:nasal:−voice +nasal	*\textipa{N}\super j
+	ʀ̥ʲ	uvular, palatal:liquid:−voice −lateral	*\textscr\super j
+	ɴ̥ʲ	uvular, palatal:nasal:−voice +nasal	*\textscn\super j
+	pʰʲ	labial, palatal:plosive:−voice +spread glottis	p extsuperscript{h}\super j
+	bʰʲ	labial, palatal:plosive:+voice +spread glottis	b extsuperscript{h}\super j
+	ɓʰʲ	labial, palatal:plosive:+voice +spread glottis	\texthtb extsuperscript{h}\super j
+	mʰʲ	labial, palatal:nasal:+voice +nasal +spread glottis	m extsuperscript{h}\super j
+	ɱʰʲ	labiodental, palatal:nasal:+voice +nasal +spread glottis	\textltailm extsuperscript{h}\super j
+	ɗʰʲ	dental, palatal:plosive:+voice +spread glottis	\texthtd extsuperscript{h}\super j
+	tʰʲ	alveolar, palatal:plosive:−voice +spread glottis	t extsuperscript{h}\super j
+	dʰʲ	alveolar, palatal:plosive:+voice +spread glottis	d extsuperscript{h}\super j
+	nʰʲ	alveolar, palatal:nasal:+voice +nasal +spread glottis	n extsuperscript{h}\super j
+	ʈʰʲ	retroflex, palatal:plosive:−voice +spread glottis	\textrtailt extsuperscript{h}\super j
+	ɖʰʲ	retroflex, palatal:plosive:+voice +spread glottis	\textrtaild extsuperscript{h}\super j
+	ɳʰʲ	retroflex, palatal:nasal:+voice +nasal +spread glottis	\:n extsuperscript{h}\super j
+	cʰʲ	palatal:plosive:−voice +spread glottis	c extsuperscript{h}\super j
+	ɟʰʲ	palatal:plosive:+voice +spread glottis	\textbardotlessj extsuperscript{h}\super j
+	ɲʰʲ	palatal:nasal:+voice +nasal +spread glottis	\textltailn extsuperscript{h}\super j
+	kʰʲ	velar, palatal:plosive:−voice +spread glottis	k extsuperscript{h}\super j
+	ɡʰʲ	velar, palatal:plosive:+voice +spread glottis	ɡ extsuperscript{h}\super j
+	ɠʰʲ	velar, palatal:plosive:+voice +spread glottis	\texthtg extsuperscript{h}\super j
+	ŋʰʲ	velar, palatal:nasal:+voice +nasal +spread glottis	\textipa{N} extsuperscript{h}\super j
+	qʰʲ	uvular, palatal:plosive:−voice +spread glottis	q extsuperscript{h}\super j
+	ɢʰʲ	uvular, palatal:plosive:+voice +spread glottis	\textscg extsuperscript{h}\super j
+	ʛʰʲ	uvular, palatal:plosive:+voice +spread glottis	\texthtscg extsuperscript{h}\super j
+	ɴʰʲ	uvular, palatal:nasal:+voice +nasal +spread glottis	\textscn extsuperscript{h}\super j
+	ʔʰʲ	glottal, palatal:plosive:−voice +spread glottis	\textglotstop extsuperscript{h}\super j
+	m̥ʰʲ	labial, palatal:nasal:−voice +nasal +spread glottis	*m extsuperscript{h}\super j
+	ɱ̥ʰʲ	labiodental, palatal:nasal:−voice +nasal +spread glottis	*\textltailm extsuperscript{h}\super j
+	n̥ʰʲ	alveolar, palatal:nasal:−voice +nasal +spread glottis	*n extsuperscript{h}\super j
+	ɳ̥ʰʲ	retroflex, palatal:nasal:−voice +nasal +spread glottis	*\:n extsuperscript{h}\super j
+	ɲ̥ʰʲ	palatal:nasal:−voice +nasal +spread glottis	*\textltailn extsuperscript{h}\super j
+	ŋ̥ʰʲ	velar, palatal:nasal:−voice +nasal +spread glottis	*\textipa{N} extsuperscript{h}\super j
+	ɴ̥ʰʲ	uvular, palatal:nasal:−voice +nasal +spread glottis	*\textscn extsuperscript{h}\super j
+	p̩ʲ	labial, palatal:plosive:−voice +syllabic	\textipa{\s{p}}\super j
+	b̩ʲ	labial, palatal:plosive:+voice +syllabic	\textipa{\s{b}}\super j
+	ɓ̩ʲ	labial, palatal:plosive:+voice +syllabic	\textipa{\s{\texthtb}}\super j
+	ɸ̩ʲ	labial, palatal:fricative:−voice +syllabic	\textipa{\sF}\super j
+	β̩ʲ	labial, palatal:fricative:+voice +syllabic	\textipa{\sB}\super j
+	m̩ʲ	labial, palatal:nasal:+voice +nasal +syllabic	\textsyllabic{m}\super j
+	f̩ʲ	labiodental, palatal:fricative:−voice +syllabic	\textipa{\s{f}}\super j
+	v̩ʲ	labiodental, palatal:fricative:+voice +syllabic	\textipa{\s{v}}\super j
+	ɱ̩ʲ	labiodental, palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailm}}\super j
+	ɗ̩ʲ	dental, palatal:plosive:+voice +syllabic	\textipa{\s{\texthtd}}\super j
+	θ̩ʲ	dental, palatal:fricative:−voice +syllabic	\textipa{\sT}\super j
+	ð̩ʲ	dental, palatal:fricative:+voice +syllabic	\textipa{\sD}\super j
+	t̩ʲ	alveolar, palatal:plosive:−voice +syllabic	\textipa{\s{t}}\super j
+	d̩ʲ	alveolar, palatal:plosive:+voice +syllabic	\textipa{\s{d}}\super j
+	s̩ʲ	alveolar, palatal:fricative:−voice +syllabic	\textipa{\s{s}}\super j
+	z̩ʲ	alveolar, palatal:fricative:+voice +syllabic	\textipa{\s{z}}\super j
+	ɬ̩ʲ	alveolar, palatal:fricative:+voice +lateral +syllabic	\textipa{\s{\textbeltl}}\super j
+	ɮ̩ʲ	alveolar, palatal:fricative:+voice +lateral +syllabic	\textipa{\s{\textlyoghlig}}\super j
+	n̩ʲ	alveolar, palatal:nasal:+voice +nasal +syllabic	\textsyllabic{n}\super j
+	ʃ̩ʲ	palatoalveolar, palatal:fricative:−voice +syllabic	\textipa{\sS}\super j
+	ʒ̩ʲ	palatoalveolar, palatal:fricative:+voice +syllabic	\textipa{\s{\textyogh}}\super j
+	ʈ̩ʲ	retroflex, palatal:plosive:−voice +syllabic	\textipa{\s{\textrtailt}}\super j
+	ɖ̩ʲ	retroflex, palatal:plosive:+voice +syllabic	\textipa{\s{\textrtaild}}\super j
+	ʂ̩ʲ	retroflex, palatal:fricative:−voice +syllabic	\textipa{\s{\textrtails}}\super j
+	ʐ̩ʲ	retroflex, palatal:fricative:+voice +syllabic	\textipa{\s{\textrtailz}}\super j
+	ɳ̩ʲ	retroflex, palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\:n}}\super j
+	c̩ʲ	palatal:plosive:−voice +syllabic	\textipa{\s{c}}\super j
+	ɟ̩ʲ	palatal:plosive:+voice +syllabic	\textipa{\s{\textbardotlessj}}\super j
+	ç̩ʲ	palatal:fricative:−voice +syllabic	\textipa{\s{\c{c}}}\super j
+	ʝ̩ʲ	palatal:fricative:+voice +syllabic	\textipa{\s{\textctj}}\super j
+	ɲ̩ʲ	palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailn}}\super j
+	k̩ʲ	velar, palatal:plosive:−voice +syllabic	\textipa{\s{k}}\super j
+	ɡ̩ʲ	velar, palatal:plosive:+voice +syllabic	\textipa{\s{ɡ}}\super j
+	ɠ̩ʲ	velar, palatal:plosive:+voice +syllabic	\textipa{\s{\texthtg}}\super j
+	x̩ʲ	velar, palatal:fricative:−voice +syllabic	\textipa{\s{x}}\super j
+	ɣ̩ʲ	velar, palatal:fricative:+voice +syllabic	\textipa{\sG}\super j
+	ŋ̩ʲ	velar, palatal:nasal:+voice +nasal +syllabic	\textipa{\sN}\super j
+	q̩ʲ	uvular, palatal:plosive:−voice +syllabic	\textipa{\s{q}}\super j
+	ɢ̩ʲ	uvular, palatal:plosive:+voice +syllabic	\textipa{\s{\textscg}}\super j
+	ʛ̩ʲ	uvular, palatal:plosive:+voice +syllabic	\textipa{\s{\texthtscg}}\super j
+	χ̩ʲ	uvular, palatal:fricative:−voice +syllabic	\textipa{\s{\textchi}}\super j
+	ʁ̩ʲ	uvular, palatal:fricative:+voice +syllabic	\textipa{\sK}\super j
+	ɴ̩ʲ	uvular, palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\textscn}}\super j
+	ʕ̩ʲ	pharyngeal, palatal:fricative:+voice +syllabic	\textipa{\s{\textrevglotstop}}\super j
+	ħ̩ʲ	pharyngeal, palatal:fricative:−voice +syllabic	\textipa{\s{\textcrh}}\super j
+	ʔ̩ʲ	glottal, palatal:plosive:−voice +syllabic	\textipa{\s{\textglotstop}}\super j
+	h̩ʲ	glottal, palatal:fricative:−voice +syllabic	\textipa{\s{h}}\super j
+	ɦ̩ʲ	glottal, palatal:fricative:+voice +syllabic	\textipa{\s{\texthth}}\super j
+	m̥̩ʲ	labial, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *m}}\super j
+	ɱ̥̩ʲ	labiodental, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailm}}\super j
+	n̥̩ʲ	alveolar, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *n}}\super j
+	ɳ̥̩ʲ	retroflex, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\:n}}\super j
+	ɲ̥̩ʲ	palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailn}}\super j
+	ŋ̥̩ʲ	velar, palatal:nasal:−voice +nasal +syllabic	*\textipa{\sN}\super j
+	ɴ̥̩ʲ	uvular, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textscn}}\super j
+	pʷ	labial:plosive:−voice	p\super w
+	bʷ	labial:plosive:+voice	b\super w
+	ɓʷ	labial:plosive:+voice	\texthtb\super w
+	ɸʷ	labial:fricative:−voice	\textipa{F}\super w
+	βʷ	labial:fricative:+voice	\textipa{B}\super w
+	mʷ	labial:nasal:+voice +nasal	m\super w
+	fʷ	labiodental, labial:fricative:−voice	f\super w
+	vʷ	labiodental, labial:fricative:+voice	v\super w
+	ɱʷ	labiodental, labial:nasal:+voice +nasal	\textltailm\super w
+	ɗʷ	dental, labial:plosive:+voice	\texthtd\super w
+	θʷ	dental, labial:fricative:−voice	\textipa{T}\super w
+	ðʷ	dental, labial:fricative:+voice	\textipa{D}\super w
+	tʷ	alveolar, labial:plosive:−voice	t\super w
+	dʷ	alveolar, labial:plosive:+voice	d\super w
+	sʷ	alveolar, labial:fricative:−voice	s\super w
+	zʷ	alveolar, labial:fricative:+voice	z\super w
+	ɬʷ	alveolar, labial:fricative:+voice +lateral	\textbeltl\super w
+	ɮʷ	alveolar, labial:fricative:+voice +lateral	\textlyoghlig\super w
+	nʷ	alveolar, labial:nasal:+voice +nasal	n\super w
+	ʃʷ	palatoalveolar, labial:fricative:−voice	\textipa{S}\super w
+	ʒʷ	palatoalveolar, labial:fricative:+voice	\textyogh\super w
+	ʈʷ	retroflex, labial:plosive:−voice	\textrtailt\super w
+	ɖʷ	retroflex, labial:plosive:+voice	\textrtaild\super w
+	ʂʷ	retroflex, labial:fricative:−voice	\textrtails\super w
+	ʐʷ	retroflex, labial:fricative:+voice	\textrtailz\super w
+	ɳʷ	retroflex, labial:nasal:+voice +nasal	\:n\super w
+	cʷ	palatal, labial:plosive:−voice	c\super w
+	ɟʷ	palatal, labial:plosive:+voice	\textbardotlessj\super w
+	çʷ	palatal, labial:fricative:−voice	\c{c}\super w
+	ʝʷ	palatal, labial:fricative:+voice	\textctj\super w
+	ɲʷ	palatal, labial:nasal:+voice +nasal	\textltailn\super w
+	kʷ	velar, labial:plosive:−voice	k\super w
+	ɡʷ	velar, labial:plosive:+voice	ɡ\super w
+	ɠʷ	velar, labial:plosive:+voice	\texthtg\super w
+	xʷ	velar, labial:fricative:−voice	x\super w
+	ɣʷ	velar, labial:fricative:+voice	\textipa{G}\super w
+	ŋʷ	velar, labial:nasal:+voice +nasal	\textipa{N}\super w
+	qʷ	uvular, labial:plosive:−voice	q\super w
+	ɢʷ	uvular, labial:plosive:+voice	\textscg\super w
+	ʛʷ	uvular, labial:plosive:+voice	\texthtscg\super w
+	χʷ	uvular, labial:fricative:−voice	\textchi\super w
+	ʁʷ	uvular, labial:fricative:+voice	\textipa{K}\super w
+	ɴʷ	uvular, labial:nasal:+voice +nasal	\textscn\super w
+	ʕʷ	pharyngeal, labial:fricative:+voice	\textrevglotstop\super w
+	ħʷ	pharyngeal, labial:fricative:−voice	\textcrh\super w
+	ʔʷ	glottal, labial:plosive:−voice	\textglotstop\super w
+	hʷ	glottal, labial:fricative:−voice	h\super w
+	ɦʷ	glottal, labial:fricative:+voice	\texthth\super w
+	m̥ʷ	labial:nasal:−voice +nasal	*m\super w
+	ɱ̥ʷ	labiodental, labial:nasal:−voice +nasal	*\textltailm\super w
+	n̥ʷ	alveolar, labial:nasal:−voice +nasal	*n\super w
+	ɳ̥ʷ	retroflex, labial:nasal:−voice +nasal	*\:n\super w
+	ɲ̥ʷ	palatal, labial:nasal:−voice +nasal	*\textltailn\super w
+	ŋ̥ʷ	velar, labial:nasal:−voice +nasal	*\textipa{N}\super w
+	ɴ̥ʷ	uvular, labial:nasal:−voice +nasal	*\textscn\super w
+	pʰʷ	labial:plosive:−voice +spread glottis	p extsuperscript{h}\super w
+	bʰʷ	labial:plosive:+voice +spread glottis	b extsuperscript{h}\super w
+	ɓʰʷ	labial:plosive:+voice +spread glottis	\texthtb extsuperscript{h}\super w
+	mʰʷ	labial:nasal:+voice +nasal +spread glottis	m extsuperscript{h}\super w
+	ɱʰʷ	labiodental, labial:nasal:+voice +nasal +spread glottis	\textltailm extsuperscript{h}\super w
+	ɗʰʷ	dental, labial:plosive:+voice +spread glottis	\texthtd extsuperscript{h}\super w
+	tʰʷ	alveolar, labial:plosive:−voice +spread glottis	t extsuperscript{h}\super w
+	dʰʷ	alveolar, labial:plosive:+voice +spread glottis	d extsuperscript{h}\super w
+	nʰʷ	alveolar, labial:nasal:+voice +nasal +spread glottis	n extsuperscript{h}\super w
+	ʈʰʷ	retroflex, labial:plosive:−voice +spread glottis	\textrtailt extsuperscript{h}\super w
+	ɖʰʷ	retroflex, labial:plosive:+voice +spread glottis	\textrtaild extsuperscript{h}\super w
+	ɳʰʷ	retroflex, labial:nasal:+voice +nasal +spread glottis	\:n extsuperscript{h}\super w
+	cʰʷ	palatal, labial:plosive:−voice +spread glottis	c extsuperscript{h}\super w
+	ɟʰʷ	palatal, labial:plosive:+voice +spread glottis	\textbardotlessj extsuperscript{h}\super w
+	ɲʰʷ	palatal, labial:nasal:+voice +nasal +spread glottis	\textltailn extsuperscript{h}\super w
+	kʰʷ	velar, labial:plosive:−voice +spread glottis	k extsuperscript{h}\super w
+	ɡʰʷ	velar, labial:plosive:+voice +spread glottis	ɡ extsuperscript{h}\super w
+	ɠʰʷ	velar, labial:plosive:+voice +spread glottis	\texthtg extsuperscript{h}\super w
+	ŋʰʷ	velar, labial:nasal:+voice +nasal +spread glottis	\textipa{N} extsuperscript{h}\super w
+	qʰʷ	uvular, labial:plosive:−voice +spread glottis	q extsuperscript{h}\super w
+	ɢʰʷ	uvular, labial:plosive:+voice +spread glottis	\textscg extsuperscript{h}\super w
+	ʛʰʷ	uvular, labial:plosive:+voice +spread glottis	\texthtscg extsuperscript{h}\super w
+	ɴʰʷ	uvular, labial:nasal:+voice +nasal +spread glottis	\textscn extsuperscript{h}\super w
+	ʔʰʷ	glottal, labial:plosive:−voice +spread glottis	\textglotstop extsuperscript{h}\super w
+	m̥ʰʷ	labial:nasal:−voice +nasal +spread glottis	*m extsuperscript{h}\super w
+	ɱ̥ʰʷ	labiodental, labial:nasal:−voice +nasal +spread glottis	*\textltailm extsuperscript{h}\super w
+	n̥ʰʷ	alveolar, labial:nasal:−voice +nasal +spread glottis	*n extsuperscript{h}\super w
+	ɳ̥ʰʷ	retroflex, labial:nasal:−voice +nasal +spread glottis	*\:n extsuperscript{h}\super w
+	ɲ̥ʰʷ	palatal, labial:nasal:−voice +nasal +spread glottis	*\textltailn extsuperscript{h}\super w
+	ŋ̥ʰʷ	velar, labial:nasal:−voice +nasal +spread glottis	*\textipa{N} extsuperscript{h}\super w
+	ɴ̥ʰʷ	uvular, labial:nasal:−voice +nasal +spread glottis	*\textscn extsuperscript{h}\super w
+	p̩ʷ	labial:plosive:−voice +syllabic	\textipa{\s{p}}\super w
+	b̩ʷ	labial:plosive:+voice +syllabic	\textipa{\s{b}}\super w
+	ɓ̩ʷ	labial:plosive:+voice +syllabic	\textipa{\s{\texthtb}}\super w
+	ɸ̩ʷ	labial:fricative:−voice +syllabic	\textipa{\sF}\super w
+	β̩ʷ	labial:fricative:+voice +syllabic	\textipa{\sB}\super w
+	m̩ʷ	labial:nasal:+voice +nasal +syllabic	\textsyllabic{m}\super w
+	f̩ʷ	labiodental, labial:fricative:−voice +syllabic	\textipa{\s{f}}\super w
+	v̩ʷ	labiodental, labial:fricative:+voice +syllabic	\textipa{\s{v}}\super w
+	ɱ̩ʷ	labiodental, labial:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailm}}\super w
+	ɗ̩ʷ	dental, labial:plosive:+voice +syllabic	\textipa{\s{\texthtd}}\super w
+	θ̩ʷ	dental, labial:fricative:−voice +syllabic	\textipa{\sT}\super w
+	ð̩ʷ	dental, labial:fricative:+voice +syllabic	\textipa{\sD}\super w
+	t̩ʷ	alveolar, labial:plosive:−voice +syllabic	\textipa{\s{t}}\super w
+	d̩ʷ	alveolar, labial:plosive:+voice +syllabic	\textipa{\s{d}}\super w
+	s̩ʷ	alveolar, labial:fricative:−voice +syllabic	\textipa{\s{s}}\super w
+	z̩ʷ	alveolar, labial:fricative:+voice +syllabic	\textipa{\s{z}}\super w
+	ɬ̩ʷ	alveolar, labial:fricative:+voice +lateral +syllabic	\textipa{\s{\textbeltl}}\super w
+	ɮ̩ʷ	alveolar, labial:fricative:+voice +lateral +syllabic	\textipa{\s{\textlyoghlig}}\super w
+	n̩ʷ	alveolar, labial:nasal:+voice +nasal +syllabic	\textsyllabic{n}\super w
+	ʃ̩ʷ	palatoalveolar, labial:fricative:−voice +syllabic	\textipa{\sS}\super w
+	ʒ̩ʷ	palatoalveolar, labial:fricative:+voice +syllabic	\textipa{\s{\textyogh}}\super w
+	ʈ̩ʷ	retroflex, labial:plosive:−voice +syllabic	\textipa{\s{\textrtailt}}\super w
+	ɖ̩ʷ	retroflex, labial:plosive:+voice +syllabic	\textipa{\s{\textrtaild}}\super w
+	ʂ̩ʷ	retroflex, labial:fricative:−voice +syllabic	\textipa{\s{\textrtails}}\super w
+	ʐ̩ʷ	retroflex, labial:fricative:+voice +syllabic	\textipa{\s{\textrtailz}}\super w
+	ɳ̩ʷ	retroflex, labial:nasal:+voice +nasal +syllabic	\textipa{\s{\:n}}\super w
+	c̩ʷ	palatal, labial:plosive:−voice +syllabic	\textipa{\s{c}}\super w
+	ɟ̩ʷ	palatal, labial:plosive:+voice +syllabic	\textipa{\s{\textbardotlessj}}\super w
+	ç̩ʷ	palatal, labial:fricative:−voice +syllabic	\textipa{\s{\c{c}}}\super w
+	ʝ̩ʷ	palatal, labial:fricative:+voice +syllabic	\textipa{\s{\textctj}}\super w
+	ɲ̩ʷ	palatal, labial:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailn}}\super w
+	k̩ʷ	velar, labial:plosive:−voice +syllabic	\textipa{\s{k}}\super w
+	ɡ̩ʷ	velar, labial:plosive:+voice +syllabic	\textipa{\s{ɡ}}\super w
+	ɠ̩ʷ	velar, labial:plosive:+voice +syllabic	\textipa{\s{\texthtg}}\super w
+	x̩ʷ	velar, labial:fricative:−voice +syllabic	\textipa{\s{x}}\super w
+	ɣ̩ʷ	velar, labial:fricative:+voice +syllabic	\textipa{\sG}\super w
+	ŋ̩ʷ	velar, labial:nasal:+voice +nasal +syllabic	\textipa{\sN}\super w
+	q̩ʷ	uvular, labial:plosive:−voice +syllabic	\textipa{\s{q}}\super w
+	ɢ̩ʷ	uvular, labial:plosive:+voice +syllabic	\textipa{\s{\textscg}}\super w
+	ʛ̩ʷ	uvular, labial:plosive:+voice +syllabic	\textipa{\s{\texthtscg}}\super w
+	χ̩ʷ	uvular, labial:fricative:−voice +syllabic	\textipa{\s{\textchi}}\super w
+	ʁ̩ʷ	uvular, labial:fricative:+voice +syllabic	\textipa{\sK}\super w
+	ɴ̩ʷ	uvular, labial:nasal:+voice +nasal +syllabic	\textipa{\s{\textscn}}\super w
+	ʕ̩ʷ	pharyngeal, labial:fricative:+voice +syllabic	\textipa{\s{\textrevglotstop}}\super w
+	ħ̩ʷ	pharyngeal, labial:fricative:−voice +syllabic	\textipa{\s{\textcrh}}\super w
+	ʔ̩ʷ	glottal, labial:plosive:−voice +syllabic	\textipa{\s{\textglotstop}}\super w
+	h̩ʷ	glottal, labial:fricative:−voice +syllabic	\textipa{\s{h}}\super w
+	ɦ̩ʷ	glottal, labial:fricative:+voice +syllabic	\textipa{\s{\texthth}}\super w
+	m̥̩ʷ	labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *m}}\super w
+	ɱ̥̩ʷ	labiodental, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailm}}\super w
+	n̥̩ʷ	alveolar, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *n}}\super w
+	ɳ̥̩ʷ	retroflex, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *\:n}}\super w
+	ɲ̥̩ʷ	palatal, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailn}}\super w
+	ŋ̥̩ʷ	velar, labial:nasal:−voice +nasal +syllabic	*\textipa{\sN}\super w
+	ɴ̥̩ʷ	uvular, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textscn}}\super w
+	ɥ	labial, palatal:glide:+voice	\textturnh
+	ʍ	labial, velar:fricative:−voice	\textturnw
+	w	labial, velar:glide:+voice	w
+	ɧ	palatoalveolar, velar:fricative:−voice	\texththeng
+	ɕ	alveolar, palatal:fricative:−voice	\textctc
+	ʑ	alveolar, palatal:fricative:+voice	\textctz
+	k͡p	labial, velar:plosive:−voice	\t{k͡p}
+	ɡ͡b	labial, velar:plosive:+voice	\t{g͡b}
+	p͡t	labial, alveolar:plosive:−voice	\t{p͡t}
+	b͡d	labial, alveolar:plosive:+voice	\t{b͡d}
+	t͡ɕ	alveolar, palatal:affricate:−voice	\t{t͡\textctc}
+	d͡ʑ	alveolar, palatal:affricate:+voice	\t{d͡\textctz}
+	ɥ̃	labial, palatal:glide:+voice +nasal	\textipa{\~\textturnh}
+	w̃	labial, velar:glide:+voice +nasal	\textipa{\~w}
+	ʍ̩	labial, velar:fricative:−voice +syllabic	\textipa{\s{\textturnw}}
+	ɧ̩	palatoalveolar, velar:fricative:−voice +syllabic	\textipa{\s{\texththeng}}
+	ɕ̩	alveolar, palatal:fricative:−voice +syllabic	\textipa{\s{\textctc}}
+	ʑ̩	alveolar, palatal:fricative:+voice +syllabic	\textipa{\s{\textctz}}
+	ʍʲ	labial, velar, palatal:fricative:−voice	\textturnw\super j
+	ɧʲ	palatoalveolar, velar, palatal:fricative:−voice	\texththeng\super j
+	ɕʲ	alveolar, palatal:fricative:−voice	\textctc\super j
+	ʑʲ	alveolar, palatal:fricative:+voice	\textctz\super j
+	ʍ̩ʲ	labial, velar, palatal:fricative:−voice +syllabic	\textipa{\s{\textturnw}}\super j
+	ɧ̩ʲ	palatoalveolar, velar, palatal:fricative:−voice +syllabic	\textipa{\s{\texththeng}}\super j
+	ɕ̩ʲ	alveolar, palatal:fricative:−voice +syllabic	\textipa{\s{\textctc}}\super j
+	ʑ̩ʲ	alveolar, palatal:fricative:+voice +syllabic	\textipa{\s{\textctz}}\super j
+	ʍʷ	labial, velar:fricative:−voice	\textturnw\super w
+	ɧʷ	palatoalveolar, velar, labial:fricative:−voice	\texththeng\super w
+	ɕʷ	alveolar, palatal, labial:fricative:−voice	\textctc\super w
+	ʑʷ	alveolar, palatal, labial:fricative:+voice	\textctz\super w
+	ʍ̩ʷ	labial, velar:fricative:−voice +syllabic	\textipa{\s{\textturnw}}\super w
+	ɧ̩ʷ	palatoalveolar, velar, labial:fricative:−voice +syllabic	\textipa{\s{\texththeng}}\super w
+	ɕ̩ʷ	alveolar, palatal, labial:fricative:−voice +syllabic	\textipa{\s{\textctc}}\super w
+	ʑ̩ʷ	alveolar, palatal, labial:fricative:+voice +syllabic	\textipa{\s{\textctz}}\super w
+	k͡pʰ	labial, velar:plosive:−voice +spread glottis	\t{k͡p} extsuperscript{h}
+	ɡ͡bʰ	labial, velar:plosive:+voice +spread glottis	\t{g͡b} extsuperscript{h}
+	p͡tʰ	labial, alveolar:plosive:−voice +spread glottis	\t{p͡t} extsuperscript{h}
+	b͡dʰ	labial, alveolar:plosive:+voice +spread glottis	\t{b͡d} extsuperscript{h}
+	t͡ɕʰ	alveolar, palatal:affricate:−voice +spread glottis	\t{t͡\textctc} extsuperscript{h}
+	d͡ʑʰ	alveolar, palatal:affricate:+voice +spread glottis	\t{d͡\textctz} extsuperscript{h}
+	k͡pʷ	labial, velar:plosive:−voice	\t{k͡p}\super w
+	ɡ͡bʷ	labial, velar:plosive:+voice	\t{g͡b}\super w
+	p͡tʷ	labial, alveolar:plosive:−voice	\t{p͡t}\super w
+	b͡dʷ	labial, alveolar:plosive:+voice	\t{b͡d}\super w
+	t͡ɕʷ	alveolar, palatal, labial:affricate:−voice	\t{t͡\textctc}\super w
+	d͡ʑʷ	alveolar, palatal, labial:affricate:+voice	\t{d͡\textctz}\super w
+	k͡pʲ	labial, velar, palatal:plosive:−voice	\t{k͡p}\super j
+	ɡ͡bʲ	labial, velar, palatal:plosive:+voice	\t{g͡b}\super j
+	p͡tʲ	labial, alveolar, palatal:plosive:−voice	\t{p͡t}\super j
+	b͡dʲ	labial, alveolar, palatal:plosive:+voice	\t{b͡d}\super j
+	t͡ɕʲ	alveolar, palatal:affricate:−voice	\t{t͡\textctc}\super j
+	d͡ʑʲ	alveolar, palatal:affricate:+voice	\t{d͡\textctz}\super j
+	p͡ɸʰ	labial:affricate:−voice +spread glottis	\t{p͡\textipa{F}} extsuperscript{h}
+	b͡βʰ	labial:affricate:+voice +spread glottis	\t{b͡\textipa{B}} extsuperscript{h}
+	p͡fʰ	labiodental:affricate:−voice +spread glottis	\t{pf} extsuperscript{h}
+	b͡vʰ	labiodental:affricate:+voice +spread glottis	\t{b͡v} extsuperscript{h}
+	t̪ʰ	dental:plosive:−voice +spread glottis	\textsubbridge{t} extsuperscript{h}
+	d̪ʰ	dental:plosive:+voice +spread glottis	\textsubbridge{d} extsuperscript{h}
+	d̠ʰ	dental:plosive:+voice +spread glottis	\textsubbar{d} extsuperscript{h}
+	t̪͡θʰ	dental:affricate:−voice +spread glottis	\t{\textsubbridge{t}͡ \textipa{T}} extsuperscript{h}
+	t̪͡s̪ʰ	dental:affricate:−voice +spread glottis	\t{\textsubbridge{t}\textsubbridge{s}} extsuperscript{h}
+	d̪͡z̪ʰ	dental:affricate:+voice +spread glottis	\t{\textsubbridge{d}\textsubbridge{z}} extsuperscript{h}
+	d̪͡ɮ̪ʰ	dental:affricate:+voice +lateral +spread glottis	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}} extsuperscript{h}
+	d̠͡ɮ̠ʰ	dental:affricate:+voice +lateral +spread glottis	\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}} extsuperscript{h}
+	t̪͡ɬ̪ʰ	dental:affricate:+voice +lateral +spread glottis	\t{\textsubbridge{t}͡\textsubbridge{\textbeltl}} extsuperscript{h}
+	d͡zʰ	dental:affricate:+voice +spread glottis	\t{dz} extsuperscript{h}
+	d͡z͎ʰ	dental:affricate:+voice +spread glottis	\t{d͡\begin{IPA}\whistle{z}\end{IPA}} extsuperscript{h}
+	d̪͡ðʰ	dental:affricate:+voice +spread glottis	\t{\textsubbridge{d}͡ð} extsuperscript{h}
+	n̪ʰ	dental:nasal:+voice +nasal +spread glottis	\textsubbridge{n} extsuperscript{h}
+	t̠ʰ	alveolar:plosive:−voice +spread glottis	\textsubbar{t} extsuperscript{h}
+	t͡sʰ	alveolar:affricate:−voice +spread glottis	\t{ts} extsuperscript{h}
+	t͡s͎ʰ	alveolar:affricate:−voice +spread glottis	\t{t͡\begin{IPA}\whistle{s}\end{IPA}} extsuperscript{h}
+	d͡ɮʰ	alveolar:affricate:+voice +lateral +spread glottis	\t{d͡\textlyoghlig} extsuperscript{h}
+	t͡ɬʰ	alveolar:affricate:+voice +lateral +spread glottis	\t{t͡\textbeltl} extsuperscript{h}
+	t͡ɬ̲ʰ	alveolar:affricate:+voice +lateral +spread glottis	\t{t͡\textsubbar{\textbeltl}} extsuperscript{h}
+	n̠ʰ	alveolar:nasal:+voice +nasal +spread glottis	\textipa{\=*n} extsuperscript{h}
+	t͡ʃʰ	palatoalveolar:affricate:−voice +spread glottis	\t{t͡\textipa{S}} extsuperscript{h}
+	d͡ʒʰ	palatoalveolar:affricate:+voice +spread glottis	\t{d͡\textyogh} extsuperscript{h}
+	ʈ͡ʂʰ	retroflex:affricate:−voice +spread glottis	\t{\textrtailt \textrtails} extsuperscript{h}
+	ɖ͡ʐʰ	retroflex:affricate:+voice +spread glottis	\t{ɖ͡\textrtailz} extsuperscript{h}
+	c͡çʰ	palatal:affricate:−voice +spread glottis	\t{c\c{c}} extsuperscript{h}
+	ɟ͡ʝʰ	palatal:affricate:+voice +spread glottis	\t{ɟ͡\textctj} extsuperscript{h}
+	k̟ʰ	velar:plosive:−voice +spread glottis	\begin{IPA}\|+k̟\end{IPA} extsuperscript{h}
+	k̠ʰ	velar:plosive:−voice +spread glottis	\textsubbar{k} extsuperscript{h}
+	ɡ̟͡ɣ̟ʰ	velar:affricate:+voice +spread glottis	\begin{IPA} \t{\|+g \|+G} \end{IPA} extsuperscript{h}
+	ɡ͡ɣʰ	velar:affricate:+voice +spread glottis	\t{ɡ͡\textipa{G}} extsuperscript{h}
+	ɡ̠͡ɣ̠ʰ	velar:affricate:+voice +spread glottis	\t{\textsubbar{ɡ} \textsubbar{\textipa{G}}} extsuperscript{h}
+	k̟͡x̟ʰ	velar:affricate:−voice +spread glottis	\t{\begin{IPA}\|+k̟\|+x̟\end{IPA}} extsuperscript{h}
+	k͡xʰ	velar:affricate:−voice +spread glottis	\t{kx} extsuperscript{h}
+	k̠͡x̠ʰ	velar:affricate:−voice +spread glottis	\t{\textsubbar{k}\textsubbar{x}} extsuperscript{h}
+	ŋ̟ʰ	velar:nasal:+voice +nasal +spread glottis	\begin{IPA}\|+N̟\end{IPA} extsuperscript{h}
+	ŋ̠ʰ	velar:nasal:+voice +nasal +spread glottis	\textipa{\=*N} extsuperscript{h}
+	ɢ͡ʁʰ	uvular:affricate:+voice +spread glottis	\t{\textscg \textipa{K}} extsuperscript{h}
+	q͡χʰ	uvular:affricate:−voice +spread glottis	\t{q͡\textchi} extsuperscript{h}
+	p͡ɸʷ	labial:affricate:−voice	\t{p͡\textipa{F}}\super w
+	b͡βʷ	labial:affricate:+voice	\t{b͡\textipa{B}}\super w
+	p͡fʷ	labiodental, labial:affricate:−voice	\t{pf}\super w
+	b͡vʷ	labiodental, labial:affricate:+voice	\t{b͡v}\super w
+	t̪ʷ	dental, labial:plosive:−voice	\textsubbridge{t}\super w
+	d̪ʷ	dental, labial:plosive:+voice	\textsubbridge{d}\super w
+	d̠ʷ	dental, labial:plosive:+voice	\textsubbar{d}\super w
+	t̪͡θʷ	dental, labial:affricate:−voice	\t{\textsubbridge{t}͡ \textipa{T}}\super w
+	t̪͡s̪ʷ	dental, labial:affricate:−voice	\t{\textsubbridge{t}\textsubbridge{s}}\super w
+	d̪͡z̪ʷ	dental, labial:affricate:+voice	\t{\textsubbridge{d}\textsubbridge{z}}\super w
+	d̪͡ɮ̪ʷ	dental, labial:affricate:+voice +lateral	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super w
+	d̠͡ɮ̠ʷ	dental, labial:affricate:+voice +lateral	\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}\super w
+	t̪͡ɬ̪ʷ	dental, labial:affricate:+voice +lateral	\t{\textsubbridge{t}͡\textsubbridge{\textbeltl}}\super w
+	d͡zʷ	dental, labial:affricate:+voice	\t{dz}\super w
+	d͡z͎ʷ	dental, labial:affricate:+voice	\t{d͡\begin{IPA}\whistle{z}\end{IPA}}\super w
+	ɬ̪ʷ	dental, labial:fricative:+voice +lateral	\textsubbridge{\textbeltl}\super w
+	ɮ̪ʷ	dental, labial:fricative:+voice +lateral	\textsubbridge{\textlyoghlig}\super w
+	d̪͡ðʷ	dental, labial:affricate:+voice	\t{\textsubbridge{d}͡ð}\super w
+	n̪ʷ	dental, labial:nasal:+voice +nasal	\textsubbridge{n}\super w
+	t̠ʷ	alveolar, labial:plosive:−voice	\textsubbar{t}\super w
+	s͎ʷ	alveolar, labial:fricative:−voice	\begin{IPA}\whistle{s}\end{IPA}\super w
+	z͎ʷ	alveolar, labial:fricative:+voice	\begin{IPA}\whistle{z}\end{IPA}\super w
+	t͡sʷ	alveolar, labial:affricate:−voice	\t{ts}\super w
+	t͡s͎ʷ	alveolar, labial:affricate:−voice	\t{t͡\begin{IPA}\whistle{s}\end{IPA}}\super w
+	d͡ɮʷ	alveolar, labial:affricate:+voice +lateral	\t{d͡\textlyoghlig}\super w
+	t͡ɬʷ	alveolar, labial:affricate:+voice +lateral	\t{t͡\textbeltl}\super w
+	t͡ɬ̲ʷ	alveolar, labial:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}\super w
+	ɬ̠ʷ	alveolar, labial:fricative:+voice +lateral	\textsubbar{\textbeltl}\super w
+	ɮ̠ʷ	alveolar, labial:fricative:+voice +lateral	\textsubbar{\textlyoghlig}\super w
+	n̠ʷ	alveolar, labial:nasal:+voice +nasal	\textipa{\=*n}\super w
+	t͡ʃʷ	palatoalveolar, labial:affricate:−voice	\t{t͡\textipa{S}}\super w
+	d͡ʒʷ	palatoalveolar, labial:affricate:+voice	\t{d͡\textyogh}\super w
+	ʈ͡ʂʷ	retroflex, labial:affricate:−voice	\t{\textrtailt \textrtails}\super w
+	ɖ͡ʐʷ	retroflex, labial:affricate:+voice	\t{ɖ͡\textrtailz}\super w
+	c͡çʷ	palatal, labial:affricate:−voice	\t{c\c{c}}\super w
+	ɟ͡ʝʷ	palatal, labial:affricate:+voice	\t{ɟ͡\textctj}\super w
+	k̟ʷ	velar, labial:plosive:−voice	\begin{IPA}\|+k̟\end{IPA}\super w
+	k̠ʷ	velar, labial:plosive:−voice	\textsubbar{k}\super w
+	x̟ʷ	velar, labial:fricative:−voice	\begin{IPA}\|+x̟\end{IPA}\super w
+	x̠ʷ	velar, labial:fricative:−voice	\textsubbar{x}\super w
+	ɣ̟ʷ	velar, labial:fricative:+voice	\begin{IPA}\|+G̟\end{IPA}\super w
+	ɣ̠ʷ	velar, labial:fricative:+voice	\textsubbar{\textipa{G}}\super w
+	ɡ̟͡ɣ̟ʷ	velar, labial:affricate:+voice	\begin{IPA} \t{\|+g \|+G} \end{IPA} \super w
+	ɡ͡ɣʷ	velar, labial:affricate:+voice	\t{ɡ͡\textipa{G}}\super w
+	ɡ̠͡ɣ̠ʷ	velar, labial:affricate:+voice	\t{\textsubbar{ɡ} \textsubbar{\textipa{G}}}\super w
+	k̟͡x̟ʷ	velar, labial:affricate:−voice	\t{\begin{IPA}\|+k̟\|+x̟\end{IPA}}\super w
+	k͡xʷ	velar, labial:affricate:−voice	\t{kx}\super w
+	k̠͡x̠ʷ	velar, labial:affricate:−voice	\t{\textsubbar{k}\textsubbar{x}}\super w
+	ŋ̟ʷ	velar, labial:nasal:+voice +nasal	\begin{IPA}\|+N̟\end{IPA}\super w
+	ŋ̠ʷ	velar, labial:nasal:+voice +nasal	\textipa{\=*N}\super w
+	ɢ͡ʁʷ	uvular, labial:affricate:+voice	\t{\textscg \textipa{K}}\super w
+	q͡χʷ	uvular, labial:affricate:−voice	\t{q͡\textchi}\super w
+	p͡ɸʲ	labial, palatal:affricate:−voice	\t{p͡\textipa{F}}\super j
+	b͡βʲ	labial, palatal:affricate:+voice	\t{b͡\textipa{B}}\super j
+	p͡fʲ	labiodental, palatal:affricate:−voice	\t{pf}\super j
+	b͡vʲ	labiodental, palatal:affricate:+voice	\t{b͡v}\super j
+	t̪ʲ	dental, palatal:plosive:−voice	\textsubbridge{t}\super j
+	d̪ʲ	dental, palatal:plosive:+voice	\textsubbridge{d}\super j
+	d̠ʲ	dental, palatal:plosive:+voice	\textsubbar{d}\super j
+	t̪͡θʲ	dental, palatal:affricate:−voice	\t{\textsubbridge{t}͡ \textipa{T}}\super j
+	t̪͡s̪ʲ	dental, palatal:affricate:−voice	\t{\textsubbridge{t}\textsubbridge{s}}\super j
+	d̪͡z̪ʲ	dental, palatal:affricate:+voice	\t{\textsubbridge{d}\textsubbridge{z}}\super j
+	d̪͡ɮ̪ʲ	dental, palatal:affricate:+voice +lateral	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super j
+	d̠͡ɮ̠ʲ	dental, palatal:affricate:+voice +lateral	\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}\super j
+	t̪͡ɬ̪ʲ	dental, palatal:affricate:+voice +lateral	\t{\textsubbridge{t}͡\textsubbridge{\textbeltl}}\super j
+	d͡zʲ	dental, palatal:affricate:+voice	\t{dz}\super j
+	d͡z͎ʲ	dental, palatal:affricate:+voice	\t{d͡\begin{IPA}\whistle{z}\end{IPA}}\super j
+	ɬ̪ʲ	dental, palatal:fricative:+voice +lateral	\textsubbridge{\textbeltl}\super j
+	ɮ̪ʲ	dental, palatal:fricative:+voice +lateral	\textsubbridge{\textlyoghlig}\super j
+	d̪͡ðʲ	dental, palatal:affricate:+voice	\t{\textsubbridge{d}͡ð}\super j
+	l̪ʲ	dental, palatal:liquid:+voice +lateral	\textsubbridge{l}\super j
+	r̪ʲ	dental, palatal:liquid:+voice −lateral	\textsubbridge{r}\super j
+	ɺ̪ʲ	dental, palatal:liquid:+voice +lateral	\textsubbridge{\textturnlonglegr}\super j
+	ɹ̪ʲ	dental, palatal:liquid:+voice −lateral	\textsubbridge{\textturnr}\super j
+	n̪ʲ	dental, palatal:nasal:+voice +nasal	\textsubbridge{n}\super j
+	t̠ʲ	alveolar, palatal:plosive:−voice	\textsubbar{t}\super j
+	s͎ʲ	alveolar, palatal:fricative:−voice	\begin{IPA}\whistle{s}\end{IPA}\super j
+	z͎ʲ	alveolar, palatal:fricative:+voice	\begin{IPA}\whistle{z}\end{IPA}\super j
+	t͡sʲ	alveolar, palatal:affricate:−voice	\t{ts}\super j
+	t͡s͎ʲ	alveolar, palatal:affricate:−voice	\t{t͡\begin{IPA}\whistle{s}\end{IPA}}\super j
+	d͡ɮʲ	alveolar, palatal:affricate:+voice +lateral	\t{d͡\textlyoghlig}\super j
+	t͡ɬʲ	alveolar, palatal:affricate:+voice +lateral	\t{t͡\textbeltl}\super j
+	t͡ɬ̲ʲ	alveolar, palatal:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}\super j
+	ɬ̠ʲ	alveolar, palatal:fricative:+voice +lateral	\textsubbar{\textbeltl}\super j
+	ɮ̠ʲ	alveolar, palatal:fricative:+voice +lateral	\textsubbar{\textlyoghlig}\super j
+	r̠ʲ	alveolar, palatal:liquid:+voice −lateral	\textsubbar{r}\super j
+	ɺ̠ʲ	alveolar, palatal:liquid:+voice +lateral	\textsubbar{\textturnlonglegr}\super j
+	ɾ̪ʲ	alveolar, palatal:liquid:+voice −lateral	\textsubbridge{\textfishhookr}\super j
+	ɾ̠ʲ	alveolar, palatal:liquid:+voice −lateral	\textsubbar{\textfishhookr}\super j
+	ɹ̠ʲ	alveolar, palatal:liquid:+voice −lateral	\textsubbar{\textturnr}\super j
+	l̠ʲ	alveolar, palatal:liquid:+voice +lateral	\textsubbar{l}\super j
+	n̠ʲ	alveolar, palatal:nasal:+voice +nasal	\textipa{\=*n}\super j
+	t͡ʃʲ	palatoalveolar, palatal:affricate:−voice	\t{t͡\textipa{S}}\super j
+	d͡ʒʲ	palatoalveolar, palatal:affricate:+voice	\t{d͡\textyogh}\super j
+	ʈ͡ʂʲ	retroflex, palatal:affricate:−voice	\t{\textrtailt \textrtails}\super j
+	ɖ͡ʐʲ	retroflex, palatal:affricate:+voice	\t{ɖ͡\textrtailz}\super j
+	c͡çʲ	palatal:affricate:−voice	\t{c\c{c}}\super j
+	ɟ͡ʝʲ	palatal:affricate:+voice	\t{ɟ͡\textctj}\super j
+	k̟ʲ	velar, palatal:plosive:−voice	\begin{IPA}\|+k̟\end{IPA}\super j
+	k̠ʲ	velar, palatal:plosive:−voice	\textsubbar{k}\super j
+	x̟ʲ	velar, palatal:fricative:−voice	\begin{IPA}\|+x̟\end{IPA}\super j
+	x̠ʲ	velar, palatal:fricative:−voice	\textsubbar{x}\super j
+	ɣ̟ʲ	velar, palatal:fricative:+voice	\begin{IPA}\|+G̟\end{IPA}\super j
+	ɣ̠ʲ	velar, palatal:fricative:+voice	\textsubbar{\textipa{G}}\super j
+	ɡ̟͡ɣ̟ʲ	velar, palatal:affricate:+voice	\begin{IPA} \t{\|+g \|+G} \end{IPA} \super j
+	ɡ͡ɣʲ	velar, palatal:affricate:+voice	\t{ɡ͡\textipa{G}}\super j
+	ɡ̠͡ɣ̠ʲ	velar, palatal:affricate:+voice	\t{\textsubbar{ɡ} \textsubbar{\textipa{G}}}\super j
+	k̟͡x̟ʲ	velar, palatal:affricate:−voice	\t{\begin{IPA}\|+k̟\|+x̟\end{IPA}}\super j
+	k͡xʲ	velar, palatal:affricate:−voice	\t{kx}\super j
+	k̠͡x̠ʲ	velar, palatal:affricate:−voice	\t{\textsubbar{k}\textsubbar{x}}\super j
+	ʟ̠ʲ	velar, palatal:liquid:+voice +lateral	\textsubbar{\textscl}\super j
+	ʟ̟ʲ	velar, palatal:liquid:+voice +lateral	\begin{IPA}\|+\;L\end{ipa}\super j
+	ŋ̟ʲ	velar, palatal:nasal:+voice +nasal	\begin{IPA}\|+N̟\end{IPA}\super j
+	ŋ̠ʲ	velar, palatal:nasal:+voice +nasal	\textipa{\=*N}\super j
+	ɢ͡ʁʲ	uvular, palatal:affricate:+voice	\t{\textscg \textipa{K}}\super j
+	q͡χʲ	uvular, palatal:affricate:−voice	\t{q͡\textchi}\super j
+	aː	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	a\textlengthmark
+	ɐː	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textturna\textlengthmark
+	ɑː	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textscripta\textlengthmark
+	ɒː	empty:vowel:−high +low +back +round +voice −nasal −spread glottis −constricted glottis	\textturnscripta\textlengthmark
+	ɔː	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textopeno\textlengthmark
+	eː	empty:vowel:−high −low −back −round +voice −nasal −spread glottis −constricted glottis	e\textlengthmark
+	ɛː	empty:vowel:−high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textipa{E}\textlengthmark
+	əː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textschwa\textlengthmark
+	ɚː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textrhookschwa\textlengthmark
+	ɘː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textreve\textlengthmark
+	ɜː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textipa{3}\textlengthmark
+	ɝː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textrhookrevepsilon\textlengthmark
+	ɞː	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textcloseepsilon\textlengthmark
+	ɤː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textipa{7}\textlengthmark
+	iː	empty:vowel:+high −low −back −round +voice −nasal −spread glottis −constricted glottis	i\textlengthmark
+	ɪː	empty:vowel:+high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textipa{I}\textlengthmark
+	ɨː	empty:vowel:+high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textbari\textlengthmark
+	ɯː	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textturnm\textlengthmark
+	oː	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	o\textlengthmark
+	ɵː	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textbaro\textlengthmark
+	øː	empty:vowel:−high −low −back +round +voice −nasal −spread glottis −constricted glottis	\o\textlengthmark
+	ɶː	empty:vowel:−high +low −back +round +voice −nasal −spread glottis −constricted glottis	\textscoelig\textlengthmark
+	œː	empty:vowel:−high −low −back +round +voice −nasal −spread glottis −constricted glottis	\oe\textlengthmark
+	uː	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	u\textlengthmark
+	ʉː	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textbaru\textlengthmark
+	ʊː	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textupsilon\textlengthmark
+	ʌː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textturnv\textlengthmark
+	yː	empty:vowel:+high −low −back +round +voice −nasal −spread glottis −constricted glottis	y\textlengthmark
+	ʏː	empty:vowel:+high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textipa{Y}\textlengthmark
+	æː	empty:vowel:−high +low −back −round +voice −nasal −spread glottis −constricted glottis	\ae\textlengthmark
+	pː	labial:plosive:−voice	p\textlengthmark
+	bː	labial:plosive:+voice	b\textlengthmark
+	ɓː	labial:plosive:+voice	\texthtb\textlengthmark
+	ɸː	labial:fricative:−voice	\textipa{F}\textlengthmark
+	βː	labial:fricative:+voice	\textipa{B}\textlengthmark
+	p͡ɸː	labial:affricate:−voice	\t{p͡\textipa{F}}\textlengthmark
+	b͡βː	labial:affricate:+voice	\t{b͡\textipa{B}}\textlengthmark
+	mː	labial:nasal:+voice +nasal	m\textlengthmark
+	fː	labiodental:fricative:−voice	f\textlengthmark
+	vː	labiodental:fricative:+voice	v\textlengthmark
+	p͡fː	labiodental:affricate:−voice	\t{pf}\textlengthmark
+	b͡vː	labiodental:affricate:+voice	\t{b͡v}\textlengthmark
+	ɱː	labiodental:nasal:+voice +nasal	\textltailm\textlengthmark
+	t̪ː	dental:plosive:−voice	\textsubbridge{t}\textlengthmark
+	d̪ː	dental:plosive:+voice	\textsubbridge{d}\textlengthmark
+	ɗː	dental:plosive:+voice	\texthtd\textlengthmark
+	d̠ː	dental:plosive:+voice	\textsubbar{d}\textlengthmark
+	θː	dental:fricative:−voice	\textipa{T}\textlengthmark
+	ðː	dental:fricative:+voice	\textipa{D}\textlengthmark
+	t̪͡θː	dental:affricate:−voice	\t{\textsubbridge{t}͡ \textipa{T}}\textlengthmark
+	t̪͡s̪ː	dental:affricate:−voice	\t{\textsubbridge{t}\textsubbridge{s}}\textlengthmark
+	d̪͡z̪ː	dental:affricate:+voice	\t{\textsubbridge{d}\textsubbridge{z}}\textlengthmark
+	d̪͡ɮ̪ː	dental:affricate:+voice +lateral	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\textlengthmark
+	d̠͡ɮ̠ː	dental:affricate:+voice +lateral	\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}\textlengthmark
+	t̪͡ɬ̪ː	dental:affricate:+voice +lateral	\t{\textsubbridge{t}͡\textsubbridge{\textbeltl}}\textlengthmark
+	d͡zː	dental:affricate:+voice	\t{dz}\textlengthmark
+	d͡z͎ː	dental:affricate:+voice	\t{d͡\begin{IPA}\whistle{z}\end{IPA}}\textlengthmark
+	ɬ̪ː	dental:fricative:+voice +lateral	\textsubbridge{\textbeltl}\textlengthmark
+	ɮ̪ː	dental:fricative:+voice +lateral	\textsubbridge{\textlyoghlig}\textlengthmark
+	d̪͡ðː	dental:affricate:+voice	\t{\textsubbridge{d}͡ð}\textlengthmark
+	n̪ː	dental:nasal:+voice +nasal	\textsubbridge{n}\textlengthmark
+	tː	alveolar:plosive:−voice	t\textlengthmark
+	t̠ː	alveolar:plosive:−voice	\textsubbar{t}\textlengthmark
+	dː	alveolar:plosive:+voice	d\textlengthmark
+	sː	alveolar:fricative:−voice	s\textlengthmark
+	s͎ː	alveolar:fricative:−voice	\begin{IPA}\whistle{s}\end{IPA}\textlengthmark
+	zː	alveolar:fricative:+voice	z\textlengthmark
+	z͎ː	alveolar:fricative:+voice	\begin{IPA}\whistle{z}\end{IPA}\textlengthmark
+	t͡sː	alveolar:affricate:−voice	\t{ts}\textlengthmark
+	t͡s͎ː	alveolar:affricate:−voice	\t{t͡\begin{IPA}\whistle{s}\end{IPA}}\textlengthmark
+	d͡ɮː	alveolar:affricate:+voice +lateral	\t{d͡\textlyoghlig}\textlengthmark
+	t͡ɬː	alveolar:affricate:+voice +lateral	\t{t͡\textbeltl}\textlengthmark
+	t͡ɬ̲ː	alveolar:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}\textlengthmark
+	ɬː	alveolar:fricative:+voice +lateral	\textbeltl\textlengthmark
+	ɬ̠ː	alveolar:fricative:+voice +lateral	\textsubbar{\textbeltl}\textlengthmark
+	ɮː	alveolar:fricative:+voice +lateral	\textlyoghlig\textlengthmark
+	ɮ̠ː	alveolar:fricative:+voice +lateral	\textsubbar{\textlyoghlig}\textlengthmark
+	nː	alveolar:nasal:+voice +nasal	n\textlengthmark
+	n̠ː	alveolar:nasal:+voice +nasal	\textipa{\=*n}\textlengthmark
+	ʃː	palatoalveolar:fricative:−voice	\textipa{S}\textlengthmark
+	ʒː	palatoalveolar:fricative:+voice	\textyogh\textlengthmark
+	t͡ʃː	palatoalveolar:affricate:−voice	\t{t͡\textipa{S}}\textlengthmark
+	d͡ʒː	palatoalveolar:affricate:+voice	\t{d͡\textyogh}\textlengthmark
+	ʈː	retroflex:plosive:−voice	\textrtailt\textlengthmark
+	ɖː	retroflex:plosive:+voice	\textrtaild\textlengthmark
+	ʂː	retroflex:fricative:−voice	\textrtails\textlengthmark
+	ʐː	retroflex:fricative:+voice	\textrtailz\textlengthmark
+	ʈ͡ʂː	retroflex:affricate:−voice	\t{\textrtailt \textrtails}\textlengthmark
+	ɖ͡ʐː	retroflex:affricate:+voice	\t{ɖ͡\textrtailz}\textlengthmark
+	ɳː	retroflex:nasal:+voice +nasal	\:n\textlengthmark
+	cː	palatal:plosive:−voice	c\textlengthmark
+	ɟː	palatal:plosive:+voice	\textbardotlessj\textlengthmark
+	c͡çː	palatal:affricate:−voice	\t{c\c{c}}\textlengthmark
+	ɟ͡ʝː	palatal:affricate:+voice	\t{ɟ͡\textctj}\textlengthmark
+	çː	palatal:fricative:−voice	\c{c}\textlengthmark
+	ʝː	palatal:fricative:+voice	\textctj\textlengthmark
+	ɲː	palatal:nasal:+voice +nasal	\textltailn\textlengthmark
+	k̟ː	velar:plosive:−voice	\begin{IPA}\|+k̟\end{IPA}\textlengthmark
+	kː	velar:plosive:−voice	k\textlengthmark
+	k̠ː	velar:plosive:−voice	\textsubbar{k}\textlengthmark
+	ɡː	velar:plosive:+voice	ɡ\textlengthmark
+	ɠː	velar:plosive:+voice	\texthtg\textlengthmark
+	x̟ː	velar:fricative:−voice	\begin{IPA}\|+x̟\end{IPA}\textlengthmark
+	xː	velar:fricative:−voice	x\textlengthmark
+	x̠ː	velar:fricative:−voice	\textsubbar{x}\textlengthmark
+	ɣ̟ː	velar:fricative:+voice	\begin{IPA}\|+G̟\end{IPA}\textlengthmark
+	ɣː	velar:fricative:+voice	\textipa{G}\textlengthmark
+	ɣ̠ː	velar:fricative:+voice	\textsubbar{\textipa{G}}\textlengthmark
+	ɡ̟͡ɣ̟ː	velar:affricate:+voice	\begin{IPA} \t{\|+g \|+G} \end{IPA} \textlengthmark
+	ɡ͡ɣː	velar:affricate:+voice	\t{ɡ͡\textipa{G}}\textlengthmark
+	ɡ̠͡ɣ̠ː	velar:affricate:+voice	\t{\textsubbar{ɡ} \textsubbar{\textipa{G}}}\textlengthmark
+	k̟͡x̟ː	velar:affricate:−voice	\t{\begin{IPA}\|+k̟\|+x̟\end{IPA}}\textlengthmark
+	k͡xː	velar:affricate:−voice	\t{kx}\textlengthmark
+	k̠͡x̠ː	velar:affricate:−voice	\t{\textsubbar{k}\textsubbar{x}}\textlengthmark
+	ŋː	velar:nasal:+voice +nasal	\textipa{N}\textlengthmark
+	ŋ̟ː	velar:nasal:+voice +nasal	\begin{IPA}\|+N̟\end{IPA}\textlengthmark
+	ŋ̠ː	velar:nasal:+voice +nasal	\textipa{\=*N}\textlengthmark
+	qː	uvular:plosive:−voice	q\textlengthmark
+	ɢː	uvular:plosive:+voice	\textscg\textlengthmark
+	ʛː	uvular:plosive:+voice	\texthtscg\textlengthmark
+	ɢ͡ʁː	uvular:affricate:+voice	\t{\textscg \textipa{K}}\textlengthmark
+	χː	uvular:fricative:−voice	\textchi\textlengthmark
+	ʁː	uvular:fricative:+voice	\textipa{K}\textlengthmark
+	q͡χː	uvular:affricate:−voice	\t{q͡\textchi}\textlengthmark
+	ɴː	uvular:nasal:+voice +nasal	\textscn\textlengthmark
+	ʕː	pharyngeal:fricative:+voice	\textrevglotstop\textlengthmark
+	ħː	pharyngeal:fricative:−voice	\textcrh\textlengthmark
+	ʔː	glottal:plosive:−voice	\textglotstop\textlengthmark
+	hː	glottal:fricative:−voice	h\textlengthmark
+	ɦː	glottal:fricative:+voice	\texthth\textlengthmark
+	a̯ː	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{a}\textlengthmark
+	ɐ̯ː	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textturna}\textlengthmark
+	ɑ̯ː	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textscripta}\textlengthmark
+	ɒ̯ː	empty:vowel:−high +low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textturnscripta}\textlengthmark
+	ɔ̯ː	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textopeno}\textlengthmark
+	e̯ː	empty:vowel:−high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{e}\textlengthmark
+	ɛ̯ː	empty:vowel:−high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{E}}\textlengthmark
+	ə̯ː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textschwa}\textlengthmark
+	ɚ̯ː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textrhookschwa}\textlengthmark
+	ɘ̯ː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textreve}\textlengthmark
+	ɜ̯ː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{3}}\textlengthmark
+	ɝ̯ː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textrhookrevepsilon}\textlengthmark
+	ɞ̯ː	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textcloseepsilon}\textlengthmark
+	ɤ̯ː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{7}}\textlengthmark
+	i̯ː	empty:vowel:+high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{i}\textlengthmark
+	ɪ̯ː	empty:vowel:+high −low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{I}}\textlengthmark
+	ɨ̯ː	empty:vowel:+high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textbari}\textlengthmark
+	ɯ̯ː	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textturnm}\textlengthmark
+	o̯ː	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{o}\textlengthmark
+	ɵ̯ː	empty:vowel:−high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textbaro}\textlengthmark
+	ø̯ː	empty:vowel:−high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\o}\textlengthmark
+	ɶ̯ː	empty:vowel:−high +low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textscoelig}\textlengthmark
+	œ̯ː	empty:vowel:−high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\oe}\textlengthmark
+	u̯ː	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{u}\textlengthmark
+	ʉ̯ː	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textbaru}\textlengthmark
+	ʊ̯ː	empty:vowel:+high −low +back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textupsilon}\textlengthmark
+	ʌ̯ː	empty:vowel:−high −low +back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textturnv}\textlengthmark
+	y̯ː	empty:vowel:+high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{y}\textlengthmark
+	ʏ̯ː	empty:vowel:+high −low −back +round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\textipa{Y}}\textlengthmark
+	æ̯ː	empty:vowel:−high +low −back −round +voice −nasal −spread glottis −constricted glottis	\textroundcap{\ae}\textlengthmark
+	ãː	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~a}\textlengthmark
+	ɐ̃ː	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textturna}\textlengthmark
+	ɑ̃ː	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textscripta}\textlengthmark
+	ɒ̃ː	empty:vowel:−high +low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textturnscripta}\textlengthmark
+	ɔ̃ː	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textopeno}\textlengthmark
+	ẽː	empty:vowel:−high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~e}\textlengthmark
+	ɛ̃ː	empty:vowel:−high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{E}}\textlengthmark
+	ə̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textschwa}\textlengthmark
+	ɚ̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textrhookschwa}\textlengthmark
+	ɘ̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textreve}\textlengthmark
+	ɜ̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{3}}\textlengthmark
+	ɝ̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textrhookrevepsilon}\textlengthmark
+	ɞ̃ː	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textcloseepsilon}\textlengthmark
+	ɤ̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{7}}\textlengthmark
+	ĩː	empty:vowel:+high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~i}\textlengthmark
+	ɪ̃ː	empty:vowel:+high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{I}}\textlengthmark
+	ɨ̃ː	empty:vowel:+high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textbari}\textlengthmark
+	ɯ̃ː	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textturnm}\textlengthmark
+	õː	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~o}\textlengthmark
+	ɵ̃ː	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textbaro}\textlengthmark
+	ø̃ː	empty:vowel:−high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\o}\textlengthmark
+	ɶ̃ː	empty:vowel:−high +low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textscoelig}\textlengthmark
+	œ̃ː	empty:vowel:−high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\oe}\textlengthmark
+	ũː	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~u}\textlengthmark
+	ʉ̃ː	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textbaru}\textlengthmark
+	ʊ̃ː	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textupsilon}\textlengthmark
+	ʌ̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textturnv}\textlengthmark
+	ỹː	empty:vowel:+high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~y}\textlengthmark
+	ʏ̃ː	empty:vowel:+high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textipa{Y}}\textlengthmark
+	æ̃ː	empty:vowel:−high +low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\ae}\textlengthmark
+	ã̯ː	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{a}}\textlengthmark
+	ɐ̯̃ː	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textturna}}\textlengthmark
+	ɑ̯̃ː	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textscripta}}\textlengthmark
+	ɒ̯̃ː	empty:vowel:−high +low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textturnscripta}}\textlengthmark
+	ɔ̯̃ː	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textopeno}}\textlengthmark
+	ẽ̯ː	empty:vowel:−high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{e}}\textlengthmark
+	ɛ̯̃ː	empty:vowel:−high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{E}}}\textlengthmark
+	ə̯̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textschwa}}\textlengthmark
+	ɚ̯̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textrhookschwa}}\textlengthmark
+	ɘ̯̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textreve}}\textlengthmark
+	ɜ̯̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{3}}}\textlengthmark
+	ɝ̯̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textrhookrevepsilon}}\textlengthmark
+	ɞ̯̃ː	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textcloseepsilon}}\textlengthmark
+	ɤ̯̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{7}}}\textlengthmark
+	ĩ̯ː	empty:vowel:+high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{i}}\textlengthmark
+	ɪ̯̃ː	empty:vowel:+high −low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{I}}}\textlengthmark
+	ɨ̯̃ː	empty:vowel:+high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textbari}}\textlengthmark
+	ɯ̯̃ː	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textturnm}}\textlengthmark
+	õ̯ː	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{o}}\textlengthmark
+	ɵ̯̃ː	empty:vowel:−high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textbaro}}\textlengthmark
+	ø̯̃ː	empty:vowel:−high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\o}}\textlengthmark
+	ɶ̯̃ː	empty:vowel:−high +low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textscoelig}}\textlengthmark
+	œ̯̃ː	empty:vowel:−high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\oe}}\textlengthmark
+	ũ̯ː	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{u}}\textlengthmark
+	ʉ̯̃ː	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textbaru}}\textlengthmark
+	ʊ̯̃ː	empty:vowel:+high −low +back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textupsilon}}\textlengthmark
+	ʌ̯̃ː	empty:vowel:−high −low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textturnv}}\textlengthmark
+	ỹ̯ː	empty:vowel:+high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{y}}\textlengthmark
+	ʏ̯̃ː	empty:vowel:+high −low −back +round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\textipa{Y}}}\textlengthmark
+	æ̯̃ː	empty:vowel:−high +low −back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~\textroundcap{\ae}}\textlengthmark
+	ḁː	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*a\textlengthmark
+	ɐ̥ː	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textturna\textlengthmark
+	ɑ̥ː	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textscripta\textlengthmark
+	ɒ̥ː	empty:vowel:−high +low +back +round −voice −nasal −spread glottis −constricted glottis	*\textturnscripta\textlengthmark
+	ɔ̥ː	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textopeno\textlengthmark
+	e̥ː	empty:vowel:−high −low −back −round −voice −nasal −spread glottis −constricted glottis	*e\textlengthmark
+	ɛ̥ː	empty:vowel:−high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textipa{E}\textlengthmark
+	ə̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textschwa\textlengthmark
+	ɚ̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textrhookschwa\textlengthmark
+	ɘ̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textreve\textlengthmark
+	ɜ̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textipa{3}\textlengthmark
+	ɝ̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textrhookrevepsilon\textlengthmark
+	ɞ̥ː	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textcloseepsilon\textlengthmark
+	ɤ̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textipa{7}\textlengthmark
+	i̥ː	empty:vowel:+high −low −back −round −voice −nasal −spread glottis −constricted glottis	*i\textlengthmark
+	ɪ̥ː	empty:vowel:+high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textipa{I}\textlengthmark
+	ɨ̥ː	empty:vowel:+high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textbari\textlengthmark
+	ɯ̥ː	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textturnm\textlengthmark
+	o̥ː	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*o\textlengthmark
+	ɵ̥ː	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textbaro\textlengthmark
+	ø̥ː	empty:vowel:−high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\o\textlengthmark
+	ɶ̥ː	empty:vowel:−high +low −back +round −voice −nasal −spread glottis −constricted glottis	*\textscoelig\textlengthmark
+	œ̥ː	empty:vowel:−high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\oe\textlengthmark
+	u̥ː	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*u\textlengthmark
+	ʉ̥ː	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textbaru\textlengthmark
+	ʊ̥ː	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textupsilon\textlengthmark
+	ʌ̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textturnv\textlengthmark
+	y̥ː	empty:vowel:+high −low −back +round −voice −nasal −spread glottis −constricted glottis	*y\textlengthmark
+	ʏ̥ː	empty:vowel:+high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textipa{Y}\textlengthmark
+	æ̥ː	empty:vowel:−high +low −back −round −voice −nasal −spread glottis −constricted glottis	*\ae\textlengthmark
+	m̥ː	labial:nasal:−voice +nasal	*m\textlengthmark
+	ɱ̥ː	labiodental:nasal:−voice +nasal	*\textltailm\textlengthmark
+	n̥ː	alveolar:nasal:−voice +nasal	*n\textlengthmark
+	ɳ̥ː	retroflex:nasal:−voice +nasal	*\:n\textlengthmark
+	ɲ̥ː	palatal:nasal:−voice +nasal	*\textltailn\textlengthmark
+	ŋ̥ː	velar:nasal:−voice +nasal	*\textipa{N}\textlengthmark
+	ɴ̥ː	uvular:nasal:−voice +nasal	*\textscn\textlengthmark
+	a̯̥ː	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{a}\textlengthmark
+	ɐ̯̥ː	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textturna}\textlengthmark
+	ɑ̯̥ː	empty:vowel:−high +low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textscripta}\textlengthmark
+	ɒ̯̥ː	empty:vowel:−high +low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textturnscripta}\textlengthmark
+	ɔ̯̥ː	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textopeno}\textlengthmark
+	e̯̥ː	empty:vowel:−high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{e}\textlengthmark
+	ɛ̯̥ː	empty:vowel:−high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{E}}\textlengthmark
+	ə̯̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textschwa}\textlengthmark
+	ɚ̯̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textrhookschwa}\textlengthmark
+	ɘ̯̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textreve}\textlengthmark
+	ɜ̯̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{3}}\textlengthmark
+	ɝ̯̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textrhookrevepsilon}\textlengthmark
+	ɞ̯̥ː	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textcloseepsilon}\textlengthmark
+	ɤ̯̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{7}}\textlengthmark
+	i̯̥ː	empty:vowel:+high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{i}\textlengthmark
+	ɪ̯̥ː	empty:vowel:+high −low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{I}}\textlengthmark
+	ɨ̯̥ː	empty:vowel:+high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textbari}\textlengthmark
+	ɯ̯̥ː	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textturnm}\textlengthmark
+	o̯̥ː	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{o}\textlengthmark
+	ɵ̯̥ː	empty:vowel:−high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textbaro}\textlengthmark
+	ø̯̥ː	empty:vowel:−high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\o}\textlengthmark
+	ɶ̯̥ː	empty:vowel:−high +low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textscoelig}\textlengthmark
+	œ̯̥ː	empty:vowel:−high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\oe}\textlengthmark
+	u̯̥ː	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{u}\textlengthmark
+	ʉ̯̥ː	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textbaru}\textlengthmark
+	ʊ̯̥ː	empty:vowel:+high −low +back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textupsilon}\textlengthmark
+	ʌ̯̥ː	empty:vowel:−high −low +back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textturnv}\textlengthmark
+	y̯̥ː	empty:vowel:+high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{y}\textlengthmark
+	ʏ̯̥ː	empty:vowel:+high −low −back +round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\textipa{Y}}\textlengthmark
+	æ̯̥ː	empty:vowel:−high +low −back −round −voice −nasal −spread glottis −constricted glottis	*\textroundcap{\ae}\textlengthmark
+	ḁ̃ː	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~a}\textlengthmark
+	ɐ̥̃ː	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textturna}\textlengthmark
+	ɑ̥̃ː	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textscripta}\textlengthmark
+	ɒ̥̃ː	empty:vowel:−high +low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textturnscripta}\textlengthmark
+	ɔ̥̃ː	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textopeno}\textlengthmark
+	ẽ̥ː	empty:vowel:−high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~e}\textlengthmark
+	ɛ̥̃ː	empty:vowel:−high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{E}}\textlengthmark
+	ə̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textschwa}\textlengthmark
+	ɚ̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textrhookschwa}\textlengthmark
+	ɘ̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textreve}\textlengthmark
+	ɜ̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{3}}\textlengthmark
+	ɝ̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textrhookrevepsilon}\textlengthmark
+	ɞ̥̃ː	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textcloseepsilon}\textlengthmark
+	ɤ̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{7}}\textlengthmark
+	ĩ̥ː	empty:vowel:+high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~i}\textlengthmark
+	ɪ̥̃ː	empty:vowel:+high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{I}}\textlengthmark
+	ɨ̥̃ː	empty:vowel:+high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textbari}\textlengthmark
+	ɯ̥̃ː	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textturnm}\textlengthmark
+	õ̥ː	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~o}\textlengthmark
+	ɵ̥̃ː	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textbaro}\textlengthmark
+	ø̥̃ː	empty:vowel:−high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\o}\textlengthmark
+	ɶ̥̃ː	empty:vowel:−high +low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textscoelig}\textlengthmark
+	œ̥̃ː	empty:vowel:−high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\oe}\textlengthmark
+	ũ̥ː	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~u}\textlengthmark
+	ʉ̥̃ː	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textbaru}\textlengthmark
+	ʊ̥̃ː	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textupsilon}\textlengthmark
+	ʌ̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textturnv}\textlengthmark
+	ỹ̥ː	empty:vowel:+high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~y}\textlengthmark
+	ʏ̥̃ː	empty:vowel:+high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textipa{Y}}\textlengthmark
+	æ̥̃ː	empty:vowel:−high +low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\ae}\textlengthmark
+	ã̯̥ː	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{a}}\textlengthmark
+	ɐ̯̥̃ː	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textturna}}\textlengthmark
+	ɑ̯̥̃ː	empty:vowel:−high +low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textscripta}}\textlengthmark
+	ɒ̯̥̃ː	empty:vowel:−high +low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textturnscripta}}\textlengthmark
+	ɔ̯̥̃ː	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textopeno}}\textlengthmark
+	ẽ̯̥ː	empty:vowel:−high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{e}}\textlengthmark
+	ɛ̯̥̃ː	empty:vowel:−high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{E}}}\textlengthmark
+	ə̯̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textschwa}}\textlengthmark
+	ɚ̯̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textrhookschwa}}\textlengthmark
+	ɘ̯̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textreve}}\textlengthmark
+	ɜ̯̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{3}}}\textlengthmark
+	ɝ̯̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textrhookrevepsilon}}\textlengthmark
+	ɞ̯̥̃ː	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textcloseepsilon}}\textlengthmark
+	ɤ̯̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{7}}}\textlengthmark
+	ĩ̯̥ː	empty:vowel:+high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{i}}\textlengthmark
+	ɪ̯̥̃ː	empty:vowel:+high −low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{I}}}\textlengthmark
+	ɨ̯̥̃ː	empty:vowel:+high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textbari}}\textlengthmark
+	ɯ̯̥̃ː	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textturnm}}\textlengthmark
+	õ̯̥ː	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{o}}\textlengthmark
+	ɵ̯̥̃ː	empty:vowel:−high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textbaro}}\textlengthmark
+	ø̯̥̃ː	empty:vowel:−high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\o}}\textlengthmark
+	ɶ̯̥̃ː	empty:vowel:−high +low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textscoelig}}\textlengthmark
+	œ̯̥̃ː	empty:vowel:−high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\oe}}\textlengthmark
+	ũ̯̥ː	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{u}}\textlengthmark
+	ʉ̯̥̃ː	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textbaru}}\textlengthmark
+	ʊ̯̥̃ː	empty:vowel:+high −low +back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textupsilon}}\textlengthmark
+	ʌ̯̥̃ː	empty:vowel:−high −low +back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textturnv}}\textlengthmark
+	ỹ̯̥ː	empty:vowel:+high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{y}}\textlengthmark
+	ʏ̯̥̃ː	empty:vowel:+high −low −back +round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\textipa{Y}}}\textlengthmark
+	æ̯̥̃ː	empty:vowel:−high +low −back −round −voice +nasal −spread glottis −constricted glottis	*\textipa{\~\textroundcap{\ae}}\textlengthmark
+	pʰː	labial:plosive:−voice +spread glottis	p extsuperscript{h}\textlengthmark
+	bʰː	labial:plosive:+voice +spread glottis	b extsuperscript{h}\textlengthmark
+	ɓʰː	labial:plosive:+voice +spread glottis	\texthtb extsuperscript{h}\textlengthmark
+	mʰː	labial:nasal:+voice +nasal +spread glottis	m extsuperscript{h}\textlengthmark
+	ɱʰː	labiodental:nasal:+voice +nasal +spread glottis	\textltailm extsuperscript{h}\textlengthmark
+	ɗʰː	dental:plosive:+voice +spread glottis	\texthtd extsuperscript{h}\textlengthmark
+	tʰː	alveolar:plosive:−voice +spread glottis	t extsuperscript{h}\textlengthmark
+	dʰː	alveolar:plosive:+voice +spread glottis	d extsuperscript{h}\textlengthmark
+	nʰː	alveolar:nasal:+voice +nasal +spread glottis	n extsuperscript{h}\textlengthmark
+	ʈʰː	retroflex:plosive:−voice +spread glottis	\textrtailt extsuperscript{h}\textlengthmark
+	ɖʰː	retroflex:plosive:+voice +spread glottis	\textrtaild extsuperscript{h}\textlengthmark
+	ɳʰː	retroflex:nasal:+voice +nasal +spread glottis	\:n extsuperscript{h}\textlengthmark
+	cʰː	palatal:plosive:−voice +spread glottis	c extsuperscript{h}\textlengthmark
+	ɟʰː	palatal:plosive:+voice +spread glottis	\textbardotlessj extsuperscript{h}\textlengthmark
+	ɲʰː	palatal:nasal:+voice +nasal +spread glottis	\textltailn extsuperscript{h}\textlengthmark
+	kʰː	velar:plosive:−voice +spread glottis	k extsuperscript{h}\textlengthmark
+	ɡʰː	velar:plosive:+voice +spread glottis	ɡ extsuperscript{h}\textlengthmark
+	ɠʰː	velar:plosive:+voice +spread glottis	\texthtg extsuperscript{h}\textlengthmark
+	ŋʰː	velar:nasal:+voice +nasal +spread glottis	\textipa{N} extsuperscript{h}\textlengthmark
+	qʰː	uvular:plosive:−voice +spread glottis	q extsuperscript{h}\textlengthmark
+	ɢʰː	uvular:plosive:+voice +spread glottis	\textscg extsuperscript{h}\textlengthmark
+	ʛʰː	uvular:plosive:+voice +spread glottis	\texthtscg extsuperscript{h}\textlengthmark
+	ɴʰː	uvular:nasal:+voice +nasal +spread glottis	\textscn extsuperscript{h}\textlengthmark
+	ʔʰː	glottal:plosive:−voice +spread glottis	\textglotstop extsuperscript{h}\textlengthmark
+	m̥ʰː	labial:nasal:−voice +nasal +spread glottis	*m extsuperscript{h}\textlengthmark
+	ɱ̥ʰː	labiodental:nasal:−voice +nasal +spread glottis	*\textltailm extsuperscript{h}\textlengthmark
+	n̥ʰː	alveolar:nasal:−voice +nasal +spread glottis	*n extsuperscript{h}\textlengthmark
+	ɳ̥ʰː	retroflex:nasal:−voice +nasal +spread glottis	*\:n extsuperscript{h}\textlengthmark
+	ɲ̥ʰː	palatal:nasal:−voice +nasal +spread glottis	*\textltailn extsuperscript{h}\textlengthmark
+	ŋ̥ʰː	velar:nasal:−voice +nasal +spread glottis	*\textipa{N} extsuperscript{h}\textlengthmark
+	ɴ̥ʰː	uvular:nasal:−voice +nasal +spread glottis	*\textscn extsuperscript{h}\textlengthmark
+	p̩ː	labial:plosive:−voice +syllabic	\textipa{\s{p}}\textlengthmark
+	b̩ː	labial:plosive:+voice +syllabic	\textipa{\s{b}}\textlengthmark
+	ɓ̩ː	labial:plosive:+voice +syllabic	\textipa{\s{\texthtb}}\textlengthmark
+	ɸ̩ː	labial:fricative:−voice +syllabic	\textipa{\sF}\textlengthmark
+	β̩ː	labial:fricative:+voice +syllabic	\textipa{\sB}\textlengthmark
+	m̩ː	labial:nasal:+voice +nasal +syllabic	\textsyllabic{m}\textlengthmark
+	f̩ː	labiodental:fricative:−voice +syllabic	\textipa{\s{f}}\textlengthmark
+	v̩ː	labiodental:fricative:+voice +syllabic	\textipa{\s{v}}\textlengthmark
+	ɱ̩ː	labiodental:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailm}}\textlengthmark
+	ɗ̩ː	dental:plosive:+voice +syllabic	\textipa{\s{\texthtd}}\textlengthmark
+	θ̩ː	dental:fricative:−voice +syllabic	\textipa{\sT}\textlengthmark
+	ð̩ː	dental:fricative:+voice +syllabic	\textipa{\sD}\textlengthmark
+	t̩ː	alveolar:plosive:−voice +syllabic	\textipa{\s{t}}\textlengthmark
+	d̩ː	alveolar:plosive:+voice +syllabic	\textipa{\s{d}}\textlengthmark
+	s̩ː	alveolar:fricative:−voice +syllabic	\textipa{\s{s}}\textlengthmark
+	z̩ː	alveolar:fricative:+voice +syllabic	\textipa{\s{z}}\textlengthmark
+	ɬ̩ː	alveolar:fricative:+voice +lateral +syllabic	\textipa{\s{\textbeltl}}\textlengthmark
+	ɮ̩ː	alveolar:fricative:+voice +lateral +syllabic	\textipa{\s{\textlyoghlig}}\textlengthmark
+	n̩ː	alveolar:nasal:+voice +nasal +syllabic	\textsyllabic{n}\textlengthmark
+	ʃ̩ː	palatoalveolar:fricative:−voice +syllabic	\textipa{\sS}\textlengthmark
+	ʒ̩ː	palatoalveolar:fricative:+voice +syllabic	\textipa{\s{\textyogh}}\textlengthmark
+	ʈ̩ː	retroflex:plosive:−voice +syllabic	\textipa{\s{\textrtailt}}\textlengthmark
+	ɖ̩ː	retroflex:plosive:+voice +syllabic	\textipa{\s{\textrtaild}}\textlengthmark
+	ʂ̩ː	retroflex:fricative:−voice +syllabic	\textipa{\s{\textrtails}}\textlengthmark
+	ʐ̩ː	retroflex:fricative:+voice +syllabic	\textipa{\s{\textrtailz}}\textlengthmark
+	ɳ̩ː	retroflex:nasal:+voice +nasal +syllabic	\textipa{\s{\:n}}\textlengthmark
+	c̩ː	palatal:plosive:−voice +syllabic	\textipa{\s{c}}\textlengthmark
+	ɟ̩ː	palatal:plosive:+voice +syllabic	\textipa{\s{\textbardotlessj}}\textlengthmark
+	ç̩ː	palatal:fricative:−voice +syllabic	\textipa{\s{\c{c}}}\textlengthmark
+	ʝ̩ː	palatal:fricative:+voice +syllabic	\textipa{\s{\textctj}}\textlengthmark
+	ɲ̩ː	palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailn}}\textlengthmark
+	k̩ː	velar:plosive:−voice +syllabic	\textipa{\s{k}}\textlengthmark
+	ɡ̩ː	velar:plosive:+voice +syllabic	\textipa{\s{ɡ}}\textlengthmark
+	ɠ̩ː	velar:plosive:+voice +syllabic	\textipa{\s{\texthtg}}\textlengthmark
+	x̩ː	velar:fricative:−voice +syllabic	\textipa{\s{x}}\textlengthmark
+	ɣ̩ː	velar:fricative:+voice +syllabic	\textipa{\sG}\textlengthmark
+	ŋ̩ː	velar:nasal:+voice +nasal +syllabic	\textipa{\sN}\textlengthmark
+	q̩ː	uvular:plosive:−voice +syllabic	\textipa{\s{q}}\textlengthmark
+	ɢ̩ː	uvular:plosive:+voice +syllabic	\textipa{\s{\textscg}}\textlengthmark
+	ʛ̩ː	uvular:plosive:+voice +syllabic	\textipa{\s{\texthtscg}}\textlengthmark
+	χ̩ː	uvular:fricative:−voice +syllabic	\textipa{\s{\textchi}}\textlengthmark
+	ʁ̩ː	uvular:fricative:+voice +syllabic	\textipa{\sK}\textlengthmark
+	ɴ̩ː	uvular:nasal:+voice +nasal +syllabic	\textipa{\s{\textscn}}\textlengthmark
+	ʕ̩ː	pharyngeal:fricative:+voice +syllabic	\textipa{\s{\textrevglotstop}}\textlengthmark
+	ħ̩ː	pharyngeal:fricative:−voice +syllabic	\textipa{\s{\textcrh}}\textlengthmark
+	ʔ̩ː	glottal:plosive:−voice +syllabic	\textipa{\s{\textglotstop}}\textlengthmark
+	h̩ː	glottal:fricative:−voice +syllabic	\textipa{\s{h}}\textlengthmark
+	ɦ̩ː	glottal:fricative:+voice +syllabic	\textipa{\s{\texthth}}\textlengthmark
+	m̥̩ː	labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *m}}\textlengthmark
+	ɱ̥̩ː	labiodental:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailm}}\textlengthmark
+	n̥̩ː	alveolar:nasal:−voice +nasal +syllabic	\textipa{\s{ *n}}\textlengthmark
+	ɳ̥̩ː	retroflex:nasal:−voice +nasal +syllabic	\textipa{\s{ *\:n}}\textlengthmark
+	ɲ̥̩ː	palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailn}}\textlengthmark
+	ŋ̥̩ː	velar:nasal:−voice +nasal +syllabic	*\textipa{\sN}\textlengthmark
+	ɴ̥̩ː	uvular:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textscn}}\textlengthmark
+	pʲː	labial, palatal:plosive:−voice	p\super j\textlengthmark
+	bʲː	labial, palatal:plosive:+voice	b\super j\textlengthmark
+	ɓʲː	labial, palatal:plosive:+voice	\texthtb\super j\textlengthmark
+	ɸʲː	labial, palatal:fricative:−voice	\textipa{F}\super j\textlengthmark
+	βʲː	labial, palatal:fricative:+voice	\textipa{B}\super j\textlengthmark
+	mʲː	labial, palatal:nasal:+voice +nasal	m\super j\textlengthmark
+	fʲː	labiodental, palatal:fricative:−voice	f\super j\textlengthmark
+	vʲː	labiodental, palatal:fricative:+voice	v\super j\textlengthmark
+	ɱʲː	labiodental, palatal:nasal:+voice +nasal	\textltailm\super j\textlengthmark
+	ɗʲː	dental, palatal:plosive:+voice	\texthtd\super j\textlengthmark
+	θʲː	dental, palatal:fricative:−voice	\textipa{T}\super j\textlengthmark
+	ðʲː	dental, palatal:fricative:+voice	\textipa{D}\super j\textlengthmark
+	tʲː	alveolar, palatal:plosive:−voice	t\super j\textlengthmark
+	dʲː	alveolar, palatal:plosive:+voice	d\super j\textlengthmark
+	sʲː	alveolar, palatal:fricative:−voice	s\super j\textlengthmark
+	zʲː	alveolar, palatal:fricative:+voice	z\super j\textlengthmark
+	ɬʲː	alveolar, palatal:fricative:+voice +lateral	\textbeltl\super j\textlengthmark
+	ɮʲː	alveolar, palatal:fricative:+voice +lateral	\textlyoghlig\super j\textlengthmark
+	nʲː	alveolar, palatal:nasal:+voice +nasal	n\super j\textlengthmark
+	ʃʲː	palatoalveolar, palatal:fricative:−voice	\textipa{S}\super j\textlengthmark
+	ʒʲː	palatoalveolar, palatal:fricative:+voice	\textyogh\super j\textlengthmark
+	ʈʲː	retroflex, palatal:plosive:−voice	\textrtailt\super j\textlengthmark
+	ɖʲː	retroflex, palatal:plosive:+voice	\textrtaild\super j\textlengthmark
+	ʂʲː	retroflex, palatal:fricative:−voice	\textrtails\super j\textlengthmark
+	ʐʲː	retroflex, palatal:fricative:+voice	\textrtailz\super j\textlengthmark
+	ɳʲː	retroflex, palatal:nasal:+voice +nasal	\:n\super j\textlengthmark
+	cʲː	palatal:plosive:−voice	c\super j\textlengthmark
+	ɟʲː	palatal:plosive:+voice	\textbardotlessj\super j\textlengthmark
+	çʲː	palatal:fricative:−voice	\c{c}\super j\textlengthmark
+	ʝʲː	palatal:fricative:+voice	\textctj\super j\textlengthmark
+	ɲʲː	palatal:nasal:+voice +nasal	\textltailn\super j\textlengthmark
+	kʲː	velar, palatal:plosive:−voice	k\super j\textlengthmark
+	ɡʲː	velar, palatal:plosive:+voice	ɡ\super j\textlengthmark
+	ɠʲː	velar, palatal:plosive:+voice	\texthtg\super j\textlengthmark
+	xʲː	velar, palatal:fricative:−voice	x\super j\textlengthmark
+	ɣʲː	velar, palatal:fricative:+voice	\textipa{G}\super j\textlengthmark
+	ŋʲː	velar, palatal:nasal:+voice +nasal	\textipa{N}\super j\textlengthmark
+	qʲː	uvular, palatal:plosive:−voice	q\super j\textlengthmark
+	ɢʲː	uvular, palatal:plosive:+voice	\textscg\super j\textlengthmark
+	ʛʲː	uvular, palatal:plosive:+voice	\texthtscg\super j\textlengthmark
+	χʲː	uvular, palatal:fricative:−voice	\textchi\super j\textlengthmark
+	ʁʲː	uvular, palatal:fricative:+voice	\textipa{K}\super j\textlengthmark
+	ɴʲː	uvular, palatal:nasal:+voice +nasal	\textscn\super j\textlengthmark
+	ʕʲː	pharyngeal, palatal:fricative:+voice	\textrevglotstop\super j\textlengthmark
+	ħʲː	pharyngeal, palatal:fricative:−voice	\textcrh\super j\textlengthmark
+	ʔʲː	glottal, palatal:plosive:−voice	\textglotstop\super j\textlengthmark
+	hʲː	glottal, palatal:fricative:−voice	h\super j\textlengthmark
+	ɦʲː	glottal, palatal:fricative:+voice	\texthth\super j\textlengthmark
+	m̥ʲː	labial, palatal:nasal:−voice +nasal	*m\super j\textlengthmark
+	ɱ̥ʲː	labiodental, palatal:nasal:−voice +nasal	*\textltailm\super j\textlengthmark
+	n̥ʲː	alveolar, palatal:nasal:−voice +nasal	*n\super j\textlengthmark
+	ɳ̥ʲː	retroflex, palatal:nasal:−voice +nasal	*\:n\super j\textlengthmark
+	ɲ̥ʲː	palatal:nasal:−voice +nasal	*\textltailn\super j\textlengthmark
+	ŋ̥ʲː	velar, palatal:nasal:−voice +nasal	*\textipa{N}\super j\textlengthmark
+	ɴ̥ʲː	uvular, palatal:nasal:−voice +nasal	*\textscn\super j\textlengthmark
+	pʰʲː	labial, palatal:plosive:−voice +spread glottis	p extsuperscript{h}\super j\textlengthmark
+	bʰʲː	labial, palatal:plosive:+voice +spread glottis	b extsuperscript{h}\super j\textlengthmark
+	ɓʰʲː	labial, palatal:plosive:+voice +spread glottis	\texthtb extsuperscript{h}\super j\textlengthmark
+	mʰʲː	labial, palatal:nasal:+voice +nasal +spread glottis	m extsuperscript{h}\super j\textlengthmark
+	ɱʰʲː	labiodental, palatal:nasal:+voice +nasal +spread glottis	\textltailm extsuperscript{h}\super j\textlengthmark
+	ɗʰʲː	dental, palatal:plosive:+voice +spread glottis	\texthtd extsuperscript{h}\super j\textlengthmark
+	tʰʲː	alveolar, palatal:plosive:−voice +spread glottis	t extsuperscript{h}\super j\textlengthmark
+	dʰʲː	alveolar, palatal:plosive:+voice +spread glottis	d extsuperscript{h}\super j\textlengthmark
+	nʰʲː	alveolar, palatal:nasal:+voice +nasal +spread glottis	n extsuperscript{h}\super j\textlengthmark
+	ʈʰʲː	retroflex, palatal:plosive:−voice +spread glottis	\textrtailt extsuperscript{h}\super j\textlengthmark
+	ɖʰʲː	retroflex, palatal:plosive:+voice +spread glottis	\textrtaild extsuperscript{h}\super j\textlengthmark
+	ɳʰʲː	retroflex, palatal:nasal:+voice +nasal +spread glottis	\:n extsuperscript{h}\super j\textlengthmark
+	cʰʲː	palatal:plosive:−voice +spread glottis	c extsuperscript{h}\super j\textlengthmark
+	ɟʰʲː	palatal:plosive:+voice +spread glottis	\textbardotlessj extsuperscript{h}\super j\textlengthmark
+	ɲʰʲː	palatal:nasal:+voice +nasal +spread glottis	\textltailn extsuperscript{h}\super j\textlengthmark
+	kʰʲː	velar, palatal:plosive:−voice +spread glottis	k extsuperscript{h}\super j\textlengthmark
+	ɡʰʲː	velar, palatal:plosive:+voice +spread glottis	ɡ extsuperscript{h}\super j\textlengthmark
+	ɠʰʲː	velar, palatal:plosive:+voice +spread glottis	\texthtg extsuperscript{h}\super j\textlengthmark
+	ŋʰʲː	velar, palatal:nasal:+voice +nasal +spread glottis	\textipa{N} extsuperscript{h}\super j\textlengthmark
+	qʰʲː	uvular, palatal:plosive:−voice +spread glottis	q extsuperscript{h}\super j\textlengthmark
+	ɢʰʲː	uvular, palatal:plosive:+voice +spread glottis	\textscg extsuperscript{h}\super j\textlengthmark
+	ʛʰʲː	uvular, palatal:plosive:+voice +spread glottis	\texthtscg extsuperscript{h}\super j\textlengthmark
+	ɴʰʲː	uvular, palatal:nasal:+voice +nasal +spread glottis	\textscn extsuperscript{h}\super j\textlengthmark
+	ʔʰʲː	glottal, palatal:plosive:−voice +spread glottis	\textglotstop extsuperscript{h}\super j\textlengthmark
+	m̥ʰʲː	labial, palatal:nasal:−voice +nasal +spread glottis	*m extsuperscript{h}\super j\textlengthmark
+	ɱ̥ʰʲː	labiodental, palatal:nasal:−voice +nasal +spread glottis	*\textltailm extsuperscript{h}\super j\textlengthmark
+	n̥ʰʲː	alveolar, palatal:nasal:−voice +nasal +spread glottis	*n extsuperscript{h}\super j\textlengthmark
+	ɳ̥ʰʲː	retroflex, palatal:nasal:−voice +nasal +spread glottis	*\:n extsuperscript{h}\super j\textlengthmark
+	ɲ̥ʰʲː	palatal:nasal:−voice +nasal +spread glottis	*\textltailn extsuperscript{h}\super j\textlengthmark
+	ŋ̥ʰʲː	velar, palatal:nasal:−voice +nasal +spread glottis	*\textipa{N} extsuperscript{h}\super j\textlengthmark
+	ɴ̥ʰʲː	uvular, palatal:nasal:−voice +nasal +spread glottis	*\textscn extsuperscript{h}\super j\textlengthmark
+	p̩ʲː	labial, palatal:plosive:−voice +syllabic	\textipa{\s{p}}\super j\textlengthmark
+	b̩ʲː	labial, palatal:plosive:+voice +syllabic	\textipa{\s{b}}\super j\textlengthmark
+	ɓ̩ʲː	labial, palatal:plosive:+voice +syllabic	\textipa{\s{\texthtb}}\super j\textlengthmark
+	ɸ̩ʲː	labial, palatal:fricative:−voice +syllabic	\textipa{\sF}\super j\textlengthmark
+	β̩ʲː	labial, palatal:fricative:+voice +syllabic	\textipa{\sB}\super j\textlengthmark
+	m̩ʲː	labial, palatal:nasal:+voice +nasal +syllabic	\textsyllabic{m}\super j\textlengthmark
+	f̩ʲː	labiodental, palatal:fricative:−voice +syllabic	\textipa{\s{f}}\super j\textlengthmark
+	v̩ʲː	labiodental, palatal:fricative:+voice +syllabic	\textipa{\s{v}}\super j\textlengthmark
+	ɱ̩ʲː	labiodental, palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailm}}\super j\textlengthmark
+	ɗ̩ʲː	dental, palatal:plosive:+voice +syllabic	\textipa{\s{\texthtd}}\super j\textlengthmark
+	θ̩ʲː	dental, palatal:fricative:−voice +syllabic	\textipa{\sT}\super j\textlengthmark
+	ð̩ʲː	dental, palatal:fricative:+voice +syllabic	\textipa{\sD}\super j\textlengthmark
+	t̩ʲː	alveolar, palatal:plosive:−voice +syllabic	\textipa{\s{t}}\super j\textlengthmark
+	d̩ʲː	alveolar, palatal:plosive:+voice +syllabic	\textipa{\s{d}}\super j\textlengthmark
+	s̩ʲː	alveolar, palatal:fricative:−voice +syllabic	\textipa{\s{s}}\super j\textlengthmark
+	z̩ʲː	alveolar, palatal:fricative:+voice +syllabic	\textipa{\s{z}}\super j\textlengthmark
+	ɬ̩ʲː	alveolar, palatal:fricative:+voice +lateral +syllabic	\textipa{\s{\textbeltl}}\super j\textlengthmark
+	ɮ̩ʲː	alveolar, palatal:fricative:+voice +lateral +syllabic	\textipa{\s{\textlyoghlig}}\super j\textlengthmark
+	n̩ʲː	alveolar, palatal:nasal:+voice +nasal +syllabic	\textsyllabic{n}\super j\textlengthmark
+	ʃ̩ʲː	palatoalveolar, palatal:fricative:−voice +syllabic	\textipa{\sS}\super j\textlengthmark
+	ʒ̩ʲː	palatoalveolar, palatal:fricative:+voice +syllabic	\textipa{\s{\textyogh}}\super j\textlengthmark
+	ʈ̩ʲː	retroflex, palatal:plosive:−voice +syllabic	\textipa{\s{\textrtailt}}\super j\textlengthmark
+	ɖ̩ʲː	retroflex, palatal:plosive:+voice +syllabic	\textipa{\s{\textrtaild}}\super j\textlengthmark
+	ʂ̩ʲː	retroflex, palatal:fricative:−voice +syllabic	\textipa{\s{\textrtails}}\super j\textlengthmark
+	ʐ̩ʲː	retroflex, palatal:fricative:+voice +syllabic	\textipa{\s{\textrtailz}}\super j\textlengthmark
+	ɳ̩ʲː	retroflex, palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\:n}}\super j\textlengthmark
+	c̩ʲː	palatal:plosive:−voice +syllabic	\textipa{\s{c}}\super j\textlengthmark
+	ɟ̩ʲː	palatal:plosive:+voice +syllabic	\textipa{\s{\textbardotlessj}}\super j\textlengthmark
+	ç̩ʲː	palatal:fricative:−voice +syllabic	\textipa{\s{\c{c}}}\super j\textlengthmark
+	ʝ̩ʲː	palatal:fricative:+voice +syllabic	\textipa{\s{\textctj}}\super j\textlengthmark
+	ɲ̩ʲː	palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailn}}\super j\textlengthmark
+	k̩ʲː	velar, palatal:plosive:−voice +syllabic	\textipa{\s{k}}\super j\textlengthmark
+	ɡ̩ʲː	velar, palatal:plosive:+voice +syllabic	\textipa{\s{ɡ}}\super j\textlengthmark
+	ɠ̩ʲː	velar, palatal:plosive:+voice +syllabic	\textipa{\s{\texthtg}}\super j\textlengthmark
+	x̩ʲː	velar, palatal:fricative:−voice +syllabic	\textipa{\s{x}}\super j\textlengthmark
+	ɣ̩ʲː	velar, palatal:fricative:+voice +syllabic	\textipa{\sG}\super j\textlengthmark
+	ŋ̩ʲː	velar, palatal:nasal:+voice +nasal +syllabic	\textipa{\sN}\super j\textlengthmark
+	q̩ʲː	uvular, palatal:plosive:−voice +syllabic	\textipa{\s{q}}\super j\textlengthmark
+	ɢ̩ʲː	uvular, palatal:plosive:+voice +syllabic	\textipa{\s{\textscg}}\super j\textlengthmark
+	ʛ̩ʲː	uvular, palatal:plosive:+voice +syllabic	\textipa{\s{\texthtscg}}\super j\textlengthmark
+	χ̩ʲː	uvular, palatal:fricative:−voice +syllabic	\textipa{\s{\textchi}}\super j\textlengthmark
+	ʁ̩ʲː	uvular, palatal:fricative:+voice +syllabic	\textipa{\sK}\super j\textlengthmark
+	ɴ̩ʲː	uvular, palatal:nasal:+voice +nasal +syllabic	\textipa{\s{\textscn}}\super j\textlengthmark
+	ʕ̩ʲː	pharyngeal, palatal:fricative:+voice +syllabic	\textipa{\s{\textrevglotstop}}\super j\textlengthmark
+	ħ̩ʲː	pharyngeal, palatal:fricative:−voice +syllabic	\textipa{\s{\textcrh}}\super j\textlengthmark
+	ʔ̩ʲː	glottal, palatal:plosive:−voice +syllabic	\textipa{\s{\textglotstop}}\super j\textlengthmark
+	h̩ʲː	glottal, palatal:fricative:−voice +syllabic	\textipa{\s{h}}\super j\textlengthmark
+	ɦ̩ʲː	glottal, palatal:fricative:+voice +syllabic	\textipa{\s{\texthth}}\super j\textlengthmark
+	m̥̩ʲː	labial, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *m}}\super j\textlengthmark
+	ɱ̥̩ʲː	labiodental, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailm}}\super j\textlengthmark
+	n̥̩ʲː	alveolar, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *n}}\super j\textlengthmark
+	ɳ̥̩ʲː	retroflex, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\:n}}\super j\textlengthmark
+	ɲ̥̩ʲː	palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailn}}\super j\textlengthmark
+	ŋ̥̩ʲː	velar, palatal:nasal:−voice +nasal +syllabic	*\textipa{\sN}\super j\textlengthmark
+	ɴ̥̩ʲː	uvular, palatal:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textscn}}\super j\textlengthmark
+	pʷː	labial:plosive:−voice	p\super w\textlengthmark
+	bʷː	labial:plosive:+voice	b\super w\textlengthmark
+	ɓʷː	labial:plosive:+voice	\texthtb\super w\textlengthmark
+	ɸʷː	labial:fricative:−voice	\textipa{F}\super w\textlengthmark
+	βʷː	labial:fricative:+voice	\textipa{B}\super w\textlengthmark
+	mʷː	labial:nasal:+voice +nasal	m\super w\textlengthmark
+	fʷː	labiodental, labial:fricative:−voice	f\super w\textlengthmark
+	vʷː	labiodental, labial:fricative:+voice	v\super w\textlengthmark
+	ɱʷː	labiodental, labial:nasal:+voice +nasal	\textltailm\super w\textlengthmark
+	ɗʷː	dental, labial:plosive:+voice	\texthtd\super w\textlengthmark
+	θʷː	dental, labial:fricative:−voice	\textipa{T}\super w\textlengthmark
+	ðʷː	dental, labial:fricative:+voice	\textipa{D}\super w\textlengthmark
+	tʷː	alveolar, labial:plosive:−voice	t\super w\textlengthmark
+	dʷː	alveolar, labial:plosive:+voice	d\super w\textlengthmark
+	sʷː	alveolar, labial:fricative:−voice	s\super w\textlengthmark
+	zʷː	alveolar, labial:fricative:+voice	z\super w\textlengthmark
+	ɬʷː	alveolar, labial:fricative:+voice +lateral	\textbeltl\super w\textlengthmark
+	ɮʷː	alveolar, labial:fricative:+voice +lateral	\textlyoghlig\super w\textlengthmark
+	nʷː	alveolar, labial:nasal:+voice +nasal	n\super w\textlengthmark
+	ʃʷː	palatoalveolar, labial:fricative:−voice	\textipa{S}\super w\textlengthmark
+	ʒʷː	palatoalveolar, labial:fricative:+voice	\textyogh\super w\textlengthmark
+	ʈʷː	retroflex, labial:plosive:−voice	\textrtailt\super w\textlengthmark
+	ɖʷː	retroflex, labial:plosive:+voice	\textrtaild\super w\textlengthmark
+	ʂʷː	retroflex, labial:fricative:−voice	\textrtails\super w\textlengthmark
+	ʐʷː	retroflex, labial:fricative:+voice	\textrtailz\super w\textlengthmark
+	ɳʷː	retroflex, labial:nasal:+voice +nasal	\:n\super w\textlengthmark
+	cʷː	palatal, labial:plosive:−voice	c\super w\textlengthmark
+	ɟʷː	palatal, labial:plosive:+voice	\textbardotlessj\super w\textlengthmark
+	çʷː	palatal, labial:fricative:−voice	\c{c}\super w\textlengthmark
+	ʝʷː	palatal, labial:fricative:+voice	\textctj\super w\textlengthmark
+	ɲʷː	palatal, labial:nasal:+voice +nasal	\textltailn\super w\textlengthmark
+	kʷː	velar, labial:plosive:−voice	k\super w\textlengthmark
+	ɡʷː	velar, labial:plosive:+voice	ɡ\super w\textlengthmark
+	ɠʷː	velar, labial:plosive:+voice	\texthtg\super w\textlengthmark
+	xʷː	velar, labial:fricative:−voice	x\super w\textlengthmark
+	ɣʷː	velar, labial:fricative:+voice	\textipa{G}\super w\textlengthmark
+	ŋʷː	velar, labial:nasal:+voice +nasal	\textipa{N}\super w\textlengthmark
+	qʷː	uvular, labial:plosive:−voice	q\super w\textlengthmark
+	ɢʷː	uvular, labial:plosive:+voice	\textscg\super w\textlengthmark
+	ʛʷː	uvular, labial:plosive:+voice	\texthtscg\super w\textlengthmark
+	χʷː	uvular, labial:fricative:−voice	\textchi\super w\textlengthmark
+	ʁʷː	uvular, labial:fricative:+voice	\textipa{K}\super w\textlengthmark
+	ɴʷː	uvular, labial:nasal:+voice +nasal	\textscn\super w\textlengthmark
+	ʕʷː	pharyngeal, labial:fricative:+voice	\textrevglotstop\super w\textlengthmark
+	ħʷː	pharyngeal, labial:fricative:−voice	\textcrh\super w\textlengthmark
+	ʔʷː	glottal, labial:plosive:−voice	\textglotstop\super w\textlengthmark
+	hʷː	glottal, labial:fricative:−voice	h\super w\textlengthmark
+	ɦʷː	glottal, labial:fricative:+voice	\texthth\super w\textlengthmark
+	m̥ʷː	labial:nasal:−voice +nasal	*m\super w\textlengthmark
+	ɱ̥ʷː	labiodental, labial:nasal:−voice +nasal	*\textltailm\super w\textlengthmark
+	n̥ʷː	alveolar, labial:nasal:−voice +nasal	*n\super w\textlengthmark
+	ɳ̥ʷː	retroflex, labial:nasal:−voice +nasal	*\:n\super w\textlengthmark
+	ɲ̥ʷː	palatal, labial:nasal:−voice +nasal	*\textltailn\super w\textlengthmark
+	ŋ̥ʷː	velar, labial:nasal:−voice +nasal	*\textipa{N}\super w\textlengthmark
+	ɴ̥ʷː	uvular, labial:nasal:−voice +nasal	*\textscn\super w\textlengthmark
+	pʰʷː	labial:plosive:−voice +spread glottis	p extsuperscript{h}\super w\textlengthmark
+	bʰʷː	labial:plosive:+voice +spread glottis	b extsuperscript{h}\super w\textlengthmark
+	ɓʰʷː	labial:plosive:+voice +spread glottis	\texthtb extsuperscript{h}\super w\textlengthmark
+	mʰʷː	labial:nasal:+voice +nasal +spread glottis	m extsuperscript{h}\super w\textlengthmark
+	ɱʰʷː	labiodental, labial:nasal:+voice +nasal +spread glottis	\textltailm extsuperscript{h}\super w\textlengthmark
+	ɗʰʷː	dental, labial:plosive:+voice +spread glottis	\texthtd extsuperscript{h}\super w\textlengthmark
+	tʰʷː	alveolar, labial:plosive:−voice +spread glottis	t extsuperscript{h}\super w\textlengthmark
+	dʰʷː	alveolar, labial:plosive:+voice +spread glottis	d extsuperscript{h}\super w\textlengthmark
+	nʰʷː	alveolar, labial:nasal:+voice +nasal +spread glottis	n extsuperscript{h}\super w\textlengthmark
+	ʈʰʷː	retroflex, labial:plosive:−voice +spread glottis	\textrtailt extsuperscript{h}\super w\textlengthmark
+	ɖʰʷː	retroflex, labial:plosive:+voice +spread glottis	\textrtaild extsuperscript{h}\super w\textlengthmark
+	ɳʰʷː	retroflex, labial:nasal:+voice +nasal +spread glottis	\:n extsuperscript{h}\super w\textlengthmark
+	cʰʷː	palatal, labial:plosive:−voice +spread glottis	c extsuperscript{h}\super w\textlengthmark
+	ɟʰʷː	palatal, labial:plosive:+voice +spread glottis	\textbardotlessj extsuperscript{h}\super w\textlengthmark
+	ɲʰʷː	palatal, labial:nasal:+voice +nasal +spread glottis	\textltailn extsuperscript{h}\super w\textlengthmark
+	kʰʷː	velar, labial:plosive:−voice +spread glottis	k extsuperscript{h}\super w\textlengthmark
+	ɡʰʷː	velar, labial:plosive:+voice +spread glottis	ɡ extsuperscript{h}\super w\textlengthmark
+	ɠʰʷː	velar, labial:plosive:+voice +spread glottis	\texthtg extsuperscript{h}\super w\textlengthmark
+	ŋʰʷː	velar, labial:nasal:+voice +nasal +spread glottis	\textipa{N} extsuperscript{h}\super w\textlengthmark
+	qʰʷː	uvular, labial:plosive:−voice +spread glottis	q extsuperscript{h}\super w\textlengthmark
+	ɢʰʷː	uvular, labial:plosive:+voice +spread glottis	\textscg extsuperscript{h}\super w\textlengthmark
+	ʛʰʷː	uvular, labial:plosive:+voice +spread glottis	\texthtscg extsuperscript{h}\super w\textlengthmark
+	ɴʰʷː	uvular, labial:nasal:+voice +nasal +spread glottis	\textscn extsuperscript{h}\super w\textlengthmark
+	ʔʰʷː	glottal, labial:plosive:−voice +spread glottis	\textglotstop extsuperscript{h}\super w\textlengthmark
+	m̥ʰʷː	labial:nasal:−voice +nasal +spread glottis	*m extsuperscript{h}\super w\textlengthmark
+	ɱ̥ʰʷː	labiodental, labial:nasal:−voice +nasal +spread glottis	*\textltailm extsuperscript{h}\super w\textlengthmark
+	n̥ʰʷː	alveolar, labial:nasal:−voice +nasal +spread glottis	*n extsuperscript{h}\super w\textlengthmark
+	ɳ̥ʰʷː	retroflex, labial:nasal:−voice +nasal +spread glottis	*\:n extsuperscript{h}\super w\textlengthmark
+	ɲ̥ʰʷː	palatal, labial:nasal:−voice +nasal +spread glottis	*\textltailn extsuperscript{h}\super w\textlengthmark
+	ŋ̥ʰʷː	velar, labial:nasal:−voice +nasal +spread glottis	*\textipa{N} extsuperscript{h}\super w\textlengthmark
+	ɴ̥ʰʷː	uvular, labial:nasal:−voice +nasal +spread glottis	*\textscn extsuperscript{h}\super w\textlengthmark
+	p̩ʷː	labial:plosive:−voice +syllabic	\textipa{\s{p}}\super w\textlengthmark
+	b̩ʷː	labial:plosive:+voice +syllabic	\textipa{\s{b}}\super w\textlengthmark
+	ɓ̩ʷː	labial:plosive:+voice +syllabic	\textipa{\s{\texthtb}}\super w\textlengthmark
+	ɸ̩ʷː	labial:fricative:−voice +syllabic	\textipa{\sF}\super w\textlengthmark
+	β̩ʷː	labial:fricative:+voice +syllabic	\textipa{\sB}\super w\textlengthmark
+	m̩ʷː	labial:nasal:+voice +nasal +syllabic	\textsyllabic{m}\super w\textlengthmark
+	f̩ʷː	labiodental, labial:fricative:−voice +syllabic	\textipa{\s{f}}\super w\textlengthmark
+	v̩ʷː	labiodental, labial:fricative:+voice +syllabic	\textipa{\s{v}}\super w\textlengthmark
+	ɱ̩ʷː	labiodental, labial:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailm}}\super w\textlengthmark
+	ɗ̩ʷː	dental, labial:plosive:+voice +syllabic	\textipa{\s{\texthtd}}\super w\textlengthmark
+	θ̩ʷː	dental, labial:fricative:−voice +syllabic	\textipa{\sT}\super w\textlengthmark
+	ð̩ʷː	dental, labial:fricative:+voice +syllabic	\textipa{\sD}\super w\textlengthmark
+	t̩ʷː	alveolar, labial:plosive:−voice +syllabic	\textipa{\s{t}}\super w\textlengthmark
+	d̩ʷː	alveolar, labial:plosive:+voice +syllabic	\textipa{\s{d}}\super w\textlengthmark
+	s̩ʷː	alveolar, labial:fricative:−voice +syllabic	\textipa{\s{s}}\super w\textlengthmark
+	z̩ʷː	alveolar, labial:fricative:+voice +syllabic	\textipa{\s{z}}\super w\textlengthmark
+	ɬ̩ʷː	alveolar, labial:fricative:+voice +lateral +syllabic	\textipa{\s{\textbeltl}}\super w\textlengthmark
+	ɮ̩ʷː	alveolar, labial:fricative:+voice +lateral +syllabic	\textipa{\s{\textlyoghlig}}\super w\textlengthmark
+	n̩ʷː	alveolar, labial:nasal:+voice +nasal +syllabic	\textsyllabic{n}\super w\textlengthmark
+	ʃ̩ʷː	palatoalveolar, labial:fricative:−voice +syllabic	\textipa{\sS}\super w\textlengthmark
+	ʒ̩ʷː	palatoalveolar, labial:fricative:+voice +syllabic	\textipa{\s{\textyogh}}\super w\textlengthmark
+	ʈ̩ʷː	retroflex, labial:plosive:−voice +syllabic	\textipa{\s{\textrtailt}}\super w\textlengthmark
+	ɖ̩ʷː	retroflex, labial:plosive:+voice +syllabic	\textipa{\s{\textrtaild}}\super w\textlengthmark
+	ʂ̩ʷː	retroflex, labial:fricative:−voice +syllabic	\textipa{\s{\textrtails}}\super w\textlengthmark
+	ʐ̩ʷː	retroflex, labial:fricative:+voice +syllabic	\textipa{\s{\textrtailz}}\super w\textlengthmark
+	ɳ̩ʷː	retroflex, labial:nasal:+voice +nasal +syllabic	\textipa{\s{\:n}}\super w\textlengthmark
+	c̩ʷː	palatal, labial:plosive:−voice +syllabic	\textipa{\s{c}}\super w\textlengthmark
+	ɟ̩ʷː	palatal, labial:plosive:+voice +syllabic	\textipa{\s{\textbardotlessj}}\super w\textlengthmark
+	ç̩ʷː	palatal, labial:fricative:−voice +syllabic	\textipa{\s{\c{c}}}\super w\textlengthmark
+	ʝ̩ʷː	palatal, labial:fricative:+voice +syllabic	\textipa{\s{\textctj}}\super w\textlengthmark
+	ɲ̩ʷː	palatal, labial:nasal:+voice +nasal +syllabic	\textipa{\s{\textltailn}}\super w\textlengthmark
+	k̩ʷː	velar, labial:plosive:−voice +syllabic	\textipa{\s{k}}\super w\textlengthmark
+	ɡ̩ʷː	velar, labial:plosive:+voice +syllabic	\textipa{\s{ɡ}}\super w\textlengthmark
+	ɠ̩ʷː	velar, labial:plosive:+voice +syllabic	\textipa{\s{\texthtg}}\super w\textlengthmark
+	x̩ʷː	velar, labial:fricative:−voice +syllabic	\textipa{\s{x}}\super w\textlengthmark
+	ɣ̩ʷː	velar, labial:fricative:+voice +syllabic	\textipa{\sG}\super w\textlengthmark
+	ŋ̩ʷː	velar, labial:nasal:+voice +nasal +syllabic	\textipa{\sN}\super w\textlengthmark
+	q̩ʷː	uvular, labial:plosive:−voice +syllabic	\textipa{\s{q}}\super w\textlengthmark
+	ɢ̩ʷː	uvular, labial:plosive:+voice +syllabic	\textipa{\s{\textscg}}\super w\textlengthmark
+	ʛ̩ʷː	uvular, labial:plosive:+voice +syllabic	\textipa{\s{\texthtscg}}\super w\textlengthmark
+	χ̩ʷː	uvular, labial:fricative:−voice +syllabic	\textipa{\s{\textchi}}\super w\textlengthmark
+	ʁ̩ʷː	uvular, labial:fricative:+voice +syllabic	\textipa{\sK}\super w\textlengthmark
+	ɴ̩ʷː	uvular, labial:nasal:+voice +nasal +syllabic	\textipa{\s{\textscn}}\super w\textlengthmark
+	ʕ̩ʷː	pharyngeal, labial:fricative:+voice +syllabic	\textipa{\s{\textrevglotstop}}\super w\textlengthmark
+	ħ̩ʷː	pharyngeal, labial:fricative:−voice +syllabic	\textipa{\s{\textcrh}}\super w\textlengthmark
+	ʔ̩ʷː	glottal, labial:plosive:−voice +syllabic	\textipa{\s{\textglotstop}}\super w\textlengthmark
+	h̩ʷː	glottal, labial:fricative:−voice +syllabic	\textipa{\s{h}}\super w\textlengthmark
+	ɦ̩ʷː	glottal, labial:fricative:+voice +syllabic	\textipa{\s{\texthth}}\super w\textlengthmark
+	m̥̩ʷː	labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *m}}\super w\textlengthmark
+	ɱ̥̩ʷː	labiodental, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailm}}\super w\textlengthmark
+	n̥̩ʷː	alveolar, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *n}}\super w\textlengthmark
+	ɳ̥̩ʷː	retroflex, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *\:n}}\super w\textlengthmark
+	ɲ̥̩ʷː	palatal, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textltailn}}\super w\textlengthmark
+	ŋ̥̩ʷː	velar, labial:nasal:−voice +nasal +syllabic	*\textipa{\sN}\super w\textlengthmark
+	ɴ̥̩ʷː	uvular, labial:nasal:−voice +nasal +syllabic	\textipa{\s{ *\textscn}}\super w\textlengthmark
+	ʍː	labial, velar:fricative:−voice	\textturnw\textlengthmark
+	ɧː	palatoalveolar, velar:fricative:−voice	\texththeng\textlengthmark
+	ɕː	alveolar, palatal:fricative:−voice	\textctc\textlengthmark
+	ʑː	alveolar, palatal:fricative:+voice	\textctz\textlengthmark
+	k͡pː	labial, velar:plosive:−voice	\t{k͡p}\textlengthmark
+	ɡ͡bː	labial, velar:plosive:+voice	\t{g͡b}\textlengthmark
+	p͡tː	labial, alveolar:plosive:−voice	\t{p͡t}\textlengthmark
+	b͡dː	labial, alveolar:plosive:+voice	\t{b͡d}\textlengthmark
+	t͡ɕː	alveolar, palatal:affricate:−voice	\t{t͡\textctc}\textlengthmark
+	d͡ʑː	alveolar, palatal:affricate:+voice	\t{d͡\textctz}\textlengthmark
+	ʍ̩ː	labial, velar:fricative:−voice +syllabic	\textipa{\s{\textturnw}}\textlengthmark
+	ɧ̩ː	palatoalveolar, velar:fricative:−voice +syllabic	\textipa{\s{\texththeng}}\textlengthmark
+	ɕ̩ː	alveolar, palatal:fricative:−voice +syllabic	\textipa{\s{\textctc}}\textlengthmark
+	ʑ̩ː	alveolar, palatal:fricative:+voice +syllabic	\textipa{\s{\textctz}}\textlengthmark
+	ʍʲː	labial, velar, palatal:fricative:−voice	\textturnw\super j\textlengthmark
+	ɧʲː	palatoalveolar, velar, palatal:fricative:−voice	\texththeng\super j\textlengthmark
+	ɕʲː	alveolar, palatal:fricative:−voice	\textctc\super j\textlengthmark
+	ʑʲː	alveolar, palatal:fricative:+voice	\textctz\super j\textlengthmark
+	ʍ̩ʲː	labial, velar, palatal:fricative:−voice +syllabic	\textipa{\s{\textturnw}}\super j\textlengthmark
+	ɧ̩ʲː	palatoalveolar, velar, palatal:fricative:−voice +syllabic	\textipa{\s{\texththeng}}\super j\textlengthmark
+	ɕ̩ʲː	alveolar, palatal:fricative:−voice +syllabic	\textipa{\s{\textctc}}\super j\textlengthmark
+	ʑ̩ʲː	alveolar, palatal:fricative:+voice +syllabic	\textipa{\s{\textctz}}\super j\textlengthmark
+	ʍʷː	labial, velar:fricative:−voice	\textturnw\super w\textlengthmark
+	ɧʷː	palatoalveolar, velar, labial:fricative:−voice	\texththeng\super w\textlengthmark
+	ɕʷː	alveolar, palatal, labial:fricative:−voice	\textctc\super w\textlengthmark
+	ʑʷː	alveolar, palatal, labial:fricative:+voice	\textctz\super w\textlengthmark
+	ʍ̩ʷː	labial, velar:fricative:−voice +syllabic	\textipa{\s{\textturnw}}\super w\textlengthmark
+	ɧ̩ʷː	palatoalveolar, velar, labial:fricative:−voice +syllabic	\textipa{\s{\texththeng}}\super w\textlengthmark
+	ɕ̩ʷː	alveolar, palatal, labial:fricative:−voice +syllabic	\textipa{\s{\textctc}}\super w\textlengthmark
+	ʑ̩ʷː	alveolar, palatal, labial:fricative:+voice +syllabic	\textipa{\s{\textctz}}\super w\textlengthmark
+	k͡pʰː	labial, velar:plosive:−voice +spread glottis	\t{k͡p} extsuperscript{h}\textlengthmark
+	ɡ͡bʰː	labial, velar:plosive:+voice +spread glottis	\t{g͡b} extsuperscript{h}\textlengthmark
+	p͡tʰː	labial, alveolar:plosive:−voice +spread glottis	\t{p͡t} extsuperscript{h}\textlengthmark
+	b͡dʰː	labial, alveolar:plosive:+voice +spread glottis	\t{b͡d} extsuperscript{h}\textlengthmark
+	t͡ɕʰː	alveolar, palatal:affricate:−voice +spread glottis	\t{t͡\textctc} extsuperscript{h}\textlengthmark
+	d͡ʑʰː	alveolar, palatal:affricate:+voice +spread glottis	\t{d͡\textctz} extsuperscript{h}\textlengthmark
+	k͡pʷː	labial, velar:plosive:−voice	\t{k͡p}\super w\textlengthmark
+	ɡ͡bʷː	labial, velar:plosive:+voice	\t{g͡b}\super w\textlengthmark
+	p͡tʷː	labial, alveolar:plosive:−voice	\t{p͡t}\super w\textlengthmark
+	b͡dʷː	labial, alveolar:plosive:+voice	\t{b͡d}\super w\textlengthmark
+	t͡ɕʷː	alveolar, palatal, labial:affricate:−voice	\t{t͡\textctc}\super w\textlengthmark
+	d͡ʑʷː	alveolar, palatal, labial:affricate:+voice	\t{d͡\textctz}\super w\textlengthmark
+	k͡pʲː	labial, velar, palatal:plosive:−voice	\t{k͡p}\super j\textlengthmark
+	ɡ͡bʲː	labial, velar, palatal:plosive:+voice	\t{g͡b}\super j\textlengthmark
+	p͡tʲː	labial, alveolar, palatal:plosive:−voice	\t{p͡t}\super j\textlengthmark
+	b͡dʲː	labial, alveolar, palatal:plosive:+voice	\t{b͡d}\super j\textlengthmark
+	t͡ɕʲː	alveolar, palatal:affricate:−voice	\t{t͡\textctc}\super j\textlengthmark
+	d͡ʑʲː	alveolar, palatal:affricate:+voice	\t{d͡\textctz}\super j\textlengthmark
+	p͡ɸʰː	labial:affricate:−voice +spread glottis	\t{p͡\textipa{F}} extsuperscript{h}\textlengthmark
+	b͡βʰː	labial:affricate:+voice +spread glottis	\t{b͡\textipa{B}} extsuperscript{h}\textlengthmark
+	p͡fʰː	labiodental:affricate:−voice +spread glottis	\t{pf} extsuperscript{h}\textlengthmark
+	b͡vʰː	labiodental:affricate:+voice +spread glottis	\t{b͡v} extsuperscript{h}\textlengthmark
+	t̪ʰː	dental:plosive:−voice +spread glottis	\textsubbridge{t} extsuperscript{h}\textlengthmark
+	d̪ʰː	dental:plosive:+voice +spread glottis	\textsubbridge{d} extsuperscript{h}\textlengthmark
+	d̠ʰː	dental:plosive:+voice +spread glottis	\textsubbar{d} extsuperscript{h}\textlengthmark
+	t̪͡θʰː	dental:affricate:−voice +spread glottis	\t{\textsubbridge{t}͡ \textipa{T}} extsuperscript{h}\textlengthmark
+	t̪͡s̪ʰː	dental:affricate:−voice +spread glottis	\t{\textsubbridge{t}\textsubbridge{s}} extsuperscript{h}\textlengthmark
+	d̪͡z̪ʰː	dental:affricate:+voice +spread glottis	\t{\textsubbridge{d}\textsubbridge{z}} extsuperscript{h}\textlengthmark
+	d̪͡ɮ̪ʰː	dental:affricate:+voice +lateral +spread glottis	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}} extsuperscript{h}\textlengthmark
+	d̠͡ɮ̠ʰː	dental:affricate:+voice +lateral +spread glottis	\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}} extsuperscript{h}\textlengthmark
+	t̪͡ɬ̪ʰː	dental:affricate:+voice +lateral +spread glottis	\t{\textsubbridge{t}͡\textsubbridge{\textbeltl}} extsuperscript{h}\textlengthmark
+	d͡zʰː	dental:affricate:+voice +spread glottis	\t{dz} extsuperscript{h}\textlengthmark
+	d͡z͎ʰː	dental:affricate:+voice +spread glottis	\t{d͡\begin{IPA}\whistle{z}\end{IPA}} extsuperscript{h}\textlengthmark
+	d̪͡ðʰː	dental:affricate:+voice +spread glottis	\t{\textsubbridge{d}͡ð} extsuperscript{h}\textlengthmark
+	n̪ʰː	dental:nasal:+voice +nasal +spread glottis	\textsubbridge{n} extsuperscript{h}\textlengthmark
+	t̠ʰː	alveolar:plosive:−voice +spread glottis	\textsubbar{t} extsuperscript{h}\textlengthmark
+	t͡sʰː	alveolar:affricate:−voice +spread glottis	\t{ts} extsuperscript{h}\textlengthmark
+	t͡s͎ʰː	alveolar:affricate:−voice +spread glottis	\t{t͡\begin{IPA}\whistle{s}\end{IPA}} extsuperscript{h}\textlengthmark
+	d͡ɮʰː	alveolar:affricate:+voice +lateral +spread glottis	\t{d͡\textlyoghlig} extsuperscript{h}\textlengthmark
+	t͡ɬʰː	alveolar:affricate:+voice +lateral +spread glottis	\t{t͡\textbeltl} extsuperscript{h}\textlengthmark
+	t͡ɬ̲ʰː	alveolar:affricate:+voice +lateral +spread glottis	\t{t͡\textsubbar{\textbeltl}} extsuperscript{h}\textlengthmark
+	n̠ʰː	alveolar:nasal:+voice +nasal +spread glottis	\textipa{\=*n} extsuperscript{h}\textlengthmark
+	t͡ʃʰː	palatoalveolar:affricate:−voice +spread glottis	\t{t͡\textipa{S}} extsuperscript{h}\textlengthmark
+	d͡ʒʰː	palatoalveolar:affricate:+voice +spread glottis	\t{d͡\textyogh} extsuperscript{h}\textlengthmark
+	ʈ͡ʂʰː	retroflex:affricate:−voice +spread glottis	\t{\textrtailt \textrtails} extsuperscript{h}\textlengthmark
+	ɖ͡ʐʰː	retroflex:affricate:+voice +spread glottis	\t{ɖ͡\textrtailz} extsuperscript{h}\textlengthmark
+	c͡çʰː	palatal:affricate:−voice +spread glottis	\t{c\c{c}} extsuperscript{h}\textlengthmark
+	ɟ͡ʝʰː	palatal:affricate:+voice +spread glottis	\t{ɟ͡\textctj} extsuperscript{h}\textlengthmark
+	k̟ʰː	velar:plosive:−voice +spread glottis	\begin{IPA}\|+k̟\end{IPA} extsuperscript{h}\textlengthmark
+	k̠ʰː	velar:plosive:−voice +spread glottis	\textsubbar{k} extsuperscript{h}\textlengthmark
+	ɡ̟͡ɣ̟ʰː	velar:affricate:+voice +spread glottis	\begin{IPA} \t{\|+g \|+G} \end{IPA} extsuperscript{h}\textlengthmark
+	ɡ͡ɣʰː	velar:affricate:+voice +spread glottis	\t{ɡ͡\textipa{G}} extsuperscript{h}\textlengthmark
+	ɡ̠͡ɣ̠ʰː	velar:affricate:+voice +spread glottis	\t{\textsubbar{ɡ} \textsubbar{\textipa{G}}} extsuperscript{h}\textlengthmark
+	k̟͡x̟ʰː	velar:affricate:−voice +spread glottis	\t{\begin{IPA}\|+k̟\|+x̟\end{IPA}} extsuperscript{h}\textlengthmark
+	k͡xʰː	velar:affricate:−voice +spread glottis	\t{kx} extsuperscript{h}\textlengthmark
+	k̠͡x̠ʰː	velar:affricate:−voice +spread glottis	\t{\textsubbar{k}\textsubbar{x}} extsuperscript{h}\textlengthmark
+	ŋ̟ʰː	velar:nasal:+voice +nasal +spread glottis	\begin{IPA}\|+N̟\end{IPA} extsuperscript{h}\textlengthmark
+	ŋ̠ʰː	velar:nasal:+voice +nasal +spread glottis	\textipa{\=*N} extsuperscript{h}\textlengthmark
+	ɢ͡ʁʰː	uvular:affricate:+voice +spread glottis	\t{\textscg \textipa{K}} extsuperscript{h}\textlengthmark
+	q͡χʰː	uvular:affricate:−voice +spread glottis	\t{q͡\textchi} extsuperscript{h}\textlengthmark
+	p͡ɸʷː	labial:affricate:−voice	\t{p͡\textipa{F}}\super w\textlengthmark
+	b͡βʷː	labial:affricate:+voice	\t{b͡\textipa{B}}\super w\textlengthmark
+	p͡fʷː	labiodental, labial:affricate:−voice	\t{pf}\super w\textlengthmark
+	b͡vʷː	labiodental, labial:affricate:+voice	\t{b͡v}\super w\textlengthmark
+	t̪ʷː	dental, labial:plosive:−voice	\textsubbridge{t}\super w\textlengthmark
+	d̪ʷː	dental, labial:plosive:+voice	\textsubbridge{d}\super w\textlengthmark
+	d̠ʷː	dental, labial:plosive:+voice	\textsubbar{d}\super w\textlengthmark
+	t̪͡θʷː	dental, labial:affricate:−voice	\t{\textsubbridge{t}͡ \textipa{T}}\super w\textlengthmark
+	t̪͡s̪ʷː	dental, labial:affricate:−voice	\t{\textsubbridge{t}\textsubbridge{s}}\super w\textlengthmark
+	d̪͡z̪ʷː	dental, labial:affricate:+voice	\t{\textsubbridge{d}\textsubbridge{z}}\super w\textlengthmark
+	d̪͡ɮ̪ʷː	dental, labial:affricate:+voice +lateral	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super w\textlengthmark
+	d̠͡ɮ̠ʷː	dental, labial:affricate:+voice +lateral	\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}\super w\textlengthmark
+	t̪͡ɬ̪ʷː	dental, labial:affricate:+voice +lateral	\t{\textsubbridge{t}͡\textsubbridge{\textbeltl}}\super w\textlengthmark
+	d͡zʷː	dental, labial:affricate:+voice	\t{dz}\super w\textlengthmark
+	d͡z͎ʷː	dental, labial:affricate:+voice	\t{d͡\begin{IPA}\whistle{z}\end{IPA}}\super w\textlengthmark
+	ɬ̪ʷː	dental, labial:fricative:+voice +lateral	\textsubbridge{\textbeltl}\super w\textlengthmark
+	ɮ̪ʷː	dental, labial:fricative:+voice +lateral	\textsubbridge{\textlyoghlig}\super w\textlengthmark
+	d̪͡ðʷː	dental, labial:affricate:+voice	\t{\textsubbridge{d}͡ð}\super w\textlengthmark
+	n̪ʷː	dental, labial:nasal:+voice +nasal	\textsubbridge{n}\super w\textlengthmark
+	t̠ʷː	alveolar, labial:plosive:−voice	\textsubbar{t}\super w\textlengthmark
+	s͎ʷː	alveolar, labial:fricative:−voice	\begin{IPA}\whistle{s}\end{IPA}\super w\textlengthmark
+	z͎ʷː	alveolar, labial:fricative:+voice	\begin{IPA}\whistle{z}\end{IPA}\super w\textlengthmark
+	t͡sʷː	alveolar, labial:affricate:−voice	\t{ts}\super w\textlengthmark
+	t͡s͎ʷː	alveolar, labial:affricate:−voice	\t{t͡\begin{IPA}\whistle{s}\end{IPA}}\super w\textlengthmark
+	d͡ɮʷː	alveolar, labial:affricate:+voice +lateral	\t{d͡\textlyoghlig}\super w\textlengthmark
+	t͡ɬʷː	alveolar, labial:affricate:+voice +lateral	\t{t͡\textbeltl}\super w\textlengthmark
+	t͡ɬ̲ʷː	alveolar, labial:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}\super w\textlengthmark
+	ɬ̠ʷː	alveolar, labial:fricative:+voice +lateral	\textsubbar{\textbeltl}\super w\textlengthmark
+	ɮ̠ʷː	alveolar, labial:fricative:+voice +lateral	\textsubbar{\textlyoghlig}\super w\textlengthmark
+	n̠ʷː	alveolar, labial:nasal:+voice +nasal	\textipa{\=*n}\super w\textlengthmark
+	t͡ʃʷː	palatoalveolar, labial:affricate:−voice	\t{t͡\textipa{S}}\super w\textlengthmark
+	d͡ʒʷː	palatoalveolar, labial:affricate:+voice	\t{d͡\textyogh}\super w\textlengthmark
+	ʈ͡ʂʷː	retroflex, labial:affricate:−voice	\t{\textrtailt \textrtails}\super w\textlengthmark
+	ɖ͡ʐʷː	retroflex, labial:affricate:+voice	\t{ɖ͡\textrtailz}\super w\textlengthmark
+	c͡çʷː	palatal, labial:affricate:−voice	\t{c\c{c}}\super w\textlengthmark
+	ɟ͡ʝʷː	palatal, labial:affricate:+voice	\t{ɟ͡\textctj}\super w\textlengthmark
+	k̟ʷː	velar, labial:plosive:−voice	\begin{IPA}\|+k̟\end{IPA}\super w\textlengthmark
+	k̠ʷː	velar, labial:plosive:−voice	\textsubbar{k}\super w\textlengthmark
+	x̟ʷː	velar, labial:fricative:−voice	\begin{IPA}\|+x̟\end{IPA}\super w\textlengthmark
+	x̠ʷː	velar, labial:fricative:−voice	\textsubbar{x}\super w\textlengthmark
+	ɣ̟ʷː	velar, labial:fricative:+voice	\begin{IPA}\|+G̟\end{IPA}\super w\textlengthmark
+	ɣ̠ʷː	velar, labial:fricative:+voice	\textsubbar{\textipa{G}}\super w\textlengthmark
+	ɡ̟͡ɣ̟ʷː	velar, labial:affricate:+voice	\begin{IPA} \t{\|+g \|+G} \end{IPA} \super w\textlengthmark
+	ɡ͡ɣʷː	velar, labial:affricate:+voice	\t{ɡ͡\textipa{G}}\super w\textlengthmark
+	ɡ̠͡ɣ̠ʷː	velar, labial:affricate:+voice	\t{\textsubbar{ɡ} \textsubbar{\textipa{G}}}\super w\textlengthmark
+	k̟͡x̟ʷː	velar, labial:affricate:−voice	\t{\begin{IPA}\|+k̟\|+x̟\end{IPA}}\super w\textlengthmark
+	k͡xʷː	velar, labial:affricate:−voice	\t{kx}\super w\textlengthmark
+	k̠͡x̠ʷː	velar, labial:affricate:−voice	\t{\textsubbar{k}\textsubbar{x}}\super w\textlengthmark
+	ŋ̟ʷː	velar, labial:nasal:+voice +nasal	\begin{IPA}\|+N̟\end{IPA}\super w\textlengthmark
+	ŋ̠ʷː	velar, labial:nasal:+voice +nasal	\textipa{\=*N}\super w\textlengthmark
+	ɢ͡ʁʷː	uvular, labial:affricate:+voice	\t{\textscg \textipa{K}}\super w\textlengthmark
+	q͡χʷː	uvular, labial:affricate:−voice	\t{q͡\textchi}\super w\textlengthmark
+	p͡ɸʲː	labial, palatal:affricate:−voice	\t{p͡\textipa{F}}\super j\textlengthmark
+	b͡βʲː	labial, palatal:affricate:+voice	\t{b͡\textipa{B}}\super j\textlengthmark
+	p͡fʲː	labiodental, palatal:affricate:−voice	\t{pf}\super j\textlengthmark
+	b͡vʲː	labiodental, palatal:affricate:+voice	\t{b͡v}\super j\textlengthmark
+	t̪ʲː	dental, palatal:plosive:−voice	\textsubbridge{t}\super j\textlengthmark
+	d̪ʲː	dental, palatal:plosive:+voice	\textsubbridge{d}\super j\textlengthmark
+	d̠ʲː	dental, palatal:plosive:+voice	\textsubbar{d}\super j\textlengthmark
+	t̪͡θʲː	dental, palatal:affricate:−voice	\t{\textsubbridge{t}͡ \textipa{T}}\super j\textlengthmark
+	t̪͡s̪ʲː	dental, palatal:affricate:−voice	\t{\textsubbridge{t}\textsubbridge{s}}\super j\textlengthmark
+	d̪͡z̪ʲː	dental, palatal:affricate:+voice	\t{\textsubbridge{d}\textsubbridge{z}}\super j\textlengthmark
+	d̪͡ɮ̪ʲː	dental, palatal:affricate:+voice +lateral	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super j\textlengthmark
+	d̠͡ɮ̠ʲː	dental, palatal:affricate:+voice +lateral	\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}\super j\textlengthmark
+	t̪͡ɬ̪ʲː	dental, palatal:affricate:+voice +lateral	\t{\textsubbridge{t}͡\textsubbridge{\textbeltl}}\super j\textlengthmark
+	d͡zʲː	dental, palatal:affricate:+voice	\t{dz}\super j\textlengthmark
+	d͡z͎ʲː	dental, palatal:affricate:+voice	\t{d͡\begin{IPA}\whistle{z}\end{IPA}}\super j\textlengthmark
+	ɬ̪ʲː	dental, palatal:fricative:+voice +lateral	\textsubbridge{\textbeltl}\super j\textlengthmark
+	ɮ̪ʲː	dental, palatal:fricative:+voice +lateral	\textsubbridge{\textlyoghlig}\super j\textlengthmark
+	d̪͡ðʲː	dental, palatal:affricate:+voice	\t{\textsubbridge{d}͡ð}\super j\textlengthmark
+	n̪ʲː	dental, palatal:nasal:+voice +nasal	\textsubbridge{n}\super j\textlengthmark
+	t̠ʲː	alveolar, palatal:plosive:−voice	\textsubbar{t}\super j\textlengthmark
+	s͎ʲː	alveolar, palatal:fricative:−voice	\begin{IPA}\whistle{s}\end{IPA}\super j\textlengthmark
+	z͎ʲː	alveolar, palatal:fricative:+voice	\begin{IPA}\whistle{z}\end{IPA}\super j\textlengthmark
+	t͡sʲː	alveolar, palatal:affricate:−voice	\t{ts}\super j\textlengthmark
+	t͡s͎ʲː	alveolar, palatal:affricate:−voice	\t{t͡\begin{IPA}\whistle{s}\end{IPA}}\super j\textlengthmark
+	d͡ɮʲː	alveolar, palatal:affricate:+voice +lateral	\t{d͡\textlyoghlig}\super j\textlengthmark
+	t͡ɬʲː	alveolar, palatal:affricate:+voice +lateral	\t{t͡\textbeltl}\super j\textlengthmark
+	t͡ɬ̲ʲː	alveolar, palatal:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}\super j\textlengthmark
+	ɬ̠ʲː	alveolar, palatal:fricative:+voice +lateral	\textsubbar{\textbeltl}\super j\textlengthmark
+	ɮ̠ʲː	alveolar, palatal:fricative:+voice +lateral	\textsubbar{\textlyoghlig}\super j\textlengthmark
+	n̠ʲː	alveolar, palatal:nasal:+voice +nasal	\textipa{\=*n}\super j\textlengthmark
+	t͡ʃʲː	palatoalveolar, palatal:affricate:−voice	\t{t͡\textipa{S}}\super j\textlengthmark
+	d͡ʒʲː	palatoalveolar, palatal:affricate:+voice	\t{d͡\textyogh}\super j\textlengthmark
+	ʈ͡ʂʲː	retroflex, palatal:affricate:−voice	\t{\textrtailt \textrtails}\super j\textlengthmark
+	ɖ͡ʐʲː	retroflex, palatal:affricate:+voice	\t{ɖ͡\textrtailz}\super j\textlengthmark
+	c͡çʲː	palatal:affricate:−voice	\t{c\c{c}}\super j\textlengthmark
+	ɟ͡ʝʲː	palatal:affricate:+voice	\t{ɟ͡\textctj}\super j\textlengthmark
+	k̟ʲː	velar, palatal:plosive:−voice	\begin{IPA}\|+k̟\end{IPA}\super j\textlengthmark
+	k̠ʲː	velar, palatal:plosive:−voice	\textsubbar{k}\super j\textlengthmark
+	x̟ʲː	velar, palatal:fricative:−voice	\begin{IPA}\|+x̟\end{IPA}\super j\textlengthmark
+	x̠ʲː	velar, palatal:fricative:−voice	\textsubbar{x}\super j\textlengthmark
+	ɣ̟ʲː	velar, palatal:fricative:+voice	\begin{IPA}\|+G̟\end{IPA}\super j\textlengthmark
+	ɣ̠ʲː	velar, palatal:fricative:+voice	\textsubbar{\textipa{G}}\super j\textlengthmark
+	ɡ̟͡ɣ̟ʲː	velar, palatal:affricate:+voice	\begin{IPA} \t{\|+g \|+G} \end{IPA} \super j\textlengthmark
+	ɡ͡ɣʲː	velar, palatal:affricate:+voice	\t{ɡ͡\textipa{G}}\super j\textlengthmark
+	ɡ̠͡ɣ̠ʲː	velar, palatal:affricate:+voice	\t{\textsubbar{ɡ} \textsubbar{\textipa{G}}}\super j\textlengthmark
+	k̟͡x̟ʲː	velar, palatal:affricate:−voice	\t{\begin{IPA}\|+k̟\|+x̟\end{IPA}}\super j\textlengthmark
+	k͡xʲː	velar, palatal:affricate:−voice	\t{kx}\super j\textlengthmark
+	k̠͡x̠ʲː	velar, palatal:affricate:−voice	\t{\textsubbar{k}\textsubbar{x}}\super j\textlengthmark
+	ŋ̟ʲː	velar, palatal:nasal:+voice +nasal	\begin{IPA}\|+N̟\end{IPA}\super j\textlengthmark
+	ŋ̠ʲː	velar, palatal:nasal:+voice +nasal	\textipa{\=*N}\super j\textlengthmark
+	ɢ͡ʁʲː	uvular, palatal:affricate:+voice	\t{\textscg \textipa{K}}\super j\textlengthmark
+	q͡χʲː	uvular, palatal:affricate:−voice	\t{q͡\textchi}\super j\textlengthmark 

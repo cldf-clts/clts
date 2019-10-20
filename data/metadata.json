@@ -1,0 +1,144 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw",
+        {
+          "@language": "en"
+        }
+  ],
+  "dialect": {
+    "doubleQuote": false,
+    "commentPrefix": null,
+    "delimiter": "\t",
+    "trim": true
+  },
+  "tables": [
+    {
+      "url": "datasets.tsv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "NAME",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "DESCRIPTION",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "REFS",
+            "datatype": {"base": "string"},
+            "separator": ", "
+          },
+          {
+            "name": "TYPE",
+            "datatype": {"base": "string"}
+          }                
+        ]
+      }
+    },
+    {
+      "url": "graphemes.tsv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "GRAPHEME",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "NAME",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "BIPA",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "DATASET",
+            "datatype": {
+              "base": "string",
+              "format": "[a-z]+"
+            }
+          },
+          {
+            "name": "DATATYPE",
+            "datatype": {
+              "base": "string",
+              "format": "td|ts|sc"
+            }
+          },
+          {
+            "name": "FREQUENCY",
+            "datatype": {"base": "integer"}
+          },
+          {
+            "name": "URL",
+            "datatype": {"base": "anyURI"}
+          },
+          {
+            "name": "IMAGE",
+            "datatype": {"base": "anyURI"}
+          },
+          {
+            "name": "SOUND",
+            "datatype": {"base": "anyURI"}
+          },
+          {
+            "name": "NOTE",
+            "datatype": {"base": "string"}
+          }
+        ]
+      }
+    },
+    {
+      "url": "sounds.tsv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "NAME",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "GRAPHEME",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "UNICODE",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "GENERATED",
+            "datatype": {
+              "base": "boolean",
+              "format": "1|0"
+            }
+          },
+          {
+            "name": "NOTE",
+            "datatype": {"base": "string"}
+          }
+        ],
+      "primaryKey": "NAME"
+      }
+    },
+    {
+      "url": "features.tsv",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "TYPE",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "FEATURE",
+            "datatype": {"base": "string"}
+          },
+          {
+            "name": "VALUE",
+            "datatype": {"base": "string"}
+          }
+        ],
+      "primaryKey": "VALUE"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+GRAPHEME	ROUNDEDNESS	HEIGHT	CENTRALITY	ALIAS	EXTRA	NOTE
+a	unrounded	open	front			a
+e	unrounded	close-mid	front			e
+i	unrounded	close	front			i
+o	rounded	close-mid	back			o
+u	rounded	close	back			u
+ü	rounded	close	front			y
+æ	unrounded	near-open	front			æ
+ö	rounded	mid	front			ø̞
+ɔ̈	rounded	open-mid	front			œ
+ɑ	unrounded	open	back			ɑ
+ɒ	rounded	open	back			ɒ
+ɔ	rounded	open-mid	back			ɔ
+ə	unrounded	mid	central			ə
+ɛ	unrounded	open-mid	front			ɛ
+ʌ	unrounded	open-mid	central			ɜ
+ë	unrounded	close-mid	back			ɤ
+ɨ	unrounded	close	central			ɨ
+ɪ	unrounded	near-close	near-front			ɪ
+ï	unrounded	close	back			ɯ
+ʉ	rounded	close	central			ʉ
+ᴜ	rounded	near-close	near-back			ʊ
+ɛ̈	unrounded	open-mid	back			ʌ
+ᴜ̈	rounded	near-close	near-front			ʏ

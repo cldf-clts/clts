@@ -1,0 +1,13 @@
+GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
+◌̃	consonant	nasalization	nasalized			IPA: ◌̃
+◌̃	vowel	nasalization	nasalized			IPA: ◌̃
+◌̨	vowel	nasalization	nasalized	+		IPA: ◌̃
+◌·	vowel	duration	long		IPA: ◌:
+◌·	consonant	duration	long		IPA: ◌:
+◌ʸ	consonant	palatalization	palatalized		IPA: ◌ʲ
+◌ʷ	consonant	labialization	labialized		IPA: ◌ʷ
+◌̓	consonant	ejection	ejective		IPA: ◌’
+◌ʰ	consonant	aspiration	aspirated		◌ʰ
+◌‛	consonant	aspiration	aspirated	+	◌ʰ
+◌ᵧ	consonant	palatalization	palatalized	+	◌ʲ
+◌ᵘ	consonant	labialization	labialized	+	◌ʷ

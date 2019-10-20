@@ -1,0 +1,35 @@
+GRAPHEME	ROUNDEDNESS	HEIGHT	CENTRALITY	ALIAS	EXTRA	NOTE
+a	unrounded	open	back			
+å	rounded	open	back			
+ɑ̆	unrounded	open	back		duration:mid-long	
+ɑ̄	unrounded	open	back		duration:long	
+ɑ̯	unrounded	open	back		syllabicity:non-syllabic	
+ɒ̆	rounded	open	back		duration:mid-long	
+ɒ̄	rounded	open	back		duration:long	
+ɒ̯	rounded	open	back		syllabicity:non-syllabic	
+e	unrounded	close-mid	front			
+ĕ	unrounded	close-mid	front		duration:mid-long	
+ē	unrounded	close-mid	front		duration:long	
+e̯	unrounded	close-mid	front		syllabicity:non-syllabic	
+i	unrounded	close	front			
+ᴉ	unrounded	near-close	near-front		
+ĭ	unrounded	close	front		duration:mid-long	
+ī	unrounded	close	front		duration:long	
+i̯	unrounded	close	front		syllabicity:non-syllabic	
+o	rounded	close-mid	back			
+ŏ	rounded	close-mid	back		duration:mid-long	
+ö	rounded	close-mid	front			
+ø̆	rounded	close-mid	front		duration:mid-long	
+ø̄	rounded	close-mid	front		duration:long	
+ø̯	rounded	close-mid	front		syllabicity:non-syllabic	
+ō	rounded	close-mid	back		duration:long	
+o̯	rounded	close-mid	back		syllabicity:non-syllabic	
+u	rounded	close	back			
+ŭ	rounded	close	back		duration:mid-long	
+ü	rounded	close	front			
+ᴞ	rounded	near-close	near-front		
+ū	rounded	close	back		duration:long	
+u̯	rounded	close	back		syllabicity:non-syllabic	
+y̆	rounded	close	front		duration:mid-long	
+ȳ	rounded	close	front		duration:long	
+y̯	rounded	close	front		syllabicity:non-syllabic	

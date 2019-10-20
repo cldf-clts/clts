@@ -1,0 +1,274 @@
+<html>
+<head>
+  <title>CLTS browser</title>
+  <meta name="robots" content="noindex">
+  <meta name="viewport" content="user-scalable=no,width=device-width,initial-scale=1">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <script src="data.js" type="text/javascript"></script>
+  <script src="script.js" type="text/javascript"></script>
+  <script src="vendor/jquery.js"></script>
+  <script src="vendor/chosen.jquery.js"></script>
+  <script src="sampa.js" type="text/javascript"></script>
+  <link rel="icon" href="clts.png" type="image/png"> 
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="site.css" />
+  <link rel="stylesheet" type="text/css" href="vendor/chosen.css" />
+
+</head>
+<style>
+td {
+  border: 1px solid lightgray;
+  padding: 5px;
+}
+</style>
+<body class="site">
+  <header class="site-header" style="background-color: #2d6ca2;">
+    <nav>
+    <div class="sticky-nav"  style="background-color: #2d6ca2;">
+    <div class="container-nav">
+       <div class="nav-container"  style="background-color: #2d6ca2;" >
+         <div class="navbar-brand"> <a href="">  <img style="width:100px" src="clts.png" alt="CLTS-LOGO"></a> </div>
+         <div class="navbar-nav nav-mobile">
+          
+            <a class="nav-item nav-link btn btn-nav" href="">Home</a>
+            <a class="nav-item nav-link btn btn-nav" href="">GitHub</a>
+            <a class="nav-item nav-link btn btn-nav" href="http://calc.digling.org">BACK</a>
+                    
+         </div>
+         <div class="navbar-nav nav-main">
+           <a class="nav-item nav-link active" href="">Home</a>
+           <a href="https://github.com/cldf/clts/" class="nav-item nav-link">GitHub</a>
+           <a href="http://calc.digling.org" class="nav-item nav-link">BACK</a>
+                    
+         </div>
+      </div>  
+      </div>
+      </div>
+</nav>
+</header>
+<main class="site-content">
+<section class="section-main">
+  <div class="container">
+  <h2 class="headline" style="color:black;">Cross-Linguistic Transcription Systems</h1>
+  <p>Just paste or type your text in space-separated form in the text-area field below to test it.</p>
+  <p>
+  <label for="sampa">IPA</label><input type="radio" name="sampa" checked="checked" id="ipa">
+  <label for="sampa">SAMPA</label><input type="radio" name="sampa" id="sampa">
+  <label for="select">Transcription Data</label>
+  <select id="td" class="chosen-select" style="width:300px;height:50px;"  data-placeholder="Choose data" multiple>
+    <optgroup label="Sound Classes">
+      <option selected="" value="asjp" >ASJP</option>
+      <option value="sca">SCA</option>
+      <option value="dolgo">Dolgopolsky</option>
+    </optgroup>
+    <optgroup label="Inventory Databases">
+      <option selected="" value="eurasian">Eurasian</option>
+      <option value="lapsyd">LAPSYD</option>
+      <option value="pbase">PBase</option>
+      <option value="phoible" >Phoible</option>
+      <option value="ruhlen">GLD</option>
+    </optgroup>
+    <optgroup label="Transcription Systems">
+    </optgroup>
+    <optgroup label="Other">
+      <option value="diachronica">Index Diachronica</option>
+      <option selected="" value="multimedia">Multimedia Chart</option>
+    </optgroup>
+    </select>
+  </p>
+  <p><textarea style="background-color:#fff6d5;" onkeyup="document.getElementById('annotation').innerHTML='';convertCLPA(this.value)"
+	    id="input" cols="80" rows="8" 
+    placeholder="type your phonetic code here, separating sound segments by spaces"></textarea>
+  </p>
+  <br>
+  <p>
+  <div id="annotation"></div></p>
+  </div>
+</section>
+
+<script>
+function showUnicode(strings) {
+  var ucode = get_unicodes(strings);
+  var utext = [];
+  for (var i=0, k; k=ucode[0][i]; i++) {
+    utext.push(ucode[0][i]+'<sup>'+ucode[1][i]+'</sup>');
+  }
+  utext = utext.join(' ');
+  utext += ' <sup><span style="background-color:Crimson;color:white;cursor:pointer;" '+
+    'onclick="showOriginal(\''+strings+'\');">(x)</span></sup>';
+  document.getElementById(strings).innerHTML = utext;
+}
+function showOriginal(idf) {
+  document.getElementById(idf).innerHTML = '<span title="click to show unicode" style="cursor:pointer;" onclick="showUnicode(\''+idf+'\');">'+idf+'</span>';
+}
+
+function convertCLPA(value) {
+  var segments = value;
+  if (document.getElementById('sampa').checked) {
+    segments = sampa2ipa(segments);
+  }
+  document.getElementById('annotation').innerHTML = '';
+
+  /* retrieve options */
+  var options = {};
+  var checked = 0;
+  for (var i=0, option; option=document.getElementById('td').options[i]; i++) {
+    if (option.selected) {
+      options[option.value] = option.innerHTML;
+      checked += 1;
+    }
+    else {
+      options[option.value] = false;
+    }
+  }
+
+  segments = segments.normalize('NFD').split(/\s+/);
+  var table = [];
+  var visited = [];
+  var freqs = {};
+  var symbols = [];
+  for (var i=0,segment; segment=segments[i]; i++) {
+    if (segment in BIPA) {
+      var ssegment = segment;
+    }
+    else {
+      var normalized = '';
+      for (var j=0,c; c=segment[j]; j++) {
+	if (c in normalize){
+	  normalized += normalize[c];
+	}
+	else {
+	  normalized += c;
+	}
+      }
+      var ssegment = normalized;
+    }
+
+    if (ssegment in BIPA) {
+      var tmp = BIPA[ssegment];
+      if (visited.indexOf(tmp['bipa']) == -1) {
+	freqs[tmp['bipa']] = 1;
+	visited.push(tmp['bipa']);
+	var cls = tmp['type'];
+	var alias = '';
+	var alias_color = 'white';
+
+	if (tmp['bipa'] != ssegment) {
+	  alias = ssegment;
+	  alias_color = 'lightyellow';
+	}
+	var normed = '';
+	var normed_color = 'white';
+	if (ssegment != segment) {
+	  normed = segment;
+	  normed_color = 'lightyellow';
+	}
+
+
+
+	var tabletext = '<td style="background-color:'+tmp['color']+';" id="'+tmp['bipa'] + 
+	  '"  ondblclick="showOriginal(\''+
+	      tmp['bipa']+'\');"><span style="cursor:pointer;" ' +
+	  'title="click to show unicode" '+    
+	  'onclick="showUnicode(\''+tmp['bipa']+'\');">'+tmp['bipa']+'</span></td>';
+	if (normed) {
+	  tabletext += '<td id="'+normed+'"  '+ 
+	    'ondblclick="showOriginal(\''+normed+'\');" '+
+	    'style="background-color:'+normed_color+'">'+
+	    '<span style="cursor:pointer;" title="click to show unicode" onclick="showUnicode(\''+normed+'\');">'+normed+'</span></td>';
+	}
+	else {
+	  tabletext += '<td></td>';
+	}
+	if (alias) {
+	  tabletext += '<td id="'+alias+'" '+ 
+	    'style="background-color:'+alias_color+'">'+
+	    '<span style="cursor:pointer;" title="click to show unicode" onclick="showUnicode(\''+alias+'\');">'+ 
+	    alias+'</span></td>';
+	}
+	else {
+	  tabletext += '<td></td>';
+	}
+	tabletext += '<td>'+cls+'</td>';
+	tabletext += '<td><a target="_blank" href="https://clts.clld.org/parameters/' + 
+	  tmp['name'].replace(/\s/g, '_')+'">' + 
+	  tmp['name'].replace(' '+tmp['type'], '')+'</a></td>';
+	for (option in options) {
+	  if (options[option]) {
+	    tmp_data = [];
+	    data_color = 'white';
+	    if (option in tmp) {
+	      for (k=0;p=tmp[option][k]; k++) {
+		if ('url' in p) {
+		  tmp_data.push('<a target="_blank" style="color:Crimson" href="' + 
+		      p['url'] + '">'+p['grapheme']+'</a>');
+		}
+		else if ('id' in p && option == 'phoible'){
+	      	  tmp_data.push('<a target="_blank" style="color:Crimson" href="' +
+	      	      'http://phoible.org/parameters/'+p['id']+'">'+p['grapheme']+'</a>');
+	      	}
+	      	else {
+	      	  tmp_data.push(p['grapheme'])
+	      	} 	
+		if (p['grapheme'] != tmp['bipa']){
+	      	  data_color = 'lightblue';
+	      	}
+	      }
+	    }
+	    tabletext += '<td style="background-color:'+data_color+'">'+tmp_data.join(' ')+'</td>';
+	  }
+	}
+	table.push([tmp['name'], tmp['bipa'], tabletext]);
+	symbols.push(ssegment);
+      }
+      else {
+	freqs[tmp['bipa']] += 1;
+      }
+    }
+    else if (typeof ssegment != 'undefined' && ssegment.length > 0 && ssegment.replace(/\s/g,'') != ''){
+      if (visited.indexOf(ssegment) == -1) {
+	visited.push(ssegment);
+	table.push(['?', ssegment, 
+	    '<td title="click to show unicode" id="'+ssegment+'"' + 
+	    'onclick="showUnicode(\''+ssegment+'\');" ondblclick="showOriginal(\''+ssegment+'\');" '+
+	    'colspan="'+(checked+5)+'" style="color:red;font-weight:bold">'+segment+'</td>']);
+	freqs[ssegment] = 1;
+      }
+      else {
+	freqs[ssegment] += 1;
+      }
+    }
+  }
+  var ttext = '<table style="border:2px solid black;">'
+    + '<tr style="border:2px solid gray;">'
+    + '<th>BIPA</th><th>NORM</th><th>ALIAS</th><th>TYPE</th><th>NAME</th>';
+  for (option in options) {
+    if (options[option]) {
+      ttext += '<th>'+options[option]+'</th>';
+    }
+  }
+  ttext += '<th>OCC</th></tr>';
+  /* sort the table according to the reverse name */
+  table.sort(function (x, y) {
+    if (x[0].split("").reverse().join("") < y[0].split("").reverse().join("")) {
+      return -1}
+    if (x[0].split("").reverse().join("") > y[0].split("").reverse().join("")) {
+      return 1}
+    return 0;
+  });
+
+  for (var i=0,row; row=table[i]; i++) {
+    ttext += '<tr>'+table[i][2]+'<td>'+freqs[table[i][1]]+'</td></tr>';
+  }
+  ttext += '</table>';
+  if (table.length > 0) {
+    document.getElementById('annotation').innerHTML = ttext;
+  }
+}
+
+$(".chosen-select").chosen()
+</script>
+
+<div class="footer" style="background-color: #2d6ca2;"> <div class="footerchild"> <a href=""><img src="European_Research_Council_logo.svg" alt="erc-logo" style="width:100px;"/></a></div> <div class="footerchild"> <p> Last updated on {last_update}.  </p> <p> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">This website</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Johann-Mattis List</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" style="color:white">Creative Commons Attribution-NonCommercial 4.0 International License</a>.  </p><p><a style="color:white;" href="http://www.shh.mpg.de/2417/imprint">IMPRINT</a></p> </div> <div class="footerchild"> <a href="http://www.shh.mpg.de/375796/calc"> <img src="max-planck-logo.svg" alt="mpi-logo" style="width:100px;"/></a></div> </div> 
+</body>
+</html>

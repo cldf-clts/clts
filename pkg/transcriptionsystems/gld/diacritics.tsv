@@ -1,0 +1,46 @@
+GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
+◌ʰ	consonant	aspiration	aspirated			
+◌ː	consonant	duration	long			
+◌ˀ	consonant	glottalization	glottalized			
+◌ʷ	consonant	labialization	labialized			
+◌̃	consonant	nasalization	nasalized			
+◌ᶣ	consonant	palatalization	labio-palatalized			
+◌ʲ	consonant	palatalization	palatalized	+	
+◌ʸ	consonant	palatalization	palatalized			
+◌ˤ	consonant	pharyngealization	pharyngealized			
+◌̤	consonant	phonation	breathy-voiced			
+◌ʱ	consonant	phonation	breathy-voiced	+		
+◌̰	consonant	phonation	creaky-voiced			
+◌̥	consonant	phonation	devoiced			
+◌˳	consonant	phonation	devoiced	+		
+◌̊	consonant	phonation	devoiced		up	
+◌̬	consonant	phonation	voiced			
+ʰ◌	consonant	preceding	pre-aspirated			
+ˀ◌	consonant	preceding	pre-glottalized			
+ⁿ◌	consonant	preceding	pre-nasalized			
+◌̚	consonant	release	unreleased			
+◌ᶿ	consonant	release	with-dental-fricative-release			
+◌ˡ	consonant	release	with-lateral-release			
+◌ᵊ	consonant	release	with-mid-central-vowel-release			
+◌ⁿ	consonant	release	with-nasal-release			
+◌ˣ	consonant	release	with-voiceless-velar-fricative			
+◌̩	consonant	syllabicity	syllabic			
+◌̍	consonant	syllabicity	syllabic		up	
+◌ˠ	consonant	velarization	velarized			
+◌ˠ	vowel	velarization	velarized			
+◌ː	vowel	duration	long			
+◌ˑ	vowel	duration	mid-long			
+◌̃	vowel	nasalization	nasalized			
+◌ˤ	vowel	pharyngealization	pharyngealized			
+◌ˀ	vowel	glottalization	glottalized			
+◌̤	vowel	phonation	breathy-voiced			
+◌̰	vowel	phonation	creaky-voiced			
+◌̆	vowel	phonation	ultra-short			
+◌̥	vowel	voicing	devoiced			
+◌˳	vowel	voicing	devoiced	+		
+◌̊	vowel	voicing	devoiced		up	
+◌˞	vowel	rhotacization	rhotacized			
+◌̹	vowel	roundedness	rounded			
+◌̜	vowel	roundedness	unrounded			
+◌̯	vowel	syllabicity	non-syllabic			
+◌̑	vowel	syllabicity	non-syllabic		up	

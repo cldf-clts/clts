@@ -1,0 +1,46 @@
+BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
+ɨː	long unrounded close central vowel		+	ɨ̄			voc:1,con:0,hig:1,bac:1,low:0,ant:0,cor:0,rou:0,ten:1,voi:0,con:0,nas:0,str:0				
+iː	long unrounded close front vowel		+	ī			voc:1,con:0,hig:1,bac:0,low:0,ant:0,cor:0,rou:0,ten:1,voi:0,con:0,nas:0,str:0				
+uː	long rounded close back vowel		+	ū			voc:1,con:0,hig:1,bac:1,low:0,ant:0,cor:0,rou:1,ten:1,voi:0,con:0,nas:0,str:0				
+eː	long unrounded close-mid front vowel		+	ē			voc:1,con:0,hig:0,bac:0,low:0,ant:0,cor:0,rou:0,ten:1,voi:0,con:0,nas:0,str:0				
+oː	long rounded close-mid back vowel		+	ō			voc:1,con:0,hig:0,bac:1,low:0,ant:0,cor:0,rou:1,ten:1,voi:0,con:0,nas:0,str:0				
+æ	unrounded near-open front vowel		+	æ			voc:1,con:0,hig:0,bac:0,low:1,ant:0,cor:0,rou:0,ten:1,voi:0,con:0,nas:0,str:0				
+aː	long unrounded open front vowel		+	ā			voc:1,con:0,hig:0,bac:1,low:1,ant:0,cor:0,rou:0,ten:1,voi:0,con:0,nas:0,str:0				
+œː	long rounded open-mid front vowel		+	œ̄			voc:1,con:0,hig:0,bac:0,low:1,ant:0,cor:0,rou:1,ten:1,voi:0,con:0,nas:0,str:0				
+ɔː	long rounded open-mid back vowel		+	ɔ̄			voc:1,con:0,hig:0,bac:1,low:1,ant:0,cor:0,rou:1,ten:1,voi:0,con:0,nas:0,str:0				
+i	unrounded close front vowel		+	i			voc:1,con:0,hig:1,bac:0,low:0,ant:0,cor:0,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
+u	rounded close back vowel		+	u			voc:1,con:0,hig:1,bac:1,low:0,ant:0,cor:0,rou:1,ten:0,voi:0,con:0,nas:0,str:0				
+e	unrounded close-mid front vowel		+	e			voc:1,con:0,hig:0,bac:0,low:0,ant:0,cor:0,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
+ʌ	unrounded open-mid back vowel		+	ʌ			voc:1,con:0,hig:0,bac:1,low:0,ant:0,cor:0,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
+o	rounded close-mid back vowel		+	o			voc:1,con:0,hig:0,bac:1,low:0,ant:0,cor:0,rou:1,ten:0,voi:0,con:0,nas:0,str:0				
+ɔ	rounded open-mid back vowel		+	ɔ			voc:1,con:0,hig:0,bac:1,low:1,ant:0,cor:0,rou:1,ten:0,voi:0,con:0,nas:0,str:0				
+j	voiced palatal approximant consonant		+	j			voc:0,con:0,hig:1,bac:0,low:0,ant:0,cor:0,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
+w	voiced labio-velar approximant consonant		+	w			voc:0,con:0,hig:1,bac:1,low:0,ant:0,cor:0,rou:1,ten:0,voi:0,con:0,nas:0,str:0				
+ɛ	unrounded open-mid front vowel		+	ɛ			voc:0,con:0,hig:0,bac:0,low:0,ant:0,cor:0,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
+r	voiced alveolar trill consonant		+	r			voc:1,con:1,hig:0,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:1,con:1,nas:0,str:0				
+l	voiced alveolar lateral approximant consonant		+	l			voc:1,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:1,con:1,nas:0,str:0				
+p	voiceless bilabial stop consonant		+	p			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:0,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
+b	voiced bilabial stop consonant		+	b			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:0,rou:0,ten:0,voi:1,con:0,nas:0,str:0				
+f	voiceless labio-dental fricative consonant		+	f			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:0,rou:0,ten:0,voi:0,con:1,nas:0,str:1				
+v	voiced labio-dental fricative consonant		+	v			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:0,rou:0,ten:0,voi:1,con:1,nas:0,str:1				
+m	voiced bilabial nasal consonant		+	m			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:0,rou:0,ten:0,voi:1,con:0,nas:1,str:0				
+t	voiceless alveolar stop consonant		+	y			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
+d	voiced alveolar stop consonant		+	d			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:1,con:0,nas:0,str:0				
+θ	voiceless dental fricative consonant		+	θ			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:0,con:1,nas:0,str:0				
+ð	voiced dental fricative consonant		+	ð			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:1,con:1,nas:0,str:0				
+n	voiced alveolar nasal consonant		+	n			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:1,con:0,nas:1,str:0				
+s	voiceless alveolar sibilant fricative consonant		+	s			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:0,con:1,nas:0,str:1				
+z	voiced alveolar sibilant fricative consonant		+	z			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:1,con:1,nas:0,str:1				
+ts	voiceless alveolar sibilant affricate consonant		+	c			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:0,con:0,nas:0,str:1				
+tʃ	voiceless post-alveolar sibilant affricate consonant		+	č			voc:0,con:1,hig:1,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:0,con:0,nas:0,str:1				
+dʒ	voiced post-alveolar sibilant affricate consonant		+	ǰ			voc:0,con:1,hig:1,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:1,con:0,nas:0,str:1				
+ʃ	voiceless post-alveolar sibilant fricative consonant		+	š			voc:0,con:1,hig:1,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:0,con:1,nas:0,str:1				
+ʒ	voiced post-alveolar sibilant fricative consonant		+	ž			voc:0,con:1,hig:1,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:1,con:1,nas:0,str:1				
+k	voiceless velar stop consonant		+	k			voc:0,con:1,hig:1,bac:1,low:0,ant:0,cor:0,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
+g	voiced velar stop consonant		+	g			voc:0,con:1,hig:1,bac:1,low:0,ant:0,cor:0,rou:0,ten:0,voi:1,con:0,nas:0,str:0				
+x	voiceless velar fricative consonant		+	x			voc:0,con:1,hig:1,bac:1,low:0,ant:0,cor:0,rou:0,ten:0,voi:0,con:1,nas:0,str:0				
+ŋ	voiced velar nasal consonant		+	ŋ			voc:0,con:1,hig:1,bac:1,low:0,ant:0,cor:0,rou:0,ten:0,voi:1,con:0,nas:1,str:0				
+h	voiceless glottal fricative consonant		+	h			voc:0,con:0,hig:0,bac:0,low:1,ant:0,cor:0,rou:0,ten:0,voi:0,con:1,nas:0,str:0				
+kʷ	labialized voiceless velar stop consonant		+	kʷ			voc:0,con:1,hig:1,bac:1,low:0,ant:0,cor:0,rou:1,ten:0,voi:0,con:0,nas:0,str:0				
+gʷ	labialized voiced velar stop consonant		+	gʷ			voc:0,con:1,hig:1,bac:1,low:0,ant:0,cor:0,rou:1,ten:0,voi:1,con:0,nas:0,str:0				
+xʷ	labialized voiceless velar fricative consonant		+	xʷ			voc:0,con:1,hig:1,bac:1,low:0,ant:0,cor:0,rou:1,ten:0,voi:0,con:1,nas:0,str:0				
