@@ -2,8 +2,13 @@
 
 import urllib.request
 import re
+import warnings
 
-from pyclts.util import pkg_path
+try:
+    from pyclts.util import pkg_path
+except ImportError:
+    warnings.warn('requires pyclts < 2.0')
+
 
 DATASET = 'https://chridd.nfshost.com/diachronica/full-table'
 PREFIX = 'https://chridd.nfshost.com/diachronica/'

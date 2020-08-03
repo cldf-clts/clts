@@ -1,8 +1,13 @@
 # encoding: utf-8
 
 import urllib.request
+import warnings
 
-from pyclts.util import pkg_path
+try:
+    from pyclts.util import pkg_path
+except ImportError:
+    warnings.warn('requires pyclts < 2.0')
+
 
 CREANZA_DATASET = 'http://www.pnas.org/content/suppl/2015/01/15/1424033112.DCSupplemental/pnas.1424033112.sd02.txt'
 

@@ -3,8 +3,13 @@
 import re
 import time
 import urllib.request
+import warnings
 
-from pyclts.util import pkg_path
+try:
+    from pyclts.util import pkg_path
+except ImportError:
+    warnings.warn('requires pyclts < 2.0')
+
 
 INVENTORY_URL = 'http://pbase.phon.chass.ncsu.edu/language/'
 

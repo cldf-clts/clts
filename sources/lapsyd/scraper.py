@@ -3,8 +3,12 @@
 import re
 import time
 import urllib.request
+import warnings
 
-from pyclts.util import pkg_path
+try:
+    from pyclts.util import pkg_path
+except ImportError:
+    warnings.warn('requires pyclts < 2.0')
 
 LANGUAGES_URL = 'http://www.lapsyd.ddl.ish-lyon.cnrs.fr/lapsyd/index.php?data=explore'
 INVENTORY_URL = 'http://www.lapsyd.ddl.ish-lyon.cnrs.fr/lapsyd/index.php?data=inv&code='

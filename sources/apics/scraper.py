@@ -1,6 +1,12 @@
 import urllib.request
 import re
-from pyclts.util import pkg_path
+import warnings
+
+try:
+    from pyclts.util import pkg_path
+except ImportError:
+    warnings.warn('requires pyclts < 2.0')
+
 
 URL = 'http://apics-online.info/parameters/{0}'
 sounds = []
