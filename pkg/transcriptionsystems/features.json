@@ -132,12 +132,14 @@
       "labio-palatal",
       "labio-velar",
       "labio-dental",
+      "labio-alveolar",
       "palatal",
       "palatal-velar",
       "pharyngeal",
       "post-alveolar",
       "retroflex",
       "uvular",
+      "uvular-epiglottal",
       "velar"
     ],
     "pharyngealization": [

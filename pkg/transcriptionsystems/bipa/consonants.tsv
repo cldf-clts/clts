@@ -175,6 +175,7 @@ m	voiced	bilabial	nasal
 mʰ	voiced	bilabial	nasal		aspiration:aspirated	
 mː	voiced	bilabial	nasal		duration:long	
 mʷ	voiced	bilabial	nasal		labialization:labialized	
+mw	voiced	bilabial	nasal	+	labialization:labialized	
 mʲ	voiced	bilabial	nasal		palatalization:palatalized	
 ṃ	voiced	bilabial	nasal	+	syllabicity:syllabic	
 m̩	voiced	bilabial	nasal		syllabicity:syllabic	
@@ -439,6 +440,7 @@ d̠ʒ	voiced	post-alveolar	affricate	+	sibilancy:sibilant
 dʒ	voiced	post-alveolar	affricate		sibilancy:sibilant	
 dːʒ	voiced	post-alveolar	affricate		duration:long,sibilancy:sibilant	
 dʒʲ	voiced	post-alveolar	affricate		palatalization:palatalized,sibilancy:sibilant	
+d̠ʓ	voiced	post-alveolar	affricate	+	palatalization:palatalized,sibilancy:sibilant	
 ʧ	voiceless	post-alveolar	affricate	+	sibilancy:sibilant	
 tʃ	voiceless	post-alveolar	affricate		sibilancy:sibilant	
 tᶴ	voiceless	post-alveolar	affricate	+	sibilancy:sibilant	
@@ -512,11 +514,11 @@ kǃǃ	voiceless	retroflex	click	+
 ʈʰː	voiceless	retroflex	stop		aspiration:aspirated,duration:long	
 ɭ̩	voiced	retroflex	approximant		syllabicity:syllabic,laterality:lateral	
 ɭ̍	voiced	retroflex	approximant	+	syllabicity:syllabic,laterality:lateral	
-ŋǃǃ	voiced	retroflex 	nasal-click			
-ŋ̊ǃǃ	voiced	retroflex 	nasal-click		voicing:devoiced	
-ˀŋǃǃ	voiced	retroflex 	nasal-click		preceding:pre-glottalized	
-ŋgǃǃ	voiced	retroflex 	click	+	preceding:pre-nasalized	
-ⁿgǃǃ	voiced	retroflex 	click		preceding:pre-nasalized	
+ŋǃǃ	voiced	retroflex	nasal-click			
+ŋ̊ǃǃ	voiced	retroflex	nasal-click		voicing:devoiced	
+ˀŋǃǃ	voiced	retroflex	nasal-click		preceding:pre-glottalized	
+ŋgǃǃ	voiced	retroflex	click	+	preceding:pre-nasalized	
+ⁿgǃǃ	voiced	retroflex	click		preceding:pre-nasalized	
 ɢʁ	voiced	uvular	affricate			
 qχ	voiceless	uvular	affricate			
 ɢʶ	voiced	uvular	affricate	+		
@@ -606,3 +608,10 @@ kʲ	voiceless	velar	stop		palatalization:palatalized
 k̚	voiceless	velar	stop		release:unreleased	
 kʷʼ	voiceless	velar	stop	+	labialization:labialized,ejection:ejective	
 ɡ̤	voiced	velar	stop	+	breathiness:breathy	
+d̪l̪	voiced	lateral	affricate			
+ɽr	voiced	retroflex	trill			
+kp	voiceless	labio-velar	stop			
+gb	voiced	labio-velar	stop			
+qʡ	voiceless	uvular-epiglottal	stop			
+nm	voiced	labio-alveolar	nasal			
+ŋm	voiced	labio-velar	nasal			
