@@ -176,7 +176,6 @@ m	voiced	bilabial	nasal
 mʰ	voiced	bilabial	nasal		aspiration:aspirated	
 mː	voiced	bilabial	nasal		duration:long	
 mʷ	voiced	bilabial	nasal		labialization:labialized	
-mw	voiced	bilabial	nasal	+	labialization:labialized	
 mʲ	voiced	bilabial	nasal		palatalization:palatalized	
 ṃ	voiced	bilabial	nasal	+	syllabicity:syllabic	
 m̩	voiced	bilabial	nasal		syllabicity:syllabic	
@@ -441,7 +440,6 @@ d̠ʒ	voiced	post-alveolar	affricate	+	sibilancy:sibilant
 dʒ	voiced	post-alveolar	affricate		sibilancy:sibilant	
 dːʒ	voiced	post-alveolar	affricate		duration:long,sibilancy:sibilant	
 dʒʲ	voiced	post-alveolar	affricate		palatalization:palatalized,sibilancy:sibilant	
-d̠ʓ	voiced	post-alveolar	affricate	+	palatalization:palatalized,sibilancy:sibilant	
 ʧ	voiceless	post-alveolar	affricate	+	sibilancy:sibilant	
 tʃ	voiceless	post-alveolar	affricate		sibilancy:sibilant	
 tᶴ	voiceless	post-alveolar	affricate	+	sibilancy:sibilant	
