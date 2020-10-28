@@ -263,6 +263,7 @@ ỹː	rounded	close	front		nasalization:nasalized,duration:long
 ɶ̃ɶ̃	rounded	open	front	+	nasalization:nasalized,duration:long	
 ɶ̃ː	rounded	open	front		nasalization:nasalized,duration:long	
 ɿ	unrounded	close	back		frication:with-frication	
+ɯ͓	unrounded	close	back	+	frication:with-frication	
 ʅ	unrounded	close	central		frication:with-frication	
 ʉ	rounded	close	central			
 ʉʉ	rounded	close	central	+	duration:long	
@@ -303,7 +304,9 @@ ỹː	rounded	close	front		nasalization:nasalized,duration:long
 ʏ̃ʏ̃	rounded	near-close	near-front	+	nasalization:nasalized,duration:long	
 ʏ̃ː	rounded	near-close	near-front		nasalization:nasalized,duration:long	
 ʮ	rounded	close	back		frication:with-frication	
+u͓	rounded	close	back	+	frication:with-frication	
 ʯ	rounded	close	central		frication:with-frication	
+i͓	unrounded	close	front		frication:with-frication	
 ɤ̯	unrounded	close-mid	back		syllabicity:non-syllabic	
 ɔ̑	rounded	open-mid	back	+	syllabicity:non-syllabic	
 ɛ̑	unrounded	open-mid	front	+	syllabicity:non-syllabic	
