@@ -130,7 +130,7 @@ BIPA	GRAPHEME	COUNT
 	ʐ	7
 	ɻ	7
 	ɤ	7
-	ç	7
+ç	ç	7
 	xʷ	7
 	wː	7
 	ui	7
@@ -146,7 +146,7 @@ BIPA	GRAPHEME	COUNT
 	oi	6
 	n̪	6
 	lʲ	6
-	k’	6
+kʼ	k’	6
 	ia	6
 	gʱ	6
 	eɪ	6
@@ -165,10 +165,10 @@ BIPA	GRAPHEME	COUNT
 	ŋʷ	5
 	æː	5
 	ua	5
-	tʃ’	5
-	tʂ	5
+tʃʼ	tʃ’	5
+ʈʂ	tʂ	5
 	tɬ	5
-	ts’	5
+tsʼ	ts’	5
 	oˑ	5
 	n̥	5
 	m̥	5
@@ -195,7 +195,7 @@ BIPA	GRAPHEME	COUNT
 	ŋgʷ	4
 	ħ	4
 	uə	4
-	t’	4
+tʼ	t’	4
 	sʲ	4
 	qʷ	4
 	qʰ	4
@@ -208,10 +208,10 @@ BIPA	GRAPHEME	COUNT
 	dʒː	4
 	bʲ	4
 	ãː	4
-	aw	4
-	aj	4
+au	aw	4
+ai	aj	4
 	ⁿd	3
-	ʔj	3
+ˀj	ʔj	3
 	ʒː	3
 	ʉ	3
 	ʈː	3
@@ -233,22 +233,22 @@ BIPA	GRAPHEME	COUNT
 	ɐu	3
 	ŋk	3
 	zʲ	3
-	wi	3
-	we	3
-	wa	3
+ui	wi	3
+ue	we	3
+ua	wa	3
 	vʲ	3
 	ṵ	3
 	uɪ	3
 	t̪ː	3
 	t̪ʰ	3
-	tʂʰ	3
-	tɬ’	3
+ʈʂʰ	tʂʰ	3
+tɬʼ	tɬ’	3
 	r̝	3
-	p’	3
+pʼ	p’	3
 	pʰː	3
 	pf	3
 	o̰	3
-	oj	3
+oi	oj	3
 	oi̯	3
 	oe	3
 	nt	3
@@ -257,10 +257,10 @@ BIPA	GRAPHEME	COUNT
 	l̥	3
 	kʷʰ	3
 	kʰː	3
-	ju	3
-	jo	3
-	je	3
-	ja	3
+iu	ju	3
+io	jo	3
+ie	je	3
+ia	ja	3
 	ḭ	3
 	g̊	3
 	gʲ	3
@@ -271,7 +271,7 @@ BIPA	GRAPHEME	COUNT
 	ei̯	3
 	d̪ʱ	3
 	d̥	3
-	dʐ	3
+ɖʐ	dʐ	3
 	cʰ	3
 	b̥	3
 	a̰	3
@@ -280,8 +280,8 @@ BIPA	GRAPHEME	COUNT
 	βʷ	2
 	ʝ	2
 	ʔʲ	2
-	ʔn	2
-	ʔm	2
+ˀn	ʔn	2
+ˀm	ʔm	2
 	ʎ̥	2
 	ʍ	2
 	ʌu	2
@@ -290,8 +290,8 @@ BIPA	GRAPHEME	COUNT
 	ʈʰː	2
 	ʄ	2
 	ɽʱ	2
-	ɲ̥	2
-	ɫ	2
+ɲ̊	ɲ̥	2
+lˠ	ɫ	2
 	ɨː	2
 	ɥ	2
 	ɤː	2
@@ -301,7 +301,7 @@ BIPA	GRAPHEME	COUNT
 	ɛ̤	2
 	ɛ̃ː	2
 	ɛˑ	2
-	ɚ	2
+ə˞	ɚ	2
 	ɖʐ	2
 	ɔ̤	2
 	ɔ̃ː	2
@@ -319,34 +319,34 @@ BIPA	GRAPHEME	COUNT
 	ye	2
 	xʲ	2
 	w̃	2
-	wo	2
+uo	wo	2
 	vː	2
 	ṳ	2
 	ũː	2
 	uˤ	2
 	uˑ	2
 	uo	2
-	uj	2
+ui	uj	2
 	t̪ʷ	2
 	t̪ʰː	2
 	t̠ɕː	2
 	t̠ɕʰ	2
 	t̠ɕ	2
 	tˤ	2
-	tːʃ	2
+tʃː	tːʃ	2
 	tʼ	2
 	tʷ	2
 	tʰː	2
 	tʃʲ	2
-	tʃ'	2
+tʃ’	tʃ'	2
 	tɬʰ	2
-	tɬ'	2
-	tç	2
+tɬ’	tɬ'	2
+tç	tç	2
 	tsː	2
 	tsʼ	2
 	tsʲ	2
-	ts'	2
-	t'	2
+ts’	ts'	2
+t’	t'	2
 	s̻	2
 	s̺	2
 	s̪	2
@@ -354,11 +354,11 @@ BIPA	GRAPHEME	COUNT
 	sˠ	2
 	sʰ	2
 	rʲ	2
-	q’	2
+qʼ	q’	2
 	pʼ	2
 	pʷ	2
-	p:	2
-	p'	2
+pː	p:	2
+p’	p'	2
 	o̤	2
 	oˤ	2
 	oʊ̃	2
@@ -372,18 +372,18 @@ BIPA	GRAPHEME	COUNT
 	mbʷ	2
 	lˤ	2
 	lʱ	2
-	kʷ’	2
-	kʷ'	2
+kʼʷ	kʷ’	2
+k’ʷ	kʷ'	2
 	j̃	2
 	i̤	2
 	iˤ	2
-	iau	2
+<NA>	iau	2
 	hʷ	2
 	fʷ	2
 	fʲ	2
 	eu̯	2
 	eo	2
-	ej	2
+ei	ej	2
 	ea	2
 	d̪ː	2
 	d̪ʱː	2
@@ -399,10 +399,10 @@ BIPA	GRAPHEME	COUNT
 	au̯	2
 	ai̯	2
 	ae̯	2
-	Ng	2
-	Ndʑ	2
-	Nd	2
-	Nb	2
+ⁿg	Ng	2
+ⁿdʑ	Ndʑ	2
+ⁿd	Nd	2
+ⁿb	Nb	2
 	ⱱ̟	1
 	ⱱ	1
 	ⁿɟ	1
@@ -411,15 +411,15 @@ BIPA	GRAPHEME	COUNT
 	ⁿǀ	1
 	ⁿg	1
 	ⁿb	1
-	ᵗ̪n̪	1
-	ᵗnʷ	1
-	ᵗn	1
+<NA>	ᵗ̪n̪	1
+<NA>	ᵗnʷ	1
+<NA>	ᵗn	1
 	χː	1
 	χʷː	1
 	βː	1
 	βʲ	1
-	̼	1
-	̪l	1
+<NA>	̼	1
+<NA>	̪l	1
 	ˀw	1
 	ˀn	1
 	ˀm	1
@@ -431,24 +431,24 @@ BIPA	GRAPHEME	COUNT
 	ʙ̥	1
 	ʙ	1
 	ʕː	1
-	ʕʷʔ	1
+ʕʷˀ	ʕʷʔ	1
 	ʕʷ	1
-	ʕʔ	1
+ʕˀ	ʕʔ	1
 	ʔβ	1
 	ʔʷː	1
 	ʔʷ	1
 	ʔʲː	1
-	ʔŋg	1
-	ʔw̰	1
-	ʔw	1
-	ʔr̥	1
-	ʔr	1
-	ʔnd	1
-	ʔl	1
-	ʔj̰	1
+ˀŋg	ʔŋg	1
+ˀw̰	ʔw̰	1
+ˀw	ʔw	1
+ˀr̥	ʔr̥	1
+ˀr	ʔr	1
+ˀnd	ʔnd	1
+ˀl	ʔl	1
+ˀj̰	ʔj̰	1
 	ʔd	1
 	ʔb	1
-	ʔ:	1
+ʔː	ʔ:	1
 	ʒ̊	1
 	ʒˤː	1
 	ʒˤ	1
@@ -456,7 +456,7 @@ BIPA	GRAPHEME	COUNT
 	ʌˤː	1
 	ʌˑ	1
 	ʋː	1
-	ʋʋ	1
+ʋː	ʋʋ	1
 	ʊ̽	1
 	ʊ̯ɔ	1
 	ʊˤː	1
@@ -470,10 +470,10 @@ BIPA	GRAPHEME	COUNT
 	ʈʈ	1
 	ʈʂː	1
 	ʈʂʰ	1
-	ʈɽʰ	1
-	ʈɽ	1
-	ʈɳʷ	1
-	ʈɳ	1
+<NA>	ʈɽʰ	1
+<NA>	ʈɽ	1
+<NA>	ʈɳʷ	1
+<NA>	ʈɳ	1
 	ʃ̺	1
 	ʃˤ	1
 	ʃʲː	1
@@ -494,10 +494,10 @@ BIPA	GRAPHEME	COUNT
 	ɺ	1
 	ɹ̺	1
 	ɹː	1
-	ɹʔ	1
+ɹˀ	ɹʔ	1
 	ɶ	1
 	ɵy	1
-	ɴgb	1
+<NA>	ɴgb	1
 	ɴ	1
 	ɳː	1
 	ɳʷ	1
@@ -516,7 +516,7 @@ BIPA	GRAPHEME	COUNT
 	ɮ	1
 	ɭː	1
 	ɭʷ	1
-	ɭɭ	1
+ɭː	ɭɭ	1
 	ɬː	1
 	ɪ̽	1
 	ɪ̯ɛ	1
@@ -531,7 +531,7 @@ BIPA	GRAPHEME	COUNT
 	ɨˤ	1
 	ɧ	1
 	ɤˑ	1
-	ɤːː	1
+ɤː	ɤːː	1
 	ɤɑ	1
 	ɤu	1
 	ɤo	1
@@ -551,44 +551,44 @@ BIPA	GRAPHEME	COUNT
 	ɛ̤ː	1
 	ɛˠː	1
 	ɛˠ	1
-	ɛːɒ̯ˤ;	1
+<NA>	ɛːɒ̯ˤ;	1
 	ɛə	1
 	ɛo̯	1
-	ɛj	1
+ɛi	ɛj	1
 	ɛiː	1
 	ɛe̯	1
 	ə̤	1
-	əʊɪ	1
+<NA>	əʊɪ	1
 	əʉ	1
-	əʁ̞	1
-	əɪa	1
+<NA>	əʁ̞	1
+<NA>	əɪa	1
 	əɪ	1
 	ɘ̃	1
 	ɗː	1
-	ɖːʱ	1
+ɖʱː	ɖːʱ	1
 	ɖʱː	1
 	ɖʰ	1
-	ɖɽ	1
+<NA>	ɖɽ	1
 	ɖɖʱ	1
 	ɖɖ	1
 	ɔ̤ˑ	1
 	ɔ̤ː	1
 	ɔˤː	1
-	ɔːˤ	1
+ɔˤː	ɔːˤ	1
 	ɔːə	1
 	ɔːi	1
 	ɔɜ	1
 	ɔɛ̯	1
 	ɔuː	1
 	ɔo̯	1
-	ɔoũ	1
+<NA>	ɔoũ	1
 	ɔe̯	1
 	ɓː	1
 	ɓʲ	1
 	ɑ̰	1
 	ɑˑ	1
-	ɑːˤ	1
-	ɑːː	1
+ɑˤː	ɑːˤ	1
+ɑː	ɑːː	1
 	ɑʊ	1
 	ɑɯ	1
 	ɑɪ	1
@@ -617,12 +617,12 @@ BIPA	GRAPHEME	COUNT
 	œ̃ː	1
 	œʏ	1
 	œyː	1
-	ŋ̥	1
+ŋ̊	ŋ̥	1
 	ŋˤ	1
 	ŋʲ	1
 	ŋkʷ	1
-	ŋgb	1
-	ŋ:	1
+<NA>	ŋgb	1
+ŋː	ŋ:	1
 	øˑ	1
 	øːː	1
 	øɪ	1
@@ -632,7 +632,7 @@ BIPA	GRAPHEME	COUNT
 	ð̞	1
 	æ̃ː	1
 	æˑ	1
-	æːˤ	1
+æˤː	æːˤ	1
 	æːː	1
 	æːʊ	1
 	æːɪ	1
@@ -658,13 +658,13 @@ BIPA	GRAPHEME	COUNT
 	yo	1
 	yi	1
 	ya	1
-	w̆	1
+<NA>	w̆	1
 	wʲ	1
-	wʔ	1
-	wʌ	1
-	wɛ	1
-	wei̯	1
-	wai̯	1
+wˀ	wʔ	1
+uʌ	wʌ	1
+uɛ	wɛ	1
+<NA>	wei̯	1
+<NA>	wai̯	1
 	v̩	1
 	v̥	1
 	vʷ	1
@@ -674,7 +674,7 @@ BIPA	GRAPHEME	COUNT
 	u̞ː	1
 	u̞	1
 	u̙	1
-	ṵ̃	1
+ṵ̃	ṵ̃	1
 	ũˤ	1
 	ũi	1
 	uːː	1
@@ -683,85 +683,85 @@ BIPA	GRAPHEME	COUNT
 	uə̯	1
 	uɑ	1
 	uɐ	1
-	uw	1
+<NA>	uw	1
 	ui̯	1
-	uei	1
+<NA>	uei	1
 	ue	1
-	uai	1
+<NA>	uai	1
 	t’ː	1
-	t͜s	1
+ts	t͜s	1
 	t̻s̻ʰ	1
 	t̻s̻	1
 	t̪ˠ	1
-	t̪s̪ʰ	1
-	t̪s̪	1
-	t̪:	1
+ts̪ʰ	t̪s̪ʰ	1
+ts̪	t̪s̪	1
+t̪ː	t̪:	1
 	t̠ɕʰː	1
 	tˤː	1
 	tˠ	1
-	tːɕ	1
-	tʷ’	1
+tɕː	tːɕ	1
+t’ʷ	tʷ’	1
 	tʲː	1
 	tʲʷ	1
-	tʲnʲ	1
-	tʃ’ː	1
+<NA>	tʲnʲ	1
+tʃʼː	tʃ’ː	1
 	tʃ̺ʰ	1
 	tʃ̺	1
 	tʃʼ	1
 	tʃʰː	1
-	tʃtʃʰ	1
-	tʃtʃ	1
+tʃʰː	tʃtʃʰ	1
+tʃː	tʃtʃ	1
 	tɬʼ	1
 	ttʰ	1
 	tt	1
 	ts̻	1
 	ts̺	1
 	tsʰː	1
-	tsts	1
-	s’	1
+tsː	tsts	1
+sʼ	s’	1
 	sˤː	1
 	sʷː	1
 	sʷ	1
 	sʲː	1
-	ss	1
-	s:	1
+sː	ss	1
+sː	s:	1
 	rˤː	1
 	rˤ	1
-	rr	1
-	q’ʷ	1
+rː	rr	1
+qʼʷ	q’ʷ	1
 	qχ	1
 	qː	1
 	qʼ	1
-	qʷ'	1
-	q'	1
+q’ʷ	qʷ'	1
+q’	q'	1
 	p’ː	1
-	p̼	1
+p̪	p̼	1
 	pˠ	1
-	pʷ’	1
+p’ʷ	pʷ’	1
 	ppʰ	1
 	pp	1
-	pm	1
+<NA>	pm	1
 	o̤ˑ	1
 	o̤ː	1
 	o̝	1
 	o̙	1
 	ö	1
-	õ̰	1
+õ̰	õ̰	1
 	õˤ	1
 	õi	1
 	oˤː	1
-	oːˤ	1
+oˤː	oːˤ	1
 	oːː	1
 	oːə	1
-	oːɒ̯ʔ	1
+oːɒ̯ˀ	oːɒ̯ʔ	1
 	oʊ	1
-	oəɪ	1
+<NA>	oəɪ	1
 	oɑ	1
-	ow	1
-	oo̯	1
+ou	ow	1
+o̯ː	oo̯	1
 	oe̯	1
 	oa	1
-	n̹	1
+<NA>	n̹	1
 	n̪ˠ	1
 	n̪ː	1
 	n̪ʷ	1
@@ -770,7 +770,7 @@ BIPA	GRAPHEME	COUNT
 	n̪d̪ʷ	1
 	n̪d̪ʲ	1
 	n̪d̪	1
-	n̘	1
+<NA>	n̘	1
 	nʲʷ	1
 	nʔ	1
 	nʃ	1
@@ -780,15 +780,15 @@ BIPA	GRAPHEME	COUNT
 	ntʲ	1
 	ntʃ	1
 	nsʷ	1
-	nn	1
+nː	nn	1
 	ng	1
 	ndʷ	1
 	ndʲ	1
 	ndʑ	1
-	ndʐ	1
+nɖʐ	ndʐ	1
 	ndz	1
-	n:	1
-	m̼	1
+nː	n:	1
+<NA>	m̼	1
 	m̩	1
 	mˤ	1
 	mˠ	1
@@ -796,67 +796,67 @@ BIPA	GRAPHEME	COUNT
 	mʔ	1
 	mpʷ	1
 	mpʲ	1
-	mm	1
+mː	mm	1
 	mf	1
 	mbʲ	1
-	m:	1
+mː	m:	1
 	l̪ˠ	1
 	l̪ʷ	1
 	l̪	1
 	lˤː	1
 	lʷ	1
 	lʲʷ	1
-	lʔ	1
-	lʒ	1
-	ll	1
-	ld	1
-	l:	1
-	k’ʷ	1
+lˀ	lʔ	1
+ɮ	lʒ	1
+lː	ll	1
+<NA>	ld	1
+lː	l:	1
+kʼʷ	k’ʷ	1
 	kʼ	1
-	kʷ’ː	1
-	kʷʼ	1
-	kʲ’	1
-	kʲʼ	1
-	kŋʷ	1
-	kŋ	1
+k’ʷː	kʷ’ː	1
+kʼʷ	kʷʼ	1
+k’ʲ	kʲ’	1
+k’ʲ	kʲʼ	1
+<NA>	kŋʷ	1
+<NA>	kŋ	1
 	kx	1
 	ks	1
-	kl	1
+<NA>	kl	1
 	kkʰ	1
 	kk	1
-	k:	1
-	k'	1
+kː	k:	1
+k’	k'	1
 	jʷ	1
-	jʌ	1
-	jɛ	1
-	jj	1
-	jeu̯	1
-	jau̯	1
-	jai̯	1
-	j:	1
+iʌ	jʌ	1
+iɛ	jɛ	1
+jː	jj	1
+<NA>	jeu̯	1
+<NA>	jau̯	1
+<NA>	jai̯	1
+jː	j:	1
 	i̤ˑ	1
 	i̤ː	1
 	i̞ː	1
 	i̞	1
 	i̙	1
-	ḭ̃	1
+ḭ̃	ḭ̃	1
 	ĩˤ	1
 	iˠ	1
 	iːː	1
 	iːə	1
 	iːu	1
-	iʔ	1
+iˀ	iʔ	1
 	iɛ	1
 	iə̯	1
-	iəɪ	1
+<NA>	iəɪ	1
 	iɔ	1
 	iɑ	1
 	iɐ	1
-	iw	1
-	iou	1
+iu	iw	1
+<NA>	iou	1
 	io	1
-	ij	1
-	i:	1
+<NA>	ij	1
+iː	i:	1
 	h̃	1
 	hʷː	1
 	hʲː	1
@@ -867,7 +867,7 @@ BIPA	GRAPHEME	COUNT
 	gǀ	1
 	ggʱ	1
 	gg	1
-	g:	1
+gː	g:	1
 	fˠ	1
 	fʷː	1
 	fʰ	1
@@ -876,56 +876,56 @@ BIPA	GRAPHEME	COUNT
 	e̞ɪ	1
 	e̝	1
 	ë	1
-	ḛ̃	1
+ḛ̃	ḛ̃	1
 	ẽˤ	1
 	ẽː	1
 	eˤ	1
 	eˠː	1
 	eˠ	1
-	eːˤ	1
+eˤː	eːˤ	1
 	eːː	1
 	eɪ̃	1
-	eəɪ	1
+<NA>	eəɪ	1
 	eɔ	1
 	eɑ	1
-	ew	1
+eu	ew	1
 	eoː	1
 	eã	1
 	eaː	1
-	e:	1
-	d͜z	1
+eː	e:	1
+dz	d͜z	1
 	d̻z̻	1
 	d̪ˠ	1
 	d̪ʷ	1
 	d̪ʲ	1
-	d̪z̪	1
+dz̪	d̪z̪	1
 	d̠ʑː	1
 	d̠ʑʱː	1
 	dˤː	1
-	dːʑ	1
+dʑː	dːʑ	1
 	dːʃ	1
-	dːz	1
+dzː	dːz	1
 	dʷ	1
 	dʰː	1
 	dʰ	1
 	dʝ	1
 	dʒʲ	1
 	dʒʱː	1
-	dʒdʒʱ	1
-	dʒdʒ	1
+dʒʱː	dʒdʒʱ	1
+dʒː	dʒdʒ	1
 	dʑː	1
 	dzʱː	1
 	dzʱ	1
-	dzdz	1
-	dlʒ	1
+dzː	dzdz	1
+dɮ	dlʒ	1
 	ddʱ	1
 	dd	1
-	d:ʒ	1
-	d:	1
+dːʒ	d:ʒ	1
+dː	d:	1
 	cː	1
-	cçː	1
-	cç	1
-	cn	1
+cçː	cçː	1
+cç	cç	1
+<NA>	cn	1
 	bˠ	1
 	bʷː	1
 	bʷ	1
@@ -934,35 +934,35 @@ BIPA	GRAPHEME	COUNT
 	bʰ	1
 	bbʱ	1
 	bb	1
-	b:	1
+bː	b:	1
 	a̤ˑ	1
 	a̤ː	1
-	ã̰	1
+ã̰	ã̰	1
 	ãˤ	1
-	aˤ:	1
+aˤː	aˤ:	1
 	aˠ	1
 	a˞	1
 	aːu	1
 	aːi	1
-	aʔ	1
+aˀ	aʔ	1
 	aʊ̃	1
-	aʊɪ	1
+<NA>	aʊɪ	1
 	aɵ̯	1
 	aɪ̃	1
 	aɛ̯	1
 	aɛ	1
 	ao̯	1
 	ae	1
-	Nʈɽʰ	1
-	Nɖɽ	1
-	Nt̻s̻ʰ	1
-	Nt̪s̪ʰ	1
-	Ntʰ	1
-	Ntɕʰ	1
-	Npʰ	1
-	Nkʰ	1
-	Nd̻z̻	1
-	Nd̪z̪	1
-	Ndʐ	1
-	Ndz	1
-	N	1
+<NA>	Nʈɽʰ	1
+<NA>	Nɖɽ	1
+ⁿt̻s̻ʰ	Nt̻s̻ʰ	1
+ⁿt̪s̪ʰ	Nt̪s̪ʰ	1
+ⁿtʰ	Ntʰ	1
+ⁿtɕʰ	Ntɕʰ	1
+ⁿpʰ	Npʰ	1
+ⁿkʰ	Nkʰ	1
+ⁿd̻z̻	Nd̻z̻	1
+ⁿd̪z̪	Nd̪z̪	1
+ⁿdʐ	Ndʐ	1
+ⁿdz	Ndz	1
+<NA>	N	1
