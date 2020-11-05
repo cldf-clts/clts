@@ -138,14 +138,7 @@
       "post-alveolar",
       "retroflex",
       "uvular",
-      "velar",
-      "bilabial-and-alveolar",
-      "bilabial-and-velar",
-      "alveolar-and-bilabial",
-      "alveolar-and-velar",
-      "velar-and-alveolar",
-      "velar-and-bilabial"
-
+      "velar"
     ],
     "pharyngealization": [
       "pharyngealized"

@@ -1,16 +1,4 @@
 GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
-pt	voiceless	bilabial-and-alveolar	stop			
-bd	voiced	bilabial-and-alveolar	stop			
-pk	voiceless	bilabial-and-velar	stop			
-bg	voiced	bilabial-and-velar	stop			
-tp	voiceless	alveolar-and-bilabial	stop			
-db	voiced	alveolar-and-bilabial	stop			
-kp	voiceless	velar-and-bilabial	stop			
-gb	voiced	velar-and-bilabial	stop			
-kt	voiceless	velar-and-alveolar	stop			
-gd	voiced	velar-and-alveolar	stop			
-tk	voiceless	alveolar-and-velar	stop			
-dg	voiced	alveolar-and-velar	stop			
 pfʰ	voiceless	labio-dental	affricate		aspiration:aspirated	
 n̼	voiced	linguolabial	nasal			
 ⁿd̼	voiced	linguolabial	stop		preceding:pre-nasalized	
