@@ -1,4 +1,5 @@
 from urllib.request import urlopen
+from html import unescape
 import re
 
 sounds = []
@@ -10,5 +11,5 @@ for idx, sound in re.findall("<A href=.*?ChoixCellule=([A-Z0-9]*)[^A-Z0-9][^>]*>
 with open('graphemes.tsv', 'w') as f:
     f.write('BIPA\tGRAPHEME\tID\n')
     for a, b in sounds:
-        f.write('\t'+b+'\t'+a+'\n')
+        f.write('\t'+unescape(b)+'\t'+a+'\n')
 print('found {0} sounds'.format(len(sounds)))
