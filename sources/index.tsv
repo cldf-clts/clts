@@ -25,4 +25,6 @@ gld	Transcription system of the Global Lexicostatistical Database project.	Staro
 asjpcode	Transcription system of the ASJP project.	Wichmann2016	ts	
 napa	A tentative reconstruction of what is known as the North-American Phonetic Alphabet. Our description is a compromise between different sources, especially Pullum and Ladusaw (1996), but also the information available in Wikipedia (https://en.wikipedia.org/wiki/Americanist_phonetic_notation).	Pullum1996	ts	
 upa	A transcription system is used predominantly for the transcription and reconstruction of Uralic languages.	ISON2419, Setala1901	ts	
-jipa	Data from inventories published in the Journal of the International Phonetic Association (JIPA), as collected by Baird et al. (forth.)	BairdForth	td
+jipa	Data from inventories published in the Journal of the International Phonetic Association (JIPA), as collected by Baird et al. (forth.)	BairdForth	td	
+segbo	Transcription data assembled for a study on the borrowing of phonological segment borrowing.	Eisen2019	td	
+saphon	Transcription data assembled from the South American Phonological Inventory Database.	saphon	td	
