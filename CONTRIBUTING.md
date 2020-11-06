@@ -28,7 +28,7 @@ $ cp TS/graphemes.mapped.tsv graphemes.tsv
 
 Now, you should add the bibliographic information of your new transcription data system to CLTS. Please prepare them in BibTeX and add them to the file `data/sources.bib`. 
 
-As a last point, you should provide the descritpino for the dataset in the file `sources/index.tsv`, where you add the NAME (the name of the folder, that is, the "identifier"), a short description (field DESCRIPTION), references (field REFS) as bibtex-keys separated by a comma, the type (TYPE), which should be `td`, and (if this comes along with the data) the template for the resolution of the URL, where the datapoint can be found (URITEMPLATE). 
+As a last point, you should provide the description for the dataset in the file `sources/index.tsv`, where you add the NAME (the name of the folder, that is, the "identifier"), a short description (field DESCRIPTION), references (field REFS) as bibtex-keys separated by a comma, the type (TYPE), which should be `td`, and (if this comes along with the data) the template for the resolution of the URL, where the datapoint can be found (URITEMPLATE). 
 
 Now, you can make a pull request in which you send this updated code for review by our CLTS team. Once all problems in the manually corrected mapping have been resolved, we will add this transcription system as a source, and list you as a contributor.
 
