@@ -45,11 +45,11 @@ aː	long unrounded open front vowel			aː						1
 a̤	breathy unrounded open front vowel	+		a̤						4	
 a̰	creaky unrounded open front vowel			a̰						1	
 b	voiced bilabial stop consonant			b						1347	
-bd	from voiced bilabial stop to voiced alveolar stop cluster	+		bd						1	
-bdz	from voiced bilabial stop to voiced alveolar sibilant affricate cluster	+		bdᶻ						0	
+bd	voiced bilabial-and-alveolar stop consonant			bd						1	
+<NA>	<NA>			bdᶻ						0	
 bɗ	from voiced bilabial stop to voiced dental implosive cluster	+		bɗ						0	
 <NA>	<NA>			bɡ̌						0	
-bɮ	from voiced bilabial stop to voiced alveolar lateral fricative cluster	+		bɮ						0	
+<NA>	<NA>			bɮ						0	
 <NA>	<NA>			bɹ						1	
 bʷ	labialized voiced bilabial stop consonant			bʷ						7	
 bˀ	glottalized voiced bilabial stop consonant	+		bˀ						2	
@@ -148,9 +148,9 @@ jʱ	breathy voiced palatal approximant consonant	+		j̤						2
 j̊	devoiced voiced palatal approximant consonant			j̥						28	
 k	voiceless velar stop consonant			k						2032	
 <NA>	<NA>			k^						2	
-kp	from voiceless velar stop to voiceless bilabial stop cluster	+		kp						172	
-kpʷ	from voiceless velar stop to labialized voiceless bilabial stop cluster	+		kpʷ						2	
-kt	from voiceless velar stop to voiceless alveolar stop cluster	+		kt						1	
+kp	voiceless velar-and-bilabial stop consonant			kp						172	
+kpʷ	labialized voiceless velar-and-bilabial stop consonant	+		kpʷ						2	
+kt	voiceless velar-and-alveolar stop consonant			kt						1	
 kʰ	aspirated voiceless velar stop consonant			kʰ						310	
 kʷʰ	labialized aspirated voiceless velar stop consonant	+		kʰʷ						18	
 kʲ	palatalized voiceless velar stop consonant			kʲ						14	
@@ -252,8 +252,8 @@ o̤	breathy rounded close-mid back vowel			o̤						2
 o̰	creaky rounded close-mid back vowel			o̰						1	
 p	voiceless bilabial stop consonant			p						1843	
 <NA>	<NA>			pč						0	
-pt	from voiceless bilabial stop to voiceless alveolar stop cluster	+		pt						1	
-pts	from voiceless bilabial stop to voiceless alveolar sibilant affricate cluster	+		ptˢ						0	
+pt	voiceless bilabial-and-alveolar stop consonant			pt						1	
+<NA>	<NA>			ptˢ						0	
 pʰ	aspirated voiceless bilabial stop consonant			pʰ						283	
 pʱ	breathy voiceless bilabial stop consonant	+		pʱ						1	
 pʷ	labialized voiceless bilabial stop consonant			pʷ						5	
@@ -329,7 +329,7 @@ sː	long voiceless alveolar sibilant fricative consonant			sː						2
 s̪	voiceless dental sibilant fricative consonant			s̪						7	
 s̪ˀː	glottalized long voiceless dental sibilant fricative consonant	+		s̪ːˀ						3	
 t	voiceless alveolar stop consonant			t						2035	
-tp	from voiceless alveolar stop to voiceless bilabial stop cluster	+		tp						0	
+tp	voiceless alveolar-and-bilabial stop consonant			tp						0	
 tʰ	aspirated voiceless alveolar stop consonant			tʰ						322	
 tʱ	breathy voiceless alveolar stop consonant	+		tʱ						1	
 tʲ	palatalized voiceless alveolar stop consonant			tʲ						9	
@@ -494,9 +494,9 @@ gǀkxˀ	from voiced dental click to glottalized voiceless velar affricate cluste
 gǀʰˀ	glottalized aspirated voiced dental click consonant	+	+	ɡ/ˀʰ						1	
 <NA>	<NA>		+	ɡ/ˣ						5	
 <NA>	<NA>			ɡ^						2	
-gb	from voiced velar stop to voiced bilabial stop cluster	+		ɡb						165	
-gbʷ	from voiced velar stop to labialized voiced bilabial stop cluster	+		ɡbʷ						2	
-gd	from voiced velar stop to voiced alveolar stop cluster	+		ɡd						1	
+gb	voiced velar-and-bilabial stop consonant			ɡb						165	
+gbʷ	labialized voiced velar-and-bilabial stop consonant	+		ɡbʷ						2	
+gd	voiced velar-and-alveolar stop consonant			ɡd						1	
 gǁ	voiced lateral click consonant			ɡǁ						25	
 gǁkxˀ	from voiced lateral click to glottalized voiceless velar affricate cluster	+		ɡǁkˣˀ						3	
 <NA>	<NA>			ɡǁn						13	

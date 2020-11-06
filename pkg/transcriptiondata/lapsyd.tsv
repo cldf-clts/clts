@@ -14,7 +14,7 @@ k	voiceless velar stop consonant			k			pulmonic stop voiceless velar
 r̝	raised voiced alveolar trill consonant	+		r̝			pulmonic fricative trill voiced alveolar				
 ɺ	voiced alveolar lateral tap consonant			ɺ			pulmonic tap/flap lateral alveolar				
 q	voiceless uvular stop consonant			q			pulmonic stop voiceless uvular				
-gb	from voiced velar stop to voiced bilabial stop cluster	+		ɡb			pulmonic stop voiced bilabial velar				
+gb	voiced velar-and-bilabial stop consonant			ɡb			pulmonic stop voiced bilabial velar				
 ǃʰ	aspirated voiceless alveolar click consonant	+		kǃʰ			click stop aspirated voiceless palato-alveolar velar				
 ǁʰ	aspirated voiceless lateral click consonant	+		kǁʰ			click stop lateral aspirated voiceless alveolar velar				
 ǀʰ	aspirated voiceless dental click consonant	+		kǀʰ			click stop aspirated voiceless dental velar				
@@ -197,12 +197,12 @@ pʼ	voiceless bilabial ejective stop consonant			pʼ			ejective stop bilabial
 tʼ	voiceless alveolar ejective stop consonant			tʼ			ejective stop alveolar				
 kʼ	voiceless velar ejective stop consonant			kʼ			ejective stop velar				
 qʼ	voiceless uvular ejective stop consonant			qʼ			ejective stop uvular				
-n̪s̪	from voiced dental nasal to voiceless dental sibilant fricative cluster	+		n̪s̪			pulmonic fricative sibilant prenasalized voiceless dental alveolar				
+<NA>	<NA>			n̪s̪			pulmonic fricative sibilant prenasalized voiceless dental alveolar				
 <NA>	<NA>			ɗ̪			implosive stop voiced dental				
 ɪ	unrounded near-close near-front vowel			ɪ			lowered high front unrounded				
 ŋg	from voiced velar nasal to voiced velar stop cluster	+		ŋɡ			pulmonic stop prenasalized voiced velar				
 tɬʼ	voiceless alveolar ejective lateral affricate consonant			tɬʼ			ejective affricate lateral alveolar				
-tx	from voiceless alveolar stop to voiceless velar fricative cluster	+		tx			pulmonic affricate voiceless alveolar velar				
+<NA>	<NA>			tx			pulmonic affricate voiceless alveolar velar				
 ʏ	rounded near-close near-front vowel			ʏ			lowered high front rounded				
 kxʷ	labialized voiceless velar affricate consonant	+		kxʷ			pulmonic affricate voiceless labialized velar				
 t̪ʼ	voiceless dental ejective stop consonant			t̪ʼ			ejective stop dental				
@@ -270,7 +270,7 @@ z̪ʲ	palatalized voiced dental sibilant fricative consonant	+		z̪ʲ			pulmonic
 r̪ʲ	palatalized voiced dental trill consonant	+		r̪ʲ			pulmonic trill voiced palatalized dental				
 n̪ʲ	palatalized voiced dental nasal consonant	+		n̪ʲ			pulmonic nasal voiced palatalized dental				
 l̪ʲ	palatalized voiced dental lateral approximant consonant			l̪ʲ			pulmonic approximant lateral voiced palatalized dental				
-tp	from voiceless alveolar stop to voiceless bilabial stop cluster	+		tp			pulmonic stop voiceless bilabial alveolar				
+tp	voiceless alveolar-and-bilabial stop consonant			tp			pulmonic stop voiceless bilabial alveolar				
 œ	rounded open-mid front vowel			œ			lower mid front rounded				
 gʱ	breathy voiced velar stop consonant	+		ɡ̤			pulmonic stop breathy voiced velar				
 lʱ	breathy voiced alveolar lateral approximant consonant			l̤			pulmonic approximant lateral breathy voiced alveolar				
@@ -302,11 +302,11 @@ pˠ	velarized voiceless bilabial stop consonant			pˠ			pulmonic stop voiceless 
 l̠ʲ	palatalized voiced post-alveolar lateral approximant consonant			l̠ʲ			pulmonic approximant lateral voiced palatalized retracted				
 ɾˠ	velarized voiced alveolar tap consonant	+		ɾˠ			pulmonic tap/flap voiced velarized alveolar				
 ɾʲ	palatalized voiced alveolar tap consonant	+		ɾʲ			pulmonic tap/flap voiced palatalized alveolar				
-tç	from voiceless alveolar stop to voiceless palatal sibilant fricative cluster	+		tç			pulmonic affricate voiceless alveolar palatal				
-tçʰ	from voiceless alveolar stop to aspirated voiceless palatal sibilant fricative cluster	+		tçʰ			pulmonic affricate aspirated voiceless alveolar palatal				
+<NA>	<NA>			tç			pulmonic affricate voiceless alveolar palatal				
+<NA>	<NA>			tçʰ			pulmonic affricate aspirated voiceless alveolar palatal				
 a	unrounded open front vowel			a			low central unrounded				
 dʱ	breathy voiced alveolar stop consonant			d̤			pulmonic stop breathy voiced alveolar				
-nz	from voiced alveolar nasal to voiced alveolar sibilant fricative cluster	+		nz			pulmonic fricative sibilant prenasalized voiced alveolar				
+<NA>	<NA>			nz			pulmonic fricative sibilant prenasalized voiced alveolar				
 p	voiceless bilabial stop consonant			p			pulmonic stop voiceless bilabial				
 r̥	devoiced voiced alveolar trill consonant			r̥			pulmonic trill voiceless alveolar				
 ɜ	unrounded open-mid central vowel			ɜ			lower mid central unrounded				
@@ -330,22 +330,22 @@ ts’	voiceless alveolar ejective sibilant affricate consonant	+		'tsʼ'			eject
 nt’	from voiced alveolar nasal to voiceless alveolar ejective stop cluster	+		'nt'			pulmonic stop prenasalized voiceless unspecified coronal place				
 nts’	from voiced alveolar nasal to voiceless alveolar ejective sibilant affricate cluster	+		'nts'			pulmonic affricate sibilant prenasalized voiceless unspecified coronal place				
 <NA>	<NA>			ɲcɕ			pulmonic affricate prenasalized voiceless palatalized palato-alveolar				
-cɕʰ	from voiceless palatal stop to aspirated voiceless alveolo-palatal sibilant fricative cluster	+		cɕʰ			pulmonic affricate aspirated voiceless palatalized palato-alveolar				
-kpʷ	from voiceless velar stop to labialized voiceless bilabial stop cluster	+		kpʷ			pulmonic stop voiceless labialized bilabial velar				
+<NA>	<NA>			cɕʰ			pulmonic affricate aspirated voiceless palatalized palato-alveolar				
+kpʷ	labialized voiceless velar-and-bilabial stop consonant	+		kpʷ			pulmonic stop voiceless labialized bilabial velar				
 ɮʲ	palatalized voiced alveolar lateral fricative consonant	+		ɮʲ			pulmonic fricative lateral voiced palatalized alveolar				
 ə	unrounded mid central vowel			ə			higher mid central unrounded				
 ð̞	voiced dental approximant consonant			ð̞			pulmonic approximant voiced dental				
 ɾ̰	creaky voiced alveolar tap consonant	+		ɾ̰			pulmonic tap/flap voiced laryngealized alveolar				
-kpʰ	from voiceless velar stop to aspirated voiceless bilabial stop cluster	+		kpʰ			pulmonic stop aspirated voiceless bilabial velar				
+kpʰ	aspirated voiceless velar-and-bilabial stop consonant	+		kpʰ			pulmonic stop aspirated voiceless bilabial velar				
 ɵ	rounded close-mid central vowel			ɵ			higher mid central rounded				
 mbʲ	from voiced bilabial nasal to palatalized voiced bilabial stop cluster	+		mbʲ			pulmonic stop prenasalized voiced palatalized bilabial				
 t’ʲʰ	palatalized aspirated voiceless alveolar ejective stop consonant	+		'tʲʰ'			pulmonic stop aspirated voiceless palatalized unspecified coronal place				
 <NA>	<NA>	+		pʲʰ			pulmonic stop aspirated voiceless palatalized bilabial				
-n̠ʑ	from retracted voiced alveolar nasal to voiced alveolo-palatal sibilant fricative cluster	+		n̠ʑ			pulmonic fricative sibilant prenasalized voiced palatalized palato-alveolar				
+<NA>	<NA>			n̠ʑ			pulmonic fricative sibilant prenasalized voiced palatalized palato-alveolar				
 l’̥	devoiced voiced alveolar ejective lateral approximant consonant	+		'l̥'			pulmonic approximant lateral voiceless unspecified coronal place				
 mbʷ	from voiced bilabial nasal to labialized voiced bilabial stop cluster	+		mbʷ			pulmonic stop prenasalized voiced labialized bilabial				
 nʱ	breathy voiced alveolar nasal consonant	+		n̤			pulmonic nasal breathy voiced alveolar				
-dʱzʱ	from breathy voiced alveolar stop to breathy voiced alveolar sibilant fricative cluster	+		d̤z̤			pulmonic affricate sibilant breathy voiced alveolar				
+dzʱ	breathy voiced alveolar sibilant affricate consonant	+		d̤z̤			pulmonic affricate sibilant breathy voiced alveolar				
 n’̥	devoiced voiced alveolar ejective nasal consonant	+		'n̥'			pulmonic nasal voiceless unspecified coronal place				
 mː	long voiced bilabial nasal consonant			mː			pulmonic nasal voiced long bilabial				
 nː	long voiced alveolar nasal consonant			nː			pulmonic nasal voiced long alveolar				
@@ -356,7 +356,7 @@ nː	long voiced alveolar nasal consonant			nː			pulmonic nasal voiced long alve
 ɓʲ	palatalized voiced bilabial implosive consonant			ɓʲ			implosive stop voiced palatalized bilabial				
 β̞ˠ	velarized voiced bilabial approximant consonant	+		β̞ˠ			pulmonic approximant voiced velarized bilabial				
 n̪dz̪	from voiced dental nasal to voiced dental sibilant affricate cluster	+		n̪d̪z̪			pulmonic affricate sibilant prenasalized voiced dental				
-n̪z̪	from voiced dental nasal to voiced dental sibilant fricative cluster	+		n̪z̪			pulmonic fricative sibilant prenasalized voiced dental				
+<NA>	<NA>			n̪z̪			pulmonic fricative sibilant prenasalized voiced dental				
 <NA>	<NA>			ɗ̪ʲ			implosive stop voiced palatalized dental				
 ndʲ	from voiced alveolar nasal to palatalized voiced alveolar stop cluster	+		ndʲ			pulmonic stop prenasalized voiced palatalized alveolar				
 <NA>	<NA>			t̠n̠			pulmonic stop voiceless palato-alveolar nasal release				
@@ -376,7 +376,7 @@ n̠t̠	from retracted voiced alveolar nasal to voiceless post-alveolar stop clus
 nt	from voiced alveolar nasal to voiceless alveolar stop cluster	+		nt			pulmonic stop prenasalized voiceless alveolar				
 pʲʷ	palatalized labialized voiceless bilabial stop consonant	+		pʷʲ			pulmonic stop voiceless labialized palatalized bilabial				
 t̠pʲ	from voiceless post-alveolar stop to palatalized voiceless bilabial stop cluster	+		t̠pʲ			pulmonic stop voiceless palatalized bilabial retracted				
-tpʲ	from voiceless alveolar stop to palatalized voiceless bilabial stop cluster	+		tpʲ			pulmonic stop voiceless palatalized bilabial alveolar				
+tpʲ	palatalized voiceless alveolar-and-bilabial stop consonant	+		tpʲ			pulmonic stop voiceless palatalized bilabial alveolar				
 t̠p	from voiceless post-alveolar stop to voiceless bilabial stop cluster	+		t̠p			pulmonic stop voiceless bilabial retracted				
 <NA>	<NA>			t̠pn̠m			pulmonic stop voiceless bilabial palato-alveolar nasal release				
 ɨ̞	lowered unrounded close central vowel	+		ɨ̞			lowered high central unrounded				
@@ -394,7 +394,7 @@ l̪ʱ	breathy voiced dental lateral approximant consonant	+		l̪̤			pulmonic ap
 ṽ	nasalized voiced labio-dental fricative consonant	+		ṽ			pulmonic fricative nasalized voiced labio-dental				
 ɾ̥	devoiced voiced alveolar tap consonant			ɾ̥			pulmonic tap/flap voiceless alveolar				
 mbβ	from voiced bilabial nasal to voiced bilabial affricate cluster	+		mbβ			pulmonic affricate prenasalized voiced bilabial				
-ns	from voiced alveolar nasal to voiceless alveolar sibilant fricative cluster	+		ns			pulmonic fricative sibilant prenasalized voiceless alveolar				
+<NA>	<NA>			ns			pulmonic fricative sibilant prenasalized voiceless alveolar				
 βʷ	labialized voiced bilabial fricative consonant			βʷ			pulmonic fricative voiced labialized bilabial				
 θ̞	lowered voiceless dental fricative consonant	+		θ̞			pulmonic approximant voiceless dental				
 ʀʲ	palatalized voiced uvular trill consonant	+		ʀʲ			pulmonic trill voiced palatalized uvular				
@@ -444,10 +444,10 @@ õũ	from nasalized rounded close-mid back to nasalized rounded close back dip
 ɱ	voiced labio-dental nasal consonant			ɱ			pulmonic nasal voiced labio-dental				
 ʊː	long rounded near-close near-back vowel			ʊː			long lowered high back rounded				
 <NA>	<NA>			ɺ̣			pulmonic tap/flap lateral retroflex				
-ɱv	from voiced labio-dental nasal to voiced labio-dental fricative cluster	+		ɱv			pulmonic fricative prenasalized voiced labio-dental				
-n̠ʒ	from retracted voiced alveolar nasal to voiced post-alveolar sibilant fricative cluster	+		n̠ʒ			pulmonic fricative sibilant prenasalized voiced palato-alveolar				
+<NA>	<NA>			ɱv			pulmonic fricative prenasalized voiced labio-dental				
+<NA>	<NA>			n̠ʒ			pulmonic fricative sibilant prenasalized voiced palato-alveolar				
 n	voiced alveolar nasal consonant			n			pulmonic nasal voiced alveolar				
-kp	from voiceless velar stop to voiceless bilabial stop cluster	+		kp			pulmonic stop voiceless bilabial velar				
+kp	voiceless velar-and-bilabial stop consonant			kp			pulmonic stop voiceless bilabial velar				
 ɯi	from unrounded close back to unrounded close front diphthong	+		ɯi			diphtong high front back unrounded fronting				
 t̪̰	creaky voiceless dental stop consonant	+		t̪̰			pulmonic stop voiceless laryngealized dental				
 fː	long voiceless labio-dental fricative consonant			fː			pulmonic fricative voiceless long labio-dental				
@@ -484,8 +484,8 @@ cç	voiceless palatal affricate consonant			cç			pulmonic affricate voiceless 
 k̰	creaky voiceless velar stop consonant	+		k̰			pulmonic stop voiceless laryngealized velar				
 t̰	creaky voiceless alveolar stop consonant	+		t̰			pulmonic stop voiceless laryngealized alveolar				
 p̰	creaky voiceless bilabial stop consonant	+		p̰			pulmonic stop voiceless laryngealized bilabial				
-t̠̰ʃ̰	from creaky voiceless post-alveolar stop to creaky voiceless post-alveolar sibilant fricative cluster	+		t̠̰ʃ̰			pulmonic affricate sibilant voiceless laryngealized palato-alveolar				
-t̰s̰	from creaky voiceless alveolar stop to creaky voiceless alveolar sibilant fricative cluster	+		t̰s̰			pulmonic affricate sibilant voiceless laryngealized alveolar				
+tʃ̰	creaky voiceless post-alveolar sibilant affricate consonant	+		t̠̰ʃ̰			pulmonic affricate sibilant voiceless laryngealized palato-alveolar				
+ts̰	creaky voiceless alveolar sibilant affricate consonant	+		t̰s̰			pulmonic affricate sibilant voiceless laryngealized alveolar				
 ŋ	voiced velar nasal consonant			ŋ			pulmonic nasal voiced velar				
 ʊ̃	nasalized rounded near-close near-back vowel			ʊ̃			nasalized lowered high back rounded				
 ɪ̃	nasalized unrounded near-close near-front vowel			ɪ̃			nasalized lowered high front unrounded				
@@ -545,7 +545,7 @@ r̪	voiced dental trill consonant			r̪			pulmonic trill voiced dental
 æʉ	from unrounded near-open front to rounded close central diphthong	+		æʉ			diphtong high raised low front central unrounded rounded rising backing rounding				
 ɸʲ	palatalized voiceless bilabial fricative consonant	+		ɸʲ			pulmonic fricative voiceless palatalized bilabial				
 r̰	creaky voiced alveolar trill consonant	+		r̰			pulmonic trill voiced laryngealized alveolar				
-t̰ɬ̰	from creaky voiceless alveolar stop to creaky voiceless alveolar lateral fricative cluster	+		t̰ɬ̰			pulmonic affricate lateral voiceless laryngealized alveolar				
+tɬ̰	creaky voiceless alveolar lateral affricate consonant	+		t̰ɬ̰			pulmonic affricate lateral voiceless laryngealized alveolar				
 ɰ̰	creaky voiced velar approximant consonant	+		ɰ̰			pulmonic approximant voiced laryngealized velar				
 f	voiceless labio-dental fricative consonant			f			pulmonic fricative voiceless labio-dental				
 v	voiced labio-dental fricative consonant			v			pulmonic fricative voiced labio-dental				
@@ -589,8 +589,8 @@ x’ʷ	labialized voiceless velar ejective fricative consonant	+		xʷʼ			ejecti
 ɜ̃	nasalized unrounded open-mid central vowel			ɜ̃			nasalized lower mid central unrounded				
 ɨ̃ː	long nasalized unrounded close central vowel			ɨ̃ː			nasalized long high central unrounded				
 ʈʰ	aspirated voiceless retroflex stop consonant			ʈʰ			pulmonic stop aspirated voiceless retroflex				
-t̠ɕ	from voiceless post-alveolar stop to voiceless alveolo-palatal sibilant fricative cluster	+		t̠ɕ			pulmonic affricate sibilant voiceless palatalized palato-alveolar				
-t̠ɕʰ	from voiceless post-alveolar stop to aspirated voiceless alveolo-palatal sibilant fricative cluster	+		t̠ɕʰ			pulmonic affricate sibilant aspirated voiceless palatalized palato-alveolar				
+<NA>	<NA>			t̠ɕ			pulmonic affricate sibilant voiceless palatalized palato-alveolar				
+<NA>	<NA>			t̠ɕʰ			pulmonic affricate sibilant aspirated voiceless palatalized palato-alveolar				
 æ̃	nasalized unrounded near-open front vowel			æ̃			nasalized raised low front unrounded				
 tʰ	aspirated voiceless alveolar stop consonant			tʰ			pulmonic stop aspirated voiceless alveolar				
 χ	voiceless uvular fricative consonant			χ			pulmonic fricative voiceless uvular				
@@ -666,9 +666,9 @@ ã	nasalized unrounded open front vowel			ã			nasalized low central unrounded
 ĩ	nasalized unrounded close front vowel			ĩ			nasalized high front unrounded				
 õ	nasalized rounded close-mid back vowel			õ			nasalized higher mid back rounded				
 ũ	nasalized rounded close back vowel			ũ			nasalized high back rounded				
-ɟʑ	from voiced palatal stop to voiced alveolo-palatal sibilant fricative cluster	+		ɟʑ			pulmonic affricate voiced palatalized palato-alveolar				
+<NA>	<NA>			ɟʑ			pulmonic affricate voiced palatalized palato-alveolar				
 d̪	voiced dental stop consonant			d̪			pulmonic stop voiced dental				
-cɕ	from voiceless palatal stop to voiceless alveolo-palatal sibilant fricative cluster	+		cɕ			pulmonic affricate voiceless palatalized palato-alveolar				
+<NA>	<NA>			cɕ			pulmonic affricate voiceless palatalized palato-alveolar				
 <NA>	<NA>			s̰̪			pulmonic fricative sibilant voiceless laryngealized dental				
 ɦ	voiced glottal fricative consonant			ɦ			pulmonic fricative voiced glottal				
 <NA>	<NA>	+		t̪ʲʰ			pulmonic stop aspirated voiceless palatalized dental				
@@ -726,7 +726,7 @@ aˀ	glottalized unrounded open front vowel	+		aˀ			laryngealized low central un
 ãˀ	glottalized nasalized unrounded open front vowel	+		ãˀ			nasalized laryngealized low central unrounded				
 oˀ	glottalized rounded close-mid back vowel	+		oˀ			laryngealized higher mid back rounded				
 õˀ	glottalized nasalized rounded close-mid back vowel	+		õˀ			nasalized laryngealized higher mid back rounded				
-mβʲ	from voiced bilabial nasal to palatalized voiced bilabial fricative cluster	+		mβʲ			pulmonic fricative prenasalized voiced palatalized bilabial				
+<NA>	<NA>			mβʲ			pulmonic fricative prenasalized voiced palatalized bilabial				
 tʲʰ	palatalized aspirated voiceless alveolar stop consonant	+		tʰʲ			pulmonic stop aspirated voiceless palatalized alveolar				
 nˀ	glottalized voiced alveolar nasal consonant	+		nˀ			pulmonic nasal voiced laryngealized alveolar				
 ɲˀ	glottalized voiced palatal nasal consonant	+		ɲˀ			pulmonic nasal voiced laryngealized palatal				
@@ -741,7 +741,7 @@ d	voiced alveolar stop consonant			d			pulmonic stop voiced alveolar
 ʜ	voiceless epiglottal fricative consonant			ʜ			pulmonic fricative voiceless epiglottal				
 ø̰	creaky rounded close-mid front vowel	+		ø̰			laryngealized higher mid front rounded				
 ʰq	pre-aspirated voiceless uvular stop consonant	+		ʰq			pulmonic stop pre-aspirated voiceless uvular				
-ʰts	from pre-aspirated voiceless alveolar stop to voiceless alveolar sibilant fricative cluster	+		ʰts			pulmonic affricate sibilant pre-aspirated voiceless alveolar				
+ʰts	pre-aspirated voiceless alveolar sibilant affricate consonant	+		ʰts			pulmonic affricate sibilant pre-aspirated voiceless alveolar				
 ʰkʷ	pre-aspirated labialized voiceless velar stop consonant	+		ʰkʷ			pulmonic stop pre-aspirated voiceless labialized velar				
 wʱ	breathy voiced labio-velar approximant consonant	+		w̤			pulmonic approximant voiced breathy voiced bilabial velar				
 ɲʱ	breathy voiced palatal nasal consonant	+		ɲ̤			pulmonic nasal voiced breathy voiced palatal				
