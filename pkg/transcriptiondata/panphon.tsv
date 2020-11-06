@@ -51,23 +51,23 @@ b̟	advanced voiced bilabial stop consonant	+		b̟			-syl -son +cons -cont -delr
 b̠	retracted voiced bilabial stop consonant	+		b̠			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric -long				
 pː	long voiceless bilabial stop consonant			pː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long				
 bː	long voiced bilabial stop consonant			bː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long				
-pt	from voiceless bilabial stop to voiceless alveolar stop cluster	+		p͡t			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-pt̺	from voiceless bilabial stop to voiceless apical alveolar stop cluster	+		p͡t̺			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-pt̟	from voiceless bilabial stop to advanced voiceless alveolar stop cluster	+		p͡t̟			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-pt̠	from voiceless bilabial stop to voiceless post-alveolar stop cluster	+		p͡t̠			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-pt̼	from voiceless bilabial stop to voiceless linguolabial stop cluster	+		p͡t̼			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+pt	voiceless bilabial-and-alveolar stop consonant			p͡t			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+pt̺	voiceless apical bilabial-and-alveolar stop consonant	+		p͡t̺			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+pt̟	advanced voiceless bilabial-and-alveolar stop consonant	+		p͡t̟			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+pt̠	retracted voiceless bilabial-and-alveolar stop consonant	+		p͡t̠			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+<NA>	<NA>			p͡t̼			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
 t̼	voiceless linguolabial stop consonant			t̼			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bd̼	from voiced bilabial stop to voiced linguolabial stop cluster	+		b͡d̼			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bd	from voiced bilabial stop to voiced alveolar stop cluster	+		b͡d			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bd̺	from voiced bilabial stop to voiced apical alveolar stop cluster	+		b͡d̺			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bd̟	from voiced bilabial stop to advanced voiced alveolar stop cluster	+		b͡d̟			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bd̠	from voiced bilabial stop to voiced post-alveolar stop cluster	+		b͡d̠			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+<NA>	<NA>			b͡d̼			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bd	voiced bilabial-and-alveolar stop consonant			b͡d			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bd̺	voiced apical bilabial-and-alveolar stop consonant	+		b͡d̺			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bd̟	advanced voiced bilabial-and-alveolar stop consonant	+		b͡d̟			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bd̠	retracted voiced bilabial-and-alveolar stop consonant	+		b͡d̠			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
 d̼	voiced linguolabial stop consonant			d̼			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-ptː	from voiceless bilabial stop to long voiceless alveolar stop cluster	+		p͡tː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
-bdː	from voiced bilabial stop to long voiced alveolar stop cluster	+		b͡dː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
+ptː	long voiceless bilabial-and-alveolar stop consonant	+		p͡tː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
+bdː	long voiced bilabial-and-alveolar stop consonant	+		b͡dː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
 <NA>	<NA>			t̪̼			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long				
-pt̻	from voiceless bilabial stop to voiceless laminal alveolar stop cluster	+		p͡t̻			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long				
-bd̻	from voiced bilabial stop to voiced laminal alveolar stop cluster	+		b͡d̻			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long				
+pt̻	voiceless laminal bilabial-and-alveolar stop consonant	+		p͡t̻			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long				
+bd̻	voiced laminal bilabial-and-alveolar stop consonant	+		b͡d̻			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long				
 <NA>	<NA>			d̪̼			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long				
 qˤ	pharyngealized voiceless uvular stop consonant	+		qˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long				
 ɢˤ	pharyngealized voiced uvular stop consonant	+		ɢˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long				
@@ -99,12 +99,12 @@ pˤː	pharyngealized long voiceless bilabial stop consonant	+		pːˤ			-syl -son
 pˤː	pharyngealized long voiceless bilabial stop consonant	+		pˤː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant -cor +lab -hi +lo +back -round -velaric +long				
 bˤː	pharyngealized long voiced bilabial stop consonant			bːˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant -cor +lab -hi +lo +back -round -velaric +long				
 bˤː	pharyngealized long voiced bilabial stop consonant			bˤː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant -cor +lab -hi +lo +back -round -velaric +long				
-ptˤ	from voiceless bilabial stop to pharyngealized voiceless alveolar stop cluster	+		p͡tˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
-bdˤ	from voiced bilabial stop to pharyngealized voiced alveolar stop cluster	+		b͡dˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
-ptˤː	from voiceless bilabial stop to pharyngealized long voiceless alveolar stop cluster	+		p͡tːˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric +long				
-ptˤː	from voiceless bilabial stop to pharyngealized long voiceless alveolar stop cluster	+		p͡tˤː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric +long				
-bdˤː	from voiced bilabial stop to pharyngealized long voiced alveolar stop cluster	+		b͡dːˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric +long				
-bdˤː	from voiced bilabial stop to pharyngealized long voiced alveolar stop cluster	+		b͡dˤː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric +long				
+ptˤ	pharyngealized voiceless bilabial-and-alveolar stop consonant	+		p͡tˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+bdˤ	pharyngealized voiced bilabial-and-alveolar stop consonant	+		b͡dˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+ptˤː	pharyngealized long voiceless bilabial-and-alveolar stop consonant	+		p͡tːˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric +long				
+ptˤː	pharyngealized long voiceless bilabial-and-alveolar stop consonant	+		p͡tˤː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric +long				
+bdˤː	pharyngealized long voiced bilabial-and-alveolar stop consonant	+		b͡dːˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric +long				
+bdˤː	pharyngealized long voiced bilabial-and-alveolar stop consonant	+		b͡dˤː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric +long				
 cʲ	palatalized voiceless palatal stop consonant	+		cʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long				
 kʲ	palatalized voiceless velar stop consonant			kʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long				
 qʲ	palatalized voiceless uvular stop consonant	+		qʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long				
@@ -304,46 +304,46 @@ d̪ʷː	labialized long voiced dental stop consonant	+		d̪ʷː			-syl -son +con
 d̪ʷː	labialized long voiced dental stop consonant	+		d̪ːʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab +hi -lo +back +round -velaric +long				
 ʘ	voiceless labial click consonant			ʘ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round +velaric -long				
 ʘ̟	advanced voiceless labial click consonant	+		ʘ̟			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round +velaric -long				
-kp̟	from voiceless velar stop to advanced voiceless bilabial stop cluster	+		k͡p̟			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
-kp̠	from voiceless velar stop to retracted voiceless bilabial stop cluster	+		k͡p̠			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
+kp̟	advanced voiceless velar-and-bilabial stop consonant	+		k͡p̟			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
+kp̠	retracted voiceless velar-and-bilabial stop consonant	+		k͡p̠			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
 ʘ̠	retracted voiceless labial click consonant	+		ʘ̠			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round +velaric -long				
-kp	from voiceless velar stop to voiceless bilabial stop cluster	+		k͡p			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
-gb	from voiced velar stop to voiced bilabial stop cluster	+		ɡ͡b			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
-gb̟	from voiced velar stop to advanced voiced bilabial stop cluster	+		ɡ͡b̟			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
-gb̠	from voiced velar stop to retracted voiced bilabial stop cluster	+		ɡ͡b̠			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
+kp	voiceless velar-and-bilabial stop consonant			k͡p			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
+gb	voiced velar-and-bilabial stop consonant			ɡ͡b			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
+gb̟	advanced voiced velar-and-bilabial stop consonant	+		ɡ͡b̟			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
+gb̠	retracted voiced velar-and-bilabial stop consonant	+		ɡ͡b̠			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
 ʘː	long voiceless labial click consonant	+		ʘː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round +velaric +long				
-kpː	from voiceless velar stop to long voiceless bilabial stop cluster	+		k͡pː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round -velaric +long				
-gbː	from voiced velar stop to long voiced bilabial stop cluster	+		ɡ͡bː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -round -velaric +long				
+kpː	long voiceless velar-and-bilabial stop consonant	+		k͡pː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -round -velaric +long				
+gbː	long voiced velar-and-bilabial stop consonant	+		ɡ͡bː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -round -velaric +long				
 ʘʲ	palatalized voiceless labial click consonant	+		ʘʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -back -round +velaric -long				
-kpʲ	from voiceless velar stop to palatalized voiceless bilabial stop cluster	+		k͡pʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -back -round -velaric -long				
-gbʲ	from voiced velar stop to palatalized voiced bilabial stop cluster	+		ɡ͡bʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -back -round -velaric -long				
+kpʲ	palatalized voiceless velar-and-bilabial stop consonant	+		k͡pʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -back -round -velaric -long				
+gbʲ	palatalized voiced velar-and-bilabial stop consonant	+		ɡ͡bʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -back -round -velaric -long				
 ʘʲː	palatalized long voiceless labial click consonant	+		ʘʲː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -back -round +velaric +long				
-kpʲː	from voiceless velar stop to palatalized long voiceless bilabial stop cluster	+		k͡pʲː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -back -round -velaric +long				
+kpʲː	palatalized long voiceless velar-and-bilabial stop consonant	+		k͡pʲː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -back -round -velaric +long				
 ʘʲː	palatalized long voiceless labial click consonant	+		ʘːʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -back -round +velaric +long				
-kpʲː	from voiceless velar stop to palatalized long voiceless bilabial stop cluster	+		k͡pːʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -back -round -velaric +long				
-gbʲː	from voiced velar stop to palatalized long voiced bilabial stop cluster	+		ɡ͡bʲː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -back -round -velaric +long				
-gbʲː	from voiced velar stop to palatalized long voiced bilabial stop cluster	+		ɡ͡bːʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -back -round -velaric +long				
+kpʲː	palatalized long voiceless velar-and-bilabial stop consonant	+		k͡pːʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo -back -round -velaric +long				
+gbʲː	palatalized long voiced velar-and-bilabial stop consonant	+		ɡ͡bʲː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -back -round -velaric +long				
+gbʲː	palatalized long voiced velar-and-bilabial stop consonant	+		ɡ͡bːʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -back -round -velaric +long				
 ʘˠ	velarized voiceless labial click consonant	+		ʘˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back -round +velaric -long				
-kpˠ	from voiceless velar stop to velarized voiceless bilabial stop cluster	+		k͡pˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back -round -velaric -long				
-gbˠ	from voiced velar stop to velarized voiced bilabial stop cluster	+		ɡ͡bˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back -round -velaric -long				
+kpˠ	velarized voiceless velar-and-bilabial stop consonant	+		k͡pˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back -round -velaric -long				
+gbˠ	velarized voiced velar-and-bilabial stop consonant	+		ɡ͡bˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back -round -velaric -long				
 ʘˠː	velarized long voiceless labial click consonant	+		ʘːˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back -round +velaric +long				
-kpˠː	from voiceless velar stop to velarized long voiceless bilabial stop cluster	+		k͡pːˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back -round -velaric +long				
-gbˠː	from voiced velar stop to velarized long voiced bilabial stop cluster	+		ɡ͡bːˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back -round -velaric +long				
+kpˠː	velarized long voiceless velar-and-bilabial stop consonant	+		k͡pːˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back -round -velaric +long				
+gbˠː	velarized long voiced velar-and-bilabial stop consonant	+		ɡ͡bːˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back -round -velaric +long				
 ʘʲʷ	palatalized labialized voiceless labial click consonant	+		ʘʲʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round +velaric -long				
-kpʲʷ	from voiceless velar stop to palatalized labialized voiceless bilabial stop cluster	+		k͡pʲʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+kpʲʷ	palatalized labialized voiceless velar-and-bilabial stop consonant	+		k͡pʲʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
 ʘʷ	labialized voiceless labial click consonant	+		ʘʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round +velaric -long				
-kpʷ	from voiceless velar stop to labialized voiceless bilabial stop cluster	+		k͡pʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+kpʷ	labialized voiceless velar-and-bilabial stop consonant	+		k͡pʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
 ʘʷˠ	labialized velarized voiceless labial click consonant	+		ʘʷˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round +velaric -long				
-kpʷˠ	from voiceless velar stop to labialized velarized voiceless bilabial stop cluster	+		k͡pʷˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
-gbʲʷ	from voiced velar stop to palatalized labialized voiced bilabial stop cluster	+		ɡ͡bʲʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
-gbʷ	from voiced velar stop to labialized voiced bilabial stop cluster	+		ɡ͡bʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
-gbʷˠ	from voiced velar stop to labialized velarized voiced bilabial stop cluster	+		ɡ͡bʷˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
-kpʷː	from voiceless velar stop to labialized long voiceless bilabial stop cluster	+		k͡pʷː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric +long				
+kpʷˠ	labialized velarized voiceless velar-and-bilabial stop consonant	+		k͡pʷˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+gbʲʷ	palatalized labialized voiced velar-and-bilabial stop consonant	+		ɡ͡bʲʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+gbʷ	labialized voiced velar-and-bilabial stop consonant	+		ɡ͡bʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+gbʷˠ	labialized velarized voiced velar-and-bilabial stop consonant	+		ɡ͡bʷˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+kpʷː	labialized long voiceless velar-and-bilabial stop consonant	+		k͡pʷː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric +long				
 ʘʷː	labialized long voiceless labial click consonant	+		ʘʷː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round +velaric +long				
 ʘʷː	labialized long voiceless labial click consonant	+		ʘːʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round +velaric +long				
-kpʷː	from voiceless velar stop to labialized long voiceless bilabial stop cluster	+		k͡pːʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric +long				
-gbʷː	from voiced velar stop to labialized long voiced bilabial stop cluster	+		ɡ͡bʷː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +long				
-gbʷː	from voiced velar stop to labialized long voiced bilabial stop cluster	+		ɡ͡bːʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +long				
+kpʷː	labialized long voiceless velar-and-bilabial stop consonant	+		k͡pːʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi -lo +back +round -velaric +long				
+gbʷː	labialized long voiced velar-and-bilabial stop consonant	+		ɡ͡bʷː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +long				
+gbʷː	labialized long voiced velar-and-bilabial stop consonant	+		ɡ͡bːʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +long				
 pʲ	palatalized voiceless bilabial stop consonant			pʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant -cor +lab +hi -lo -back -round -velaric -long				
 bʲ	palatalized voiced bilabial stop consonant			bʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant -cor +lab +hi -lo -back -round -velaric -long				
 pʲː	palatalized long voiceless bilabial stop consonant	+		pʲː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant -cor +lab +hi -lo -back -round -velaric +long				
@@ -365,26 +365,26 @@ pʷː	labialized long voiceless bilabial stop consonant	+		pːʷ			-syl -son +co
 bʷː	labialized long voiced bilabial stop consonant			bʷː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant -cor +lab +hi -lo +back +round -velaric +long				
 bʷː	labialized long voiced bilabial stop consonant			bːʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant -cor +lab +hi -lo +back +round -velaric +long				
 <NA>	<NA>			ǃ̼			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo -round +velaric -long				
-ptʲ	from voiceless bilabial stop to palatalized voiceless alveolar stop cluster	+		p͡tʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-bdʲ	from voiced bilabial stop to palatalized voiced alveolar stop cluster	+		b͡dʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-ptʲː	from voiceless bilabial stop to palatalized long voiceless alveolar stop cluster	+		p͡tʲː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric +long				
-ptʲː	from voiceless bilabial stop to palatalized long voiceless alveolar stop cluster	+		p͡tːʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric +long				
-bdʲː	from voiced bilabial stop to palatalized long voiced alveolar stop cluster	+		b͡dʲː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric +long				
-bdʲː	from voiced bilabial stop to palatalized long voiced alveolar stop cluster	+		b͡dːʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric +long				
-ptˠ	from voiceless bilabial stop to velarized voiceless alveolar stop cluster	+		p͡tˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
-bdˠ	from voiced bilabial stop to velarized voiced alveolar stop cluster	+		b͡dˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
-ptˠː	from voiceless bilabial stop to velarized long voiceless alveolar stop cluster	+		p͡tːˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric +long				
-bdˠː	from voiced bilabial stop to velarized long voiced alveolar stop cluster	+		b͡dːˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric +long				
-ptʲʷ	from voiceless bilabial stop to palatalized labialized voiceless alveolar stop cluster	+		p͡tʲʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-ptʷ	from voiceless bilabial stop to labialized voiceless alveolar stop cluster	+		p͡tʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-ptʷˠ	from voiceless bilabial stop to labialized velarized voiceless alveolar stop cluster	+		p͡tʷˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bdʲʷ	from voiced bilabial stop to palatalized labialized voiced alveolar stop cluster	+		b͡dʲʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bdʷ	from voiced bilabial stop to labialized voiced alveolar stop cluster	+		b͡dʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bdʷˠ	from voiced bilabial stop to labialized velarized voiced alveolar stop cluster	+		b͡dʷˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-ptʷː	from voiceless bilabial stop to labialized long voiceless alveolar stop cluster	+		p͡tʷː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
-ptʷː	from voiceless bilabial stop to labialized long voiceless alveolar stop cluster	+		p͡tːʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
-bdʷː	from voiced bilabial stop to labialized long voiced alveolar stop cluster	+		b͡dʷː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
-bdʷː	from voiced bilabial stop to labialized long voiced alveolar stop cluster	+		b͡dːʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
+ptʲ	palatalized voiceless bilabial-and-alveolar stop consonant	+		p͡tʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+bdʲ	palatalized voiced bilabial-and-alveolar stop consonant	+		b͡dʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+ptʲː	palatalized long voiceless bilabial-and-alveolar stop consonant	+		p͡tʲː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric +long				
+ptʲː	palatalized long voiceless bilabial-and-alveolar stop consonant	+		p͡tːʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric +long				
+bdʲː	palatalized long voiced bilabial-and-alveolar stop consonant	+		b͡dʲː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric +long				
+bdʲː	palatalized long voiced bilabial-and-alveolar stop consonant	+		b͡dːʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric +long				
+ptˠ	velarized voiceless bilabial-and-alveolar stop consonant	+		p͡tˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
+bdˠ	velarized voiced bilabial-and-alveolar stop consonant	+		b͡dˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
+ptˠː	velarized long voiceless bilabial-and-alveolar stop consonant	+		p͡tːˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric +long				
+bdˠː	velarized long voiced bilabial-and-alveolar stop consonant	+		b͡dːˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric +long				
+ptʲʷ	palatalized labialized voiceless bilabial-and-alveolar stop consonant	+		p͡tʲʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+ptʷ	labialized voiceless bilabial-and-alveolar stop consonant	+		p͡tʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+ptʷˠ	labialized velarized voiceless bilabial-and-alveolar stop consonant	+		p͡tʷˠ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bdʲʷ	palatalized labialized voiced bilabial-and-alveolar stop consonant	+		b͡dʲʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bdʷ	labialized voiced bilabial-and-alveolar stop consonant	+		b͡dʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bdʷˠ	labialized velarized voiced bilabial-and-alveolar stop consonant	+		b͡dʷˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+ptʷː	labialized long voiceless bilabial-and-alveolar stop consonant	+		p͡tʷː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
+ptʷː	labialized long voiceless bilabial-and-alveolar stop consonant	+		p͡tːʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
+bdʷː	labialized long voiced bilabial-and-alveolar stop consonant	+		b͡dʷː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
+bdʷː	labialized long voiced bilabial-and-alveolar stop consonant	+		b͡dːʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
 <NA>	<NA>			ǀ̼			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr +lab +hi -lo -round +velaric -long				
 cˤ	pharyngealized voiceless palatal stop consonant	+		cˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long				
 kˤ	pharyngealized voiceless velar stop consonant	+		kˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long				
@@ -423,21 +423,21 @@ dʷˤ	labialized pharyngealized voiced alveolar stop consonant	+		dʷˤ			-syl -
 t̪ʷˤ	labialized pharyngealized voiceless dental stop consonant	+		t̪ʷˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab +hi +lo +back +round -velaric -long				
 d̪ʷˤ	labialized pharyngealized voiced dental stop consonant	+		d̪ʷˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab +hi +lo +back +round -velaric -long				
 ʘˤ	pharyngealized voiceless labial click consonant	+		ʘˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back -round +velaric -long				
-kpˤ	from voiceless velar stop to pharyngealized voiceless bilabial stop cluster	+		k͡pˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back -round -velaric -long				
-gbˤ	from voiced velar stop to pharyngealized voiced bilabial stop cluster	+		ɡ͡bˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi +lo +back -round -velaric -long				
+kpˤ	pharyngealized voiceless velar-and-bilabial stop consonant	+		k͡pˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back -round -velaric -long				
+gbˤ	pharyngealized voiced velar-and-bilabial stop consonant	+		ɡ͡bˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi +lo +back -round -velaric -long				
 ʘˤː	pharyngealized long voiceless labial click consonant	+		ʘːˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back -round +velaric +long				
-kpˤː	from voiceless velar stop to pharyngealized long voiceless bilabial stop cluster	+		k͡pːˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back -round -velaric +long				
+kpˤː	pharyngealized long voiceless velar-and-bilabial stop consonant	+		k͡pːˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back -round -velaric +long				
 ʘˤː	pharyngealized long voiceless labial click consonant	+		ʘˤː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back -round +velaric +long				
-kpˤː	from voiceless velar stop to pharyngealized long voiceless bilabial stop cluster	+		k͡pˤː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back -round -velaric +long				
-gbˤː	from voiced velar stop to pharyngealized long voiced bilabial stop cluster	+		ɡ͡bːˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi +lo +back -round -velaric +long				
-gbˤː	from voiced velar stop to pharyngealized long voiced bilabial stop cluster	+		ɡ͡bˤː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi +lo +back -round -velaric +long				
+kpˤː	pharyngealized long voiceless velar-and-bilabial stop consonant	+		k͡pˤː			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back -round -velaric +long				
+gbˤː	pharyngealized long voiced velar-and-bilabial stop consonant	+		ɡ͡bːˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi +lo +back -round -velaric +long				
+gbˤː	pharyngealized long voiced velar-and-bilabial stop consonant	+		ɡ͡bˤː			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi +lo +back -round -velaric +long				
 ʘʷˤ	labialized pharyngealized voiceless labial click consonant	+		ʘʷˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back +round +velaric -long				
-kpʷˤ	from voiceless velar stop to labialized pharyngealized voiceless bilabial stop cluster	+		k͡pʷˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back +round -velaric -long				
-gbʷˤ	from voiced velar stop to labialized pharyngealized voiced bilabial stop cluster	+		ɡ͡bʷˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi +lo +back +round -velaric -long				
+kpʷˤ	labialized pharyngealized voiceless velar-and-bilabial stop consonant	+		k͡pʷˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -cor +lab +hi +lo +back +round -velaric -long				
+gbʷˤ	labialized pharyngealized voiced velar-and-bilabial stop consonant	+		ɡ͡bʷˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi +lo +back +round -velaric -long				
 pʷˤ	labialized pharyngealized voiceless bilabial stop consonant	+		pʷˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant -cor +lab +hi +lo +back +round -velaric -long				
 bʷˤ	labialized pharyngealized voiced bilabial stop consonant	+		bʷˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant -cor +lab +hi +lo +back +round -velaric -long				
-ptʷˤ	from voiceless bilabial stop to labialized pharyngealized voiceless alveolar stop cluster	+		p͡tʷˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
-bdʷˤ	from voiced bilabial stop to labialized pharyngealized voiced alveolar stop cluster	+		b͡dʷˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
+ptʷˤ	labialized pharyngealized voiceless bilabial-and-alveolar stop consonant	+		p͡tʷˤ			-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
+bdʷˤ	labialized pharyngealized voiced bilabial-and-alveolar stop consonant	+		b͡dʷˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
 ˀq	pre-glottalized voiceless uvular stop consonant	+		ˀq			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab -hi -lo +back -round -velaric -long				
 qʼ	voiceless uvular ejective stop consonant			qʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab -hi -lo +back -round -velaric -long				
 qˀ	glottalized voiceless uvular stop consonant	+		qˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab -hi -lo +back -round -velaric -long				
@@ -501,15 +501,15 @@ p’ː	long voiceless bilabial ejective stop consonant	+		pʼː			-syl -son +con
 ɓː	long voiced bilabial implosive consonant	+		ɓː			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric +long				
 b̰ː	long creaky voiced bilabial stop consonant	+		b̰ː			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric +long				
 ɓ̰ː	long creaky voiced bilabial implosive consonant	+		ɓ̰ː			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric +long				
-ˀpt	from pre-glottalized voiceless bilabial stop to voiceless alveolar stop cluster	+		ˀp͡t			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-ptʼ	from voiceless bilabial stop to voiceless alveolar ejective stop cluster	+		p͡tʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-ptˀ	from voiceless bilabial stop to glottalized voiceless alveolar stop cluster	+		p͡tˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-ˀbd	from pre-glottalized voiced bilabial stop to voiced alveolar stop cluster	+		ˀb͡d			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bd̰	from voiced bilabial stop to creaky voiced alveolar stop cluster	+		b͡d̰			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+ˀpt	pre-glottalized voiceless bilabial-and-alveolar stop consonant	+		ˀp͡t			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+pt’	voiceless bilabial-and-alveolar ejective stop consonant	+		p͡tʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+ptˀ	glottalized voiceless bilabial-and-alveolar stop consonant	+		p͡tˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+ˀbd	pre-glottalized voiced bilabial-and-alveolar stop consonant	+		ˀb͡d			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bd̰	creaky voiced bilabial-and-alveolar stop consonant	+		b͡d̰			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
 <NA>	<NA>			ɗ̼			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bdˀ	from voiced bilabial stop to glottalized voiced alveolar stop cluster	+		b͡dˀ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-pt’ː	from voiceless bilabial stop to long voiceless alveolar ejective stop cluster	+		p͡tʼː			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
-bd̰ː	from voiced bilabial stop to long creaky voiced alveolar stop cluster	+		b͡d̰ː			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
+bdˀ	glottalized voiced bilabial-and-alveolar stop consonant	+		b͡dˀ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+pt’ː	long voiceless bilabial-and-alveolar ejective stop consonant	+		p͡tʼː			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
+bd̰ː	long creaky voiced bilabial-and-alveolar stop consonant	+		b͡d̰ː			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
 q’ˤ	pharyngealized voiceless uvular ejective stop consonant	+		qˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab -hi +lo +back -round -velaric -long				
 ʛˤ	pharyngealized voiced uvular implosive consonant	+		ʛˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -ant -cor -lab -hi +lo +back -round -velaric -long				
 ɢ̰ˤ	pharyngealized creaky voiced uvular stop consonant	+		ɢ̰ˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -ant -cor -lab -hi +lo +back -round -velaric -long				
@@ -532,8 +532,8 @@ b̰ˤ	pharyngealized creaky voiced bilabial stop consonant	+		b̰ˤ			-syl -son 
 ɓ̰ˤ	pharyngealized creaky voiced bilabial implosive consonant	+		ɓ̰ˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab -hi +lo +back -round -velaric -long				
 ɓˤː	pharyngealized long voiced bilabial implosive consonant	+		ɓːˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab -hi +lo +back -round -velaric +long				
 ɓˤː	pharyngealized long voiced bilabial implosive consonant	+		ɓˤː			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab -hi +lo +back -round -velaric +long				
-pt’ˤ	from voiceless bilabial stop to pharyngealized voiceless alveolar ejective stop cluster	+		p͡tˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
-bd̰ˤ	from voiced bilabial stop to pharyngealized creaky voiced alveolar stop cluster	+		b͡d̰ˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+pt’ˤ	pharyngealized voiceless bilabial-and-alveolar ejective stop consonant	+		p͡tˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+bd̰ˤ	pharyngealized creaky voiced bilabial-and-alveolar stop consonant	+		b͡d̰ˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
 ˀc	pre-glottalized voiceless palatal stop consonant	+		ˀc			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long				
 q’ʲ	palatalized voiceless uvular ejective stop consonant	+		qʲʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long				
 c’ʲ	palatalized voiceless palatal ejective stop consonant	+		cʲʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long				
@@ -702,31 +702,31 @@ t̪’ʷ	labialized voiceless dental ejective stop consonant	+		t̪ʼʷ			-syl -
 d̪̰ʷ	labialized creaky voiced dental stop consonant	+		d̪̰ʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor +distr -lab +hi -lo +back +round -velaric -long				
 d̪ʷˀ	labialized glottalized voiced dental stop consonant	+		d̪ʷˀ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor +distr -lab +hi -lo +back +round -velaric -long				
 ˀʘ	pre-glottalized voiceless labial click consonant	+		ˀʘ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round +velaric -long				
-ˀkp	from pre-glottalized voiceless velar stop to voiceless bilabial stop cluster	+		ˀk͡p			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
+ˀkp	pre-glottalized voiceless velar-and-bilabial stop consonant	+		ˀk͡p			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
 ʘ’	voiceless labial ejective click consonant	+		ʘʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round +velaric -long				
-kpʼ	from voiceless velar stop to voiceless bilabial ejective stop cluster	+		k͡pʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
+kp’	voiceless velar-and-bilabial ejective stop consonant	+		k͡pʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
 ʘˀ	glottalized voiceless labial click consonant	+		ʘˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round +velaric -long				
-kpˀ	from voiceless velar stop to glottalized voiceless bilabial stop cluster	+		k͡pˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
-ˀgb	from pre-glottalized voiced velar stop to voiced bilabial stop cluster	+		ˀɡ͡b			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
-gb̰	from voiced velar stop to creaky voiced bilabial stop cluster	+		ɡ͡b̰			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
-gbˀ	from voiced velar stop to glottalized voiced bilabial stop cluster	+		ɡ͡bˀ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
+kpˀ	glottalized voiceless velar-and-bilabial stop consonant	+		k͡pˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
+ˀgb	pre-glottalized voiced velar-and-bilabial stop consonant	+		ˀɡ͡b			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
+gb̰	creaky voiced velar-and-bilabial stop consonant	+		ɡ͡b̰			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
+gbˀ	glottalized voiced velar-and-bilabial stop consonant	+		ɡ͡bˀ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
 ʘ’ː	long voiceless labial ejective click consonant	+		ʘʼː			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round +velaric +long				
-kp’ː	from voiceless velar stop to long voiceless bilabial ejective stop cluster	+		k͡pʼː			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round -velaric +long				
-gb̰ː	from voiced velar stop to long creaky voiced bilabial stop cluster	+		ɡ͡b̰ː			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -round -velaric +long				
+kp’ː	long voiceless velar-and-bilabial ejective stop consonant	+		k͡pʼː			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -round -velaric +long				
+gb̰ː	long creaky voiced velar-and-bilabial stop consonant	+		ɡ͡b̰ː			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -round -velaric +long				
 ʘ’ʲ	palatalized voiceless labial ejective click consonant	+		ʘʲʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -back -round +velaric -long				
-kp’ʲ	from voiceless velar stop to palatalized voiceless bilabial ejective stop cluster	+		k͡pʲʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -back -round -velaric -long				
+kp’ʲ	palatalized voiceless velar-and-bilabial ejective stop consonant	+		k͡pʲʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -back -round -velaric -long				
 ʘ’ʲ	palatalized voiceless labial ejective click consonant	+		ʘʼʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -back -round +velaric -long				
-kp’ʲ	from voiceless velar stop to palatalized voiceless bilabial ejective stop cluster	+		k͡pʼʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -back -round -velaric -long				
-gb̰ʲ	from voiced velar stop to palatalized creaky voiced bilabial stop cluster	+		ɡ͡b̰ʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -back -round -velaric -long				
-gb̰ˠ	from voiced velar stop to velarized creaky voiced bilabial stop cluster	+		ɡ͡b̰ˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back -round -velaric -long				
+kp’ʲ	palatalized voiceless velar-and-bilabial ejective stop consonant	+		k͡pʼʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo -back -round -velaric -long				
+gb̰ʲ	palatalized creaky voiced velar-and-bilabial stop consonant	+		ɡ͡b̰ʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -back -round -velaric -long				
+gb̰ˠ	velarized creaky voiced velar-and-bilabial stop consonant	+		ɡ͡b̰ˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back -round -velaric -long				
 ʘ’ʷ	labialized voiceless labial ejective click consonant	+		ʘʷʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo +back +round +velaric -long				
-kp’ʷ	from voiceless velar stop to labialized voiceless bilabial ejective stop cluster	+		k͡pʷʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
+kp’ʷ	labialized voiceless velar-and-bilabial ejective stop consonant	+		k͡pʷʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
 ʘʷˀ	labialized glottalized voiceless labial click consonant	+		ʘʷˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo +back +round +velaric -long				
-kpʷˀ	from voiceless velar stop to labialized glottalized voiceless bilabial stop cluster	+		k͡pʷˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
+kpʷˀ	labialized glottalized voiceless velar-and-bilabial stop consonant	+		k͡pʷˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
 ʘ’ʷ	labialized voiceless labial ejective click consonant	+		ʘʼʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo +back +round +velaric -long				
-kp’ʷ	from voiceless velar stop to labialized voiceless bilabial ejective stop cluster	+		k͡pʼʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
-gbʷˀ	from voiced velar stop to labialized glottalized voiced bilabial stop cluster	+		ɡ͡bʷˀ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
-gb̰ʷ	from voiced velar stop to labialized creaky voiced bilabial stop cluster	+		ɡ͡b̰ʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
+kp’ʷ	labialized voiceless velar-and-bilabial ejective stop consonant	+		k͡pʼʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
+gbʷˀ	labialized glottalized voiced velar-and-bilabial stop consonant	+		ɡ͡bʷˀ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
+gb̰ʷ	labialized creaky voiced velar-and-bilabial stop consonant	+		ɡ͡b̰ʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric -long				
 p’ʲ	palatalized voiceless bilabial ejective stop consonant	+		pʲʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant -cor +lab +hi -lo -back -round -velaric -long				
 p’ʲ	palatalized voiceless bilabial ejective stop consonant	+		pʼʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant -cor +lab +hi -lo -back -round -velaric -long				
 ɓʲ	palatalized voiced bilabial implosive consonant			ɓʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab +hi -lo -back -round -velaric -long				
@@ -749,15 +749,15 @@ b̰ʷ	labialized creaky voiced bilabial stop consonant	+		b̰ʷ			-syl -son +con
 ɓʷˠ	labialized velarized voiced bilabial implosive consonant	+		ɓʷˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab +hi -lo +back +round -velaric -long				
 ɓʷː	labialized long voiced bilabial implosive consonant	+		ɓʷː			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab +hi -lo +back +round -velaric +long				
 ɓʷː	labialized long voiced bilabial implosive consonant	+		ɓːʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab +hi -lo +back +round -velaric +long				
-pt’ʲ	from voiceless bilabial stop to palatalized voiceless alveolar ejective stop cluster	+		p͡tʲʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-pt’ʲ	from voiceless bilabial stop to palatalized voiceless alveolar ejective stop cluster	+		p͡tʼʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-bd̰ʲ	from voiced bilabial stop to palatalized creaky voiced alveolar stop cluster	+		b͡d̰ʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-bd̰ˠ	from voiced bilabial stop to velarized creaky voiced alveolar stop cluster	+		b͡d̰ˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
-pt’ʷ	from voiceless bilabial stop to labialized voiceless alveolar ejective stop cluster	+		p͡tʷʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-ptʷˀ	from voiceless bilabial stop to labialized glottalized voiceless alveolar stop cluster	+		p͡tʷˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-pt’ʷ	from voiceless bilabial stop to labialized voiceless alveolar ejective stop cluster	+		p͡tʼʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bdʷˀ	from voiced bilabial stop to labialized glottalized voiced alveolar stop cluster	+		b͡dʷˀ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bd̰ʷ	from voiced bilabial stop to labialized creaky voiced alveolar stop cluster	+		b͡d̰ʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+pt’ʲ	palatalized voiceless bilabial-and-alveolar ejective stop consonant	+		p͡tʲʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+pt’ʲ	palatalized voiceless bilabial-and-alveolar ejective stop consonant	+		p͡tʼʲ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+bd̰ʲ	palatalized creaky voiced bilabial-and-alveolar stop consonant	+		b͡d̰ʲ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+bd̰ˠ	velarized creaky voiced bilabial-and-alveolar stop consonant	+		b͡d̰ˠ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
+pt’ʷ	labialized voiceless bilabial-and-alveolar ejective stop consonant	+		p͡tʷʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+ptʷˀ	labialized glottalized voiceless bilabial-and-alveolar stop consonant	+		p͡tʷˀ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+pt’ʷ	labialized voiceless bilabial-and-alveolar ejective stop consonant	+		p͡tʼʷ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bdʷˀ	labialized glottalized voiced bilabial-and-alveolar stop consonant	+		b͡dʷˀ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bd̰ʷ	labialized creaky voiced bilabial-and-alveolar stop consonant	+		b͡d̰ʷ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
 c’ˤ	pharyngealized voiceless palatal ejective stop consonant	+		cˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi +lo +back -round -velaric -long				
 k’ˤ	pharyngealized voiceless velar ejective stop consonant	+		kˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi +lo +back -round -velaric -long				
 ɠˤ	pharyngealized voiced velar implosive consonant	+		ɠˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -ant -cor -lab +hi +lo +back -round -velaric -long				
@@ -787,13 +787,13 @@ t’ʷˤ	labialized pharyngealized voiceless alveolar ejective stop consonant	+	
 ǀ’ʷˤ	labialized pharyngealized voiceless dental ejective click consonant	+		ǀʷˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor +distr -lab +hi +lo +back +round +velaric -long				
 t̪’ʷˤ	labialized pharyngealized voiceless dental ejective stop consonant	+		t̪ʷˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor +distr -lab +hi +lo +back +round -velaric -long				
 ʘ’ˤ	pharyngealized voiceless labial ejective click consonant	+		ʘˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi +lo +back -round +velaric -long				
-kp’ˤ	from voiceless velar stop to pharyngealized voiceless bilabial ejective stop cluster	+		k͡pˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi +lo +back -round -velaric -long				
-gb̰ˤ	from voiced velar stop to pharyngealized creaky voiced bilabial stop cluster	+		ɡ͡b̰ˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi +lo +back -round -velaric -long				
-kp’ʷˤ	from voiceless velar stop to labialized pharyngealized voiceless bilabial ejective stop cluster	+		k͡pʷˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi +lo +back +round -velaric -long				
+kp’ˤ	pharyngealized voiceless velar-and-bilabial ejective stop consonant	+		k͡pˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi +lo +back -round -velaric -long				
+gb̰ˤ	pharyngealized creaky voiced velar-and-bilabial stop consonant	+		ɡ͡b̰ˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi +lo +back -round -velaric -long				
+kp’ʷˤ	labialized pharyngealized voiceless velar-and-bilabial ejective stop consonant	+		k͡pʷˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi +lo +back +round -velaric -long				
 ʘ’ʷˤ	labialized pharyngealized voiceless labial ejective click consonant	+		ʘʷˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -cor +lab +hi +lo +back +round +velaric -long				
 p’ʷˤ	labialized pharyngealized voiceless bilabial ejective stop consonant	+		pʷˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant -cor +lab +hi +lo +back +round -velaric -long				
 ɓʷˤ	labialized pharyngealized voiced bilabial implosive consonant	+		ɓʷˤ			-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant -cor +lab +hi +lo +back +round -velaric -long				
-pt’ʷˤ	from voiceless bilabial stop to labialized pharyngealized voiceless alveolar ejective stop cluster	+		p͡tʷˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
+pt’ʷˤ	labialized pharyngealized voiceless bilabial-and-alveolar ejective stop consonant	+		p͡tʷˤʼ			-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
 qʰ	aspirated voiceless uvular stop consonant			qʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab -hi -lo +back -round -velaric -long				
 ɢʱ	breathy voiced uvular stop consonant	+		ɢ̤			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -ant -cor -lab -hi -lo +back -round -velaric -long				
 ɢʰ	aspirated voiced uvular stop consonant			ɢʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -ant -cor -lab -hi -lo +back -round -velaric -long				
@@ -824,12 +824,12 @@ bʰ	aspirated voiced bilabial stop consonant			bʰ			-syl -son +cons -cont -delr
 pʰː	aspirated long voiceless bilabial stop consonant			pʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long				
 bʱː	long breathy voiced bilabial stop consonant	+		b̤ː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long				
 bʰː	aspirated long voiced bilabial stop consonant			bʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long				
-ptʰ	from voiceless bilabial stop to aspirated voiceless alveolar stop cluster	+		p͡tʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bdʰ	from voiced bilabial stop to aspirated voiced alveolar stop cluster	+		b͡dʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bdʱ	from voiced bilabial stop to breathy voiced alveolar stop cluster	+		b͡d̤			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-ptʰː	from voiceless bilabial stop to aspirated long voiceless alveolar stop cluster	+		p͡tʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
-bdʱː	from voiced bilabial stop to long breathy voiced alveolar stop cluster	+		b͡d̤ː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
-bdʰː	from voiced bilabial stop to aspirated long voiced alveolar stop cluster	+		b͡dʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
+ptʰ	aspirated voiceless bilabial-and-alveolar stop consonant	+		p͡tʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bdʰ	aspirated voiced bilabial-and-alveolar stop consonant	+		b͡dʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bdʱ	breathy voiced bilabial-and-alveolar stop consonant	+		b͡d̤			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+ptʰː	aspirated long voiceless bilabial-and-alveolar stop consonant	+		p͡tʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
+bdʱː	long breathy voiced bilabial-and-alveolar stop consonant	+		b͡d̤ː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
+bdʰː	aspirated long voiced bilabial-and-alveolar stop consonant	+		b͡dʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
 qʰˤ	aspirated pharyngealized voiceless uvular stop consonant	+		qʰˤ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long				
 qʰˤ	aspirated pharyngealized voiceless uvular stop consonant	+		qˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long				
 ɢʰˤ	aspirated pharyngealized voiced uvular stop consonant	+		ɢʰˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long				
@@ -855,11 +855,11 @@ pʰˤ	aspirated pharyngealized voiceless bilabial stop consonant	+		pˤʰ			-syl
 bʱˤ	pharyngealized breathy voiced bilabial stop consonant	+		b̤ˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant -cor +lab -hi +lo +back -round -velaric -long				
 bʰˤ	aspirated pharyngealized voiced bilabial stop consonant	+		bʰˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant -cor +lab -hi +lo +back -round -velaric -long				
 bʰˤ	aspirated pharyngealized voiced bilabial stop consonant	+		bˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant -cor +lab -hi +lo +back -round -velaric -long				
-ptʰˤ	from voiceless bilabial stop to aspirated pharyngealized voiceless alveolar stop cluster	+		p͡tʰˤ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
-ptʰˤ	from voiceless bilabial stop to aspirated pharyngealized voiceless alveolar stop cluster	+		p͡tˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
-bdʱˤ	from voiced bilabial stop to pharyngealized breathy voiced alveolar stop cluster	+		b͡d̤ˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
-bdʰˤ	from voiced bilabial stop to aspirated pharyngealized voiced alveolar stop cluster	+		b͡dʰˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
-bdʰˤ	from voiced bilabial stop to aspirated pharyngealized voiced alveolar stop cluster	+		b͡dˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+ptʰˤ	aspirated pharyngealized voiceless bilabial-and-alveolar stop consonant	+		p͡tʰˤ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+ptʰˤ	aspirated pharyngealized voiceless bilabial-and-alveolar stop consonant	+		p͡tˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+bdʱˤ	pharyngealized breathy voiced bilabial-and-alveolar stop consonant	+		b͡d̤ˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+bdʰˤ	aspirated pharyngealized voiced bilabial-and-alveolar stop consonant	+		b͡dʰˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+bdʰˤ	aspirated pharyngealized voiced bilabial-and-alveolar stop consonant	+		b͡dˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
 cʲʰ	palatalized aspirated voiceless palatal stop consonant	+		cʲʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long				
 kʲʰ	palatalized aspirated voiceless velar stop consonant	+		kʲʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long				
 qʲʰ	palatalized aspirated voiceless uvular stop consonant	+		qʲʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long				
@@ -1032,40 +1032,40 @@ d̪ʷʱ	labialized breathy voiced dental stop consonant	+		d̪̤ʷ			-syl -son +
 t̪ʷʰː	labialized aspirated long voiceless dental stop consonant	+		t̪ʷʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -lo +back +round -velaric +long				
 d̪ʷʰː	labialized aspirated long voiced dental stop consonant	+		d̪ʷʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +hi -lo +back +round -velaric +long				
 ʘʰ	aspirated voiceless labial click consonant	+		ʘʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -round +velaric -long				
-kpʰ	from voiceless velar stop to aspirated voiceless bilabial stop cluster	+		k͡pʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -round -velaric -long				
-gbʰ	from voiced velar stop to aspirated voiced bilabial stop cluster	+		ɡ͡bʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -round -velaric -long				
-gbʱ	from voiced velar stop to breathy voiced bilabial stop cluster	+		ɡ͡b̤			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -round -velaric -long				
+kpʰ	aspirated voiceless velar-and-bilabial stop consonant	+		k͡pʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -round -velaric -long				
+gbʰ	aspirated voiced velar-and-bilabial stop consonant	+		ɡ͡bʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -round -velaric -long				
+gbʱ	breathy voiced velar-and-bilabial stop consonant	+		ɡ͡b̤			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -round -velaric -long				
 ʘʰː	aspirated long voiceless labial click consonant	+		ʘʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -round +velaric +long				
-kpʰː	from voiceless velar stop to aspirated long voiceless bilabial stop cluster	+		k͡pʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -round -velaric +long				
-gbʱː	from voiced velar stop to long breathy voiced bilabial stop cluster	+		ɡ͡b̤ː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -round -velaric +long				
-gbʰː	from voiced velar stop to aspirated long voiced bilabial stop cluster	+		ɡ͡bʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -round -velaric +long				
+kpʰː	aspirated long voiceless velar-and-bilabial stop consonant	+		k͡pʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -round -velaric +long				
+gbʱː	long breathy voiced velar-and-bilabial stop consonant	+		ɡ͡b̤ː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -round -velaric +long				
+gbʰː	aspirated long voiced velar-and-bilabial stop consonant	+		ɡ͡bʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -round -velaric +long				
 ʘʲʰ	palatalized aspirated voiceless labial click consonant	+		ʘʲʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -back -round +velaric -long				
-<NA>	<NA>	+		k͡pʲʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
+kpʲʰ	palatalized aspirated voiceless velar-and-bilabial stop consonant	+		k͡pʲʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
 ʘʲʰ	palatalized aspirated voiceless labial click consonant	+		ʘʰʲ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -back -round +velaric -long				
-kpʰʲ	from voiceless velar stop to palatalized aspirated voiceless bilabial stop cluster	+		k͡pʰʲ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
-gbʲʱ	from voiced velar stop to palatalized breathy voiced bilabial stop cluster	+		ɡ͡b̤ʲ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
-gbʲʰ	from voiced velar stop to palatalized aspirated voiced bilabial stop cluster	+		ɡ͡bʲʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
-gbʲʰ	from voiced velar stop to palatalized aspirated voiced bilabial stop cluster	+		ɡ͡bʰʲ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
+kpʲʰ	palatalized aspirated voiceless velar-and-bilabial stop consonant	+		k͡pʰʲ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
+gbʲʱ	palatalized breathy voiced velar-and-bilabial stop consonant	+		ɡ͡b̤ʲ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
+gbʲʰ	palatalized aspirated voiced velar-and-bilabial stop consonant	+		ɡ͡bʲʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
+gbʲʰ	palatalized aspirated voiced velar-and-bilabial stop consonant	+		ɡ͡bʰʲ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo -back -round -velaric -long				
 ʘʰˠ	aspirated velarized voiceless labial click consonant	+		ʘʰˠ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back -round +velaric -long				
-kpʰˠ	from voiceless velar stop to aspirated velarized voiceless bilabial stop cluster	+		k͡pʰˠ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back -round -velaric -long				
-gbʱˠ	from voiced velar stop to velarized breathy voiced bilabial stop cluster	+		ɡ͡b̤ˠ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back -round -velaric -long				
-gbʰˠ	from voiced velar stop to aspirated velarized voiced bilabial stop cluster	+		ɡ͡bʰˠ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back -round -velaric -long				
+kpʰˠ	aspirated velarized voiceless velar-and-bilabial stop consonant	+		k͡pʰˠ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back -round -velaric -long				
+gbʱˠ	velarized breathy voiced velar-and-bilabial stop consonant	+		ɡ͡b̤ˠ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back -round -velaric -long				
+gbʰˠ	aspirated velarized voiced velar-and-bilabial stop consonant	+		ɡ͡bʰˠ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back -round -velaric -long				
 ʘʷʰ	labialized aspirated voiceless labial click consonant	+		ʘʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round +velaric -long				
-kpʷʰ	from voiceless velar stop to labialized aspirated voiceless bilabial stop cluster	+		k͡pʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+kpʷʰ	labialized aspirated voiceless velar-and-bilabial stop consonant	+		k͡pʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
 ʘʷʰ	labialized aspirated voiceless labial click consonant	+		ʘʰʷ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round +velaric -long				
-kpʷʰ	from voiceless velar stop to labialized aspirated voiceless bilabial stop cluster	+		k͡pʰʷ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+kpʷʰ	labialized aspirated voiceless velar-and-bilabial stop consonant	+		k͡pʰʷ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
 ʘʷʰˠ	labialized aspirated velarized voiceless labial click consonant	+		ʘʷˠʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round +velaric -long				
-kpʷʰˠ	from voiceless velar stop to labialized aspirated velarized voiceless bilabial stop cluster	+		k͡pʷˠʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+kpʷʰˠ	labialized aspirated velarized voiceless velar-and-bilabial stop consonant	+		k͡pʷˠʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
 ʘʲʷʰ	palatalized labialized aspirated voiceless labial click consonant	+		ʘʲʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round +velaric -long				
-kpʲʷʰ	from voiceless velar stop to palatalized labialized aspirated voiceless bilabial stop cluster	+		k͡pʲʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
-gbʷʰ	from voiced velar stop to labialized aspirated voiced bilabial stop cluster	+		ɡ͡bʷʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
-gbʷʰ	from voiced velar stop to labialized aspirated voiced bilabial stop cluster	+		ɡ͡bʰʷ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
-gbʷʰˠ	from voiced velar stop to labialized aspirated velarized voiced bilabial stop cluster	+		ɡ͡bʷˠʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
-gbʲʷʰ	from voiced velar stop to palatalized labialized aspirated voiced bilabial stop cluster	+		ɡ͡bʲʷʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
-gbʷʱ	from voiced velar stop to labialized breathy voiced bilabial stop cluster	+		ɡ͡b̤ʷ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+kpʲʷʰ	palatalized labialized aspirated voiceless velar-and-bilabial stop consonant	+		k͡pʲʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+gbʷʰ	labialized aspirated voiced velar-and-bilabial stop consonant	+		ɡ͡bʷʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+gbʷʰ	labialized aspirated voiced velar-and-bilabial stop consonant	+		ɡ͡bʰʷ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+gbʷʰˠ	labialized aspirated velarized voiced velar-and-bilabial stop consonant	+		ɡ͡bʷˠʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+gbʲʷʰ	palatalized labialized aspirated voiced velar-and-bilabial stop consonant	+		ɡ͡bʲʷʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
+gbʷʱ	labialized breathy voiced velar-and-bilabial stop consonant	+		ɡ͡b̤ʷ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric -long				
 ʘʷʰː	labialized aspirated long voiceless labial click consonant	+		ʘʷʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round +velaric +long				
-kpʷʰː	from voiceless velar stop to labialized aspirated long voiceless bilabial stop cluster	+		k͡pʷʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric +long				
-gbʷʰː	from voiced velar stop to labialized aspirated long voiced bilabial stop cluster	+		ɡ͡bʷʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric +long				
+kpʷʰː	labialized aspirated long voiceless velar-and-bilabial stop consonant	+		k͡pʷʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric +long				
+gbʷʰː	labialized aspirated long voiced velar-and-bilabial stop consonant	+		ɡ͡bʷʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric +long				
 pʰʲ	palatalized aspirated voiceless bilabial stop consonant			pʰʲ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant -cor +lab +hi -lo -back -round -velaric -long				
 <NA>	<NA>	+		pʲʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant -cor +lab +hi -lo -back -round -velaric -long				
 bʲʱ	palatalized breathy voiced bilabial stop consonant	+		b̤ʲ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant -cor +lab +hi -lo -back -round -velaric -long				
@@ -1085,25 +1085,25 @@ bʷʰˠ	labialized aspirated velarized voiced bilabial stop consonant	+		bʷˠʰ
 bʷʱ	labialized breathy voiced bilabial stop consonant	+		b̤ʷ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant -cor +lab +hi -lo +back +round -velaric -long				
 pʷʰː	labialized aspirated long voiceless bilabial stop consonant	+		pʷʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant -cor +lab +hi -lo +back +round -velaric +long				
 bʷʰː	labialized aspirated long voiced bilabial stop consonant	+		bʷʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant -cor +lab +hi -lo +back +round -velaric +long				
-ptʲʰ	from voiceless bilabial stop to palatalized aspirated voiceless alveolar stop cluster	+		p͡tʰʲ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-ptʲʰ	from voiceless bilabial stop to palatalized aspirated voiceless alveolar stop cluster	+		p͡tʲʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-bdʲʱ	from voiced bilabial stop to palatalized breathy voiced alveolar stop cluster	+		b͡d̤ʲ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-bdʲʰ	from voiced bilabial stop to palatalized aspirated voiced alveolar stop cluster	+		b͡dʲʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-bdʲʰ	from voiced bilabial stop to palatalized aspirated voiced alveolar stop cluster	+		b͡dʰʲ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
-ptʰˠ	from voiceless bilabial stop to aspirated velarized voiceless alveolar stop cluster	+		p͡tʰˠ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
-bdʱˠ	from voiced bilabial stop to velarized breathy voiced alveolar stop cluster	+		b͡d̤ˠ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
-bdʰˠ	from voiced bilabial stop to aspirated velarized voiced alveolar stop cluster	+		b͡dʰˠ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
-ptʷʰ	from voiceless bilabial stop to labialized aspirated voiceless alveolar stop cluster	+		p͡tʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-ptʷʰ	from voiceless bilabial stop to labialized aspirated voiceless alveolar stop cluster	+		p͡tʰʷ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-ptʲʷʰ	from voiceless bilabial stop to palatalized labialized aspirated voiceless alveolar stop cluster	+		p͡tʲʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-ptʷʰˠ	from voiceless bilabial stop to labialized aspirated velarized voiceless alveolar stop cluster	+		p͡tʷˠʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bdʷʰ	from voiced bilabial stop to labialized aspirated voiced alveolar stop cluster	+		b͡dʷʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bdʷʰ	from voiced bilabial stop to labialized aspirated voiced alveolar stop cluster	+		b͡dʰʷ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bdʲʷʰ	from voiced bilabial stop to palatalized labialized aspirated voiced alveolar stop cluster	+		b͡dʲʷʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bdʷʰˠ	from voiced bilabial stop to labialized aspirated velarized voiced alveolar stop cluster	+		b͡dʷˠʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-bdʷʱ	from voiced bilabial stop to labialized breathy voiced alveolar stop cluster	+		b͡d̤ʷ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
-ptʷʰː	from voiceless bilabial stop to labialized aspirated long voiceless alveolar stop cluster	+		p͡tʷʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
-bdʷʰː	from voiced bilabial stop to labialized aspirated long voiced alveolar stop cluster	+		b͡dʷʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
+ptʲʰ	palatalized aspirated voiceless bilabial-and-alveolar stop consonant	+		p͡tʰʲ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+ptʲʰ	palatalized aspirated voiceless bilabial-and-alveolar stop consonant	+		p͡tʲʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+bdʲʱ	palatalized breathy voiced bilabial-and-alveolar stop consonant	+		b͡d̤ʲ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+bdʲʰ	palatalized aspirated voiced bilabial-and-alveolar stop consonant	+		b͡dʲʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+bdʲʰ	palatalized aspirated voiced bilabial-and-alveolar stop consonant	+		b͡dʰʲ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo -back -round -velaric -long				
+ptʰˠ	aspirated velarized voiceless bilabial-and-alveolar stop consonant	+		p͡tʰˠ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
+bdʱˠ	velarized breathy voiced bilabial-and-alveolar stop consonant	+		b͡d̤ˠ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
+bdʰˠ	aspirated velarized voiced bilabial-and-alveolar stop consonant	+		b͡dʰˠ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back -round -velaric -long				
+ptʷʰ	labialized aspirated voiceless bilabial-and-alveolar stop consonant	+		p͡tʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+ptʷʰ	labialized aspirated voiceless bilabial-and-alveolar stop consonant	+		p͡tʰʷ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+ptʲʷʰ	palatalized labialized aspirated voiceless bilabial-and-alveolar stop consonant	+		p͡tʲʷʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+ptʷʰˠ	labialized aspirated velarized voiceless bilabial-and-alveolar stop consonant	+		p͡tʷˠʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bdʷʰ	labialized aspirated voiced bilabial-and-alveolar stop consonant	+		b͡dʷʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bdʷʰ	labialized aspirated voiced bilabial-and-alveolar stop consonant	+		b͡dʰʷ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bdʲʷʰ	palatalized labialized aspirated voiced bilabial-and-alveolar stop consonant	+		b͡dʲʷʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bdʷʰˠ	labialized aspirated velarized voiced bilabial-and-alveolar stop consonant	+		b͡dʷˠʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+bdʷʱ	labialized breathy voiced bilabial-and-alveolar stop consonant	+		b͡d̤ʷ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric -long				
+ptʷʰː	labialized aspirated long voiceless bilabial-and-alveolar stop consonant	+		p͡tʷʰː			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
+bdʷʰː	labialized aspirated long voiced bilabial-and-alveolar stop consonant	+		b͡dʷʰː			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi -lo +back +round -velaric +long				
 cʰˤ	aspirated pharyngealized voiceless palatal stop consonant	+		cʰˤ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long				
 kʰˤ	aspirated pharyngealized voiceless velar stop consonant	+		kʰˤ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long				
 cʰˤ	aspirated pharyngealized voiceless palatal stop consonant	+		cˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long				
@@ -1136,19 +1136,19 @@ dʷʰˤ	labialized aspirated pharyngealized voiced alveolar stop consonant	+		d�
 t̪ʷʰˤ	labialized aspirated pharyngealized voiceless dental stop consonant	+		t̪ʷˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +lo +back +round -velaric -long				
 d̪ʷʰˤ	labialized aspirated pharyngealized voiced dental stop consonant	+		d̪ʷˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +hi +lo +back +round -velaric -long				
 ʘʰˤ	aspirated pharyngealized voiceless labial click consonant	+		ʘʰˤ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi +lo +back -round +velaric -long				
-kpʰˤ	from voiceless velar stop to aspirated pharyngealized voiceless bilabial stop cluster	+		k͡pʰˤ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
-kpʰˤ	from voiceless velar stop to aspirated pharyngealized voiceless bilabial stop cluster	+		k͡pˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
+kpʰˤ	aspirated pharyngealized voiceless velar-and-bilabial stop consonant	+		k͡pʰˤ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
+kpʰˤ	aspirated pharyngealized voiceless velar-and-bilabial stop consonant	+		k͡pˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
 ʘʰˤ	aspirated pharyngealized voiceless labial click consonant	+		ʘˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi +lo +back -round +velaric -long				
-gbʱˤ	from voiced velar stop to pharyngealized breathy voiced bilabial stop cluster	+		ɡ͡b̤ˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
-gbʰˤ	from voiced velar stop to aspirated pharyngealized voiced bilabial stop cluster	+		ɡ͡bʰˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
-gbʰˤ	from voiced velar stop to aspirated pharyngealized voiced bilabial stop cluster	+		ɡ͡bˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
+gbʱˤ	pharyngealized breathy voiced velar-and-bilabial stop consonant	+		ɡ͡b̤ˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
+gbʰˤ	aspirated pharyngealized voiced velar-and-bilabial stop consonant	+		ɡ͡bʰˤ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
+gbʰˤ	aspirated pharyngealized voiced velar-and-bilabial stop consonant	+		ɡ͡bˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back -round -velaric -long				
 ʘʷʰˤ	labialized aspirated pharyngealized voiceless labial click consonant	+		ʘʷˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi +lo +back +round +velaric -long				
-kpʷʰˤ	from voiceless velar stop to labialized aspirated pharyngealized voiceless bilabial stop cluster	+		k͡pʷˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi +lo +back +round -velaric -long				
-gbʷʰˤ	from voiced velar stop to labialized aspirated pharyngealized voiced bilabial stop cluster	+		ɡ͡bʷˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back +round -velaric -long				
+kpʷʰˤ	labialized aspirated pharyngealized voiceless velar-and-bilabial stop consonant	+		k͡pʷˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi +lo +back +round -velaric -long				
+gbʷʰˤ	labialized aspirated pharyngealized voiced velar-and-bilabial stop consonant	+		ɡ͡bʷˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back +round -velaric -long				
 pʷʰˤ	labialized aspirated pharyngealized voiceless bilabial stop consonant	+		pʷˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant -cor +lab +hi +lo +back +round -velaric -long				
 bʷʰˤ	labialized aspirated pharyngealized voiced bilabial stop consonant	+		bʷˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant -cor +lab +hi +lo +back +round -velaric -long				
-ptʷʰˤ	from voiceless bilabial stop to labialized aspirated pharyngealized voiceless alveolar stop cluster	+		p͡tʷˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
-bdʷʰˤ	from voiced bilabial stop to labialized aspirated pharyngealized voiced alveolar stop cluster	+		b͡dʷˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
+ptʷʰˤ	labialized aspirated pharyngealized voiceless bilabial-and-alveolar stop consonant	+		p͡tʷˤʰ			-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
+bdʷʰˤ	labialized aspirated pharyngealized voiced bilabial-and-alveolar stop consonant	+		b͡dʷˤʰ			-syl -son +cons -cont -delrel -lat -nas +voi +sg -cg +ant +cor -distr +lab +hi +lo +back +round -velaric -long				
 ʛʱ	breathy voiced uvular implosive consonant	+		ʛ̤			-syl -son +cons -cont -delrel -lat -nas +voi +sg +cg -ant -cor -lab -hi -lo +back -round -velaric -long				
 ʛʱː	long breathy voiced uvular implosive consonant	+		ʛ̤ː			-syl -son +cons -cont -delrel -lat -nas +voi +sg +cg -ant -cor -lab -hi -lo +back -round -velaric +long				
 ɗʱ	breathy voiced dental implosive consonant	+		ɗ̤			-syl -son +cons -cont -delrel -lat -nas +voi +sg +cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long				
@@ -1247,16 +1247,16 @@ pⁿ	with-nasal-release voiceless bilabial stop consonant	+		pⁿ			-syl -son +c
 bⁿ	with-nasal-release voiced bilabial stop consonant			bⁿ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric -long				
 b̃	nasalized voiced bilabial stop consonant	+		b̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric -long				
 b̃ː	nasalized long voiced bilabial stop consonant	+		b̃ː			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long				
-ptⁿ	from voiceless bilabial stop to with-nasal-release voiceless alveolar stop cluster	+		p͡tⁿ			-syl -son +cons -cont -delrel -lat +nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bdⁿ	from voiced bilabial stop to with-nasal-release voiced alveolar stop cluster	+		b͡dⁿ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bd̃	from voiced bilabial stop to nasalized voiced alveolar stop cluster	+		b͡d̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bd̃ː	from voiced bilabial stop to nasalized long voiced alveolar stop cluster	+		b͡d̃ː			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
+ptⁿ	with-nasal-release voiceless bilabial-and-alveolar stop consonant	+		p͡tⁿ			-syl -son +cons -cont -delrel -lat +nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bdⁿ	with-nasal-release voiced bilabial-and-alveolar stop consonant	+		b͡dⁿ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bd̃	nasalized voiced bilabial-and-alveolar stop consonant	+		b͡d̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bd̃ː	nasalized long voiced bilabial-and-alveolar stop consonant	+		b͡d̃ː			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric +long				
 ɢ̃ˤ	nasalized pharyngealized voiced uvular stop consonant	+		ɢ̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long				
 ɖ̃ˤ	nasalized pharyngealized voiced retroflex stop consonant	+		ɖ̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -ant +cor -distr -lab -hi +lo +back -round -velaric -long				
 d̃ˤ	nasalized pharyngealized voiced alveolar stop consonant	+		d̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor -distr -lab -hi +lo +back -round -velaric -long				
 d̪̃ˤ	nasalized pharyngealized voiced dental stop consonant	+		d̪̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor +distr -lab -hi +lo +back -round -velaric -long				
 b̃ˤ	nasalized pharyngealized voiced bilabial stop consonant	+		b̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant -cor +lab -hi +lo +back -round -velaric -long				
-bd̃ˤ	from voiced bilabial stop to nasalized pharyngealized voiced alveolar stop cluster	+		b͡d̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
+bd̃ˤ	nasalized pharyngealized voiced bilabial-and-alveolar stop consonant	+		b͡d̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor -distr +lab -hi +lo +back -round -velaric -long				
 cⁿ	with-nasal-release voiceless palatal stop consonant	+		cⁿ			-syl -son +cons -cont -delrel -lat +nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long				
 ɟⁿ	with-nasal-release voiced palatal stop consonant	+		ɟⁿ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long				
 ɟ̃	nasalized voiced palatal stop consonant	+		ɟ̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long				
@@ -1269,13 +1269,13 @@ g̃ː	nasalized long voiced velar stop consonant	+		ɡ̃ː			-syl -son +cons -co
 ǃⁿ	with-nasal-release voiceless alveolar click consonant	+		ǃⁿ			-syl -son +cons -cont -delrel -lat +nas -voi -sg -cg +ant +cor -distr -lab +hi -lo -round +velaric -long				
 ǀⁿ	with-nasal-release voiceless dental click consonant	+		ǀⁿ			-syl -son +cons -cont -delrel -lat +nas -voi -sg -cg +ant +cor +distr -lab +hi -lo -round +velaric -long				
 ʘⁿ	with-nasal-release voiceless labial click consonant	+		ʘⁿ			-syl -son +cons -cont -delrel -lat +nas -voi -sg -cg -cor +lab +hi -lo -round +velaric -long				
-kpⁿ	from voiceless velar stop to with-nasal-release voiceless bilabial stop cluster	+		k͡pⁿ			-syl -son +cons -cont -delrel -lat +nas -voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
-gbⁿ	from voiced velar stop to with-nasal-release voiced bilabial stop cluster	+		ɡ͡bⁿ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
-gb̃	from voiced velar stop to nasalized voiced bilabial stop cluster	+		ɡ͡b̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
-gb̃ː	from voiced velar stop to nasalized long voiced bilabial stop cluster	+		ɡ͡b̃ː			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -round -velaric +long				
+kpⁿ	with-nasal-release voiceless velar-and-bilabial stop consonant	+		k͡pⁿ			-syl -son +cons -cont -delrel -lat +nas -voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
+gbⁿ	with-nasal-release voiced velar-and-bilabial stop consonant	+		ɡ͡bⁿ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
+gb̃	nasalized voiced velar-and-bilabial stop consonant	+		ɡ͡b̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -round -velaric -long				
+gb̃ː	nasalized long voiced velar-and-bilabial stop consonant	+		ɡ͡b̃ː			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -round -velaric +long				
 g̃ˤ	nasalized pharyngealized voiced velar stop consonant	+		ɡ̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long				
 ɟ̃ˤ	nasalized pharyngealized voiced palatal stop consonant	+		ɟ̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long				
-gb̃ˤ	from voiced velar stop to nasalized pharyngealized voiced bilabial stop cluster	+		ɡ͡b̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi +lo +back -round -velaric -long				
+gb̃ˤ	nasalized pharyngealized voiced velar-and-bilabial stop consonant	+		ɡ͡b̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi +lo +back -round -velaric -long				
 ʛⁿ	with-nasal-release voiced uvular implosive consonant	+		ʛⁿ			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab -hi -lo +back -round -velaric -long				
 ɢ̰̃	nasalized creaky voiced uvular stop consonant	+		ɢ̰̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab -hi -lo +back -round -velaric -long				
 ʛ̰̃	nasalized creaky voiced uvular implosive consonant	+		ʛ̰̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab -hi -lo +back -round -velaric -long				
@@ -1293,7 +1293,7 @@ b̰̃	nasalized creaky voiced bilabial stop consonant	+		b̰̃			-syl -son +cons
 ɓⁿ	with-nasal-release voiced bilabial implosive consonant	+		ɓⁿ			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric -long				
 ɓ̃	nasalized voiced bilabial implosive consonant	+		ɓ̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric -long				
 ɓ̃ː	nasalized long voiced bilabial implosive consonant	+		ɓ̃ː			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric +long				
-bd̰̃	from voiced bilabial stop to nasalized creaky voiced alveolar stop cluster	+		b͡d̰̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bd̰̃	nasalized creaky voiced bilabial-and-alveolar stop consonant	+		b͡d̰̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
 ʛ̃ˤ	nasalized pharyngealized voiced uvular implosive consonant	+		ʛ̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab -hi +lo +back -round -velaric -long				
 ɗ̃ˤ	nasalized pharyngealized voiced dental implosive consonant	+		ɗ̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg +ant +cor -distr -lab -hi +lo +back -round -velaric -long				
 ɓ̃ˤ	nasalized pharyngealized voiced bilabial implosive consonant	+		ɓ̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg +ant -cor +lab -hi +lo +back -round -velaric -long				
@@ -1307,7 +1307,7 @@ g̰̃	nasalized creaky voiced velar stop consonant	+		ɡ̰̃			-syl -son +cons -
 ɠ̰̃	nasalized creaky voiced velar implosive consonant	+		ɠ̰̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab +hi -lo +back -round -velaric -long				
 ɠ̃	nasalized voiced velar implosive consonant	+		ɠ̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab +hi -lo +back -round -velaric -long				
 ɠ̃ː	nasalized long voiced velar implosive consonant	+		ɠ̃ː			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab +hi -lo +back -round -velaric +long				
-gb̰̃	from voiced velar stop to nasalized creaky voiced bilabial stop cluster	+		ɡ͡b̰̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
+gb̰̃	nasalized creaky voiced velar-and-bilabial stop consonant	+		ɡ͡b̰̃			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -cor +lab +hi -lo -round -velaric -long				
 ɠ̃ˤ	nasalized pharyngealized voiced velar implosive consonant	+		ɠ̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab +hi +lo +back -round -velaric -long				
 ʄ̃ˤ	nasalized pharyngealized voiced palatal implosive consonant	+		ʄ̃ˤ			-syl -son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab +hi +lo +back -round -velaric -long				
 ǁⁿ	with-nasal-release voiceless lateral click consonant	+		ǁⁿ			-syl -son +cons -cont -delrel +lat +nas -voi -sg -cg +ant +cor -distr -lab +hi -lo -round +velaric -long				
@@ -2385,8 +2385,8 @@ tˡ	with-lateral-release voiceless alveolar stop consonant	+		tˡ			-syl -son +c
 dˡ	with-lateral-release voiced alveolar stop consonant	+		dˡ			-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long				
 t̪ˡ	with-lateral-release voiceless dental stop consonant	+		t̪ˡ			-syl -son +cons -cont +delrel +lat -nas -voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 d̪ˡ	with-lateral-release voiced dental stop consonant	+		d̪ˡ			-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
-ptˡ	from voiceless bilabial stop to with-lateral-release voiceless alveolar stop cluster	+		p͡tˡ			-syl -son +cons -cont +delrel +lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
-bdˡ	from voiced bilabial stop to with-lateral-release voiced alveolar stop cluster	+		b͡dˡ			-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+ptˡ	with-lateral-release voiceless bilabial-and-alveolar stop consonant	+		p͡tˡ			-syl -son +cons -cont +delrel +lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
+bdˡ	with-lateral-release voiced bilabial-and-alveolar stop consonant	+		b͡dˡ			-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long				
 dɮʲ	palatalized voiced alveolar lateral affricate consonant	+		d͡ɮʲ			-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg -ant +cor -distr -lab +hi -back -round -velaric -long				
 dɮʲː	palatalized long voiced alveolar lateral affricate consonant	+		d͡ɮːʲ			-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg -ant +cor -distr -lab +hi -back -round -velaric +long				
 dɮʲː	palatalized long voiced alveolar lateral affricate consonant	+		d͡ɮʲː			-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg -ant +cor -distr -lab +hi -back -round -velaric +long				

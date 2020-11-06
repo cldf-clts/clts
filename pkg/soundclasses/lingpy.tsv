@@ -13,6 +13,8 @@ non-syllabic unrounded open front vowel	a̯	A	V	7	V	a	#c86464
 creaky unrounded open front vowel	a̰	A	V	7	V	a	#c86464
 ultra-long creaky unrounded open front vowel	a̰ːː	A	V	7	V	a	#c86464
 voiced bilabial stop consonant	b	P	C	1	P	b	#c8c864
+voiced bilabial-and-alveolar stop consonant	bd	P	C	1	P	b	#c8c864
+voiced bilabial-and-velar stop consonant	bg	P	C	1	P	b	#c8c864
 voiced labio-dental affricate consonant	bv	B	C	2	P	b	#c8c864
 aspirated voiced bilabial stop consonant	bʰ	P	C	1	P	b	#c8c864
 aspirated long voiced bilabial stop consonant	bʰː	P	C	1	P	b	#c8c864
@@ -38,6 +40,8 @@ voiceless palatal ejective stop consonant	cʼ	C	C	1	K	T	#c89664
 long voiceless palatal stop consonant	cː	C	C	1	K	T	#c89664
 voiceless palatal sibilant fricative consonant	ç	C	C	1	K	T	#c89664
 voiced alveolar stop consonant	d	T	C	1	T	d	#9664c8
+voiced alveolar-and-bilabial stop consonant	db	T	C	1	T	d	#9664c8
+voiced alveolar-and-velar stop consonant	dg	T	C	1	T	d	#9664c8
 voiced alveolar sibilant affricate consonant	dz	C	C	2	K	j	#c89664
 long voiced alveolar sibilant affricate consonant	dzː	T	C	1	T	d	#9664c8
 voiced dental sibilant affricate consonant	dz̪	T	C	1	T	d	#9664c8
@@ -102,6 +106,8 @@ voiceless labio-dental ejective fricative consonant	fʼ	B	C	3	P	f	#c8c864
 long voiceless labio-dental fricative consonant	fː	B	C	3	P	f	#c8c864
 velarized voiceless labio-dental fricative consonant	fˠ	B	C	3	P	f	#c8c864
 voiced velar stop consonant	g	K	C	1	K	g	#c89664
+voiced velar-and-bilabial stop consonant	gb	K	C	1	K	g	#c89664
+voiced velar-and-alveolar stop consonant	gd	K	C	1	K	g	#c89664
 voiced dental click consonant	gǀ	!	C	1	K	!	#c89664
 voiced lateral click consonant	gǁ	!	C	1	K	!	#c89664
 voiced palatal click consonant	gǂ	!	C	1	K	!	#c89664
@@ -134,6 +140,8 @@ long voiced palatal approximant consonant	jː	J	C	6	J	y	#64c864
 nasalized voiced palatal approximant consonant	j̃	J	C	6	J	y	#64c864
 devoiced voiced palatal approximant consonant	j̊	J	C	6	J	y	#64c864
 voiceless velar stop consonant	k	K	C	1	K	k	#c89664
+voiceless velar-and-bilabial stop consonant	kp	K	C	1	K	k	#c89664
+voiceless velar-and-alveolar stop consonant	kt	K	C	1	K	k	#c89664
 voiceless velar affricate consonant	kx	K	C	1	K	k	#c89664
 aspirated voiceless velar stop consonant	kʰ	K	C	1	K	k	#c89664
 palatalized voiceless velar stop consonant	kʲ	K	C	1	K	k	#c89664
@@ -206,6 +214,8 @@ voiceless bilabial stop consonant	p	P	C	1	P	p	#c8c864
 voiceless labio-dental affricate consonant	pf	B	C	2	P	p	#c8c864
 aspirated voiceless labio-dental affricate consonant	pfʰ	P	C	1	P	p	#c8c864
 voiceless labio-dental ejective affricate consonant	pfʼ	P	C	1	P	p	#c8c864
+voiceless bilabial-and-velar stop consonant	pk	P	C	1	P	p	#c8c864
+voiceless bilabial-and-alveolar stop consonant	pt	P	C	1	P	p	#c8c864
 voiceless bilabial affricate consonant	pɸ	P	C	1	P	p	#c8c864
 aspirated voiceless bilabial stop consonant	pʰ	P	C	1	P	p	#c8c864
 palatalized aspirated voiceless bilabial stop consonant	pʰʲ	P	C	1	P	p	#c8c864
@@ -252,6 +262,8 @@ velarized voiceless dental sibilant fricative consonant	s̪ˠ	S	C	3	S	s	#6496c8
 revoiced voiceless alveolar sibilant fricative consonant	s̬	S	C	3	S	s	#6496c8
 voiceless laminal alveolar sibilant fricative consonant	s̻	S	C	3	S	s	#6496c8
 voiceless alveolar stop consonant	t	T	C	1	T	t	#9664c8
+voiceless alveolar-and-velar stop consonant	tk	T	C	1	T	t	#9664c8
+voiceless alveolar-and-bilabial stop consonant	tp	T	C	1	T	t	#9664c8
 voiceless alveolar sibilant affricate consonant	ts	C	C	2	K	C	#c89664
 aspirated voiceless alveolar sibilant affricate consonant	tsʰ	C	C	2	K	C	#c89664
 palatalized voiceless alveolar sibilant affricate consonant	tsʲ	T	C	1	T	t	#9664c8

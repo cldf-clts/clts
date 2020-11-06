@@ -19,8 +19,8 @@ k	voiceless velar stop consonant			k	http://apics-online.info/parameters/147		vo
 kʷ	labialized voiceless velar stop consonant			kʷ	http://apics-online.info/parameters/148		labialized voiceless velar plosive				
 g	voiced velar stop consonant			g	http://apics-online.info/parameters/149		voiced velar plosive				
 gʷ	labialized voiced velar stop consonant			gʷ	http://apics-online.info/parameters/150		labialized voiced velar plosive				
-kp	from voiceless velar stop to voiceless bilabial stop cluster	+		k͡p	http://apics-online.info/parameters/151		voiceless labial-velar plosive				
-gb	from voiced velar stop to voiced bilabial stop cluster	+		g͡b	http://apics-online.info/parameters/152		voiced labial-velar plosive				
+kp	voiceless velar-and-bilabial stop consonant			k͡p	http://apics-online.info/parameters/151		voiceless labial-velar plosive				
+gb	voiced velar-and-bilabial stop consonant			g͡b	http://apics-online.info/parameters/152		voiced labial-velar plosive				
 q	voiceless uvular stop consonant			q	http://apics-online.info/parameters/153		voiceless uvular plosive				
 qʷ	labialized voiceless uvular stop consonant			qʷ	http://apics-online.info/parameters/154		labialized voiceless uvular plosive				
 ʔ	voiceless glottal stop consonant			ʔ	http://apics-online.info/parameters/155		glottal plosive				
@@ -117,7 +117,7 @@ nː	long voiced alveolar nasal consonant			n:	http://apics-online.info/parameter
 ⁿw	pre-nasalized voiced labio-velar approximant consonant	+	+	<sup>m</sup>w	http://apics-online.info/parameters/246		prenasalized voiced labial-velar glide				
 ʰp	pre-aspirated voiceless bilabial stop consonant			ʰp	http://apics-online.info/parameters/247		voiceless preaspirated bilabilal plosive				
 ʰt	pre-aspirated voiceless alveolar stop consonant			ʰt	http://apics-online.info/parameters/248		voiceless preaspirated dental/alveolar plosive				
-ʰtʃ	from pre-aspirated voiceless alveolar stop to voiceless post-alveolar sibilant fricative cluster	+		ʰtʃ	http://apics-online.info/parameters/249		voiceless preaspirated palato-alveolar sibilant affricate				
+ʰtʃ	pre-aspirated voiceless post-alveolar sibilant affricate consonant	+		ʰtʃ	http://apics-online.info/parameters/249		voiceless preaspirated palato-alveolar sibilant affricate				
 ʰk	pre-aspirated voiceless velar stop consonant			ʰk	http://apics-online.info/parameters/250		voiceless preaspirated velar plosive				
 ʰr	pre-aspirated voiced alveolar trill consonant	+		ʰr	http://apics-online.info/parameters/251		pre-breathy voice rhotic				
 i	unrounded close front vowel			i	http://apics-online.info/parameters/252		high front unrounded vowel				
