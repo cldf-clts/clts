@@ -1,5 +1,7 @@
 GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
 ◌͈	consonant	articulation	strong			
+◌ʳ	consonant	release	with-rhotic-release			
+ʱ◌	consonant	preceding	pre-breathy-aspirated		
 ◌ʰ	consonant	aspiration	aspirated			
 ◌ʱ	consonant	breathiness	breathy			
 ◌̤	consonant	breathiness	breathy	+		
@@ -18,6 +20,7 @@ GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
 ◌ʲ	consonant	palatalization	palatalized			
 ◌ˤ	consonant	pharyngealization	pharyngealized			
 ʰ◌	consonant	preceding	pre-aspirated			
+ˀⁿ◌	consonant	preceding	pre-glottalized-and-nasalized			
 ˀ◌	consonant	preceding	pre-glottalized			
 ʷ◌	consonant	preceding	pre-labialized			
 ᶰ◌	consonant	preceding	pre-nasalized	+		We treat these sounds as a marker of pre-nasalization, so they are all an alias of ⁿ.

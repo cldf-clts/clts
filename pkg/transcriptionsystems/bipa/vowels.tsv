@@ -1,5 +1,9 @@
 GRAPHEME	ROUNDEDNESS	HEIGHT	CENTRALITY	ALIAS	EXTRA	NOTE
 a	unrounded	open	front			
+ä	unrounded	open	front		relative_articulation:centralized	
+a̟	unrounded	open	front		relative_articulation:advanced
+a̟ː	unrounded	open	front		relative_articulation:advanced,duration:long
+äː	unrounded	open	front		relative_articulation:centralized,duration:long	
 aa	unrounded	open	front	+	duration:long	
 aː	unrounded	open	front		duration:long	
 aˑ	unrounded	open	front		duration:mid-long	

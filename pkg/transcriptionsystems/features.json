@@ -106,7 +106,8 @@
       "aspirated"
     ],
     "sibilancy": [
-      "sibilant"
+      "sibilant",
+      "whistled-sibilant"
     ],
     "creakiness": [
       "creaky"
@@ -115,7 +116,8 @@
       "unreleased",
       "with-lateral-release",
       "with-mid-central-vowel-release",
-      "with-nasal-release"
+      "with-nasal-release",
+      "with-rhotic-release"
     ],
     "ejection": [
       "ejective"
@@ -159,10 +161,12 @@
     ],
     "preceding": [
       "pre-aspirated",
+      "pre-breathy-aspirated",
       "pre-glottalized",
       "pre-labialized",
       "pre-nasalized",
-      "pre-palatalized"
+      "pre-palatalized",
+      "pre-glottalized-and-nasalized"
     ],
     "labialization": [
       "labialized"

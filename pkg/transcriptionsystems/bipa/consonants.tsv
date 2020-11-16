@@ -1,4 +1,19 @@
 GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
+s̫	voiceless	alveolar	fricative		sibilancy:whistled-sibilant	
+ʃ̫	voiceless	post-alveolar	fricative		sibilancy:whistled-sibilant	
+z̫	voiced	alveolar	fricative		sibilancy:whistled-sibilant	
+ʒ̫	voiced	post-alveolar	fricative		sibilancy:whistled-sibilant	
+ts̫	voiceless	alveolar	affricate		sibilancy:whistled-sibilant	
+t̠ʃ̫ 	voiceless	post-alveolar	affricate		sibilancy:whistled-sibilant	
+dz̫ 	voiced	alveolar	affricate		sibilancy:whistled-sibilant	
+d̠ʒ̫	voiced	post-alveolar	affricate		sibilancy:whistled-sibilant	
+ ɺ̣	voiced	retroflex	tap		laterality:lateral	
+ˀⁿg	voiced	velar	stop		preceding:pre-glottalized-and-nasalized	
+dʒ̊	voiced	alveolar	affricate		voicing:devoiced	
+ṛ	voiced	retroflex	trill			
+ʈθ̣	voiceless	retroflex	affricate			
+ˀⁿd	voiced	alveolar	stop		preceding:pre-glottalized-and-nasalized
+ŋm	voiced	velar-and-bilabial	nasal			
 pt	voiceless	bilabial-and-alveolar	stop			
 bd	voiced	bilabial-and-alveolar	stop			
 pk	voiceless	bilabial-and-velar	stop			
@@ -72,6 +87,7 @@ gǃ	voiced	alveolar	click
 ǃ	voiceless	alveolar	click			
 kǃ	voiceless	alveolar	click	+		
 ɮ	voiced	alveolar	fricative		laterality:lateral	
+ɮ̪	voiced	dental	fricative		laterality:lateral	
 z	voiced	alveolar	fricative		sibilancy:sibilant	
 z̩	voiced	alveolar	fricative		syllabicity:syllabic,sibilancy:sibilant	
 z̥	voiced	alveolar	fricative		voicing:devoiced,sibilancy:sibilant	
@@ -250,8 +266,8 @@ d̪ːz̪	voiced	dental	affricate	+	duration:long,sibilancy:sibilant
 tθ	voiceless	dental	affricate			
 tᶿ	voiceless	dental	affricate	+		
 t̪θ	voiceless	dental	affricate	+		
-t̪s̪ʰ	voiceless	dental	affricate	+	aspiration:aspirated	
-ts̪ʰ	voiceless	dental	affricate		aspiration:aspirated	
+t̪s̪ʰ	voiceless	dental	affricate	+	sibilancy:sibilant,aspiration:aspirated	
+ts̪ʰ	voiceless	dental	affricate		sibilancy:sibilant,aspiration:aspirated	
 t̪ɬ̪	voiceless	dental	affricate	+	laterality:lateral	
 t̪ɬ̪ʰ	voiceless	dental	affricate	+	aspiration:aspirated,laterality:lateral	
 t̪ɬ̪ʼ	voiceless	dental	affricate	+	ejection:ejective,laterality:lateral	
