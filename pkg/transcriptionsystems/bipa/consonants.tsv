@@ -3,17 +3,28 @@ tθ̠	voiceless	alveolar	affricate	+
 tθ͇	voiceless	alveolar	affricate			
 tɹ̠̊˔	voiceless	post-alveolar	affricate			
 ʈɻ̝̊	voiceless	retroflex	affricate			
-dð̠	voiced	alveolar	affricate	+		
 dð͇	voiced	alveolar	affricate			
 dɹ̠˔	voiced	post-alveolar	affricate			
 ɖɻ̝	voiced	retroflex	affricate			
+t͇s͇	voiceless	alveolar	affricate	+		
+t̠ʃ͇	voiceless	post-alveolar	affricate	+		
+ʈʂ͇	voiceless	retroflex	affricate	+		
+d͇z͇	voiced	alveolar	affricate	+		
+d̠ʒ͇	voiced	post-alveolar	affricate	+		
+ɖʐ͇	voiced	retroflex	affricate	+		
 θ̠	voiceless	alveolar	fricative			
+s͇	voiceless	alveolar	fricative	+		
 ɹ̠̊˔	voiceless	post-alveolar	fricative			
+ʃ͇	voiceless	post-alveolar	fricative	+		
 ɻ̝̊	voiceless	retroflex	fricative			
+ʂ͇	voiceless	retroflex	fricative	+		
 ð̠	voiced	alveolar	fricative			
 ð͇	voiced	alveolar	fricative	+		
+z͇	voiced	alveolar	fricative	+		
 ɹ̠˔	voiced	post-alveolar	fricative			
+ʒ͇ 	voiced	post-alveolar	fricative	+
 ɻ̝	voiced	retroflex	fricative			
+ʐ͇	voiced	retroflex	fricative	+		
 s̫	voiceless	alveolar	fricative		airstream:whistled-sibilant	
 ʃ̫	voiceless	post-alveolar	fricative		airstream:whistled-sibilant	
 z̫	voiced	alveolar	fricative		airstream:whistled-sibilant	
@@ -162,6 +173,7 @@ tⁿ	voiceless	alveolar	stop		release:with-nasal-release
 t̬	voiceless	alveolar	stop		voicing:revoiced	
 ɺ	voiced	alveolar	tap		airstream:lateral	
 ɾ	voiced	alveolar	tap			
+ɾ̪	voiced	dental	tap			
 ɾ̥	voiced	alveolar	tap		voicing:devoiced	
 r	voiced	alveolar	trill			
 r̃	voiced	alveolar	trill		nasalization:nasalized	

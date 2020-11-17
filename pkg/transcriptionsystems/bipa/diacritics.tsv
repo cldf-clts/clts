@@ -1,8 +1,8 @@
 GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
-◌͓	consonant	articulation	with_friction		
-◌͓	vowel	friction	with_friction		
+◌͓	consonant	articulation	with-friction		
+◌͓	vowel	friction	with-friction		
 ◌͈	consonant	articulation	strong			
-◌ʳ	consonant	release	with_trilled-release			
+◌ʳ	consonant	release	with-trilled-release			
 ʱ◌	consonant	preceding	pre-breathy-aspirated		
 ◌ʰ	consonant	aspiration	aspirated			
 ◌ʱ	consonant	breathiness	breathy			
@@ -93,17 +93,17 @@ GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
 ,◌	vowel	stress	secondary-stress	+		
 ◌̑	vowel	syllabicity	non-syllabic		up	
 ◌̯	vowel	syllabicity	non-syllabic			
-◌↓	vowel	tone	with_downstep			
-◌̏	vowel	tone	with_extra_low_tone			
-◌̋	vowel	tone	with_extra_high_tone			
-◌̂	vowel	tone	with_falling_tone			
-◌↘	vowel	tone	with_global_fall			
-◌↗	vowel	tone	with_global_rise			
-◌́	vowel	tone	with_high_tone			
-◌̀	vowel	tone	with_low_tone			
-◌̄	vowel	tone	with_mid_tone			
-◌̌	vowel	tone	with_rising_tone			
-◌↑	vowel	tone	with_upstep			
+◌↓	vowel	tone	with-downstep			
+◌̏	vowel	tone	with-extra_low_tone			
+◌̋	vowel	tone	with-extra_high_tone			
+◌̂	vowel	tone	with-falling_tone			
+◌↘	vowel	tone	with-global_fall			
+◌↗	vowel	tone	with-global_rise			
+◌́	vowel	tone	with-high_tone			
+◌̀	vowel	tone	with-low_tone			
+◌̄	vowel	tone	with-mid_tone			
+◌̌	vowel	tone	with-rising_tone			
+◌↑	vowel	tone	with-upstep			
 ◌̘	vowel	tongue_root	advanced-tongue-root			
 ◌̙	vowel	tongue_root	retracted-tongue-root			
 ◌ˠ	vowel	velarization	velarized			

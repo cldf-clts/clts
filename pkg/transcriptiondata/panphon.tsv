@@ -1333,7 +1333,7 @@ ts̪	voiceless dental sibilant affricate consonant			t̪͡s̪			-syl -son +cons 
 tθ	voiceless dental affricate consonant			t̪͡θ			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -round -velaric -long				
 ts̪̟	advanced voiceless dental sibilant affricate consonant	+		t̪͡s̪̟			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -round -velaric -long				
 tθ̟	advanced voiceless dental affricate consonant	+		t̪͡θ̟			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -round -velaric -long				
-tθ̠	retracted voiceless dental affricate consonant	+		t̪͡θ̠			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -round -velaric -long				
+<NA>	<NA>	+		t̪͡θ̠			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -round -velaric -long				
 ts̪̠	retracted voiceless dental sibilant affricate consonant	+		t̪͡s̪̠			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -round -velaric -long				
 dz̪̻	voiced laminal dental sibilant affricate consonant	+		d̪͡z̪̻			-syl -son +cons -cont +delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -round -velaric -long				
 dð̻	voiced laminal dental affricate consonant	+		d̪͡ð̻			-syl -son +cons -cont +delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -round -velaric -long				
@@ -2674,7 +2674,7 @@ s̪̝	raised voiceless dental sibilant fricative consonant	+		s̪̝			-syl -son 
 s̪̟	advanced voiceless dental sibilant fricative consonant	+		s̪̟			-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 θ̟	advanced voiceless dental fricative consonant	+		θ̟			-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 s̪̠	retracted voiceless dental sibilant fricative consonant	+		s̪̠			-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
-θ̠	retracted voiceless dental fricative consonant	+		θ̠			-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
+θ̠	voiceless alveolar fricative consonant			θ̠			-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 <NA>	<NA>	+		z̻			-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 z̪̻	voiced laminal dental sibilant fricative consonant	+		z̪̻			-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 ð̻	voiced laminal dental fricative consonant	+		ð̻			-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
@@ -2686,7 +2686,7 @@ z̪̝	raised voiced dental sibilant fricative consonant	+		z̪̝			-syl -son +co
 ð̝	raised voiced dental fricative consonant	+		ð̝			-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 z̪̟	advanced voiced dental sibilant fricative consonant	+		z̪̟			-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 ð̟	advanced voiced dental fricative consonant	+		ð̟			-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
-ð̠	retracted voiced dental fricative consonant	+		ð̠			-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
+ð̠	voiced alveolar fricative consonant			ð̠			-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 z̪̠	retracted voiced dental sibilant fricative consonant	+		z̪̠			-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 s̪ː	long voiceless dental sibilant fricative consonant	+		s̪ː			-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric +long				
 θː	long voiceless dental fricative consonant			θː			-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric +long				
@@ -4328,7 +4328,7 @@ o̯	non-syllabic rounded close-mid back vowel			o̯			-syl +son -cons +cont -del
 ɻ̥	devoiced voiced retroflex approximant consonant	+		ɻ̥			-syl +son -cons +cont -delrel -lat -nas -voi -sg -cg -ant +cor -distr -lab -hi -lo -back -round -velaric -long				
 ɻ̞	lowered voiced retroflex approximant consonant	+		ɻ̞			-syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -ant +cor -distr -lab -hi -lo -back -round -velaric -long				
 ɻ̺	voiced apical retroflex approximant consonant	+		ɻ̺			-syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -ant +cor -distr -lab -hi -lo -back -round -velaric -long				
-ɻ̝	raised voiced retroflex approximant consonant	+		ɻ̝			-syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -ant +cor -distr -lab -hi -lo -back -round -velaric -long				
+ɻ̝	voiced retroflex fricative consonant			ɻ̝			-syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -ant +cor -distr -lab -hi -lo -back -round -velaric -long				
 ɻ	voiced retroflex approximant consonant			ɻ			-syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -ant +cor -distr -lab -hi -lo -back -round -velaric -long				
 ɻ̟	advanced voiced retroflex approximant consonant	+		ɻ̟			-syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -ant +cor -distr -lab -hi -lo -back -round -velaric -long				
 ɻ̠	retracted voiced retroflex approximant consonant	+		ɻ̠			-syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -ant +cor -distr -lab -hi -lo -back -round -velaric -long				

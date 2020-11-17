@@ -293,8 +293,8 @@ tʼkx’	from voiceless alveolar ejective stop to voiceless velar ejective affri
 ɾˤ	pharyngealized voiced alveolar tap consonant	+		ɾˤ	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=%C9%BE%CB%A4&inany=false&coreinv=on		conso:flap:alveolar:voiced:pharyngealized				
 ɾʲ	palatalized voiced alveolar tap consonant	+		ɾʲ	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=%C9%BE%CA%B2&inany=false&coreinv=on		conso:flap:alveolar:voiced:palatalized				
 ɾ̃	nasalized voiced alveolar tap consonant	+		ɾ̃	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=%C9%BE%CC%83&inany=false&coreinv=on		conso:flap:alveolar:voiced:nasalized				
-<NA>	<NA>			ɾ̪	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=%C9%BE%CC%AA&inany=false&coreinv=on		conso:flap:dental:voiced:plain				
-<NA>	<NA>			ɾ̪ˤ	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=%C9%BE%CC%AA%CB%A4&inany=false&coreinv=on		conso:flap:dental:voiced:pharyngealized				
+ɾ̪	voiced dental tap consonant			ɾ̪	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=%C9%BE%CC%AA&inany=false&coreinv=on		conso:flap:dental:voiced:plain				
+ɾ̪ˤ	pharyngealized voiced dental tap consonant	+		ɾ̪ˤ	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=%C9%BE%CC%AA%CB%A4&inany=false&coreinv=on		conso:flap:dental:voiced:pharyngealized				
 <NA>	<NA>			ɾð	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=%C9%BE%C3%B0&inany=false&coreinv=on		conso:flap:interdental:voiced:plain				
 <NA>	<NA>			vɾ	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=v%C9%BE&inany=false&coreinv=on		conso:flap:labiodental:voiced:plain				
 ɾˡ	with-lateral-release voiced alveolar tap consonant	+		ɾˡ	http://pbase.phon.chass.ncsu.edu/visualize?lang=True&input=%C9%BE%CB%A1&inany=false&coreinv=on		conso:flap:lateral:voiced:plain				
