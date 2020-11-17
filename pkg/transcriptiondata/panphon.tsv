@@ -1398,7 +1398,7 @@ dʒ̻	voiced laminal post-alveolar sibilant affricate consonant	+		d͡ʒ̻			-sy
 dʒ̟	advanced voiced post-alveolar sibilant affricate consonant	+		d͡ʒ̟			-syl -son +cons -cont +delrel -lat -nas +voi -sg -cg -ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 dʒ̠	retracted voiced post-alveolar sibilant affricate consonant	+		d͡ʒ̠			-syl -son +cons -cont +delrel -lat -nas +voi -sg -cg -ant +cor +distr -lab -hi -lo -back -round -velaric -long				
 tʃː	long voiceless post-alveolar sibilant affricate consonant			t͡ʃː			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab -hi -lo -back -round -velaric +long				
-<NA>	<NA>	+		d͡ʒː			-syl -son +cons -cont +delrel -lat -nas +voi -sg -cg -ant +cor +distr -lab -hi -lo -back -round -velaric +long				
+dʒː	long voiced post-alveolar sibilant affricate consonant			d͡ʒː			-syl -son +cons -cont +delrel -lat -nas +voi -sg -cg -ant +cor +distr -lab -hi -lo -back -round -velaric +long				
 ts	voiceless alveolar sibilant affricate consonant			t͡s			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long				
 ts̺	voiceless apical alveolar sibilant affricate consonant	+		t͡s̺			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long				
 ts̟	advanced voiceless alveolar sibilant affricate consonant	+		t͡s̟			-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long				
@@ -1979,13 +1979,13 @@ pf’ʷˤ	labialized pharyngealized voiceless labio-dental ejective affricate co
 ʈʂʰː	aspirated long voiceless retroflex sibilant affricate consonant	+		ʈ͡ʂʰː			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor -distr -lab -round -velaric +long				
 ɖʐʱː	long breathy voiced retroflex sibilant affricate consonant	+		ɖ͡ʐ̤ː			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg -ant +cor -distr -lab -round -velaric +long				
 ɖʐʰː	aspirated long voiced retroflex sibilant affricate consonant	+		ɖ͡ʐʰː			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg -ant +cor -distr -lab -round -velaric +long				
-ts̪ʰ	aspirated voiceless dental affricate consonant			t̪͡s̪ʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab -round -velaric -long				
-<NA>	<NA>	+		t̪͡θʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab -round -velaric -long				
+ts̪ʰ	aspirated voiceless dental sibilant affricate consonant			t̪͡s̪ʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab -round -velaric -long				
+tθʰ	aspirated voiceless dental affricate consonant	+		t̪͡θʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab -round -velaric -long				
 dz̪ʰ	aspirated voiced dental sibilant affricate consonant	+		d̪͡z̪ʰ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab -round -velaric -long				
 dðʰ	aspirated voiced dental affricate consonant	+		d̪͡ðʰ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab -round -velaric -long				
 dz̪ʱ	breathy voiced dental sibilant affricate consonant	+		d̪͡z̪̤			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab -round -velaric -long				
 dðʱ	breathy voiced dental affricate consonant	+		d̪͡ð̤			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab -round -velaric -long				
-tθʰː	aspirated long voiceless dental affricate consonant	+		t̪͡s̪ʰː			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab -round -velaric +long				
+ts̪ʰː	aspirated long voiceless dental sibilant affricate consonant	+		t̪͡s̪ʰː			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab -round -velaric +long				
 tθʰː	aspirated long voiceless dental affricate consonant	+		t̪͡θʰː			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab -round -velaric +long				
 dz̪ʱː	long breathy voiced dental sibilant affricate consonant	+		d̪͡z̪̤ː			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab -round -velaric +long				
 dðʱː	long breathy voiced dental affricate consonant	+		d̪͡ð̤ː			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab -round -velaric +long				
@@ -2003,8 +2003,8 @@ bβʰː	aspirated long voiced bilabial affricate consonant	+		b͡βʰː			-syl -
 ɖʐʱˤ	pharyngealized breathy voiced retroflex sibilant affricate consonant	+		ɖ͡ʐ̤ˤ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg -ant +cor -distr -lab +lo +back -round -velaric -long				
 ɖʐʰˤ	aspirated pharyngealized voiced retroflex sibilant affricate consonant	+		ɖ͡ʐˤʰ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg -ant +cor -distr -lab +lo +back -round -velaric -long				
 tθʰˤ	aspirated pharyngealized voiceless dental affricate consonant	+		t̪͡θʰˤ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +lo +back -round -velaric -long				
-tθʰˤ	aspirated pharyngealized voiceless dental affricate consonant	+		t̪͡s̪ʰˤ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +lo +back -round -velaric -long				
-<NA>	<NA>	+		t̪͡s̪ˤʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +lo +back -round -velaric -long				
+ts̪ʰˤ	aspirated pharyngealized voiceless dental sibilant affricate consonant	+		t̪͡s̪ʰˤ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +lo +back -round -velaric -long				
+ts̪ʰˤ	aspirated pharyngealized voiceless dental sibilant affricate consonant	+		t̪͡s̪ˤʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +lo +back -round -velaric -long				
 tθʰˤ	aspirated pharyngealized voiceless dental affricate consonant	+		t̪͡θˤʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +lo +back -round -velaric -long				
 dz̪ʰˤ	aspirated pharyngealized voiced dental sibilant affricate consonant	+		d̪͡z̪ʰˤ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +lo +back -round -velaric -long				
 dðʰˤ	aspirated pharyngealized voiced dental affricate consonant	+		d̪͡ðʰˤ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +lo +back -round -velaric -long				
@@ -2082,7 +2082,7 @@ bvʰˤ	aspirated pharyngealized voiced labio-dental affricate consonant	+		b͡v�
 ɖʐʷʱ	labialized breathy voiced retroflex sibilant affricate consonant	+		ɖ͡ʐ̤ʷ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg -ant +cor -distr -lab +hi +back +round -velaric -long				
 ʈʂʷʰː	labialized aspirated long voiceless retroflex sibilant affricate consonant	+		ʈ͡ʂʷʰː			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor -distr -lab +hi +back +round -velaric +long				
 ɖʐʷʰː	labialized aspirated long voiced retroflex sibilant affricate consonant	+		ɖ͡ʐʷʰː			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg -ant +cor -distr -lab +hi +back +round -velaric +long				
-tθʲʰ	palatalized aspirated voiceless dental affricate consonant	+		t̪͡s̪ʰʲ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -back -round -velaric -long				
+ts̪ʲʰ	palatalized aspirated voiceless dental sibilant affricate consonant	+		t̪͡s̪ʰʲ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -back -round -velaric -long				
 tθʲʰ	palatalized aspirated voiceless dental affricate consonant	+		t̪͡θʰʲ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -back -round -velaric -long				
 ts̪ʲʰ	palatalized aspirated voiceless dental sibilant affricate consonant	+		t̪͡s̪ʲʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -back -round -velaric -long				
 tθʲʰ	palatalized aspirated voiceless dental affricate consonant	+		t̪͡θʲʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -back -round -velaric -long				
@@ -2093,10 +2093,10 @@ dðʲʰ	palatalized aspirated voiced dental affricate consonant	+		d̪͡ðʰʲ		
 dz̪ʲʰ	palatalized aspirated voiced dental sibilant affricate consonant	+		d̪͡z̪ʲʰ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +hi -back -round -velaric -long				
 dðʲʰ	palatalized aspirated voiced dental affricate consonant	+		d̪͡ðʲʰ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +hi -back -round -velaric -long				
 tθᶣʰ	labio-palatalized aspirated voiceless dental affricate consonant	+		t̪͡θʰᶣ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -back +round -velaric -long				
-tθᶣʰ	labio-palatalized aspirated voiceless dental affricate consonant	+		t̪͡s̪ʰᶣ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -back +round -velaric -long				
+ts̪ᶣʰ	labio-palatalized aspirated voiceless dental sibilant affricate consonant	+		t̪͡s̪ʰᶣ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -back +round -velaric -long				
 dðᶣʰ	labio-palatalized aspirated voiced dental affricate consonant	+		d̪͡ðʰᶣ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +hi -back +round -velaric -long				
 dz̪ᶣʰ	labio-palatalized aspirated voiced dental sibilant affricate consonant	+		d̪͡z̪ʰᶣ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +hi -back +round -velaric -long				
-tθʰˠ	aspirated velarized voiceless dental affricate consonant	+		t̪͡s̪ʰˠ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back -round -velaric -long				
+ts̪ʰˠ	aspirated velarized voiceless dental sibilant affricate consonant	+		t̪͡s̪ʰˠ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back -round -velaric -long				
 tθʰˠ	aspirated velarized voiceless dental affricate consonant	+		t̪͡θʰˠ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back -round -velaric -long				
 dz̪ʱˠ	velarized breathy voiced dental sibilant affricate consonant	+		d̪͡z̪̤ˠ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +hi +back -round -velaric -long				
 dðʱˠ	velarized breathy voiced dental affricate consonant	+		d̪͡ð̤ˠ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +hi +back -round -velaric -long				
@@ -2104,7 +2104,7 @@ dz̪ʰˠ	aspirated velarized voiced dental sibilant affricate consonant	+		d̪͡
 dðʰˠ	aspirated velarized voiced dental affricate consonant	+		d̪͡ðʰˠ			-syl -son +cons -cont +delrel -lat -nas +voi +sg -cg +ant +cor +distr -lab +hi +back -round -velaric -long				
 ts̪ʷʰ	labialized aspirated voiceless dental sibilant affricate consonant	+		t̪͡s̪ʷʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back +round -velaric -long				
 tθʷʰ	labialized aspirated voiceless dental affricate consonant	+		t̪͡θʷʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back +round -velaric -long				
-tθʷʰ	labialized aspirated voiceless dental affricate consonant	+		t̪͡s̪ʰʷ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back +round -velaric -long				
+ts̪ʷʰ	labialized aspirated voiceless dental sibilant affricate consonant	+		t̪͡s̪ʰʷ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back +round -velaric -long				
 tθʷʰ	labialized aspirated voiceless dental affricate consonant	+		t̪͡θʰʷ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back +round -velaric -long				
 ts̪ʲʷʰ	palatalized labialized aspirated voiceless dental sibilant affricate consonant	+		t̪͡s̪ʲʷʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back +round -velaric -long				
 ts̪ʷʰˠ	labialized aspirated velarized voiceless dental sibilant affricate consonant	+		t̪͡s̪ʷˠʰ			-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi +back +round -velaric -long				
@@ -5674,8 +5674,8 @@ a̘	advanced-tongue-root unrounded open front vowel	+		a̘			+syl +son -cons +co
 a̞	lowered unrounded open front vowel	+		a̞			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				
 ă	ultra-short unrounded open front vowel			ă			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				
 a̝	raised unrounded open front vowel	+		a̝			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				
-ä	centralized unrounded open front vowel	+		ä			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				
-a̟	advanced unrounded open front vowel	+		a̟			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				
+ä	centralized unrounded open front vowel			ä			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				
+a̟	advanced unrounded open front vowel			a̟			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				
 a̠	retracted unrounded open front vowel	+		a̠			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				
 aˤ	pharyngealized unrounded open front vowel	+		aˤ			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				
 eˤ	pharyngealized unrounded close-mid front vowel	+		eˤ			+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long				

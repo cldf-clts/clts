@@ -1,6 +1,8 @@
 GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
+◌͓	consonant	articulation	with_friction		
+◌͓	vowel	friction	with_friction		
 ◌͈	consonant	articulation	strong			
-◌ʳ	consonant	release	with-rhotic-release			
+◌ʳ	consonant	release	with_trilled-release			
 ʱ◌	consonant	preceding	pre-breathy-aspirated		
 ◌ʰ	consonant	aspiration	aspirated			
 ◌ʱ	consonant	breathiness	breathy			
