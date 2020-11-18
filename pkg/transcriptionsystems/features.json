@@ -100,7 +100,8 @@
         "centralized",
         "mid-centralized",
         "advanced",
-        "retracted"
+        "retracted",
+	"retracted-tongue-root"
     ],
     "aspiration": [
       "aspirated"
@@ -118,6 +119,8 @@
       "with-lateral-release",
       "with-mid-central-vowel-release",
       "with-nasal-release",
+      "with-uvular-release",
+      "with-sibilant-release",
       "with-trilled-release"
     ],
     "ejection": [
@@ -147,8 +150,8 @@
       "alveolar-and-bilabial",
       "alveolar-and-velar",
       "velar-and-alveolar",
-      "velar-and-bilabial"
-
+      "velar-and-bilabial",
+      "velar-and-uvular"
     ],
     "pharyngealization": [
       "pharyngealized"

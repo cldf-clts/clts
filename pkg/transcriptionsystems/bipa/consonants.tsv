@@ -1,4 +1,13 @@
 GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
+ɹ̪	voiced	dental	approximant	+		
+nm	voiced	alveolar-and-bilabial	nasal			
+xʀ̥	voiceless	velar-and-uvular	fricative			
+βɾ	voiced	bilabial-and-alveolar	fricative			
+k̙	voiceless	velar	stop		relative_articulation:retracted-tongue-root	
+g̙	voiced	velar	stop		relative_articulation:retracted-tongue-root	
+d̙	voiced	alveolar	stop		relative_articulation:retracted-tongue-root	
+t̪̙	voiceless	dental	stop		relative_articulation:retracted-tongue-root	
+ʕ̙	voiced	pharyngeal	fricative		relative_articulation:retracted-tongue-root	
 tθ̠	voiceless	alveolar	affricate	+		
 tθ͇	voiceless	alveolar	affricate			
 tɹ̠̊˔	voiceless	post-alveolar	affricate			
@@ -6,25 +15,12 @@ tɹ̠̊˔	voiceless	post-alveolar	affricate
 dð͇	voiced	alveolar	affricate			
 dɹ̠˔	voiced	post-alveolar	affricate			
 ɖɻ̝	voiced	retroflex	affricate			
-t͇s͇	voiceless	alveolar	affricate	+		
-t̠ʃ͇	voiceless	post-alveolar	affricate	+		
-ʈʂ͇	voiceless	retroflex	affricate	+		
-d͇z͇	voiced	alveolar	affricate	+		
-d̠ʒ͇	voiced	post-alveolar	affricate	+		
-ɖʐ͇	voiced	retroflex	affricate	+		
 θ̠	voiceless	alveolar	fricative			
-s͇	voiceless	alveolar	fricative	+		
 ɹ̠̊˔	voiceless	post-alveolar	fricative			
-ʃ͇	voiceless	post-alveolar	fricative	+		
 ɻ̝̊	voiceless	retroflex	fricative			
-ʂ͇	voiceless	retroflex	fricative	+		
 ð̠	voiced	alveolar	fricative			
-ð͇	voiced	alveolar	fricative	+		
-z͇	voiced	alveolar	fricative	+		
 ɹ̠˔	voiced	post-alveolar	fricative			
-ʒ͇ 	voiced	post-alveolar	fricative	+
 ɻ̝	voiced	retroflex	fricative			
-ʐ͇	voiced	retroflex	fricative	+		
 s̫	voiceless	alveolar	fricative		airstream:whistled-sibilant	
 ʃ̫	voiceless	post-alveolar	fricative		airstream:whistled-sibilant	
 z̫	voiced	alveolar	fricative		airstream:whistled-sibilant	
