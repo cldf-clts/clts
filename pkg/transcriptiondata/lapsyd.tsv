@@ -17,7 +17,7 @@ BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMA
 <NA>	<NA>			ŋ̥ǃh̃			click fricative nasal nasalized voiceless palato-alveolar velar glottal				
 <NA>	<NA>			ɗ̪			implosive stop voiced dental				
 <NA>	<NA>			ɗ̪ʲ			implosive stop voiced palatalized dental				
-<NA>	<NA>		+	tx			pulmonic affricate voiceless alveolar velar				
+tʶ	with-uvular-release voiceless alveolar stop consonant	+	+	tx			pulmonic affricate voiceless alveolar velar				
 d̪ɮ	voiced dental lateral affricate consonant		+	d̪l̪			pulmonic approximant lateral pre-stopped voiced dental				
 βʳ	with-trilled-release voiced bilabial fricative consonant	+	+	βɾ			pulmonic fricative tap/flap voiced bilabial alveolar				
 a	unrounded open front vowel		+	a			low central unrounded				
@@ -179,7 +179,7 @@ kʲʰ	palatalized aspirated voiceless velar stop consonant	+	+	kʲʰ			pulmonic 
 kʷ	labialized voiceless velar stop consonant		+	kʷ			pulmonic stop voiceless labialized velar				
 kʷʰ	labialized aspirated voiceless velar stop consonant		+	kʷʰ			pulmonic stop aspirated voiceless labialized velar				
 kʷʰ	labialized aspirated voiceless velar stop consonant		+	kʰʷ			pulmonic stop aspirated voiceless labialized velar				
-kʷⁿ	labialized with-nasal-release voiceless velar stop consonant	+	+	kŋʷ			pulmonic stop voiceless labialized velar nasal release				
+kⁿʷ	labialized with-nasal-release voiceless velar stop consonant	+	+	kŋʷ			pulmonic stop voiceless labialized velar nasal release				
 kʼ	voiceless velar ejective stop consonant		+	kʼ			ejective stop velar				
 kʼʷ	labialized voiceless velar ejective stop consonant		+	kʷʼ			ejective stop labialized velar				
 kˤ	pharyngealized voiceless velar stop consonant	+	+	kˤ			pulmonic stop voiceless pharyngealized  velar				
@@ -451,8 +451,8 @@ z’ˤ	pharyngealized voiced alveolar ejective sibilant fricative consonant	+	+	
 æ̃ː	long nasalized unrounded near-open front vowel		+	æ̃ː			nasalized long raised low front unrounded				
 æ̤	breathy unrounded near-open front vowel	+	+	æ̤			breathy voiced raised low front unrounded				
 ð	voiced dental fricative consonant		+	ð			pulmonic fricative voiced dental				
-ð̞	voiced dental approximant consonant		+	ð̞			pulmonic approximant voiced dental				
-ð̞ʲ	palatalized voiced dental approximant consonant	+	+	ð̞ʲ			pulmonic approximant voiced palatalized dental				
+ɹ̪	voiced dental approximant consonant		+	ð̞			pulmonic approximant voiced dental				
+ɹ̪ʲ	palatalized voiced dental approximant consonant	+	+	ð̞ʲ			pulmonic approximant voiced palatalized dental				
 ð̠	voiced alveolar fricative consonant		+	ð̠			pulmonic fricative voiced alveolar				
 ø	rounded close-mid front vowel		+	ø			higher mid front rounded				
 øi	from rounded close-mid front to unrounded close front diphthong	+	+	øi			diphtong high higher mid front unrounded rounded rising unrounding				

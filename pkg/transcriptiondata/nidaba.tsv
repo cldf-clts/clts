@@ -36,10 +36,10 @@ z̫ʲː	palatalized long voiced alveolar whistled-sibilant fricative consonant	+
 z̫ʷ	labialized voiced alveolar whistled-sibilant fricative consonant	+	+	z͎ʷ		\begin{IPA}\whistle{z}\end{IPA}\super w	alveolar, labial:fricative:+voice				
 z̫ʷː	labialized long voiced alveolar whistled-sibilant fricative consonant	+	+	z͎ʷː		\begin{IPA}\whistle{z}\end{IPA}\super w\textlengthmark	alveolar, labial:fricative:+voice				
 z̫ː	long voiced alveolar whistled-sibilant fricative consonant	+	+	z͎ː		\begin{IPA}\whistle{z}\end{IPA}\textlengthmark	alveolar:fricative:+voice				
-<NA>	<NA>		+	ɹ̪		\textsubbridge{\textturnr}	dental:liquid:+voice −lateral				
-<NA>	<NA>		+	ɹ̪ʲ		\textsubbridge{\textturnr}\super j	dental, palatal:liquid:+voice −lateral				
-<NA>	<NA>		+	ɺ̪		\textsubbridge{\textturnlonglegr}	dental:liquid:+voice +lateral				
-<NA>	<NA>		+	ɺ̪ʲ		\textsubbridge{\textturnlonglegr}\super j	dental, palatal:liquid:+voice +lateral				
+ɹ̪	voiced dental approximant consonant		+	ɹ̪		\textsubbridge{\textturnr}	dental:liquid:+voice −lateral				
+ɹ̪ʲ	palatalized voiced dental approximant consonant	+	+	ɹ̪ʲ		\textsubbridge{\textturnr}\super j	dental, palatal:liquid:+voice −lateral				
+<NA>	<NA>			ɺ̪		\textsubbridge{\textturnlonglegr}	dental:liquid:+voice +lateral				
+<NA>	<NA>			ɺ̪ʲ		\textsubbridge{\textturnlonglegr}\super j	dental, palatal:liquid:+voice +lateral				
 <NA>	<NA>			d̠͡ɮ̠		\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}	dental:affricate:+voice +lateral				
 <NA>	<NA>			d̠͡ɮ̠ʰ		\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}} extsuperscript{h}	dental:affricate:+voice +lateral +spread glottis				
 <NA>	<NA>			d̠͡ɮ̠ʰː		\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}} extsuperscript{h}\textlengthmark	dental:affricate:+voice +lateral +spread glottis				

@@ -1,13 +1,14 @@
 GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
+ɺ̪̪	voiced	dental	tap		airstream:lateral	
 ɹ̪	voiced	dental	approximant			
 nm	voiced	alveolar-and-bilabial	nasal			
 xʀ̥	voiceless	velar-and-uvular	fricative			
 βɾ	voiced	bilabial-and-alveolar	fricative			
-k̙	voiceless	velar	stop		relative_articulation:retracted-tongue-root	
-g̙	voiced	velar	stop		relative_articulation:retracted-tongue-root	
-d̙	voiced	alveolar	stop		relative_articulation:retracted-tongue-root	
-t̪̙	voiceless	dental	stop		relative_articulation:retracted-tongue-root	
-ʕ̙	voiced	pharyngeal	fricative		relative_articulation:retracted-tongue-root	
+k̙	voiceless	velar	stop		tongue_root:retracted-tongue-root	
+g̙	voiced	velar	stop		tongue_root:retracted-tongue-root	
+d̙	voiced	alveolar	stop		tongue_root:retracted-tongue-root	
+t̪̙	voiceless	dental	stop		tongue_root:retracted-tongue-root	
+ʕ̙	voiced	pharyngeal	fricative		tongue_root:retracted-tongue-root	
 tθ̠	voiceless	alveolar	affricate	+		
 tθ͇	voiceless	alveolar	affricate			
 tɹ̠̊˔	voiceless	post-alveolar	affricate			
