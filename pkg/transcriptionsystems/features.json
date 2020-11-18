@@ -150,8 +150,8 @@
       "alveolar-and-bilabial",
       "alveolar-and-velar",
       "velar-and-alveolar",
-      "velar-and-bilabial"
-
+      "velar-and-bilabial",
+      "velar-and-uvular"
     ],
     "pharyngealization": [
       "pharyngealized"
