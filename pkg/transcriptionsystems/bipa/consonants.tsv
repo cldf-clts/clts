@@ -1,5 +1,5 @@
 GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
-ɹ̪	voiced	dental	approximant	+		
+ɹ̪	voiced	dental	approximant			
 nm	voiced	alveolar-and-bilabial	nasal			
 xʀ̥	voiceless	velar-and-uvular	fricative			
 βɾ	voiced	bilabial-and-alveolar	fricative			
@@ -307,7 +307,7 @@ ts̪ː	voiceless	dental	affricate		duration:long,airstream:sibilant
 tːs̪	voiceless	dental	affricate	+	duration:long,airstream:sibilant	
 ts̪ʼ	voiceless	dental	affricate		ejection:ejective,airstream:sibilant	
 ts̪ʲ	voiceless	dental	affricate		palatalization:palatalized,airstream:sibilant	
-ð̞	voiced	dental	approximant			
+ð̞	voiced	dental	approximant	+		
 l̪	voiced	dental	approximant		airstream:lateral	
 l̪ː	voiced	dental	approximant		duration:long,airstream:lateral	
 l̪ʲ	voiced	dental	approximant		palatalization:palatalized,airstream:lateral	
