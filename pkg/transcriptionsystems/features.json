@@ -100,7 +100,8 @@
         "centralized",
         "mid-centralized",
         "advanced",
-        "retracted"
+        "retracted",
+	"retracted-tongue-root"
     ],
     "aspiration": [
       "aspirated"
