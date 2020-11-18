@@ -118,6 +118,8 @@
       "with-lateral-release",
       "with-mid-central-vowel-release",
       "with-nasal-release",
+      "with-uvular-release",
+      "with-sibilant-release",
       "with-trilled-release"
     ],
     "ejection": [
