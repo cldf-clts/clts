@@ -52,8 +52,8 @@
       "open",
       "open-mid"
     ],
-    "frication": [
-      "with-frication"
+    "friction": [
+      "with-friction"
     ],
     "roundedness": [
       "rounded",
@@ -73,17 +73,17 @@
       "retracted-tongue-root"
     ],
     "tone": [
-      "with_downstep",
-      "with_extra-high_tone",
-      "with_extra-low_tone",
-      "with_falling_tone",
-      "with_global_fall",
-      "with_global_rise",
-      "with_high_tone",
-      "with_low_tone",
-      "with_mid_tone",
-      "with_rising_tone",
-      "with_upstep"
+      "with-downstep",
+      "with-extra-high_tone",
+      "with-extra-low_tone",
+      "with-falling_tone",
+      "with-global_fall",
+      "with-global_rise",
+      "with-high_tone",
+      "with-low_tone",
+      "with-mid_tone",
+      "with-rising_tone",
+      "with-upstep"
     ],
     "articulation": [
       "strong"
@@ -105,8 +105,10 @@
     "aspiration": [
       "aspirated"
     ],
-    "sibilancy": [
-      "sibilant"
+    "airstream": [
+      "sibilant",
+      "whistled-sibilant",
+      "lateral"
     ],
     "creakiness": [
       "creaky"
@@ -115,7 +117,8 @@
       "unreleased",
       "with-lateral-release",
       "with-mid-central-vowel-release",
-      "with-nasal-release"
+      "with-nasal-release",
+      "with-trilled-release"
     ],
     "ejection": [
       "ejective"
@@ -150,6 +153,9 @@
     "pharyngealization": [
       "pharyngealized"
     ],
+    "friction": [
+      "with-friction"
+    ],
     "voicing": [
       "devoiced",
       "revoiced"
@@ -159,10 +165,12 @@
     ],
     "preceding": [
       "pre-aspirated",
+      "pre-breathy-aspirated",
       "pre-glottalized",
       "pre-labialized",
       "pre-nasalized",
-      "pre-palatalized"
+      "pre-palatalized",
+      "pre-glottalized-and-nasalized"
     ],
     "labialization": [
       "labialized"
@@ -185,9 +193,6 @@
     "stress": [
       "primary-stress",
       "secondary-stress"
-    ],
-    "laterality": [
-      "lateral"
     ],
     "velarization": [
       "velarized"

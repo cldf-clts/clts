@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+graphemes.mapped.tsv
+*.swp
 __pycache__/
 *.py[cod]
 *$py.class

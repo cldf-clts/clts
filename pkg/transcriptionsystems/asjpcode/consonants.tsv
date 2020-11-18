@@ -1,25 +1,25 @@
 GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
 !	voiceless	alveolar	click			
-l	voiced	alveolar	approximant		laterality:lateral	l
-lh	voiced	alveolar	approximant		aspiration:aspirated,laterality:lateral	l
-lw	voiced	alveolar	approximant		labialization:labialized,laterality:lateral	l
-lwh	voiced	alveolar	approximant		aspiration:aspirated,labialization:labialized,laterality:lateral	l
+l	voiced	alveolar	approximant		airstream:lateral	l
+lh	voiced	alveolar	approximant		aspiration:aspirated,airstream:lateral	l
+lw	voiced	alveolar	approximant		labialization:labialized,airstream:lateral	l
+lwh	voiced	alveolar	approximant		aspiration:aspirated,labialization:labialized,airstream:lateral	l
 n	voiced	alveolar	nasal			n
 nh	voiced	alveolar	nasal		aspiration:aspirated	n
 nw	voiced	alveolar	nasal		labialization:labialized	n
 nwh	voiced	alveolar	nasal		aspiration:aspirated,labialization:labialized	n
-c	voiceless	alveolar	affricate		sibilancy:sibilant	ts dz
-ch	voiceless	alveolar	affricate		aspiration:aspirated,sibilancy:sibilant	ts dz
-cw	voiceless	alveolar	affricate		labialization:labialized,sibilancy:sibilant	ts dz
-cwh	voiceless	alveolar	affricate		sibilancy:sibilant,aspiration:aspirated,labialization:labialized	ts dz
-s	voiceless	alveolar	fricative		sibilancy:sibilant	s
-z	voiced	alveolar	fricative		sibilancy:sibilant	z
-sh	voiceless	alveolar	fricative		aspiration:aspirated,sibilancy:sibilant	s
-zh	voiced	alveolar	fricative		aspiration:aspirated,sibilancy:sibilant	z
-sw	voiceless	alveolar	fricative		labialization:labialized,sibilancy:sibilant	s
-zw	voiced	alveolar	fricative		labialization:labialized,sibilancy:sibilant	z
-swh	voiceless	alveolar	fricative		sibilancy:sibilant,aspiration:aspirated,labialization:labialized	s
-zwh	voiced	alveolar	fricative		sibilancy:sibilant,aspiration:aspirated,labialization:labialized	z
+c	voiceless	alveolar	affricate		airstream:sibilant	ts dz
+ch	voiceless	alveolar	affricate		aspiration:aspirated,airstream:sibilant	ts dz
+cw	voiceless	alveolar	affricate		labialization:labialized,airstream:sibilant	ts dz
+cwh	voiceless	alveolar	affricate		airstream:sibilant,aspiration:aspirated,labialization:labialized	ts dz
+s	voiceless	alveolar	fricative		airstream:sibilant	s
+z	voiced	alveolar	fricative		airstream:sibilant	z
+sh	voiceless	alveolar	fricative		aspiration:aspirated,airstream:sibilant	s
+zh	voiced	alveolar	fricative		aspiration:aspirated,airstream:sibilant	z
+sw	voiceless	alveolar	fricative		labialization:labialized,airstream:sibilant	s
+zw	voiced	alveolar	fricative		labialization:labialized,airstream:sibilant	z
+swh	voiceless	alveolar	fricative		airstream:sibilant,aspiration:aspirated,labialization:labialized	s
+zwh	voiced	alveolar	fricative		airstream:sibilant,aspiration:aspirated,labialization:labialized	z
 t	voiceless	alveolar	stop			t
 d	voiced	alveolar	stop			d
 th	voiceless	alveolar	stop		aspiration:aspirated	t
@@ -84,22 +84,22 @@ T	voiceless	palatal	stop			c Ɉ
 Th	voiceless	palatal	stop		aspiration:aspirated	c Ɉ
 Tw	voiceless	palatal	stop		labialization:labialized	c Ɉ
 Twh	voiceless	palatal	stop		aspiration:aspirated,labialization:labialized	c Ɉ
-C	voiceless	post-alveolar	affricate		sibilancy:sibilant	tʃ
-j	voiced	post-alveolar	affricate		sibilancy:sibilant	dʒ
-Ch	voiceless	post-alveolar	affricate		aspiration:aspirated,sibilancy:sibilant	tʃ
-jh	voiced	post-alveolar	affricate		aspiration:aspirated,sibilancy:sibilant	dʒ
-Cw	voiceless	post-alveolar	affricate		labialization:labialized,sibilancy:sibilant	tʃ
-jw	voiced	post-alveolar	affricate		labialization:labialized,sibilancy:sibilant	dʒ
-Cwh	voiceless	post-alveolar	affricate		sibilancy:sibilant,aspiration:aspirated,labialization:labialized	tʃ
-jwh	voiced	post-alveolar	affricate		sibilancy:sibilant,aspiration:aspirated,labialization:labialized	dʒ
-S	voiceless	post-alveolar	fricative		sibilancy:sibilant	ʃ
-Z	voiced	post-alveolar	fricative		sibilancy:sibilant	ʒ
-Sh	voiceless	post-alveolar	fricative		aspiration:aspirated,sibilancy:sibilant	ʃ
-Zh	voiced	post-alveolar	fricative		aspiration:aspirated,sibilancy:sibilant	ʒ
-Sw	voiceless	post-alveolar	fricative		labialization:labialized,sibilancy:sibilant	ʃ
-Zw	voiced	post-alveolar	fricative		labialization:labialized,sibilancy:sibilant	ʒ
-Swh	voiceless	post-alveolar	fricative		sibilancy:sibilant,aspiration:aspirated,labialization:labialized	ʃ
-Zwh	voiced	post-alveolar	fricative		sibilancy:sibilant,aspiration:aspirated,labialization:labialized	ʒ
+C	voiceless	post-alveolar	affricate		airstream:sibilant	tʃ
+j	voiced	post-alveolar	affricate		airstream:sibilant	dʒ
+Ch	voiceless	post-alveolar	affricate		aspiration:aspirated,airstream:sibilant	tʃ
+jh	voiced	post-alveolar	affricate		aspiration:aspirated,airstream:sibilant	dʒ
+Cw	voiceless	post-alveolar	affricate		labialization:labialized,airstream:sibilant	tʃ
+jw	voiced	post-alveolar	affricate		labialization:labialized,airstream:sibilant	dʒ
+Cwh	voiceless	post-alveolar	affricate		airstream:sibilant,aspiration:aspirated,labialization:labialized	tʃ
+jwh	voiced	post-alveolar	affricate		airstream:sibilant,aspiration:aspirated,labialization:labialized	dʒ
+S	voiceless	post-alveolar	fricative		airstream:sibilant	ʃ
+Z	voiced	post-alveolar	fricative		airstream:sibilant	ʒ
+Sh	voiceless	post-alveolar	fricative		aspiration:aspirated,airstream:sibilant	ʃ
+Zh	voiced	post-alveolar	fricative		aspiration:aspirated,airstream:sibilant	ʒ
+Sw	voiceless	post-alveolar	fricative		labialization:labialized,airstream:sibilant	ʃ
+Zw	voiced	post-alveolar	fricative		labialization:labialized,airstream:sibilant	ʒ
+Swh	voiceless	post-alveolar	fricative		airstream:sibilant,aspiration:aspirated,labialization:labialized	ʃ
+Zwh	voiced	post-alveolar	fricative		airstream:sibilant,aspiration:aspirated,labialization:labialized	ʒ
 X	voiceless	uvular	fricative			χ ʁ ħ ʕ
 Xh	voiceless	uvular	fricative		aspiration:aspirated	χ ʁ ħ ʕ
 Xw	voiceless	uvular	fricative		labialization:labialized	χ ʁ ħ ʕ
@@ -116,10 +116,10 @@ x	voiceless	velar	fricative			x ɣ
 xh	voiceless	velar	fricative		aspiration:aspirated	x ɣ
 xw	voiceless	velar	fricative		labialization:labialized	x ɣ
 xwh	voiceless	velar	fricative		aspiration:aspirated,labialization:labialized	x ɣ
-L	voiced	velar	approximant		laterality:lateral	L ɭ ʎ
-Lh	voiced	velar	approximant		aspiration:aspirated,laterality:lateral	L ɭ ʎ
-Lw	voiced	velar	approximant		labialization:labialized,laterality:lateral	L ɭ ʎ
-Lwh	voiced	velar	approximant		aspiration:aspirated,labialization:labialized,laterality:lateral	L ɭ ʎ
+L	voiced	velar	approximant		airstream:lateral	L ɭ ʎ
+Lh	voiced	velar	approximant		aspiration:aspirated,airstream:lateral	L ɭ ʎ
+Lw	voiced	velar	approximant		labialization:labialized,airstream:lateral	L ɭ ʎ
+Lwh	voiced	velar	approximant		aspiration:aspirated,labialization:labialized,airstream:lateral	L ɭ ʎ
 N	voiced	velar	nasal			ŋ
 Nh	voiced	velar	nasal		aspiration:aspirated	ŋ
 Nw	voiced	velar	nasal		labialization:labialized	ŋ

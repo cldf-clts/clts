@@ -42,7 +42,7 @@ dʱ	breathy voiced alveolar stop consonant		+	d̤						3
 dʱː	long breathy voiced alveolar stop consonant		+	d̤ː						1	
 dʲ	palatalized voiced alveolar stop consonant		+	dʲ						8	
 dː	long voiced alveolar stop consonant		+	dː						12	
-dːʒ	long voiced post-alveolar sibilant affricate consonant		+	dːʒ						6	
+<NA>	<NA>		+	dːʒ						6	
 d̥	devoiced voiced alveolar stop consonant		+	d̥						2	
 d̥ʰ	aspirated devoiced voiced alveolar stop consonant	+	+	d̥ʰ						1	
 d̪	voiced dental stop consonant		+	d̪						1	
@@ -319,14 +319,14 @@ zʲ	palatalized voiced alveolar sibilant fricative consonant		+	zʲ						2
 ɽ	voiced retroflex tap consonant		+	ɽ						7	
 ɽʰ	aspirated voiced retroflex tap consonant	+	+	ɽʰ						1	
 ɾ	voiced alveolar tap consonant		+	ɾ						21	
-ɿ	unrounded close with-frication back vowel		+	ɿ						32	
+ɿ	unrounded close with-friction back vowel		+	ɿ						32	
 ʀ	voiced uvular trill consonant		+	ʀ						3	
 ʁ	voiced uvular fricative consonant		+	ʁ						8	
 ʂ	voiceless retroflex sibilant fricative consonant		+	ʂ						23	
 ʂʰ	aspirated voiceless retroflex sibilant fricative consonant	+	+	ʂʰ						1	
 ʃ	voiceless post-alveolar sibilant fricative consonant		+	ʃ						33	
 ʃː	long voiceless post-alveolar sibilant fricative consonant	+	+	ʃː						14	
-ʅ	unrounded close with-frication central vowel		+	ʅ						9	
+ʅ	unrounded close with-friction central vowel		+	ʅ						9	
 ʈ	voiceless retroflex stop consonant		+	ʈ						10	
 ʈʂ	voiceless retroflex sibilant affricate consonant		+	tʂ						5	
 ʈʂ	voiceless retroflex sibilant affricate consonant		+	ʈʂ						9	
@@ -351,7 +351,7 @@ zʲ	palatalized voiced alveolar sibilant fricative consonant		+	zʲ						2
 ʔ	voiceless glottal stop consonant		+	ʔ						58	
 ʕ	voiced pharyngeal fricative consonant		+	ʕ						1	
 ʝ	voiced palatal fricative consonant		+	ʝ						2	
-ʮ	rounded close with-frication back vowel		+	ʮ						1	
+ʮ	rounded close with-friction back vowel		+	ʮ						1	
 β	voiced bilabial fricative consonant		+	β						14	
 θ	voiceless dental fricative consonant		+	θ						10	
 χ	voiceless uvular fricative consonant		+	χ						20	

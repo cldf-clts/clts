@@ -1,5 +1,9 @@
 GRAPHEME	ROUNDEDNESS	HEIGHT	CENTRALITY	ALIAS	EXTRA	NOTE
 a	unrounded	open	front			
+ä	unrounded	open	front		relative_articulation:centralized	
+a̟	unrounded	open	front		relative_articulation:advanced
+a̟ː	unrounded	open	front		relative_articulation:advanced,duration:long
+äː	unrounded	open	front		relative_articulation:centralized,duration:long	
 aa	unrounded	open	front	+	duration:long	
 aː	unrounded	open	front		duration:long	
 aˑ	unrounded	open	front		duration:mid-long	
@@ -261,8 +265,8 @@ ỹː	rounded	close	front		nasalization:nasalized,duration:long
 ɶ̃	rounded	open	front		nasalization:nasalized	
 ɶ̃ɶ̃	rounded	open	front	+	nasalization:nasalized,duration:long	
 ɶ̃ː	rounded	open	front		nasalization:nasalized,duration:long	
-ɿ	unrounded	close	back		frication:with-frication	
-ʅ	unrounded	close	central		frication:with-frication	
+ɿ	unrounded	close	back		friction:with-friction	
+ʅ	unrounded	close	central		friction:with-friction	
 ʉ	rounded	close	central			
 ʉʉ	rounded	close	central	+	duration:long	
 ʉː	rounded	close	central		duration:long	
@@ -301,8 +305,8 @@ ỹː	rounded	close	front		nasalization:nasalized,duration:long
 ʏ̃	rounded	near-close	near-front		nasalization:nasalized	
 ʏ̃ʏ̃	rounded	near-close	near-front	+	nasalization:nasalized,duration:long	
 ʏ̃ː	rounded	near-close	near-front		nasalization:nasalized,duration:long	
-ʮ	rounded	close	back		frication:with-frication	
-ʯ	rounded	close	central		frication:with-frication	
+ʮ	rounded	close	back		friction:with-friction	
+ʯ	rounded	close	central		friction:with-friction	
 ɤ̯	unrounded	close-mid	back		syllabicity:non-syllabic	
 ɔ̑	rounded	open-mid	back	+	syllabicity:non-syllabic	
 ɛ̑	unrounded	open-mid	front	+	syllabicity:non-syllabic	
