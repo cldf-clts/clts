@@ -1,12 +1,13 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
+<NA>	<NA>		+	ɡ̥ʰ						1	
+<NA>	<NA>		+	dːʒ						6	
+<NA>	<NA>		+	+						43	
+<NA>	<NA>		+	_						81	
 <NA>	<NA>		+	bz						1	
 <NA>	<NA>		+	ps						5	
 <NA>	<NA>		+	ʔj						2	
-<NA>	<NA>		+	+						43	
-ʃ	voiceless post-alveolar sibilant fricative consonant		+	š						22	
 <NA>	<NA>		+	⁰²						1	
 <NA>	<NA>		+	⁰⁴						1	
-<NA>	<NA>		+	_						81	
 a	unrounded open front vowel		+	a						196	
 ai	from unrounded open front to unrounded close front diphthong	+	+	ai						20	
 ao	from unrounded open front to rounded close-mid back diphthong	+	+	ao						2	
@@ -42,7 +43,6 @@ dʱ	breathy voiced alveolar stop consonant		+	d̤						3
 dʱː	long breathy voiced alveolar stop consonant		+	d̤ː						1	
 dʲ	palatalized voiced alveolar stop consonant		+	dʲ						8	
 dː	long voiced alveolar stop consonant		+	dː						12	
-<NA>	<NA>		+	dːʒ						6	
 d̥	devoiced voiced alveolar stop consonant		+	d̥						2	
 d̥ʰ	aspirated devoiced voiced alveolar stop consonant	+	+	d̥ʰ						1	
 d̪	voiced dental stop consonant		+	d̪						1	
@@ -70,7 +70,6 @@ gʱ	breathy voiced velar stop consonant		+	ɡ̤						3
 gʲ	palatalized voiced velar stop consonant		+	ɡʲ						1	
 gː	long voiced velar stop consonant		+	ɡː						5	
 g̊	devoiced voiced velar stop consonant		+	ɡ̥						2	
-<NA>	<NA>	+	+	ɡ̥ʰ						1	
 h	voiceless glottal fricative consonant		+	h						90	
 h̃	nasalized voiceless glottal fricative consonant		+	h̃						1	
 i	unrounded close front vowel		+	i						195	
@@ -324,6 +323,7 @@ zʲ	palatalized voiced alveolar sibilant fricative consonant		+	zʲ						2
 ʁ	voiced uvular fricative consonant		+	ʁ						8	
 ʂ	voiceless retroflex sibilant fricative consonant		+	ʂ						23	
 ʂʰ	aspirated voiceless retroflex sibilant fricative consonant	+	+	ʂʰ						1	
+ʃ	voiceless post-alveolar sibilant fricative consonant		+	š						22	
 ʃ	voiceless post-alveolar sibilant fricative consonant		+	ʃ						33	
 ʃː	long voiceless post-alveolar sibilant fricative consonant	+	+	ʃː						14	
 ʅ	unrounded close with-friction central vowel		+	ʅ						9	
