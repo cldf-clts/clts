@@ -1,4 +1,13 @@
 BIPA	GRAPHEME	COUNT	NOTE
+(!)	z̻	1	
+(!)	ǁ’	1	
+(?)kⁿʷ	kŋʷ	1	
+(?)tⁿʲ	tʲnʲ	1	
+(?)tⁿʷ	ᵗnʷ	1	
+(?)ɹ̪	ð̞	1	
+(?)ʈʳʰ	ʈɽʰ	1	
+(?)ʈⁿʷ	ʈɳʷ	1	
+(?)ⁿʈʳʰ	Nʈɽʰ	1	
 <NA>	N	1	
 <NA>	aʊɪ	1	triphthong
 <NA>	eəɪ	1	triphthong
@@ -9,6 +18,8 @@ BIPA	GRAPHEME	COUNT	NOTE
 <NA>	jai̯	1	triphthong
 <NA>	jau̯	1	triphthong
 <NA>	jeu̯	1	triphthong
+<NA>	ks	1	
+<NA>	ld	1	
 <NA>	oəɪ	1	triphthong
 <NA>	uai	1	
 <NA>	uei	1	
@@ -19,8 +30,6 @@ BIPA	GRAPHEME	COUNT	NOTE
 <NA>	əɪa	1	triphthong
 <NA>	əʁ̞	1	
 <NA>	əʊɪ	1	triphthong
-<NA>	ks	1	
-<NA>	ld	1	
 a	a	126	
 ae	ae	1	
 ae̯	ae̯	2	
@@ -245,7 +254,6 @@ kʲ	kʲ	5
 kʷ	kʷ	24	
 kʷʰ	kʷʰ	3	
 kʷː	kʷː	5	
-kʷⁿ	kŋʷ	1	
 kʼ	k'	1	
 kʼ	kʼ	1	
 kʼ	kʼ	6	
@@ -443,9 +451,7 @@ tʰː	tʰː	2
 tʲ	tʲ	8	
 tʲʷ	tʲʷ	1	
 tʲː	tʲː	1	
-tʲⁿ	tʲnʲ	1	
 tʷ	tʷ	2	
-tʷⁿ	ᵗnʷ	1	
 tʼ	t'	2	
 tʼ	tʼ	2	
 tʼ	tʼ	4	
@@ -541,7 +547,6 @@ z̠	z̠	1
 z̥	z̥	1	
 z̩	z̩	2	
 z̪	z̪	1	
-z̻	z̻	1	
 æ	æ	18	
 æe	æe	2	
 æi	æi	2	
@@ -560,7 +565,6 @@ z̻	z̻	1
 æ̃ː	æ̃ː	1	
 ð	ð	11	
 ðˤ	ðˤ	2	
-ð̞	ð̞	1	
 ø	ø	13	
 øe	øe	1	
 øi	øi	1	
@@ -591,7 +595,6 @@ z̻	z̻	1
 ǀ’	ǀ’	1	
 ǁ	ǁ	1	
 ǁʰ	ǁʰ	1	
-ǁ’	ǁ’	1	
 ǃ	ǃ	1	
 ǃʰ	ǃʰ	1	
 ǃ’	ǃ’	1	
@@ -808,12 +811,10 @@ z̻	z̻	1
 ʈʂʰ	ʈʂʰ	1	
 ʈʂː	ʈʂː	1	
 ʈʰ	ʈʰ	6	
-ʈʰʳ	ʈɽʰ	1	
 ʈʰː	ʈʈʰ	1	
 ʈʲʰː	ʈʰː	2	
 ʈʳ	ʈɽ	1	
 ʈʷ	ʈʷ	1	
-ʈʷⁿ	ʈɳʷ	1	
 ʈː	ʈʈ	1	
 ʈː	ʈː	3	
 ʈⁿ	ʈɳ	1	
@@ -960,7 +961,6 @@ z̻	z̻	1
 ⁿɟ	ɲɟ	1	
 ⁿɟ	ⁿɟ	1	
 ⁿʃ	nʃ	1	
-ⁿʈʰʳ	Nʈɽʰ	1	
 ⱱ	ⱱ	1	
 ⱱ̟	w̆	1	
 ⱱ̟	ⱱ̟	1	

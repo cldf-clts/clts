@@ -1,4 +1,6 @@
 BIPA	GRAPHEME	COUNT
+(!)	pʲʰ	2
+(!)	z̻	1
 <NA>	pʃʰ	1
 <NA>	ʊai	1
 a	a	1
@@ -66,7 +68,6 @@ o̞	o̞	1
 p	p	48
 pʰ	pʰ	8
 pʲ	pʲ	2
-pʲʰ	pʲʰ	2
 pʷ	pʷ	1
 pʷʰ	pʷʰ	1
 pʼ	pʼ	2
@@ -120,7 +121,6 @@ y	y	4
 z	z	60
 zː	zː	1
 zˤ	zˤ	5
-z̻	z̻	1
 æ	æ	4
 æ̃ː	æ̃ː	1
 ð	ð	9
