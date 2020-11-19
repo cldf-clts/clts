@@ -20,6 +20,8 @@ BIPA	GRAPHEME	FEATURES	LATEX
 (?)	d̪͡ɮ̪ʷ	dental, labial:affricate:+voice +lateral	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super w
 (?)	d̪͡ɮ̪ʷː	dental, labial:affricate:+voice +lateral	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super w\textlengthmark
 (?)	d̪͡ɮ̪ː	dental:affricate:+voice +lateral	\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\textlengthmark
+(?)	ɺ̪	dental:liquid:+voice +lateral	\textsubbridge{\textturnlonglegr}
+(?)	ɺ̪ʲ	dental, palatal:liquid:+voice +lateral	\textsubbridge{\textturnlonglegr}\super j
 <NA>		empty:empty:	
 <NA>	t͡ɬ̲	alveolar:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}
 <NA>	t͡ɬ̲ʰ	alveolar:affricate:+voice +lateral +spread glottis	\t{t͡\textsubbar{\textbeltl}} extsuperscript{h}
@@ -29,10 +31,6 @@ BIPA	GRAPHEME	FEATURES	LATEX
 <NA>	t͡ɬ̲ʷ	alveolar, labial:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}\super w
 <NA>	t͡ɬ̲ʷː	alveolar, labial:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}\super w\textlengthmark
 <NA>	t͡ɬ̲ː	alveolar:affricate:+voice +lateral	\t{t͡\textsubbar{\textbeltl}}\textlengthmark
-<NA>	ɹ̪	dental:liquid:+voice −lateral	\textsubbridge{\textturnr}
-<NA>	ɹ̪ʲ	dental, palatal:liquid:+voice −lateral	\textsubbridge{\textturnr}\super j
-<NA>	ɺ̪	dental:liquid:+voice +lateral	\textsubbridge{\textturnlonglegr}
-<NA>	ɺ̪ʲ	dental, palatal:liquid:+voice +lateral	\textsubbridge{\textturnlonglegr}\super j
 a	a	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	a
 aː	aː	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis	a\textlengthmark
 ã	ã	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis	\textipa{\~a}
@@ -1601,6 +1599,8 @@ z̫ː	z͎ː	alveolar:fricative:+voice	\begin{IPA}\whistle{z}\end{IPA}\textlength
 ɹ̥ʲ	ɹ̥ʲ	alveolar, palatal:liquid:−voice −lateral	*\textturnr\super j
 ɹ̩	ɹ̩	alveolar:liquid:+voice −lateral +syllabic	\textipa{\s{\textturnr}}
 ɹ̩̥	ɹ̥̩	alveolar:liquid:−voice −lateral +syllabic	\textipa{\s{ *\textturnr}}
+ɹ̪	ɹ̪	dental:liquid:+voice −lateral	\textsubbridge{\textturnr}
+ɹ̪ʲ	ɹ̪ʲ	dental, palatal:liquid:+voice −lateral	\textsubbridge{\textturnr}\super j
 ɺ	ɺ	alveolar:liquid:+voice +lateral	\textturnlonglegr
 ɺʲ	ɺʲ	alveolar, palatal:liquid:+voice +lateral	\textturnlonglegr\super j
 ɺ̠	ɺ̠	alveolar:liquid:+voice +lateral	\textsubbar{\textturnlonglegr}

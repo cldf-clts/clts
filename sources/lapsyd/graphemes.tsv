@@ -4,7 +4,6 @@ BIPA	ID	GRAPHEME	FEATURES
 (!)	5901	t̪ʲʰ	pulmonic stop aspirated voiceless palatalized dental
 (!)	3978	ɭ̥	pulmonic approximant lateral voiceless retroflex
 (!)	3980	ɳ̥	pulmonic nasal voiceless retroflex
-(?)	1829	tx	pulmonic affricate voiceless alveolar velar
 (?)	1406	ŋ̥ǀh̃	click fricative nasal nasalized voiceless dental velar glottal
 (?)	1404	ŋ̥ǀx	click fricative nasal voiceless dental velar
 (?)	1405	ŋ̥ǀʔ	click stop nasal voiceless dental velar glottal
@@ -360,6 +359,7 @@ tʲ	3089	tʲ	pulmonic stop voiceless palatalized alveolar
 tʲʰ	5989	tʰʲ	pulmonic stop aspirated voiceless palatalized alveolar
 tʲʰ	5928	tʲʰ	pulmonic stop aspirated voiceless palatalized alveolar
 tʳ	164	tr	pulmonic stop trilled release voiceless alveolar
+tʶ	1829	tx	pulmonic affricate voiceless alveolar velar
 tʷ	1904	tʷ	pulmonic stop voiceless labialized alveolar
 tʼ	227	t'	pulmonic stop voiceless unspecified coronal place
 tʼ	1812	tʼ	ejective stop alveolar
