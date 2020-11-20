@@ -4,7 +4,7 @@ apics	This is the segmental data provided by the [Atlas of Pidgin and Creole Lan
 art	A numeric account of sonority based on LingPy as presented in List (2014) and List et al. (2017)	List2014d, List2017i	sc	
 asjp	Sound class model (produced in a semi-generative manner with help of LingPy) following the ASJP (Wichmann et al. 2016) as used in List (2014).	Wichmann2016, List2014d	sc	
 asjpcode	Transcription system of the ASJP project.	Wichmann2016	ts	
-bdpa	The data is taken from the *Benchmark database of phonetic alignments* ([List and Prokić 2014](:bib:List2014e)) which offers data on sound sequences in segmented form. The frequency counts reflect the number of varieties in the data for which a given segment could be found. Since the data contains many dialectal datasets, the frequency counts to not reflect general sound distributions but rather the frequency of sound segments in the data.	List2014e	td
+bdpa	The data is taken from the *Benchmark database of phonetic alignments* ([List and Prokić 2014](:bib:List2014e)) which offers data on sound sequences in segmented form. The frequency counts reflect the number of varieties in the data for which a given segment could be found. Since the data contains many dialectal datasets, the frequency counts to not reflect general sound distributions but rather the frequency of sound segments in the data.	List2014e	td	
 bdproto	Transcription data assembled from the BDPROTO database, which offers phoneme inventories of proto-languages.	Moran2020	td	
 beidasinitic	The inventories given in the Fāngyán Cíhuì (Beijing Daxue 1964).	Cihui	td	
 bipa	Broad version of IPA, understood as a reference for the other systems.	IPA1999, IPA2015	ts	
