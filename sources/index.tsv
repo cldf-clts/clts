@@ -1,4 +1,5 @@
 NAME	DESCRIPTION	REFS	TYPE	URITEMPLATE
+allenbai	This dataset was taken from the description of several Bai dialect varieties by [Allen (2008)](:bib:Allen2008). All sound segments were extracted from the original source and then mapped to the CLTS system. The detailed phoneme inventories per language as well as the lexical data reported in the same source are available in the form of a [CLDF dataset](https://github.com/lexibank/allenbai).	Allen2008	td	
 apics	This is the segmental data provided by the [Atlas of Pidgin and Creole Language Structures Online](http://apics-online.info/).	Michaelis2013	td
 art	A numeric account of sonority based on LingPy as presented in List (2014) and List et al. (2017)	List2014d, List2017i	sc
 asjp	Sound class model (produced in a semi-generative manner with help of LingPy) following the ASJP (Wichmann et al. 2016) as used in List (2014).	Wichmann2016, List2014d	sc
