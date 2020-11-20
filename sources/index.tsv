@@ -13,7 +13,7 @@ color	A simple color-scheme based on Dolgopolsky's sound classes, used in LingPy
 cv	Simple consonant-vowel-tone sound class model provided by LingPy (List et al. 2017).	List2017i	sc	
 diachronica	The online version of the Index Diachronica, which is no longer available in its original form.	Anonymous2014, D2017	td	
 dolgo	Sound class model (produced in a semi-geneative manner with help of LingPy) following Dolgopolsky (1964) as used in List (2014).	Dolgopolsky1964, Dolgopolsky1986, List2014d	sc	
-eurasian	The data provided by the "Database of Eurasian Phonological Inventories".	Nikolaev2015	td	http://eurasianphonology.info/search_exact?dialects=True&query={GRAPHEME}
+eurasian	The data provided by the *Database of Eurasian Phonological Inventories*.	Nikolaev2015	td	http://eurasianphonology.info/search_exact?dialects=True&query={GRAPHEME}
 gld	Transcription system of the Global Lexicostatistical Database project.	Starostin2011	ts	
 jipa	Data from inventories published in the Journal of the International Phonetic Association (JIPA), as collected by Baird et al. (forth.)	BairdForth	td	
 lapsyd	The data provided by the LAPSYD database.	Maddieson2013	td	
