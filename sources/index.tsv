@@ -20,7 +20,7 @@ dolgo	Sound class model (produced in a semi-geneative manner with help of LingPy
 cv	Simple consonant-vowel-tone sound class model provided by LingPy (List et al. 2017).	List2017i	sc	
 art	A numeric account of sonority based on LingPy as presented in List (2014) and List et al. (2017)	List2014d, List2017i	sc	
 color	A simple color-scheme based on Dolgopolsky's sound classes, used in LingPy.	List2017i, List2014d, Dolgopolsky1964, Dolgopolsky1986	sc	
-beijingdaxue	The inventories given in the Fāngyán Cíhuì (Beijing Daxue 1964).	Cihui	td	
+beidasinitic	The inventories given in the Fāngyán Cíhuì (Beijing Daxue 1964). A [CLDF dataset](https://github.com/lexibank/beidasinitic) of the inventories is available as well.	Cihui	td	
 bipa	Broad version of IPA, understood as a reference for the other systems.	IPA1999, IPA2015	ts	
 gld	Transcription system of the Global Lexicostatistical Database project.	Starostin2011	ts	
 asjpcode	Transcription system of the ASJP project.	Wichmann2016	ts	
