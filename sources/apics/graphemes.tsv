@@ -1,13 +1,13 @@
 BIPA	GRAPHEME	URL	FEATURES
-(?)ⁿb	<sup>m</sup>b	http://apics-online.info/parameters/231	prenasalized voiced bilabial plosive
-(?)ⁿc	<sup>ɲ</sup>c	http://apics-online.info/parameters/238	prenasalized voiceless palatal plosive
-(?)ⁿg	<sup>ŋ</sup>g	http://apics-online.info/parameters/235	prenasalized voiced velar plosive
-(?)ⁿk	<sup>ŋ</sup>k	http://apics-online.info/parameters/239	prenasalized voiceless velar plosive
-(?)ⁿp	<sup>m</sup>p	http://apics-online.info/parameters/236	prenasalized voiceless bilabial plosive
-(?)ⁿv	<sup>m</sup>v	http://apics-online.info/parameters/241	prenasalized voiced labiodental fricative
-(?)ⁿw	<sup>m</sup>w	http://apics-online.info/parameters/246	prenasalized voiced labial-velar glide
-(?)ⁿx	<sup>ŋ</sup>x	http://apics-online.info/parameters/245	prenasalized voiceless velar fricative
-(?)ⁿɟ	<sup>ɲ</sup>ɟ	http://apics-online.info/parameters/234	prenasalized voiced palatal plosive
+ⁿb	<sup>m</sup>b	http://apics-online.info/parameters/231	prenasalized voiced bilabial plosive
+ⁿp	<sup>m</sup>p	http://apics-online.info/parameters/236	prenasalized voiceless bilabial plosive
+ⁿv	<sup>m</sup>v	http://apics-online.info/parameters/241	prenasalized voiced labiodental fricative
+ⁿw	<sup>m</sup>w	http://apics-online.info/parameters/246	prenasalized voiced labial-velar glide
+ⁿg	<sup>ŋ</sup>g	http://apics-online.info/parameters/235	prenasalized voiced velar plosive
+ⁿk	<sup>ŋ</sup>k	http://apics-online.info/parameters/239	prenasalized voiceless velar plosive
+ⁿx	<sup>ŋ</sup>x	http://apics-online.info/parameters/245	prenasalized voiceless velar fricative
+ⁿc	<sup>ɲ</sup>c	http://apics-online.info/parameters/238	prenasalized voiceless palatal plosive
+ⁿɟ	<sup>ɲ</sup>ɟ	http://apics-online.info/parameters/234	prenasalized voiced palatal plosive
 a	a	http://apics-online.info/parameters/256	low central unrounded vowel
 ai	ai	http://apics-online.info/parameters/295	diphthong falling from low central unrounded vowel to high front unrounded vowel
 au	au	http://apics-online.info/parameters/301	diphthong falling from low central unrounded vowel to to high back rounded vowel
@@ -17,24 +17,22 @@ b	b	http://apics-online.info/parameters/132	voiced bilabial plosive
 bʰ	bʰ	http://apics-online.info/parameters/157	voiced aspirated bilabial plosive
 bː	bː	http://apics-online.info/parameters/224	geminate voiced bilabial plosive
 c	c	http://apics-online.info/parameters/145	voiceless palatal plosive
-ç	ç	http://apics-online.info/parameters/198	voiceless palatal fricative
 d	d	http://apics-online.info/parameters/134	voiced dental/alveolar plosive
-dz	d͡z	http://apics-online.info/parameters/138	voiced dental/alveolar sibilant affricate
-dʑ	ʥ	http://apics-online.info/parameters/142	voiced alveolo-palatal affricate
-dʒ	d͡ʒ	http://apics-online.info/parameters/140	voiced palato-alveolar sibilant affricate
 dʰ	dʰ	http://apics-online.info/parameters/159	voiced aspirated dental/alveolar plosive
 dː	dː	http://apics-online.info/parameters/226	geminate voiced dental/alveolar plosive
 d̪	d̪	http://apics-online.info/parameters/136	voiced interdental plosive
+dz	d͡z	http://apics-online.info/parameters/138	voiced dental/alveolar sibilant affricate
+dʒ	d͡ʒ	http://apics-online.info/parameters/140	voiced palato-alveolar sibilant affricate
 e	e	http://apics-online.info/parameters/253	higher mid front unrounded vowel
 ei	ei	http://apics-online.info/parameters/296	diphthong falling from higher mid front unrounded vowel to high front unrounded vowel
 eː	eː	http://apics-online.info/parameters/275	long higher mid front unrounded vowel
 ẽ	ẽ	http://apics-online.info/parameters/286	nasalized higher mid front unrounded vowel
 f	f	http://apics-online.info/parameters/189	voiceless labio-dental fricative
 g	g	http://apics-online.info/parameters/149	voiced velar plosive
-gb	g͡b	http://apics-online.info/parameters/152	voiced labial-velar plosive
 gʰ	gʰ	http://apics-online.info/parameters/165	voiced aspirated velar plosive
 gʷ	gʷ	http://apics-online.info/parameters/150	labialized voiced velar plosive
 gː	gː	http://apics-online.info/parameters/228	geminate voiced velar plosive
+gb	g͡b	http://apics-online.info/parameters/152	voiced labial-velar plosive
 h	h	http://apics-online.info/parameters/205	voiceless glottal fricative
 hʷ	hʷ	http://apics-online.info/parameters/206	labialized voiceless glottal fricative
 i	i	http://apics-online.info/parameters/252	high front unrounded vowel
@@ -42,15 +40,14 @@ iə	iə	http://apics-online.info/parameters/306	diphthong with high front unroun
 iː	iː	http://apics-online.info/parameters/274	long high front unrounded vowel
 ĩ	ĩ	http://apics-online.info/parameters/285	nasalized high front unrounded vowel
 j	j	http://apics-online.info/parameters/218	voiced palatal glide
-j̃	ȷ̃	http://apics-online.info/parameters/219	nasalized voiced palatal glide
 k	k	http://apics-online.info/parameters/147	voiceless velar plosive
-kp	k͡p	http://apics-online.info/parameters/151	voiceless labial-velar plosive
 kʰ	kʰ	http://apics-online.info/parameters/163	voiceless aspirated velar plosive
-kʷ	kʷ	http://apics-online.info/parameters/148	labialized voiceless velar plosive
 kʷʰ	kʰʷ	http://apics-online.info/parameters/164	labialized voiceless aspirated velar plosive
+kʷ	kʷ	http://apics-online.info/parameters/148	labialized voiceless velar plosive
 kʼ	kʼ	http://apics-online.info/parameters/172	voiceless velar ejective plosive
 kʼʷ	kʼʷ	http://apics-online.info/parameters/173	labialized voiceless velar ejective plosive
 kː	kː	http://apics-online.info/parameters/227	geminate voiceless velar plosive
+kp	k͡p	http://apics-online.info/parameters/151	voiceless labial-velar plosive
 l	l	http://apics-online.info/parameters/209	voiced dental/alveolar lateral approximant
 lʲ	lʲ	http://apics-online.info/parameters/211	palatalized voiced lateral approximant
 lː	lː	http://apics-online.info/parameters/210	geminate voiced lateral approximant
@@ -69,26 +66,25 @@ pʼ	pʼ	http://apics-online.info/parameters/168	voiceless bilabial ejective plos
 pː	pː	http://apics-online.info/parameters/223	geminate voiceless bilabial plosive
 q	q	http://apics-online.info/parameters/153	voiceless uvular plosive
 qʰ	qʰ	http://apics-online.info/parameters/166	voiceless aspirated uvular plosive
-qʷ	qʷ	http://apics-online.info/parameters/154	labialized voiceless uvular plosive
 qʷʰ	qʰʷ	http://apics-online.info/parameters/167	labialized voiceless aspirated uvular plosive
+qʷ	qʷ	http://apics-online.info/parameters/154	labialized voiceless uvular plosive
 qʼ	qʼ	http://apics-online.info/parameters/174	voiceless uvular ejective plosive
 qʼʷ	qʼʷ	http://apics-online.info/parameters/175	labialized voiceless uvular ejective plosive
 r	r	http://apics-online.info/parameters/183	voiced dental/alveolar trill
 s	s	http://apics-online.info/parameters/193	voiceless dental/alveolar sibilant fricative
 t	t	http://apics-online.info/parameters/133	voiceless dental/alveolar plosive
-ts	t͡s	http://apics-online.info/parameters/137	voiceless dental/alveolar sibilant affricate
-tsʰ	t͡sʰ	http://apics-online.info/parameters/160	voiceless aspirated dental/alveolar sibilant affricate
-tsʼ	t͡sʼ	http://apics-online.info/parameters/170	voiceless dental/alveolar sibilant ejective affricate
-tɕ	ʨ	http://apics-online.info/parameters/141	voiceless alveolo-palatal affricate
 tɬ	tɬ	http://apics-online.info/parameters/213	voiceless lateral affricate
 tɬʼ	tɬʼ	http://apics-online.info/parameters/214	voiceless lateral ejective affricate
-tʃ	t͡ʃ	http://apics-online.info/parameters/139	voiceless palato-alveolar sibilant affricate
-tʃʰ	t͡ʃʰ	http://apics-online.info/parameters/161	voiceless aspirated palato-alveolar sibilant affricate
-tʃʼ	t͡ʃʼ	http://apics-online.info/parameters/171	voiceless palato-alveolar sibilant ejective affricate
 tʰ	tʰ	http://apics-online.info/parameters/158	voiceless aspirated dental/alveolar plosive
 tʼ	tʼ	http://apics-online.info/parameters/169	voiceless dental/alveolar ejective plosive
 tː	tː	http://apics-online.info/parameters/225	geminate voiceless dental/alveolar plosive
 t̪	t̪	http://apics-online.info/parameters/135	voiceless interdental plosive
+ts	t͡s	http://apics-online.info/parameters/137	voiceless dental/alveolar sibilant affricate
+tsʰ	t͡sʰ	http://apics-online.info/parameters/160	voiceless aspirated dental/alveolar sibilant affricate
+tsʼ	t͡sʼ	http://apics-online.info/parameters/170	voiceless dental/alveolar sibilant ejective affricate
+tʃ	t͡ʃ	http://apics-online.info/parameters/139	voiceless palato-alveolar sibilant affricate
+tʃʰ	t͡ʃʰ	http://apics-online.info/parameters/161	voiceless aspirated palato-alveolar sibilant affricate
+tʃʼ	t͡ʃʼ	http://apics-online.info/parameters/171	voiceless palato-alveolar sibilant ejective affricate
 u	u	http://apics-online.info/parameters/257	high back rounded vowel
 ui	ui	http://apics-online.info/parameters/299	diphthong going from high back rounded vowel to high front unrounded vowel
 uə	uə	http://apics-online.info/parameters/307	diphthong with high back rounded vowel and nonsyllabic mid central unrounded vowel
@@ -103,6 +99,7 @@ yː	yː	http://apics-online.info/parameters/284	long high front rounded vowel
 z	z	http://apics-online.info/parameters/194	voiced dental/alveolar sibilant fricative
 æ	æ	http://apics-online.info/parameters/255	raised low front unrounded vowel
 æː	æː	http://apics-online.info/parameters/277	long raised low front unrounded vowel
+ç	ç	http://apics-online.info/parameters/198	voiceless palatal fricative
 ð	ð	http://apics-online.info/parameters/192	voiced dental fricative
 ø	ø	http://apics-online.info/parameters/265	higher mid front rounded oral vowel
 ħ	ħ	http://apics-online.info/parameters/207	voiceless pharyngeal fricative
@@ -110,6 +107,8 @@ z	z	http://apics-online.info/parameters/194	voiced dental/alveolar sibilant fric
 œ	œ	http://apics-online.info/parameters/266	lower mid front rounded oral vowel
 œy	œy	http://apics-online.info/parameters/304	diphthong falling from lower mid front rounded vowel to high front rounded vowel
 œ̃	œ̃	http://apics-online.info/parameters/294	nasalized lower mid front rounded vowel
+əi	ǝi	http://apics-online.info/parameters/300	diphthong falling from mid central unrounded vowel to high front unrounded vowel
+j̃	ȷ̃	http://apics-online.info/parameters/219	nasalized voiced palatal glide
 ɐ	ɐ	http://apics-online.info/parameters/271	near-open central vowel
 ɑ	ɑ	http://apics-online.info/parameters/260	low back unrounded vowel
 ɑː	ɑː	http://apics-online.info/parameters/282	long low back unrounded vowel
@@ -125,7 +124,6 @@ z	z	http://apics-online.info/parameters/194	voiced dental/alveolar sibilant fric
 ɖ	ɖ	http://apics-online.info/parameters/144	voiced retroflex plosive
 ɗ	ɗ	http://apics-online.info/parameters/177	voiced dental/alveolar implosive plosive
 ə	ə	http://apics-online.info/parameters/268	mid central unrounded vowel
-əi	ǝi	http://apics-online.info/parameters/300	diphthong falling from mid central unrounded vowel to high front unrounded vowel
 əː	əː	http://apics-online.info/parameters/283	long mid central unrounded vowel
 ə̃	ə̃	http://apics-online.info/parameters/293	nasalized mid central unrounded vowel
 ɛ	ɛ	http://apics-online.info/parameters/254	lower mid front unrounded vowel
@@ -160,6 +158,8 @@ z	z	http://apics-online.info/parameters/194	voiced dental/alveolar sibilant fric
 ʒ	ʒ	http://apics-online.info/parameters/196	voiced palato-alveolar sibilant fricative
 ʔ	ʔ	http://apics-online.info/parameters/155	glottal plosive
 ʕ	ʕ	http://apics-online.info/parameters/208	voiced pharyngeal fricative
+dʑ	ʥ	http://apics-online.info/parameters/142	voiced alveolo-palatal affricate
+tɕ	ʨ	http://apics-online.info/parameters/141	voiceless alveolo-palatal affricate
 ʰk	ʰk	http://apics-online.info/parameters/250	voiceless preaspirated velar plosive
 ʰp	ʰp	http://apics-online.info/parameters/247	voiceless preaspirated bilabilal plosive
 ʰr	ʰr	http://apics-online.info/parameters/251	pre-breathy voice rhotic
