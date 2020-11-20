@@ -1,4 +1,6 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
+<NA>	<NA>		+	pʲʰ						2	
+<NA>	<NA>		+	z̻						1	
 <NA>	<NA>		+	pʃʰ						1	
 <NA>	<NA>		+	ʊai						1	
 a	unrounded open front vowel		+	a						1	
@@ -66,7 +68,6 @@ o̞	rounded mid back vowel		+	o̞						1
 p	voiceless bilabial stop consonant		+	p						48	
 pʰ	aspirated voiceless bilabial stop consonant		+	pʰ						8	
 pʲ	palatalized voiceless bilabial stop consonant		+	pʲ						2	
-<NA>	<NA>	+	+	pʲʰ						2	
 pʷ	labialized voiceless bilabial stop consonant		+	pʷ						1	
 pʷʰ	labialized aspirated voiceless bilabial stop consonant	+	+	pʷʰ						1	
 pʼ	voiceless bilabial ejective stop consonant		+	pʼ						2	
@@ -120,7 +121,6 @@ y	rounded close front vowel		+	y						4
 z	voiced alveolar sibilant fricative consonant		+	z						60	
 zː	long voiced alveolar sibilant fricative consonant	+	+	zː						1	
 zˤ	pharyngealized voiced alveolar sibilant fricative consonant	+	+	zˤ						5	
-<NA>	<NA>	+	+	z̻						1	
 æ	unrounded near-open front vowel		+	æ						4	
 æ̃ː	long nasalized unrounded near-open front vowel		+	æ̃ː						1	
 ð	voiced dental fricative consonant		+	ð						9	

@@ -1,18 +1,25 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
+<NA>	<NA>		+	ã							
+<NA>	<NA>		+	ẽ							
+<NA>	<NA>		+	ĩ							
+<NA>	<NA>		+	õ							
+<NA>	<NA>		+	ũ							
+<NA>	<NA>		+	ɚ							
 a	unrounded open front vowel		+	a							
 b	voiced bilabial stop consonant		+	b							
 d	voiced alveolar stop consonant		+	d							
 dz	voiced alveolar sibilant affricate consonant		+	dz							
 dʑ	voiced alveolo-palatal sibilant affricate consonant		+	dʑ							
 e	unrounded close-mid front vowel		+	e							
+e̞	unrounded mid front vowel		+	ᴇ							
 f	voiceless labio-dental fricative consonant		+	f							
 g	voiced velar stop consonant		+	g							
 h	voiceless glottal fricative consonant		+	h							
 i	unrounded close front vowel		+	i							
 j	voiced palatal approximant consonant		+	j							
 k	voiceless velar stop consonant		+	k							
-kʷ	labialized voiceless velar stop consonant		+	kw							
 kʰ	aspirated voiceless velar stop consonant		+	kʼ							
+kʷ	labialized voiceless velar stop consonant		+	kw							
 kʷʰ	labialized aspirated voiceless velar stop consonant		+	kʼw							
 l	voiced alveolar lateral approximant consonant		+	l							
 l̩	syllabic voiced alveolar lateral approximant consonant		+	l̩							
@@ -32,8 +39,6 @@ ts	voiceless alveolar sibilant affricate consonant		+	ts
 tsʰ	aspirated voiceless alveolar sibilant affricate consonant		+	ts’							
 tɕ	voiceless alveolo-palatal sibilant affricate consonant		+	tɕ							
 tɕʰ	aspirated voiceless alveolo-palatal sibilant affricate consonant		+	tɕ’							
-ʈʂ	voiceless retroflex sibilant affricate consonant		+	tʂ							
-ʈʂʰ	aspirated voiceless retroflex sibilant affricate consonant		+	tʂ’							
 tʃ	voiceless post-alveolar sibilant affricate consonant		+	tʃ							
 tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant		+	tʃʼ							
 tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant		+	tʃ’							
@@ -62,16 +67,12 @@ z	voiced alveolar sibilant fricative consonant		+	z
 ¹²	rising from-low to-mid-low tone		+	¹²							
 ¹³	rising from-low to-mid tone		+	¹³							
 ¹¹	flat from-low to-low tone		+	¹¹							
-ã	nasalized unrounded open front vowel		+	ã							
 æ	unrounded near-open front vowel		+	æ							
 æ̃	nasalized unrounded near-open front vowel		+	æ̃							
-õ	nasalized rounded close-mid back vowel		+	õ							
 ø	rounded close-mid front vowel		+	ø							
-ĩ	nasalized unrounded close front vowel		+	ĩ							
 ŋ	voiced velar nasal consonant		+	ŋ							
 ŋ̍	syllabic voiced velar nasal consonant		+	ŋ̍							
 œ	rounded open-mid front vowel		+	œ							
-ũ	nasalized rounded close back vowel		+	ũ							
 ȡ	voiced alveolo-palatal stop consonant		+	ȡ							
 ȴ	voiced alveolo-palatal lateral approximant consonant		+	ȴ							
 ȵ	voiced alveolo-palatal nasal consonant		+	ȵ							
@@ -79,13 +80,13 @@ ũ	nasalized rounded close back vowel		+	ũ
 ɐ	unrounded near-open central vowel		+	ɐ							
 ɑ	unrounded open back vowel		+	ɑ							
 ɑ̃	nasalized unrounded open back vowel		+	ɑ̃							
+ɑ̟	advanced unrounded open back vowel		+	ᴀ							
 ɒ	rounded open back vowel		+	ɒ							
 ɔ	rounded open-mid back vowel		+	ɔ							
 ɔ̃	nasalized rounded open-mid back vowel		+	ɔ̃							
 ɕ	voiceless alveolo-palatal sibilant fricative consonant		+	ɕ							
 ə	unrounded mid central vowel		+	ə							
 ə̃	nasalized unrounded mid central vowel		+	ə̃							
-ə˞	rhotacized unrounded mid central vowel		+	ɚ							
 ɛ	unrounded open-mid front vowel		+	ɛ							
 ɛ̃	nasalized unrounded open-mid front vowel		+	ɛ̃							
 ɜ	unrounded open-mid central vowel		+	ɜ							
@@ -99,6 +100,8 @@ ũ	nasalized rounded close back vowel		+	ũ
 ʂ	voiceless retroflex sibilant fricative consonant		+	ʂ							
 ʃ	voiceless post-alveolar sibilant fricative consonant		+	ʃ							
 ʅ	unrounded close with-friction central vowel		+	ʅ							
+ʈʂ	voiceless retroflex sibilant affricate consonant		+	tʂ							
+ʈʂʰ	aspirated voiceless retroflex sibilant affricate consonant		+	tʂ’							
 ʊ	rounded near-close near-back vowel		+	ʊ							
 ʊ̃	nasalized rounded near-close near-back vowel		+	ʊ̃							
 ʏ	rounded near-close near-front vowel		+	ʏ							
@@ -106,9 +109,6 @@ ũ	nasalized rounded close back vowel		+	ũ
 ʔ	voiceless glottal stop consonant		+	ʔ							
 ʮ	rounded close with-friction back vowel		+	ʮ							
 β	voiced bilabial fricative consonant		+	β							
-ɑ̟	advanced unrounded open back vowel		+	ᴀ							
-e̞	unrounded mid front vowel		+	ᴇ							
-ẽ	nasalized unrounded close-mid front vowel		+	ẽ							
 ⁰	short neutral tone		+	⁰							
 ⁴	short from-mid-high tone		+	⁴							
 ⁴²	falling from-mid-high to-mid-low tone		+	⁴²							
