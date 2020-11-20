@@ -4,7 +4,7 @@
 
 Contributing transcription systems is currently still a bit complicated, involving the manual editing of several files which then need to be tested with the help of the Python library. If you wish to contribute to the CLTS project and want to add a transcription system, we ask you to get in contact with us, and we will then add detailed descriptions of what you need to do.
 
-## Contributing Transcriptino Data
+## Contributing Transcription Data
 
 Contributing transcription data is largely facilitated with a new workflow which we have set up now. Thus, if you want to contribute, you need to provide a file with the graphemes in the transcription data system. This file should be placed in the folder `sources/TS/graphemes.tsv`. `TS` here refers to the identifier you use for the transcription data (e.g., `phoible`), which usually is lowercase containing only alphabetic characters.
 
@@ -26,7 +26,7 @@ Once this has been done, you can replace the file `graphemes.tsv` with the manua
 $ cp TS/graphemes.mapped.tsv graphemes.tsv
 ```
 
-Now, you should add the bibliographic information of your new transcription data system to CLTS. Please prepare them in BibTeX and add them to the file `data/sources.bib`. 
+Now, you should add the bibliographic information of your new transcription data system to CLTS. Please prepare them in BibTeX and add them to the file `data/references.bib`. 
 
 As a last point, you should provide the description for the dataset in the file `sources/index.tsv`, where you add the NAME (the name of the folder, that is, the "identifier"), a short description (field DESCRIPTION), references (field REFS) as bibtex-keys separated by a comma, the type (TYPE), which should be `td`, and (if this comes along with the data) the template for the resolution of the URL, where the datapoint can be found (URITEMPLATE). 
 
@@ -38,7 +38,7 @@ For this pull request, you first branch the data:
 $ git branch TS
 $ git checkout TS
 $ git add sources/TS/graphemes.tsv
-$ git add data/sources.bib
+$ git add data/references.bib
 $ git add sources/index.tsv
 $ git commit -m "add TS"
 $ git push --set-upstream TS origin/TS
