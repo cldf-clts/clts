@@ -1,17 +1,4 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
-<NA>	<NA>		+	a̟ː						2	
-<NA>	<NA>		+	ǁʼ						1	
-<NA>	<NA>		+	ɭ̥						2	
-<NA>	<NA>		+	ħh						1	
-<NA>	<NA>		+	ɟʑ						1	
-<NA>	<NA>		+	jẽ						1	
-<NA>	<NA>		+	khl						1	
-<NA>	<NA>		+	ʦʼ						1	
-<NA>	<NA>		+	ʦ’						3	
-<NA>	<NA>		+	t̪θ̪ʼ						1	
-<NA>	<NA>		+	ð̪ʼ						1	
-<NA>	<NA>		+	ṭʼ						1	
-<NA>	<NA>		+	θ̪ʼ						1	
 <NA>	<NA>		+	-						1	
 <NA>	<NA>		+	K						1	
 <NA>	<NA>		+	L						3	
@@ -29,6 +16,7 @@ BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMA
 <NA>	<NA>		+	h2						1	
 <NA>	<NA>		+	h3						1	
 <NA>	<NA>		+	hy						1	
+<NA>	<NA>		+	jẽ						1	
 <NA>	<NA>		+	khr						1	
 <NA>	<NA>		+	kr						1	
 <NA>	<NA>		+	ky						1	
@@ -64,8 +52,12 @@ BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMA
 <NA>	<NA>		+	wõ						1	
 <NA>	<NA>		+	wɑ						1	
 <NA>	<NA>		+	wəj						1	
+<NA>	<NA>		+	ð̪ʼ						1	
+<NA>	<NA>		+	ħh						1	
 <NA>	<NA>		+	ř						1	
+<NA>	<NA>		+	ǁʼ						1	
 <NA>	<NA>		+	ǂ͇						1	
+<NA>	<NA>		+	ɟʑ						1	
 <NA>	<NA>		+	ɤɰ						2	
 a	unrounded open front vowel		+	a						178	
 ae	from unrounded open front to unrounded close-mid front diphthong	+	+	ae						1	
@@ -75,6 +67,7 @@ au	from unrounded open front to rounded close back diphthong	+	+	au						7
 au̯	from unrounded open front to non-syllabic rounded close back diphthong	+	+	aw						2	
 aɯ	from unrounded open front to unrounded close back diphthong	+	+	aɯ						1	
 aː	long unrounded open front vowel		+	aː						83	
+aː	long unrounded open front vowel		+	a̟ː						2	
 aːi	from long unrounded open front to unrounded close front diphthong	+	+	aːi						1	
 aːi̯	from long unrounded open front to non-syllabic unrounded close front diphthong	+	+	aːj						1	
 aːu	from long unrounded open front to rounded close back diphthong	+	+	aːu						1	
@@ -237,6 +230,7 @@ kˀ	glottalized voiceless velar stop consonant	+	+	kˀ						9
 kː	long voiceless velar stop consonant		+	kk						1	
 kː	long voiceless velar stop consonant		+	kː						16	
 kˡ	with-lateral-release voiceless velar stop consonant	+	+	kl						1	
+kˡʰ	aspirated with-lateral-release voiceless velar stop consonant	+	+	khl						1	
 kˤ	pharyngealized voiceless velar stop consonant	+	+	kˁ						1	
 k̰	creaky voiceless velar stop consonant	+	+	k̰						1	
 k’ʲ	palatalized voiceless velar ejective stop consonant	+	+	kʲʼ						1	
@@ -345,6 +339,8 @@ tsʲ	palatalized voiceless alveolar sibilant affricate consonant		+	tsʲ						6
 tsʲ	palatalized voiceless alveolar sibilant affricate consonant		+	t͡sʲ						1	
 tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	tsʼ						13	
 tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	t͡sʼ						2	
+tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	ʦʼ						1	
+tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	ʦ’						3	
 tsˀ	glottalized voiceless alveolar sibilant affricate consonant	+	+	tsˀ						4	
 tsː	long voiceless alveolar sibilant affricate consonant		+	tsː						2	
 tsː	long voiceless alveolar sibilant affricate consonant		+	ʦː						5	
@@ -407,6 +403,7 @@ t̰	creaky voiceless alveolar stop consonant	+	+	t̰						1
 t̰ʲ	palatalized creaky voiceless alveolar stop consonant	+	+	t̰j						1	
 t̻	voiceless laminal alveolar stop consonant	+	+	t̻						1	
 tθʰ	aspirated voiceless dental affricate consonant	+	+	tθʰ						1	
+tθ’	voiceless dental ejective affricate consonant	+	+	t̪θ̪ʼ						1	
 t’ʲ	palatalized voiceless alveolar ejective stop consonant	+	+	tʲʼ						3	
 t’ː	long voiceless alveolar ejective stop consonant	+	+	tʼː						1	
 t’ː	long voiceless alveolar ejective stop consonant	+	+	t’ː						1	
@@ -596,6 +593,7 @@ z’	voiced alveolar ejective sibilant fricative consonant	+	+	zʼ						1
 ɬˤ	pharyngealized voiceless alveolar lateral fricative consonant	+	+	ɬˤ						1	
 ɬ’ː	long voiceless alveolar ejective lateral fricative consonant	+	+	ɬ’ː						1	
 ɭ	voiced retroflex lateral approximant consonant		+	ɭ						10	
+ɭ	voiced retroflex lateral approximant consonant		+	ɭ̥						2	
 ɮ	voiced alveolar lateral fricative consonant		+	ɮ						2	
 ɯ	unrounded close back vowel		+	ɯ						7	
 ɯə	from unrounded close back to unrounded mid central diphthong	+	+	ɯə						2	
@@ -654,6 +652,7 @@ z’	voiced alveolar ejective sibilant fricative consonant	+	+	zʼ						1
 ʈˀ	glottalized voiceless retroflex stop consonant	+	+	ʈˀ						1	
 ʈː	long voiceless retroflex stop consonant	+	+	ʈː						1	
 ʈ’	voiceless retroflex ejective stop consonant	+	+	ʈʼ						3	
+ʈ’	voiceless retroflex ejective stop consonant	+	+	ṭʼ						1	
 ʉ	rounded close central vowel		+	ʉ						2	
 ʊ	rounded near-close near-back vowel		+	ʊ						13	
 ʊ̃	nasalized rounded near-close near-back vowel		+	ʊ̃						1	
@@ -737,6 +736,7 @@ z’	voiced alveolar ejective sibilant fricative consonant	+	+	zʼ						1
 θˤ	pharyngealized voiceless dental fricative consonant	+	+	θˁ						2	
 θˤː	pharyngealized long voiceless dental fricative consonant	+	+	θˁː						1	
 θ’	voiceless dental ejective fricative consonant	+	+	θʼ						1	
+θ’	voiceless dental ejective fricative consonant	+	+	θ̪ʼ						1	
 θ’	voiceless dental ejective fricative consonant	+	+	θ’						1	
 θ’ː	long voiceless dental ejective fricative consonant	+	+	θ’ː						1	
 χ	voiceless uvular fricative consonant		+	χ						20	

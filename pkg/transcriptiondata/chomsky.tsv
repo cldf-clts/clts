@@ -1,10 +1,8 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
-<NA>	<NA>		+	ǰ			voc:0,con:1,hig:1,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:1,con:0,nas:0,str:1				
-<NA>	<NA>		+	c			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:0,con:0,nas:0,str:1				
-<NA>	<NA>		+	č			voc:0,con:1,hig:1,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:0,con:0,nas:0,str:1				
 aː	long unrounded open front vowel		+	ā			voc:1,con:0,hig:0,bac:1,low:1,ant:0,cor:0,rou:0,ten:1,voi:0,con:0,nas:0,str:0				
 b	voiced bilabial stop consonant		+	b			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:0,rou:0,ten:0,voi:1,con:0,nas:0,str:0				
 d	voiced alveolar stop consonant		+	d			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:1,con:0,nas:0,str:0				
+dʒ	voiced post-alveolar sibilant affricate consonant		+	ǰ			voc:0,con:1,hig:1,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:1,con:0,nas:0,str:1				
 e	unrounded close-mid front vowel		+	e			voc:1,con:0,hig:0,bac:0,low:0,ant:0,cor:0,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
 eː	long unrounded close-mid front vowel		+	ē			voc:1,con:0,hig:0,bac:0,low:0,ant:0,cor:0,rou:0,ten:1,voi:0,con:0,nas:0,str:0				
 f	voiceless labio-dental fricative consonant		+	f			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:0,rou:0,ten:0,voi:0,con:1,nas:0,str:1				
@@ -25,6 +23,8 @@ p	voiceless bilabial stop consonant		+	p			voc:0,con:1,hig:0,bac:0,low:0,ant:1,c
 r	voiced alveolar trill consonant		+	r			voc:1,con:1,hig:0,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:1,con:1,nas:0,str:0				
 s	voiceless alveolar sibilant fricative consonant		+	s			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:0,con:1,nas:0,str:1				
 t	voiceless alveolar stop consonant		+	y			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:0,con:0,nas:0,str:0				
+ts	voiceless alveolar sibilant affricate consonant		+	c			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:1,rou:0,ten:0,voi:0,con:0,nas:0,str:1				
+tʃ	voiceless post-alveolar sibilant affricate consonant		+	č			voc:0,con:1,hig:1,bac:0,low:0,ant:0,cor:1,rou:0,ten:0,voi:0,con:0,nas:0,str:1				
 u	rounded close back vowel		+	u			voc:1,con:0,hig:1,bac:1,low:0,ant:0,cor:0,rou:1,ten:0,voi:0,con:0,nas:0,str:0				
 uː	long rounded close back vowel		+	ū			voc:1,con:0,hig:1,bac:1,low:0,ant:0,cor:0,rou:1,ten:1,voi:0,con:0,nas:0,str:0				
 v	voiced labio-dental fricative consonant		+	v			voc:0,con:1,hig:0,bac:0,low:0,ant:1,cor:0,rou:0,ten:0,voi:1,con:1,nas:0,str:1				
