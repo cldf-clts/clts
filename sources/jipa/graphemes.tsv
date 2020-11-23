@@ -2,25 +2,21 @@ BIPA	GRAPHEME	COUNT	NOTE
 <NA>	aʊɪ	1	triphthong
 <NA>	eəɪ	1	triphthong
 <NA>	iau	2	triphthong
-<NA>	ij	1	
 <NA>	iou	1	triphthong
 <NA>	iəɪ	1	triphthong
 <NA>	jai̯	1	triphthong
 <NA>	jau̯	1	triphthong
 <NA>	jeu̯	1	triphthong
-<NA>	ks	1	
 <NA>	ld	1	
 <NA>	oəɪ	1	triphthong
 <NA>	uai	1	
 <NA>	uei	1	
-<NA>	uw	1	
 <NA>	wai̯	1	
 <NA>	wei̯	1	
 <NA>	ɔoũ	1	triphthong
 <NA>	əɪa	1	triphthong
 <NA>	əʁ̞	1	
 <NA>	əʊɪ	1	triphthong
-<NA>	ᵗnʷ	1	
 n	N	1	
 ⁿb	Nb	2	
 ⁿd	Nd	2	
@@ -128,7 +124,7 @@ dʑː	dːʑ	1
 dˤ	dˤ	2	
 dˤː	dˤː	1	
 dʑ	d̠ʑ	2	
-dʑʰ	d̠ʑʱ	2	
+dʑʱ	d̠ʑʱ	2	
 dʑʱː	d̠ʑʱː	1	
 dʑː	d̠ʑː	1	
 d̥	d̥	3	
@@ -212,6 +208,7 @@ i	i	148
 iː	i:	1	
 ia	ia	6	
 ie	ie	4	
+iː	ij	1	
 io	io	1	
 iu	iu	5	
 iu̯	iw	1	
@@ -259,6 +256,7 @@ kː	kk	1
 kʰː	kkʰ	1	
 kˡ	kl	1	
 kp	kp	9	
+kˢ	ks	1	
 kx	kx	1	
 kⁿ	kŋ	1	
 kⁿʷ	kŋʷ	1	
@@ -518,6 +516,7 @@ ui	ui	7
 ui̯	ui̯	1	
 ui̯	uj	2	
 uo	uo	2	
+u̯ː	uw	1	
 uɐ	uɐ	1	
 uɑ	uɑ	1	
 uə	uə	4	
@@ -953,6 +952,7 @@ lˠ	ɫ	2
 χʷː	χʷː	1	
 χː	χː	1	
 tⁿ	ᵗn	1	
+tⁿʷ	ᵗnʷ	1	
 t̪ⁿ	ᵗ̪n̪	1	
 ⁿb	ⁿb	1	
 ⁿd	ⁿd	3	

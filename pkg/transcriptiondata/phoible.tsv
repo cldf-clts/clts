@@ -1,8 +1,6 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
 <NA>	<NA>		+	aʊɪ	http://phoible.org/parameters/82D8AF27F30E0161F6D12919CD981E9A		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-,+,-:+:-:-:0:0:0:+:-,+,+:+,-,-:-,-,+:-,+,-:-:-:-:+:-:-:-:0:-:-:0			1	
-<NA>	<NA>		+	ä̠ː	http://phoible.org/parameters/BA3B88F76FDF5028CE4E92FA37C98116		0:-:+:-:+:-:+:+:0:+:-:-:-:-:-:0:0:-:-:+:0:+:-:+:-:-:0:-:-:+:-:-:-:0:-:-:0			1	
 <NA>	<NA>		+	b˞	http://phoible.org/parameters/1DF4F6FF3789E4BDE890FC9920EAB880		0:-:-:-:-:+:-:-:-:-:-:-:-:-:+:-:-:+:+:+:+:+:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
-<NA>	<NA>		+	d̪ʒ	http://phoible.org/parameters/898C8AAFDCBA6E7643CDF31BDFCCF1B3		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:+:+:+:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	eəɪ	http://phoible.org/parameters/3C2AD4A4476976CE0C77F9C25F0AE3B0		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:-,-,+:-:+,-,+:-:+,-,-:-:-:+:-:-:-:0:-:-:0			1	
 <NA>	<NA>		+	fʃ	http://phoible.org/parameters/25FEFAE6D3C0BE5A7B8DC54CF0E4F4F5		0:-:-:-:-:+:-:+:+:-:-:-:-:-:+,-:-:+:-,+:-:+:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	iau	http://phoible.org/parameters/BCACB0B8F7A3A120379482220E809D7F		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-,-,+:+:-:-:0:0:0:+:+,-,+:-,+,-:+,-,-:-,-,+:+:-:-:+:-:-:-:0:-:-:0			4	
@@ -32,19 +30,14 @@ BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMA
 <NA>	<NA>		+	l̠˞	http://phoible.org/parameters/08A9EFEDDDDE024102936AE85730835B		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:+:+:+:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			2	
 <NA>	<NA>		+	m̥m	http://phoible.org/parameters/DF5C83B743B334AE6BFEC865725E8822		0:-:-:-:-:+:+:-:0:-:-:-:+:-:+:-:-:-:0:0:0:-:0:0:0:0:0:0:0:-,+:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	oəɪ	http://phoible.org/parameters/F73A1AF6C3484AF4C8093B5787023EE0		0:-:+:-:-:-:+:+:0:+:-:-:-:-:+,-,-:+:-:-:0:0:0:+:-,-,+:-:-,-,+:+,-,-:+,-,-:-:-:+:-:-:-:0:-:-:0			1	
-<NA>	<NA>		+	psʷ	http://phoible.org/parameters/48A49CD6773196B37BDC4D3151C28695		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-:+:-,+:-:-,+:+:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	pʃʰ	http://phoible.org/parameters/77A6E615B559575F079FED0B9C0885EF		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-:+,-:-:-:-,+:-:+:+:-:0:0:0:0:0:0:0:-:-:-,+:-:-:-:-:-			1	
 <NA>	<NA>		+	pʃ’	http://phoible.org/parameters/22ECB79879CC987E91DC4F9D7726ACE6		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-:+,-:-:-:-,+:-:+:+:-:0:0:0:0:0:0:0:-:-:-:-,+:-:-,+:-:-			1	
 <NA>	<NA>		+	p˞	http://phoible.org/parameters/E055C6F1D175A8D10B988BA3DE923EDD		0:-:-:-:-:+:-:-:-:-:-:-:-:-:+:-:-:+:+:+:+:+:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	p˞ʰ	http://phoible.org/parameters/AF2D86947505E4DFA8481E81025CAC4D		0:-:-:-:-:+:-:-:-:-:-:-:-:-:+:-:-:+:+:+:+:+:0:0:0:0:0:0:0:-:-:+:-:-:-:-:-			1	
 <NA>	<NA>		+	qm	http://phoible.org/parameters/EC86ECBCDC817D97AAE682C71B1EBEFB		0:-:-:-:-:+:-,+:-:-:-:-:-:-,+:-:-,+:-:-:-:0:0:0:+,-:-:-:-:+:0:0:0:-,+:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	qn	http://phoible.org/parameters/8FD6F64DAA1EDB0AECFBE8955F8BD3E6		0:-:-:-:-:+:-,+:-:-:-:-:-:-,+:-:-:0:0:-,+:+:-:-:+,-:-:-:-:+:0:0:0:-,+:-:-:-:-:-:-:-			1	
-<NA>	<NA>		+	r̠̙	http://phoible.org/parameters/90B603E4318622E87205348FB3569BCD		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:-:+:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
-<NA>	<NA>		+	r̪͓|r͓	http://phoible.org/parameters/3F0D3E77C40D6EE79A64588EA00D534B		0:-:-:-:-:+:+:+:+:+:-:+:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	st	http://phoible.org/parameters/951AD70B77F1669A992C78AFAE34EB43		0:-:-:-:-:+:-:+,-:+,-:-:-:-:-:-:-:0:0:+:+:-:+,-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
-<NA>	<NA>		+	s̙ˤ	http://phoible.org/parameters/FA5DBE139C3FBA0383384C79A66623EF		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:+:-:0:0:0:0:0:+:-:-:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	s̻θ	http://phoible.org/parameters/14F8F686B13B38C9A3039543BA8D811A		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:+,-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
-<NA>	<NA>		+	t̪ˠʰ|tˠʰ	http://phoible.org/parameters/782FD89EC2FE2C4103F3842E130902EA		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:0:-:+:+:-:-:-:0:0:0:-:-:+:-:-:-:-:-			1	
 <NA>	<NA>		+	uai	http://phoible.org/parameters/5004EE6CA44A4954BF0272E5961EEF40		0:-:+:-:-:-:+:+:0:+:-:-:-:-:+,-,-:+:-:-:0:0:0:+:+,-,+:-,+,-:-,-,+:+,-,-:+:-:-:+:-:-:-:0:-:-:0			4	
 <NA>	<NA>		+	uei	http://phoible.org/parameters/E13708CF8615C7578CC53E33EADAA4DC		0:-:+:-:-:-:+:+:0:+:-:-:-:-:+,-,-:+:-:-:0:0:0:+:+,-,+:-:-,+,+:+,-,-:+:-:-:+:-:-:-:0:-:-:0			2	
 <NA>	<NA>		+	uei̯	http://phoible.org/parameters/CA651A48FD3802DAF4579064C55A2B9D		0:-:+,+,-:-:-:-:+:+:0:+:-:-:-:-:+,-,-:+:-:-:0:0:0:+:+,-,+:-:-,+,+:+,-,-:+:-:-:+:-:-:-:0:-:-:0			1	
@@ -61,27 +54,19 @@ BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMA
 <NA>	<NA>		+	u̯ɛi̯	http://phoible.org/parameters/30BE3EE4262E7BF09BA95502DBA84F17		0:-:-,+,-:-:-:-:+:+:0:+:-:-:-:-:+,-,-:+:-:-:0:0:0:+:+,-,+:-:-,+,+:+,-,-:+,-,+:-:-:+:-:-:-:0:-:-:0			1	
 <NA>	<NA>		+	w˞	http://phoible.org/parameters/A32E6C43244DD13A8D0CC5BEE2D89D11		0:-:-:-:-:-:+:+:0:+:-:-:-:-:+:+:-:+:+:+:+:+:+:-:-:+:+:0:0:+:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	xk	http://phoible.org/parameters/904F3246ED9F562C490B95481F909475		0:-:-:-:-:+:-:+,-:+,-:-:-:-:-:-:-:0:0:-:0:0:0:+:+:-:-:-:0:0:0:-:-:-:-:-:-:-:-			4	
-<NA>	<NA>		+	xʀ̥	http://phoible.org/parameters/A6CCDCC2F3767D51F73B7B1FFF1FBF30		0:-:-:-:-:+:-,+:+:+:-,+:-:-,+:-:-:-:0:0:-:0:0:0:+:+,-:-:-:-,+:0:0:0:-:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	yia	http://phoible.org/parameters/2D48611F43D992B422D5C4FC4DC9355A		0:-:+:-:-:-:+:+:0:+:-:-:-:-:+,-,-:+:-:-:0:0:0:+:+,+,-:-,-,+:+,+,-:-:+:-:-:+:-:-:-:0:-:-:0			1	
-<NA>	<NA>		+	z̪͇|z͇	http://phoible.org/parameters/D527DAF6323303BE140A90D8A316C227		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			2	
-<NA>	<NA>		+	ð̪̙ˤ	http://phoible.org/parameters/ABAA2DC11B2965044573061C164E7FE2		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
-<NA>	<NA>		+	ð̪̺	http://phoible.org/parameters/D8CE4639F79D55AC40A3EA3754ECD359		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			6	
-<NA>	<NA>		+	ɖr̠͓	http://phoible.org/parameters/6C671AC0CAE93CB2AEA291E2B245A6C6		0:-:-:-:-:+:-,+:-,+:-,+:-,+:-:-,+:-:-:-:0:0:+:-:-,+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	ɗʒ	http://phoible.org/parameters/D216058210CA696247766A4A2A3585AA		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-:-:0:0:+:+,-:-,+:-,+:-:0:0:0:0:0:0:0:+:-:-:-:-:-:+,-:-			2	
 <NA>	<NA>		+	əɪa	http://phoible.org/parameters/78BE82124738D443CDE4C4E8C55BFF1D		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:-,+,-:-,-,+:-,+,-:-:-:-:-:+:-:-:-:0:-:-:0			1	
 <NA>	<NA>		+	əʊɪ	http://phoible.org/parameters/284071A821AF2D3B3F75276D17480EC1		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-,+,-:+:-:-:0:0:0:+:-,+,+:-:-,-,+:-,+,-:-:-:-:+:-:-:-:0:-:-:0			1	
 <NA>	<NA>		+	ɡv	http://phoible.org/parameters/94EE78E681718BD5174AC4A3A2B2AD5A		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-:-,+:-:+:-:0:0:0:+,-:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			2	
 <NA>	<NA>		+	ɡ˞	http://phoible.org/parameters/5F19D853841A814253CA2A4AB3566526		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:+:+:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	ɣv	http://phoible.org/parameters/1BBF91A91DA050D832549815F32D0A3F		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-,+:-:+:-:0:0:0:+,-:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			1	
-<NA>	<NA>		+	ɫ̪	http://phoible.org/parameters/A3A19903330AD9E40B127ACDFDB5E652		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:+:-:+:-:-:-:+:0:0:0:+:-:-:-:-:-:-:-			8	
 <NA>	<NA>		+	ɬl	http://phoible.org/parameters/A36FEEB3CD5FD8CEE0A9E93254A73665		0:-:-:-:-:+:-,+:+:+:-,+:-:-:-:+:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:-,+:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	ɬʟ͓̥	http://phoible.org/parameters/103B3F7DA305AF46BB0F722BC2789812		0:-:-:-:-:+:-,+:+:+:-,+:-:-:-:+:-:0:0:+,-:+:-:-:-,+:+:-:-:-:0:0:0:-:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	ʀʁ	http://phoible.org/parameters/085FFE7382944A3DE6F3049C5048DE4B		0:-:-:-:-:+:+,-:+:+:+,-:-:+,-:-:-:-:0:0:-:0:0:0:+:-:-:-:+:0:0:0:+:-:-:-:-:-:-:-			2	
 <NA>	<NA>		+	ʃt	http://phoible.org/parameters/DD8048EC09B16F4A5C249D342A62E280		0:-:-:-:-:+:-:+,-:+,-:-:-:-:-:-:-:0:0:+:-,+:+,-:+,-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 <NA>	<NA>		+	ʊ̯aɪ̯	http://phoible.org/parameters/3AEFA83C142620AA89D29866683F8E42		0:-:-,+,-:-:-:-:+:+:0:+:-:-:-:-:+,-,-:+:-:-:0:0:0:+:+,-,+:-,+,-:-,-,+:+,-,-:-:-:-:+:-:-:-:0:-:-:0			1	
 <NA>	<NA>		+	ʍw	http://phoible.org/parameters/22474FC6A03DF291DAEBFE09E1579AB3		0:-:-:-:-:-:-,+:+:+:-,+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:-:+:+:0:0:-,+:-:+,-:-:-:-:-:-			1	
-<NA>	<NA>		+	ˀt̪ɬ	http://phoible.org/parameters/CB14463AA9E9CEAB109C0E7772DFECC0		0:-:-:-:-:+:-:0,-,+:0,-,+:-:-:-:-:0,-,+:-:0:0:+:+:0,+,-:-:-:0:0:0:0:0:0:0:-:-:-:+,-,-:-:-:-:-			1	
-<NA>	<NA>		+	ˀy	http://phoible.org/parameters/8F8E09791B7EE161F9F7B5942B28E401		0:-:+:-:-:-:+:+:0:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:+:-:+:-:-:+:-:-:+,-:0:-:-:0			1	
 <NA>	<NA>		+	˥˧̰	http://phoible.org/parameters/ECFE918D274D0F2288C457A59616B4E2		#ERROR!			1	
 <NA>	<NA>		+	˥˩˩˥	http://phoible.org/parameters/B5D7570AB6F97E86267F82BF47BEE82B		#ERROR!			1	
 <NA>	<NA>		+	˥̰	http://phoible.org/parameters/91E25A72DACF30BA06438AFE223E48EB		#ERROR!			2	
@@ -95,17 +80,16 @@ BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMA
 <NA>	<NA>		+	˧˩̰	http://phoible.org/parameters/E011FDAB9EA6316743EEA2DB343D2502		#ERROR!			1	
 <NA>	<NA>		+	˨˩̤	http://phoible.org/parameters/999DED248AE06E14169BCC91CF4C3BA7		#ERROR!			1	
 <NA>	<NA>		+	˩̰	http://phoible.org/parameters/DC360FCD2919CADF7D326367357FE34F		#ERROR!			2	
-<NA>	<NA>		+	ᴅ̪̰	http://phoible.org/parameters/C33695F04BEF22A1AA58BA20CA425634		0:-:-:-:-:+:+:+:0:+:+:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:+:-:-:-:-			1	
 <NA>	<NA>		+	↓	http://phoible.org/parameters/EB150ACC8B614BECD70C57A73E29A158		#ERROR!			5	
 <NA>	<NA>		+	↓˦˨	http://phoible.org/parameters/187321E24435D8B798F59F7B5FB4BF53		#ERROR!			1	
 <NA>	<NA>		+	↓˦↓˦	http://phoible.org/parameters/3F0BA824C7276C5E286ECB25EC1D01E6		#ERROR!			1	
-ɴ	voiced uvular nasal consonant		+	N	http://phoible.org/parameters/95996CAB019505C034CED3D0966D8E36		0:-:-:-:-:+:+:-:0:-:-:-:+:-:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			10	
+n	voiced alveolar nasal consonant		+	N	http://phoible.org/parameters/95996CAB019505C034CED3D0966D8E36		0:-:-:-:-:+:+:-:0:-:-:-:+:-:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			10	
 r	voiced alveolar trill consonant		+	R	http://phoible.org/parameters/60B8781E92BAA0E67F7D076695C7FC05		0:-:-:-:-:+:+:+:0:+:0:0:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			10	
 rʲ	palatalized voiced alveolar trill consonant		+	Rʲ	http://phoible.org/parameters/B2D4EE300E7B664F435E0527562F2C1D		0:-:-:-:-:+:+:+:0:+:0:0:-:-:-:0:0:+:+:-:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			1	
 r̪	voiced dental trill consonant		+	R̪	http://phoible.org/parameters/9366C5ACC2289234C5F22E7520B7237E		0:-:-:-:-:+:+:+:0:+:0:0:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
-ʀ	voiced uvular trill consonant		+	R̪|R	http://phoible.org/parameters/DC20C7A23ECD8CC6769DC535D7043519		0:-:-:-:-:+:+:+:0:+:0:0:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			36	
-ʀ̥	devoiced voiced uvular trill consonant		+	R̪̥|R̥	http://phoible.org/parameters/848799B9B0C84C8E03CB4177298A1145		0:-:-:-:-:+:+:+:0:+:0:0:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
-ʀ̰	creaky voiced uvular trill consonant	+	+	R̪̰|R̰	http://phoible.org/parameters/7F25062D4D0C2A59AA39A4095D6B8ACA		0:-:-:-:-:+:+:+:0:+:0:0:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:+:-:-:-:-			3	
+r	voiced alveolar trill consonant		+	R̪|R	http://phoible.org/parameters/DC20C7A23ECD8CC6769DC535D7043519		0:-:-:-:-:+:+:+:0:+:0:0:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			36	
+r̥	devoiced voiced alveolar trill consonant		+	R̪̥|R̥	http://phoible.org/parameters/848799B9B0C84C8E03CB4177298A1145		0:-:-:-:-:+:+:+:0:+:0:0:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
+r̰	creaky voiced alveolar trill consonant	+	+	R̪̰|R̰	http://phoible.org/parameters/7F25062D4D0C2A59AA39A4095D6B8ACA		0:-:-:-:-:+:+:+:0:+:0:0:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:+:-:-:-:-			3	
 a	unrounded open front vowel		+	a	http://phoible.org/parameters/72FB536ACFF408163656BBCDAFCAC6F6		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:-:+:-:-:0:-:-:+:-:-:-:0:-:-:0			2600	
 ae	from unrounded open front to unrounded close-mid front diphthong	+	+	ae	http://phoible.org/parameters/3BF061602328921B3DB56E3BE972EDF7		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:-:+,-:-,+:-:+:-:-:+:-:-:-:0:-:-:0			8	
 ae̞	from unrounded open front to unrounded mid front diphthong	+	+	ae̞	http://phoible.org/parameters/446EC50F4DE4491624BF56ECAA33A4AA		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:-:+,-:-,+:-:0:-:-:+:-:-:-:0:-:-:0			4	
@@ -196,6 +180,7 @@ a̙ː̟	long advanced retracted-tongue-root unrounded open front vowel	+	+	a̟̙
 a̠	retracted unrounded open front vowel	+	+	a̠	http://phoible.org/parameters/24619233E8E34DC1A19684B3EB99816D		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:-:+:0:+:-:+:-:-:0:-:-:+:-:-:-:0:-:-:0			1	
 aː̠	long retracted unrounded open front vowel	+	+	a̠ː	http://phoible.org/parameters/89AFE454C977356224318AB2F6EFB95E		0:-:+:-:+:-:+:+:0:+:-:-:-:-:-:0:0:-:-:+:0:+:-:+:-:-:0:-:-:+:-:-:-:0:-:-:0			1	
 ä	centralized unrounded open front vowel		+	ä̠	http://phoible.org/parameters/497A34A5051895A2B68F077D5D250DB6		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:-:+:0:+:-:+:-:-:0:-:-:+:-:-:-:0:-:-:0			4	
+äː	long centralized unrounded open front vowel		+	ä̠ː	http://phoible.org/parameters/BA3B88F76FDF5028CE4E92FA37C98116		0:-:+:-:+:-:+:+:0:+:-:-:-:-:-:0:0:-:-:+:0:+:-:+:-:-:0:-:-:+:-:-:-:0:-:-:0			1	
 a̤	breathy unrounded open front vowel	+	+	a̤	http://phoible.org/parameters/DE727911EDC074239FD740BFC5561155		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:-:+:-:-:0:-:-:+:-:+:-:0:-:-:0			22	
 a̤i̤	from breathy unrounded open front to breathy unrounded close front diphthong	+	+	a̤i̤	http://phoible.org/parameters/967B770D5C370C407E933C77853F8D7E		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:-,+:+,-:-,+:-:+:-:-:+:-:+:-:0:-:-:0			1	
 a̤ṳ	from breathy unrounded open front to breathy rounded close back diphthong	+	+	a̤ṳ	http://phoible.org/parameters/AA61DB6C7F47C4E38F55D0A2B7B32116		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-,+:+:-:-:0:0:0:+:-,+:+,-:-:-,+:+:-:-:+:-:+:-:0:-:-:0			1	
@@ -318,7 +303,7 @@ dː	long voiced alveolar stop consonant		+	dː	http://phoible.org/parameters/AF5
 dˠ	velarized voiced alveolar stop consonant	+	+	dˠ	http://phoible.org/parameters/E8F4447CD657DE544155040944C20980		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:+:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			3	
 dˤ	pharyngealized voiced alveolar stop consonant		+	dˤ	http://phoible.org/parameters/1FCBA2F74274FF6CBC8636C9BAB66A2F		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			7	
 dˤː	pharyngealized long voiced alveolar stop consonant	+	+	dˤː	http://phoible.org/parameters/627DB1FA7EE61BF18AAE10574068625A		0:-:-:-:+:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			4	
-d̙	voiced retracted-tongue-root alveolar stop consonant		+	d̙ˤ	http://phoible.org/parameters/3D7159B07910D0F9E70086E4D0C87402		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
+d̙ˤ	pharyngealized voiced retracted-tongue-root alveolar stop consonant	+	+	d̙ˤ	http://phoible.org/parameters/3D7159B07910D0F9E70086E4D0C87402		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
 d̞	lowered voiced alveolar stop consonant	+	+	d̞	http://phoible.org/parameters/875A00321D0493AACFB6B3D6EDFDFC6A		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 d̟	advanced voiced alveolar stop consonant	+	+	d̟	http://phoible.org/parameters/5C8432AF82C7C8BC9B884164F2920A01		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 dz̟	advanced voiced alveolar sibilant affricate consonant	+	+	d̟z̟	http://phoible.org/parameters/41BC7FBD287D030798993873E084E55D		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:+:-:+:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
@@ -381,6 +366,7 @@ dð	voiced dental affricate consonant		+	d̪ð	http://phoible.org/parameters/CB1
 dð	voiced dental affricate consonant		+	d̪ð̪	http://phoible.org/parameters/C20939F4B08BCC96CDF232BCF763B8AC		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 d̪ʱ	breathy voiced dental stop consonant		+	d̪ɦ	http://phoible.org/parameters/5E18B4BE8652D5C5B9174E43C938B00D		0:-:-:-:-:+,-:-:-,+:-,+:-:-:-:-:-:-:0:0:+,-:+:+:-:-:0:0:0:0:0:0:0:+:-:-,+:-:-:-:-:-			1	
 dɮ	voiced alveolar lateral affricate consonant		+	d̪ɮ̪|dɮ	http://phoible.org/parameters/D8F39CF2E28EFFBF45938DB3DAC7200F		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-,+:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			5	
+dʒ	voiced post-alveolar sibilant affricate consonant		+	d̪ʒ	http://phoible.org/parameters/898C8AAFDCBA6E7643CDF31BDFCCF1B3		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:+:+:+:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 d̪ʱ	breathy voiced dental stop consonant		+	d̪ʰ	http://phoible.org/parameters/A2F4650749D687C67A275B0032D65B44		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:-:-:+:-:-:-:-:-			10	
 d̪ʱ	breathy voiced dental stop consonant		+	d̪ʱ	http://phoible.org/parameters/C22BDDEEBC4121FE4B365062429ACB88		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:+:-:-:-:-:-			13	
 d̪ʱː	long breathy voiced dental stop consonant		+	d̪ʱː	http://phoible.org/parameters/91965454A915F6F9556B08D082D81F5E		0:-:-:-:+:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:+:-:-:-:-:-			1	
@@ -424,7 +410,7 @@ dʒ̻	voiced laminal post-alveolar sibilant affricate consonant	+	+	d̻ʒ̻	http
 d̻ʲ	palatalized voiced laminal alveolar stop consonant	+	+	d̻ʲ	http://phoible.org/parameters/5325B0E86EBD3B07DA9C004A446D55B0		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			1	
 d̻ː	long voiced laminal alveolar stop consonant	+	+	d̻ː	http://phoible.org/parameters/7FCBD172980A3EF859A47231D28990F0		0:-:-:-:+:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 d̻ʱ	breathy voiced laminal alveolar stop consonant	+	+	d̻̤ʱ	http://phoible.org/parameters/215333729B71CB237B3C5EE04BBBA095		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:+:-:-:-:-:-			2	
-dð͇	voiced alveolar affricate consonant		+	d͇z͇	http://phoible.org/parameters/E0F108FC32CE2ED77AA31FD2110A6247		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
+dð̠	retracted voiced dental affricate consonant	+	+	d͇z͇	http://phoible.org/parameters/E0F108FC32CE2ED77AA31FD2110A6247		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 d͈	strong voiced alveolar stop consonant	+	+	d͈	http://phoible.org/parameters/4AC4A83643516025A955EEBAAE9580B1		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:+:-:-:-			1	
 d͈ː	strong long voiced alveolar stop consonant	+	+	d͈ː	http://phoible.org/parameters/080B3E4FA5517B996B6B38F87C7412C0		0:-:-:-:+:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:+:-:-:-			1	
 dᶣ	labio-palatalized voiced alveolar stop consonant	+	+	dᶣ	http://phoible.org/parameters/68EA491E6DBF67E42845B601E0C7F978		0:-:-:-:-:+:-:-:-:-:-:-:-:-:+:+:-:+:+:-:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			1	
@@ -827,7 +813,7 @@ l̪ʲ	palatalized voiced dental lateral approximant consonant		+	l̪ʲ	http://ph
 lʲ	palatalized voiced alveolar lateral approximant consonant		+	l̪ʲ|lʲ	http://phoible.org/parameters/0DD5FF3C2DB4DCE11F81050CB7764957		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:0:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			6	
 l̪ʷ	labialized voiced dental lateral approximant consonant	+	+	l̪ʷ	http://phoible.org/parameters/FD4FFEFCB4871BD76475A90E25A2D5DC		0:-:-:-:-:+:+:+:0:+:-:-:-:+:+:+:-:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			11	
 l̪ː	long voiced dental lateral approximant consonant		+	l̪ː	http://phoible.org/parameters/67A1F310AC756F23AB86132B6D23E634		0:-:-:-:+:+:+:+:0:+:-:-:-:+:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			4	
-l̪ˠ	velarized voiced dental lateral approximant consonant	+	+	l̪ˠ	http://phoible.org/parameters/3C16A859FAD9657ECB6DB6589B07A591		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:+:-:+:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			10	
+l̪ˠ	velarized voiced dental lateral approximant consonant		+	l̪ˠ	http://phoible.org/parameters/3C16A859FAD9657ECB6DB6589B07A591		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:+:-:+:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			10	
 lˠ	velarized voiced alveolar lateral approximant consonant		+	l̪ˠ|lˠ	http://phoible.org/parameters/CAF5582E3227F6C5B03C5F5C382F273E		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:0:-:+:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			5	
 l̪ˤ	pharyngealized voiced dental lateral approximant consonant	+	+	l̪ˤ	http://phoible.org/parameters/657927591D7E6185B6BCE4C3AA68423F		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:+:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
 lˤ	pharyngealized voiced alveolar lateral approximant consonant	+	+	l̪ˤ|lˤ	http://phoible.org/parameters/3ED8F4CF5BC6DD3345D5776995115208		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:0:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
@@ -1136,6 +1122,7 @@ pkʰ	aspirated voiceless bilabial-and-velar stop consonant	+	+	pkʰ	http://phoib
 pⁿ	with-nasal-release voiceless bilabial stop consonant	+	+	pm	http://phoible.org/parameters/66460B29822787A94ED860302EFB39A5		0:-:-:-:-:+:-,+:-:-:-:-:-:-,+:-:+:-:-:-:0:0:0:-:0:0:0:0:0:0:0:-,+:-:-:-:-:-:-:-			2	
 pˢ	with-sibilant-release voiceless bilabial stop consonant	+	+	ps	http://phoible.org/parameters/7D829485AF969ABACF6DE3EBDAF0F42B		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-:+,-:-:-:-,+:+:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			4	
 pˢʰ	aspirated with-sibilant-release voiceless bilabial stop consonant	+	+	psʰ	http://phoible.org/parameters/1C7D3DA060A804A9B4D87C2F452BC01F		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-:+,-:-:-:-,+:+:-:+:-:0:0:0:0:0:0:0:-:-:-,+:-:-:-:-:-			1	
+pˢʷ	labialized with-sibilant-release voiceless bilabial stop consonant	+	+	psʷ	http://phoible.org/parameters/48A49CD6773196B37BDC4D3151C28695		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-:+:-,+:-:-,+:+:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 pˢʷʰ	labialized aspirated with-sibilant-release voiceless bilabial stop consonant	+	+	psʷʰ	http://phoible.org/parameters/3DD38505C9C97AF588B2701EC6A7E6D3		0:-:-:-:-:+:-:-,+:-,+:-:-:-:-:-:+:-,+:-:-,+:+:-:+:-:0:0:0:0:0:0:0:-:-:-,+:-:-:-:-:-			1	
 pt	voiceless bilabial-and-alveolar stop consonant		+	pt	http://phoible.org/parameters/FFAB25E6C9082C2EAFEB8D56E0003BEB		0:-:-:-:-:+:-:-:-:-:-:-:-:-:+,-:-:-:-,+:+:-:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 pʱ	breathy voiceless bilabial stop consonant	+	+	pɦ	http://phoible.org/parameters/9C4154691B8A97816E9EC779652F8263		0:-:-:-:-:+,-:-:-,+:-,+:-:-:-:-:-:+,-:-:-:-:0:0:0:-:0:0:0:0:0:0:0:-,+:-:-,+:-:-:-:-:-			2	
@@ -1239,6 +1226,7 @@ r̝	raised voiced alveolar trill consonant	+	+	r̝	http://phoible.org/parameters
 r̟	advanced voiced alveolar trill consonant	+	+	r̟	http://phoible.org/parameters/E2D74701EC52AFF7A89B53FD7C7F9A19		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 r̠	retracted voiced alveolar trill consonant	+	+	r̠	http://phoible.org/parameters/3EDAF6216EB1BA30820F52754A2515EA		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:-:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			4	
 r̠ʲ	retracted palatalized voiced alveolar trill consonant	+	+	r̠ʲ	http://phoible.org/parameters/6CCFF96150EA4BDCE1366BCB41B062BB		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:-:+:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			3	
+r̠̙	retracted voiced retracted-tongue-root alveolar trill consonant		+	r̠̙	http://phoible.org/parameters/90B603E4318622E87205348FB3569BCD		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:-:+:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
 rʱ	breathy voiced alveolar trill consonant	+	+	r̤	http://phoible.org/parameters/8868DA743DAC324B4ECA38B33CAE6D69		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:+:-:-:-:-:-			6	
 r̥	devoiced voiced alveolar trill consonant		+	r̥	http://phoible.org/parameters/27619799640A03D4697D6FDDDB1F74A5		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			36	
 r̥ʲ	palatalized devoiced voiced alveolar trill consonant	+	+	r̥ʲ	http://phoible.org/parameters/D4A8CFC505A410AF736524C1C45B48B3		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:+:-:-:+:+:-:+:-:0:0:0:-:-:-:-:-:-:-:-			2	
@@ -1256,6 +1244,7 @@ rˤ	pharyngealized voiced alveolar trill consonant		+	r̪ˤ|rˤ	http://phoible.o
 r̪ˤː	pharyngealized long voiced dental trill consonant	+	+	r̪ˤː	http://phoible.org/parameters/943510DC2AACCAAD40CC09F919CD3627		0:-:-:-:+:+:+:+:0:+:-:+:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
 r̥	devoiced voiced alveolar trill consonant		+	r̪̥|r̥	http://phoible.org/parameters/1093EEF1B7AA04E7E9D5E15C8A2CD2F5		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 r̰	creaky voiced alveolar trill consonant	+	+	r̪̰|r̰	http://phoible.org/parameters/9400D6EDD32693EAC05BA86F28EC12B7		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:+:-:-:-:-			1	
+r͓	with-friction voiced alveolar trill consonant	+	+	r̪͓|r͓	http://phoible.org/parameters/3F0D3E77C40D6EE79A64588EA00D534B		0:-:-:-:-:+:+:+:+:+:-:+:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 r̰	creaky voiced alveolar trill consonant	+	+	r̰	http://phoible.org/parameters/E281D289A9BA3AE387248EA94CA530BB		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:+:-:-:-:-			1	
 r̺	voiced apical alveolar trill consonant	+	+	r̺	http://phoible.org/parameters/81345F12922D0D6811F6BE87C0593038		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			149	
 r̺ʲ	palatalized voiced apical alveolar trill consonant	+	+	r̺ʲ	http://phoible.org/parameters/ED7D7884AE68F1233D814F1EF0AFD3D8		0:-:-:-:-:+:+:+:0:+:-:+:-:-:-:0:0:+:+:-:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			1	
@@ -1280,6 +1269,7 @@ sˑ	mid-long voiceless alveolar sibilant fricative consonant	+	+	sˑ	http://phoi
 sˠ	velarized voiceless alveolar sibilant fricative consonant		+	sˠ	http://phoible.org/parameters/DF1C4BB6D5D67AF07427900EB81EF244		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:+:+:+:-:-:-:0:0:0:-:-:-:-:-:-:-:-			5	
 sˤ	pharyngealized voiceless alveolar sibilant fricative consonant	+	+	sˤ	http://phoible.org/parameters/35C386C6B0CA2D6E38CD56396F233034		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:+:-:0:0:0:0:0:+:-:-:-:-:-:-:-:-:-			10	
 sˤː	pharyngealized long voiceless alveolar sibilant fricative consonant	+	+	sˤː	http://phoible.org/parameters/4157F7923F47DFE3C4EEDAE3DBD28F37		0:-:-:-:+:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:+:-:0:0:0:0:0:+:-:-:-:-:-:-:-:-:-			4	
+s̙ˤ	glottalized voiceless retracted-tongue-root alveolar sibilant fricative consonant		+	s̙ˤ	http://phoible.org/parameters/FA5DBE139C3FBA0383384C79A66623EF		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:+:-:0:0:0:0:0:+:-:-:-:-:-:-:-:-:-			1	
 s̟	advanced voiceless alveolar sibilant fricative consonant	+	+	s̟	http://phoible.org/parameters/75015A77428704260D541ABC26D91191		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 s̠	retracted voiceless alveolar sibilant fricative consonant	+	+	s̠	http://phoible.org/parameters/5D3AB34D19BE7E319369F0328CB3CB7D		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:-:+:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			2	
 s̩	syllabic voiceless alveolar sibilant fricative consonant		+	s̩	http://phoible.org/parameters/990D66B4EB8520AB6D8AB98E61B36C14		0:-:+:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
@@ -1493,6 +1483,7 @@ t̪ː	long voiceless dental stop consonant		+	t̪ː	http://phoible.org/parameter
 tː	long voiceless alveolar stop consonant		+	t̪ː|tː	http://phoible.org/parameters/FC1180C6A74948C0E4A4D9714C6E4B4E		0:-:-:-:+:+:-:-:-:-:-:-:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			2	
 t̪ˠ	velarized voiceless dental stop consonant		+	t̪ˠ	http://phoible.org/parameters/808DF8664AD171E3E643FB21871DFDA1		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:+:+:-:-:-:0:0:0:-:-:-:-:-:-:-:-			1	
 t̪ˠʰ	velarized aspirated voiceless dental stop consonant	+	+	t̪ˠʰ	http://phoible.org/parameters/DF448B7B2AEAADF0D5F2B03DFE599F2C		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:+:+:-:-:-:0:0:0:-:-:+:-:-:-:-:-			2	
+tˠʰ	velarized aspirated voiceless alveolar stop consonant	+	+	t̪ˠʰ|tˠʰ	http://phoible.org/parameters/782FD89EC2FE2C4103F3842E130902EA		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:0:-:+:+:-:-:-:0:0:0:-:-:+:-:-:-:-:-			1	
 t̪ˤ	pharyngealized voiceless dental stop consonant		+	t̪ˤ	http://phoible.org/parameters/26C568F44E1EA71E8D37E7C8B8AF1AEE		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:+:-:-:-:-:-:-:-:-:-			6	
 tˤ	pharyngealized voiceless alveolar stop consonant		+	t̪ˤ|tˤ	http://phoible.org/parameters/7534875EFCBC77056429B6CF4D21064C		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:+:-:-:-:-:-:-:-:-:-			1	
 t̪ˤʰ	pharyngealized aspirated voiceless dental stop consonant	+	+	t̪ˤʰ	http://phoible.org/parameters/8F96F83FCDD5B62F8440BB7F54AFE417		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:+:-:-:-:+:-:-:-:-:-			1	
@@ -1662,7 +1653,7 @@ ṵ	creaky rounded close back vowel		+	ṵ	http://phoible.org/parameters/3782FB8
 ṵː	long creaky rounded close back vowel	+	+	ṵː	http://phoible.org/parameters/ED54C3F115E06055D3721C152E71B149		0:-:+:-:+:-:+:+:0:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:-:+:+:-:-:+:-:-:+:0:-:-:0			1	
 ṵ̃	nasalized creaky rounded close back vowel	+	+	ṵ̃	http://phoible.org/parameters/75EEE8084A19F33CD18C68EA3405FD73		0:-:+:-:-:-:+:+:0:+:-:-:+:-:+:+:-:-:0:0:0:+:+:-:-:+:+:-:-:+:-:-:+:0:-:-:0			4	
 u̽i	from mid-centralized rounded close back to unrounded close front diphthong	+	+	u̽i	http://phoible.org/parameters/F506A053B01C45A64BC782E64E7A8E0F		0:-:+:-:-:-:+:+:0:+:-:-:-:-:+,-:+:-:-:0:0:0:+:+:-:-,+:-:+:-:-:+:-:-:-:0:-:-:0			1	
-ʮ	rounded close with-friction back vowel		+	u͓	http://phoible.org/parameters/614F55AF2945423229D3596FCD0CED32		0:-:+:-:-:-:+:+:+:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:-:+:+:-:-:+:-:-:-:0:-:-:0			1	
+ʮ	rounded close with-friction back vowel	+	+	u͓	http://phoible.org/parameters/614F55AF2945423229D3596FCD0CED32		0:-:+:-:-:-:+:+:+:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:-:+:+:-:-:+:-:-:-:0:-:-:0			1	
 uɛ	from rounded close back to unrounded open-mid front diphthong	+	+	uᴱ	http://phoible.org/parameters/09171D8B9EDD39EF9BDB5A45F8B33A29		0:-:+:-:-:-:+:+:0:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:-:+:+:-:-:+:+:-:-:0:-:-:0			1	
 v	voiced labio-dental fricative consonant		+	v	http://phoible.org/parameters/033ACAA664F151FC56BC9595526BCFA4		0:-:-:-:-:+:-:+:+:-:-:-:-:-:+:-:+:-:0:0:0:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			816	
 vʳ	with-trilled-release voiced labio-dental fricative consonant	+	+	vɾ	http://phoible.org/parameters/6DA34B9B756EF6861D95C9EDF4AB48BB		0:-:-:-:-:+:-,+:+:+:-,+:-,+:-:-:-:+,-:-:+:-,+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
@@ -1695,6 +1686,7 @@ w̰	creaky voiced labio-velar approximant consonant	+	+	w̰	http://phoible.org/p
 w’	voiced labio-velar ejective approximant consonant	+	+	w’	http://phoible.org/parameters/B08E760A3873BF075D144CA196B1E354		0:-:-:-:-:-:+:+:0:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:-:+:+:0:0:-:-:-:+:-:+:-:-			1	
 x	voiceless velar fricative consonant		+	x	http://phoible.org/parameters/F62AFB705D2A2D30BB41CF3FBE917891		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:-:0:0:0:+:+:-:-:-:0:0:0:-:-:-:-:-:-:-:-			576	
 xʰ	aspirated voiceless velar fricative consonant	+	+	xh	http://phoible.org/parameters/86FE39C078751DA20E9475073F2A1341		0:-:-:-:-:+,-:-:+:+:-:-:-:-:-:-:0:0:-:0:0:0:+,-:+:-:-:-:0:0:0:-:-:-,+:-:-:-:-:-			1	
+xʀ̥	voiceless velar-and-uvular fricative consonant		+	xʀ̥	http://phoible.org/parameters/A6CCDCC2F3767D51F73B7B1FFF1FBF30		0:-:-:-:-:+:-,+:+:+:-,+:-:-,+:-:-:-:0:0:-:0:0:0:+:+,-:-:-:-,+:0:0:0:-:-:-:-:-:-:-:-			1	
 xʰ	aspirated voiceless velar fricative consonant	+	+	xʰ	http://phoible.org/parameters/0B9DBC90FA000A94FB16B86B28BE0BA3		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:-:0:0:0:+:+:-:-:-:0:0:0:-:-:+:-:-:-:-:-			5	
 xʲ	palatalized voiceless velar fricative consonant		+	xʲ	http://phoible.org/parameters/CFDC3D2764B7C450CAB7DFC1854E8C75		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:-:0:0:0:+:+:-:+:-:0:0:0:-:-:-:-:-:-:-:-			14	
 xʲː	palatalized long voiceless velar fricative consonant	+	+	xʲː	http://phoible.org/parameters/CBFC0326A6F31AEA6C6EEBF59685B41B		0:-:-:-:+:+:-:+:+:-:-:-:-:-:-:0:0:-:0:0:0:+:+:-:+:-:0:0:0:-:-:-:-:-:-:-:-			1	
@@ -1773,6 +1765,7 @@ z̪ˤ	pharyngealized voiced dental sibilant fricative consonant	+	+	z̪ˤ	http:/
 zˤ	pharyngealized voiced alveolar sibilant fricative consonant	+	+	z̪ˤ|zˤ	http://phoible.org/parameters/FC27D5917C4B16906CD643E9F169A9C4		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:0:+:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
 z̪ˤː	pharyngealized long voiced dental sibilant fricative consonant	+	+	z̪ˤː	http://phoible.org/parameters/CE97E94F8139FE03F0A44F07B14127E8		0:-:-:-:+:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:+:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
 z̪̻	voiced laminal dental sibilant fricative consonant	+	+	z̪̻	http://phoible.org/parameters/FE07A09B1669BDB737EB17533DF4245F		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:+:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
+ð̠	voiced alveolar fricative consonant		+	z̪͇|z͇	http://phoible.org/parameters/D527DAF6323303BE140A90D8A316C227		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:0:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			2	
 z̺	voiced apical alveolar sibilant fricative consonant	+	+	z̺	http://phoible.org/parameters/0AD5B815A37D7A245DAC0F5E164ECCD0		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:+:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			19	
 <NA>	<NA>	+	+	z̻	http://phoible.org/parameters/92B41E9C14B6FD2564CABDE05D20ED97		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:+:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			16	
 z̻ː	long voiced laminal alveolar sibilant fricative consonant	+	+	z̻ː	http://phoible.org/parameters/22AB42AB7E99E3512FCFE15D1752CC19		0:-:-:-:+:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:+:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
@@ -1819,7 +1812,9 @@ ç̟	advanced voiceless palatal sibilant fricative consonant	+	+	ç̟	http://ph
 ðˤ	pharyngealized voiced dental fricative consonant	+	+	ðˤ	http://phoible.org/parameters/47291C67010B4DBEAA93DB31BA0ABD0B		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			2	
 ɹ̪	voiced dental approximant consonant		+	ð̞	http://phoible.org/parameters/BA26C1A8BE6C9BB470B524A8F3013C27		0:-:-:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			7	
 ð	voiced dental fricative consonant		+	ð̪	http://phoible.org/parameters/2FF4504C2487198E2F142DAC54B6872C		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
-ɹ̪̺	voiced apical dental approximant consonant	+	+	ð̺̞	http://phoible.org/parameters/2B2D7B4AB1B1BA43F025ED9D4E02E04B		0:-:-:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
+ð̙ˤ	glottalized voiceless retracted-tongue-root dental fricative consonant		+	ð̪̙ˤ	http://phoible.org/parameters/ABAA2DC11B2965044573061C164E7FE2		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:+:-:+:-:-:-:-:-:-:-			1	
+ð̺	voiced apical dental fricative consonant	+	+	ð̪̺	http://phoible.org/parameters/D8CE4639F79D55AC40A3EA3754ECD359		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			6	
+<NA>	<NA>	+	+	ð̺̞	http://phoible.org/parameters/2B2D7B4AB1B1BA43F025ED9D4E02E04B		0:-:-:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ð̠ˠ	velarized voiced alveolar fricative consonant	+	+	ð͇ˠ	http://phoible.org/parameters/2F7BA51F3FFEB2D4042DFD9F6EF8979C		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:-:+:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			1	
 ð̚	unreleased voiced dental fricative consonant		+	ð͉	http://phoible.org/parameters/40205117E5EC6C97B27D604E51B7AC07		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ð’	voiced dental ejective fricative consonant	+	+	ð’	http://phoible.org/parameters/AE2B13BD2C72671B70BE509BF06C79E9		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:-:-:-:+:-:+:-:-			1	
@@ -1929,7 +1924,7 @@ ç̟	advanced voiceless palatal sibilant fricative consonant	+	+	ç̟	http://ph
 ⁿgʱ	pre-nasalized breathy voiced velar stop consonant	+	+	ŋ̤ɡ̤	http://phoible.org/parameters/7C3C218AD138E5B1EA947B74E16B7321		0:-:-:-:-:+:+,-:-:-:-:-:-:+,-:-:-:0:0:-:0:0:0:+:+:-:-:-:0:0:0:+:-:+:-:-:-:-:-			1	
 ŋʱ	breathy voiced velar nasal consonant	+	+	ŋ̤ʱ	http://phoible.org/parameters/C327D5B9E908C9C463B17C3E1007CAE5		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:-:0:0:0:+:+:-:-:-:0:0:0:+:-:+:-:-:-:-:-			1	
 ŋ̊	devoiced voiced velar nasal consonant		+	ŋ̥	http://phoible.org/parameters/887F49F7E15117E2639E1D17FC0B8EB2		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:-:0:0:0:+:+:-:-:-:0:0:0:-:-:-:-:-:-:-:-			30	
-ⁿm̥	pre-nasalized devoiced voiced bilabial nasal consonant	+	+	ŋ̥m̥	http://phoible.org/parameters/700F112B3E4EF5FBF8FDF519818634D7		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-,+:-:-:-:0:0:0:+,-:+:-:-:-:0:0:0:-:-:-:-:-:-:-:-			1	
+ŋ̥m̥	voiceless bilabial-and-velar nasal consonant		+	ŋ̥m̥	http://phoible.org/parameters/700F112B3E4EF5FBF8FDF519818634D7		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-,+:-:-:-:0:0:0:+,-:+:-:-:-:0:0:0:-:-:-:-:-:-:-:-			1	
 ⁿǀˀ	pre-nasalized glottalized voiceless dental click consonant	+	+	ŋ̥ǀ͓xˀ	http://phoible.org/parameters/C5A3748FAEB2DB72EEBF0023DE4A13DB		0:-:-:-:-:+:+,-,-:-,-,+:+:-:-:-:+,-,-:-:-:0:0:-,+,-:+:+:-:+,-,+:+:-:-:-:0:0:0:-:-:-:-,-,+:-:-:-:-,+,-			1	
 ⁿǀʰ͓	with-friction pre-nasalized aspirated voiceless dental click consonant	+	+	ŋ̥ǀ͓ʰ	http://phoible.org/parameters/5A753E4C9C06D37EC38B1D8796F9CD05		0:-:-:-:-:+:+,-:-:+:-:-:-:+,-:-:-:0:0:-,+:+:+:-:+,-:+:-:-:-:0:0:0:-:-:-,+:-:-:-:-:-,+			2	
 ⁿǀˀ͓	with-friction pre-nasalized glottalized voiceless dental click consonant	+	+	ŋ̥ǀ͓ˀ	http://phoible.org/parameters/512D5A2B6D3C962202938C25897F06B1		0:-:-:-:-:+:+,-:-:+:-:-:-:+,-:-:-:0:0:-,+:+:+:-:+,-:+:-:-:-:0:0:0:-:-:-:-,+:-:-:-:-,+			3	
@@ -2124,6 +2119,7 @@ ç̟	advanced voiceless palatal sibilant fricative consonant	+	+	ç̟	http://ph
 ɖ	voiced retroflex stop consonant		+	ɖ	http://phoible.org/parameters/BE81A18FCCFFEDC9ACF3B18F14E766BD		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			257	
 ɖʳ	with-trilled-release voiced retroflex stop consonant	+	+	ɖr	http://phoible.org/parameters/C45FD7EE3AB874593FEAA8ED0882462A		0:-:-:-:-:+:-,+:-,+:-:-,+:-:-,+:-:-:-:0:0:+:-,+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			3	
 ɖʳ	with-trilled-release voiced retroflex stop consonant	+	+	ɖr̠	http://phoible.org/parameters/90343EAC6A2341C2DB27F5CDBDA38BBE		0:-:-:-:-:+:-,+:-,+:-:-,+:-:-,+:-:-:-:0:0:+:-:-,+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
+ɖɻ̝	voiced retroflex affricate consonant		+	ɖr̠͓	http://phoible.org/parameters/6C671AC0CAE93CB2AEA291E2B245A6C6		0:-:-:-:-:+:-,+:-,+:-,+:-,+:-:-,+:-:-:-:0:0:+:-:-,+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ɖʱ	breathy voiced retroflex stop consonant		+	ɖɦ	http://phoible.org/parameters/165345F0391EEED6EEC52FDD96320B23		0:-:-:-:-:+,-:-:-,+:-,+:-:-:-:-:-:-:0:0:+,-:-:-:-:-:0:0:0:0:0:0:0:+:-:-,+:-:-:-:-:-			1	
 ɖⁿ	with-nasal-release voiced retroflex stop consonant	+	+	ɖɳ	http://phoible.org/parameters/261F0B66022CCBF3841F6E772C00D465		0:-:-:-:-:+:-,+:-:-:-:-:-:-,+:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ɖʳ	with-trilled-release voiced retroflex stop consonant	+	+	ɖɽ	http://phoible.org/parameters/C71FB1B3194368A6354AFB67C94C50BC		0:-:-:-:-:+:-,+:-,+:-:-,+:-,+:-:-:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			2	
@@ -2504,6 +2500,7 @@ gʘ	voiced labial click consonant		+	ɢʘ	http://phoible.org/parameters/D3714806
 lˠ	velarized voiced alveolar lateral approximant consonant		+	ɫ	http://phoible.org/parameters/D926DA3DF32136EB5051F2749BFA976F		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:-:-:+:-:-:-:+:0:0:0:+:-:-:-:-:-:-:-			31	
 lˠː	velarized long voiced alveolar lateral approximant consonant	+	+	ɫː	http://phoible.org/parameters/C70171D43B72966097A5AC4C8829E59E		0:-:-:-:+:+:+:+:0:+:-:-:-:+:-:0:0:+:+:-:-:+:-:-:-:+:0:0:0:+:-:-:-:-:-:-:-			1	
 l̥ˠ	velarized devoiced voiced alveolar lateral approximant consonant	+	+	ɫ̥	http://phoible.org/parameters/BD0DB6C763DBFF44DE732D12477F9675		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:-:-:+:-:-:-:+:0:0:0:-:-:-:-:-:-:-:-			1	
+l̪ˠ	velarized voiced dental lateral approximant consonant		+	ɫ̪	http://phoible.org/parameters/A3A19903330AD9E40B127ACDFDB5E652		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:+:-:+:-:-:-:+:0:0:0:+:-:-:-:-:-:-:-			8	
 l̺ˠ	velarized voiced apical alveolar lateral approximant consonant	+	+	ɫ̺	http://phoible.org/parameters/72DE52F6896CC8FA3495A16FC8C10B8E		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:-:-:+:-:-:-:+:0:0:0:+:-:-:-:-:-:-:-			3	
 l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	http://phoible.org/parameters/2D2272792C0FD885CAD53ADA6520CB6F		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:+:+:-:+:-:-:-:+:0:0:0:+:-:-:-:-:-:-:-			1	
 ɬ	voiceless alveolar lateral fricative consonant		+	ɬ	http://phoible.org/parameters/1F0C89A7E99CD5113AA994AD2CC86CBC		0:-:-:-:-:+:-:+:+:-:-:-:-:+:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			149	
@@ -2574,7 +2571,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	h
 ɯ̰ː̽	long mid-centralized creaky unrounded close back vowel	+	+	ɯ̰̽ː	http://phoible.org/parameters/D4E7E24EFC322C07907A57685F45E73B		0:-:+:-:+:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:0:-:-:0:0:-:-:+:-:-:+:0:-:-:0			1	
 ɯ̽	unrounded near-close near-back vowel		+	ɯ̽	http://phoible.org/parameters/51027A5C6A1BDEAEA15ADE8085D4FEF9		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:0:-:-:0:0:-:-:+:-:-:-:0:-:-:0			10	
 ɯ̽ː	long unrounded near-close near-back vowel		+	ɯ̽ː	http://phoible.org/parameters/E427BE1B337CA8621A93DC9D811CBEC5		0:-:+:-:+:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:0:-:-:0:0:-:-:+:-:-:-:0:-:-:0			2	
-ɿ	unrounded close with-friction back vowel		+	ɯ͓	http://phoible.org/parameters/CFE113C5FB098FA8AD3E61FAE8DDFAF0		0:-:+:-:-:-:+:+:+:+:-:-:-:-:-:0:0:-:0:0:0:+:+:-:-:+:+:-:-:+:-:-:-:0:-:-:0			2	
+ɿ	unrounded close with-friction back vowel	+	+	ɯ͓	http://phoible.org/parameters/CFE113C5FB098FA8AD3E61FAE8DDFAF0		0:-:+:-:-:-:+:+:+:+:-:-:-:-:-:0:0:-:0:0:0:+:+:-:-:+:+:-:-:+:-:-:-:0:-:-:0			2	
 ɰ	voiced velar approximant consonant		+	ɰ	http://phoible.org/parameters/62B50AA4D6AD6E1D010DD073BCD23B7E		0:-:-:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:+:-:-:+:+:0:0:+:-:-:-:-:-:-:-			64	
 ɰ̃	nasalized voiced velar approximant consonant	+	+	ɰ̃	http://phoible.org/parameters/A290FFF6D30F621CA8D785A003AFBB1F		0:-:-:-:-:-:+:+:0:+:-:-:+:-:-:0:0:-:0:0:0:+:+:-:-:+:+:0:0:+:-:-:-:-:-:-:-			1	
 ɰ̰	creaky voiced velar approximant consonant	+	+	ɰ̰	http://phoible.org/parameters/BEBBE1742A8B3335082C0A4893E55910		0:-:-:-:-:-:+:+:0:+:-:-:-:-:-:0:0:-:0:0:0:+:+:-:-:+:+:0:0:+:-:-:+:-:-:-:-			2	
@@ -2679,9 +2676,9 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	h
 ɹ	voiced alveolar approximant consonant		+	ɹ̪|ɹ	http://phoible.org/parameters/4DE59D6807599C436D044A9D363E2244		0:-:-:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:0:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			2	
 ɹ̥	devoiced voiced alveolar approximant consonant	+	+	ɹ̪̥|ɹ̥	http://phoible.org/parameters/D85CDF704633F124FBE803A3B4FD77DD		0:-:-:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:0:+:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 ɹ̪̩	syllabic voiced dental approximant consonant	+	+	ɹ̪̩	http://phoible.org/parameters/3248D463471AE75AB533781166135A84		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			5	
-ɹ̪̩ˠ	syllabic velarized voiced dental approximant consonant	+	+	ɹ̪̩ˠ	http://phoible.org/parameters/A3AC6857C3F0720A1321AEDE870281F5		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:+:+:-:+:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			1	
+ɹ̪ˠ	velarized voiced dental approximant consonant	+	+	ɹ̪̩ˠ	http://phoible.org/parameters/A3AC6857C3F0720A1321AEDE870281F5		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:+:+:-:+:+:-:-:-:0:0:0:+:-:-:-:-:-:-:-			1	
 ɹ̪̰̩	syllabic creaky voiced dental approximant consonant	+	+	ɹ̪̰̩	http://phoible.org/parameters/8D6BC8CF92CD20E0687F8F97FDDB49C4		0:-:+:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:+:-:-:-:-			1	
-ɹ̪̩	syllabic voiced dental approximant consonant	+	+	ɹ̪̹̩	http://phoible.org/parameters/F8606137076E00B3F791E56C1FA3EE78		N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N			2	
+ɹ̪	voiced dental approximant consonant		+	ɹ̪̹̩	http://phoible.org/parameters/F8606137076E00B3F791E56C1FA3EE78		N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N:N			2	
 ɹ̰ˤ	pharyngealized creaky voiced alveolar approximant consonant	+	+	ɹ̰ˤ	http://phoible.org/parameters/C5459F7E950C8D63255EAA4B06BE2BA4		0:-:-:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:-:+:-:-:0:0:0:0:0:+:-:+:-:-:+:-:-:-:-			1	
 ɹ̺	voiced apical alveolar approximant consonant	+	+	ɹ̺	http://phoible.org/parameters/810FAFE2E381A78E1FFC5AEEB605942B		0:-:-:-:-:-:+:+:0:+:-:-:-:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			114	
 ɺ	voiced alveolar lateral tap consonant		+	ɺ	http://phoible.org/parameters/AF0BA3378B269771157E76E3157F655B		0:-:-:-:-:+:+:+:0:+:+:-:-:+:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			39	
@@ -2768,7 +2765,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	h
 ʃ̞	lowered voiceless post-alveolar sibilant fricative consonant	+	+	ʃ̞	http://phoible.org/parameters/ABEA74ADEF332D93B189F07D4D8A659C		0:-:-:-:-:+:-:+:+:+:-:-:-:-:-:0:0:+:-:+:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 ʃ̞’	lowered voiceless post-alveolar ejective sibilant fricative consonant	+	+	ʃ̞’	http://phoible.org/parameters/5EF5DB32D40A9EC122C489CD9B8EC03B		0:-:-:-:-:+:-:+:+:+:-:-:-:-:-:0:0:+:-:+:+:-:0:0:0:0:0:0:0:-:-:-:+:-:+:-:-			1	
 ʃ̺	voiceless apical post-alveolar sibilant fricative consonant	+	+	ʃ̺	http://phoible.org/parameters/2F1C43B7EB2F839D062DAF6E708E9E35		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:-:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			4	
-ɹ̠̊˔	voiceless post-alveolar fricative consonant		+	ʃ͇	http://phoible.org/parameters/858B050077668CE0480130DD268BBCD3		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:-:+:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
+<NA>	<NA>		+	ʃ͇	http://phoible.org/parameters/858B050077668CE0480130DD268BBCD3		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:-:+:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 ʃ͈	strong voiceless post-alveolar sibilant fricative consonant	+	+	ʃ͈	http://phoible.org/parameters/B705DEA8FD3650C5FCF8B1C9B6AA7ED9		0:-:-:-:-:+:-:+:+:-:-:-:-:-:-:0:0:+:-:+:+:-:0:0:0:0:0:0:0:-:-:-:-:+:-:-:-			1	
 ʃ͈ʷ	strong labialized voiceless post-alveolar sibilant fricative consonant	+	+	ʃ͈ʷ	http://phoible.org/parameters/27576040F496A94ABFDBED4A8A2B335B		0:-:-:-:-:+:-:+:+:-:-:-:-:-:+:+:-:+:-:+:+:-:0:0:0:0:0:0:0:-:-:-:-:+:-:-:-			1	
 ʃ͈ː	strong long voiceless post-alveolar sibilant fricative consonant	+	+	ʃ͈ː	http://phoible.org/parameters/46D99EB2B0A87A469937AE08F993997D		0:-:-:-:+:+:-:+:+:-:-:-:-:-:-:0:0:+:-:+:+:-:0:0:0:0:0:0:0:-:-:-:-:+:-:-:-			2	
@@ -3048,9 +3045,11 @@ dʑʷ	labialized voiced alveolo-palatal sibilant affricate consonant	+	+	ʓʷ	ht
 ˀt	pre-glottalized voiceless alveolar stop consonant	+	+	ˀt	http://phoible.org/parameters/FCE7A178F3B224872678D977525527D8		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:-:-:-:+,-:-:-:-:-			1	
 ˀt̪	pre-glottalized voiceless dental stop consonant	+	+	ˀt̪	http://phoible.org/parameters/769DC58E5BDB0BBC4F9EADC8860C3635		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:-:-:-:+,-:-:-:-:-			1	
 ˀts̪	pre-glottalized voiceless dental sibilant affricate consonant	+	+	ˀt̪s	http://phoible.org/parameters/80A976B7AA0ACC95B75931D316AAAC38		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:+:+:+:-:0:0:0:0:0:0:0:-:-:-:+,-:-:-:-:-			1	
+ˀtɬ̪	pre-glottalized voiceless dental lateral affricate consonant		+	ˀt̪ɬ	http://phoible.org/parameters/CB14463AA9E9CEAB109C0E7772DFECC0		0:-:-:-:-:+:-:0,-,+:0,-,+:-:-:-:-:0,-,+:-:0:0:+:+:0,+,-:-:-:0:0:0:0:0:0:0:-:-:-:+,-,-:-:-:-:-			1	
 ˀw	pre-glottalized voiced labio-velar approximant consonant	+	+	ˀw	http://phoible.org/parameters/AB44A3194B0CE3B90F63E46511F012DE		0:-:-:-:-:-:+:+:0:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:-:+:+:0:0:+:-:-:+,-:-:-:-:-			9	
 ˀw̥	pre-glottalized devoiced voiced labio-velar approximant consonant	+	+	ˀw̥	http://phoible.org/parameters/44AB1EBF84968729FE57080ACAFD4BE8		0:-:-:-:-:-:+:+:0:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:-:+:+:0:0:-:-:-:+,-:-:-:-:-			1	
 ˀw̰	pre-glottalized creaky voiced labio-velar approximant consonant	+	+	ˀw̰	http://phoible.org/parameters/3AB88A21BCFBA673AFAC8EE5D5DE1D37		0:-:-:-:-:-:+:+:0:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:-:+:+:0:0:+:-:-:+:-:-:-:-			1	
+ˀj	pre-glottalized voiced palatal approximant consonant	+	+	ˀy	http://phoible.org/parameters/8F8E09791B7EE161F9F7B5942B28E401		0:-:+:-:-:-:+:+:0:+:-:-:-:-:+:+:-:-:0:0:0:+:+:-:+:-:+:-:-:+:-:-:+,-:0:-:-:0			1	
 ˀŋ	pre-glottalized voiced velar nasal consonant	+	+	ˀŋ	http://phoible.org/parameters/6F408A59FF03BF7C7AB52650927FEA83		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:-:0:0:0:+:+:-:-:-:0:0:0:+:-:-:+,-:-:-:-:-			2	
 ˀɖ	pre-glottalized voiced retroflex stop consonant	+	+	ˀɖ	http://phoible.org/parameters/5BD3FDCBC25542355A7CECD162906C70		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:+,-:-:-:-:-			1	
 ˀɗ	pre-glottalized voiced dental implosive consonant	+	+	ˀɗ	http://phoible.org/parameters/341F1EE7BB8900E348EAE0FF7D89EEF9		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:+,-:-:-:+:-			1	
@@ -3139,6 +3138,7 @@ dʑʷ	labialized voiced alveolo-palatal sibilant affricate consonant	+	+	ʓʷ	ht
 χ’ː	long voiceless uvular ejective fricative consonant	+	+	χ’ː	http://phoible.org/parameters/40555105A3B29B79240ABABEDDAEBB9B		0:-:-:-:+:+:-:+:+:-:-:-:-:-:-:0:0:-:0:0:0:+:-:-:-:+:0:0:0:-:-:-:+:-:+:-:-			1	
 ɾ	voiced alveolar tap consonant		+	ᴅ	http://phoible.org/parameters/6289FA51CE1564F60633C2D1E19EE574		0:-:-:-:-:+:+:+:0:+:+:-:-:-:-:0:0:+:+:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			7	
 ɾ̪	voiced dental tap consonant		+	ᴅ̪	http://phoible.org/parameters/BCC3651CC1A1B0483B78662C16A87CB4		0:-:-:-:-:+:+:+:0:+:+:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
+ɾ̪̰	creaky voiced dental tap consonant	+	+	ᴅ̪̰	http://phoible.org/parameters/C33695F04BEF22A1AA58BA20CA425634		0:-:-:-:-:+:+:+:0:+:+:-:-:-:-:0:0:+:+:+:-:-:0:0:0:0:0:0:0:+:-:-:+:-:-:-:-			1	
 ᶑ	voiced retroflex implosive consonant		+	ᶑ	http://phoible.org/parameters/73888403AC581B93020D3CDCE3C319ED		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:+:-			10	
 ᶑː	long voiced retroflex implosive consonant	+	+	ᶑː	http://phoible.org/parameters/DE3AF5FED0223AF5388FC373F6EDB785		0:-:-:-:+:+:-:-:-:-:-:-:-:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:+:-			1	
 ᶑ’	voiced retroflex ejective implosive consonant	+	+	ᶑ’	http://phoible.org/parameters/92B023E496FB9F4435C60537F47C883F		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:-:-:-:+:-:+:-:-			3	
