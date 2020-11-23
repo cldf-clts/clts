@@ -1,5 +1,4 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
-<NA>	<NA>		+	n̠m			pulmonic nasal voiced bilabial palato-alveolar				
 a	unrounded open front vowel		+	a			low central unrounded				
 ae	from unrounded open front to unrounded close-mid front diphthong	+	+	ae			diphtong higher mid low front central unrounded rising fronting				
 ai	from unrounded open front to unrounded close front diphthong	+	+	ai			diphtong high low front central unrounded rising fronting				
@@ -178,7 +177,7 @@ l̥	devoiced voiced alveolar lateral approximant consonant		+	l̥			pulmonic app
 l’̥	devoiced voiced alveolar ejective lateral approximant consonant	+	+	l̥'			pulmonic approximant lateral voiceless unspecified coronal place				
 l̪	voiced dental lateral approximant consonant		+	l̪			pulmonic approximant lateral voiced dental				
 l̪ʲ	palatalized voiced dental lateral approximant consonant		+	l̪ʲ			pulmonic approximant lateral voiced palatalized dental				
-l̪ˠ	velarized voiced dental lateral approximant consonant	+	+	l̪ˠ			pulmonic approximant lateral voiced velarized dental				
+l̪ˠ	velarized voiced dental lateral approximant consonant		+	l̪ˠ			pulmonic approximant lateral voiced velarized dental				
 l̪ˤ	pharyngealized voiced dental lateral approximant consonant	+	+	l̪ˤ			pulmonic approximant lateral voiced pharyngealized  dental				
 l̪ʱ	breathy voiced dental lateral approximant consonant	+	+	l̪̤			pulmonic approximant lateral breathy voiced dental				
 l̰	creaky voiced alveolar lateral approximant consonant	+	+	l̰			pulmonic approximant lateral voiced laryngealized alveolar				
@@ -212,10 +211,10 @@ n’ˀ	glottalized voiced alveolar ejective nasal consonant	+	+	n'ˀ			pulmonic 
 ⁿdʳ	pre-nasalized with-trilled-release voiced alveolar stop consonant	+	+	ndr			pulmonic stop prenasalized trilled release voiced alveolar				
 ⁿdz	pre-nasalized voiced alveolar sibilant affricate consonant	+	+	ndz			pulmonic stop affricate sibilant prenasalized voiced alveolar				
 ⁿdʲ	pre-nasalized palatalized voiced alveolar stop consonant	+	+	ndʲ			pulmonic stop prenasalized voiced palatalized alveolar				
-ⁿm	pre-nasalized voiced bilabial nasal consonant	+	+	nm			pulmonic nasal voiced bilabial alveolar				
+nm	voiced alveolar-and-bilabial nasal consonant		+	nm			pulmonic nasal voiced bilabial alveolar				
 ⁿtp	from pre-nasalized voiceless alveolar stop to voiceless bilabial stop cluster	+	+	nmtp			pulmonic stop prenasalized voiceless bilabial alveolar				
 ⁿtpʲ	from pre-nasalized voiceless alveolar stop to palatalized voiceless bilabial stop cluster	+	+	nmtpʲ			pulmonic stop prenasalized voiceless palatalized bilabial alveolar				
-ⁿmʲ	pre-nasalized palatalized voiced bilabial nasal consonant	+	+	nmʲ			pulmonic nasal voiced palatalized bilabial alveolar				
+nmʲ	palatalized voiced alveolar-and-bilabial nasal consonant	+	+	nmʲ			pulmonic nasal voiced palatalized bilabial alveolar				
 ⁿr	pre-nasalized voiced alveolar trill consonant	+	+	nr			pulmonic trill prenasalized voiced alveolar				
 ⁿs	pre-nasalized voiceless alveolar sibilant fricative consonant	+	+	ns			pulmonic fricative sibilant prenasalized voiceless alveolar				
 ⁿt	pre-nasalized voiceless alveolar stop consonant		+	nt			pulmonic stop prenasalized voiceless alveolar				
@@ -235,6 +234,7 @@ n̠	retracted voiced alveolar nasal consonant	+	+	n̠			pulmonic nasal voiced pa
 ⁿd̠	retracted pre-nasalized voiced alveolar stop consonant	+	+	n̠d̠			pulmonic stop prenasalized voiced palato-alveolar				
 ⁿdʑ	pre-nasalized voiced alveolo-palatal sibilant affricate consonant	+	+	n̠d̠ʑ			pulmonic affricate sibilant prenasalized voiced palatalized palato-alveolar retracted				
 ⁿdʒ	pre-nasalized voiced post-alveolar affricate consonant		+	n̠d̠ʒ			pulmonic affricate sibilant prenasalized voiced palato-alveolar				
+nm	voiced alveolar-and-bilabial nasal consonant		+	n̠m			pulmonic nasal voiced bilabial palato-alveolar				
 ⁿt̠p	from retracted pre-nasalized voiceless alveolar stop to voiceless bilabial stop cluster	+	+	n̠mt̠p			pulmonic stop prenasalized voiceless bilabial palato-alveolar				
 ⁿt̠pʲ	from retracted pre-nasalized voiceless alveolar stop to palatalized voiceless bilabial stop cluster	+	+	n̠mt̠pʲ			pulmonic stop prenasalized voiceless palatalized bilabial palato-alveolar				
 ⁿmʲ	pre-nasalized palatalized voiced bilabial nasal consonant	+	+	n̠mʲ			pulmonic nasal voiced palatalized bilabial palato-alveolar				
