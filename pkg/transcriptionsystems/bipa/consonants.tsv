@@ -1,4 +1,5 @@
 GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
+r̠̙	voiced	alveolar	trill		tongue_root:retracted-tongue-root,relative_articulation:retracted	
 ɺ̪̪	voiced	dental	tap		airstream:lateral	
 ɹ̪	voiced	dental	approximant			
 nm	voiced	alveolar-and-bilabial	nasal			
@@ -9,6 +10,10 @@ g̙	voiced	velar	stop		tongue_root:retracted-tongue-root
 d̙	voiced	alveolar	stop		tongue_root:retracted-tongue-root	
 t̪̙	voiceless	dental	stop		tongue_root:retracted-tongue-root	
 ʕ̙	voiced	pharyngeal	fricative		tongue_root:retracted-tongue-root	
+s̙	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:sibilant	
+ð̙	voiceless	dental	fricative		tongue_root:retracted-tongue-root	
+s̙ˤ	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:sibilant,glottalization:glottalized	
+ð̙ˤ	voiceless	dental	fricative		tongue_root:retracted-tongue-root,glottalization:glottalized	
 tθ̠	voiceless	alveolar	affricate	+		
 tθ͇	voiceless	alveolar	affricate			
 tɹ̠̊˔	voiceless	post-alveolar	affricate			
@@ -39,7 +44,8 @@ dʒ̊	voiced	alveolar	affricate		voicing:devoiced
 ŋm	voiced	velar-and-bilabial	nasal			
 pt	voiceless	bilabial-and-alveolar	stop			
 bd	voiced	bilabial-and-alveolar	stop			
-pk	voiceless	bilabial-and-velar	stop			
+pk	voiceless	bilabial-and-velar	stop	
+ŋ̥m̥	voiceless	bilabial-and-velar	nasal			
 bg	voiced	bilabial-and-velar	stop			
 tp	voiceless	alveolar-and-bilabial	stop			
 db	voiced	alveolar-and-bilabial	stop			
@@ -102,6 +108,8 @@ tsʲ	voiceless	alveolar	affricate		palatalization:palatalized,airstream:sibilant
 ɹ̩	voiced	alveolar	approximant		syllabicity:syllabic	
 l	voiced	alveolar	approximant		airstream:lateral	
 ɫ	voiced	alveolar	approximant	+	airstream:lateral,velarization:velarized	We discourage to use this alias for regularity's sake.
+ɫ̪	voiced	dental	approximant	+	airstream:lateral,velarization:velarized	We discourage to use this alias for regularity's sake.
+l̪ˠ	voiced	dental	approximant		airstream:lateral,velarization:velarized	
 lˠ	voiced	alveolar	approximant		airstream:lateral,velarization:velarized	
 lː	voiced	alveolar	approximant		duration:long,airstream:lateral	
 lʲ	voiced	alveolar	approximant		palatalization:palatalized,airstream:lateral	
@@ -303,6 +311,8 @@ t̪ːs̪	voiceless	dental	affricate	+	duration:long,airstream:sibilant
 t̪s̪ʼ	voiceless	dental	affricate	+	ejection:ejective,airstream:sibilant	
 t̪s̪ʲ	voiceless	dental	affricate	+	palatalization:palatalized,airstream:sibilant	
 tɬ̪	voiceless	dental	affricate		airstream:lateral	
+ˀtɬ̪	voiceless	dental	affricate		airstream:lateral,preceding:pre-glottalized	
+ˀt̪ɬ	voiceless	dental	affricate	+	airstream:lateral,preceding:pre-glottalized	
 tɬ̪ʰ	voiceless	dental	affricate		aspiration:aspirated,airstream:lateral	
 tɬ̪ʼ	voiceless	dental	affricate		ejection:ejective,airstream:lateral	
 ts̪	voiceless	dental	affricate		airstream:sibilant	
