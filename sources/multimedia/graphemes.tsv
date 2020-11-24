@@ -1,13 +1,11 @@
 BIPA	GRAPHEME	SOUND	FEATURES	IMAGE
-(!)	e̋	IPAsounds/extra-high-tone_close-mid_front_unrounded.mp3	an extra-high tome close-mid front unrounded vowel	IPA-302-512.gif
-(!)	ȅ	IPAsounds/extra-low-tone_close-mid_front_unrounded.mp3	an extra-low tone close-mid front unrounded vowel	IPA-302-516.gif
-(?)		IPAsounds/##.mp3	##	IPA-116-431.gif
-(?)		IPAsounds/high-rising-contour_close-mid_front_unrounded.mp3	a high-rising contour close-mid front unrounded vowel	IPA-302-526.gif
-(?)		IPAsounds/low-rising-contour_close-mid_front_unrounded.mp3	a low-rising contour close-mid front unrounded vowel	IPA-302-527.gif
-(?)		IPAsounds/rising-falling-contour_close-mid_front_unrounded.mp3	a rising-falling contour close-mid front unrounded vowel	IPA-302-528.gif
-(?)	a̢	IPAsounds/rhotic_open_front_unrounded.mp3	rhotic open front unrounded vowel	IPA-304-419.gif
-(?)	d̫	IPAsounds/linguolabialized_V_alveolar_plosive.mp3	a linguolabialized voiced alveolar plosive	IPA-104-407.gif
-(?)	t̫	IPAsounds/linguolabialized_VL_alveolar_plosive.mp3	a linguolabialized voiceless alveolar plosive	IPA-103-407.gif
+è	ȅ	IPAsounds/extra-low-tone_close-mid_front_unrounded.mp3	an extra-low tone close-mid front unrounded vowel	IPA-302-516.gif
+é	e̋	IPAsounds/extra-high-tone_close-mid_front_unrounded.mp3	an extra-high tome close-mid front unrounded vowel	IPA-302-512.gif
+<NA>		IPAsounds/##.mp3	##	IPA-116-431.gif
+<NA>		IPAsounds/high-rising-contour_close-mid_front_unrounded.mp3	a high-rising contour close-mid front unrounded vowel	IPA-302-526.gif
+<NA>		IPAsounds/low-rising-contour_close-mid_front_unrounded.mp3	a low-rising contour close-mid front unrounded vowel	IPA-302-527.gif
+<NA>		IPAsounds/rising-falling-contour_close-mid_front_unrounded.mp3	a rising-falling contour close-mid front unrounded vowel	IPA-302-528.gif
+a˞	a̢	IPAsounds/rhotic_open_front_unrounded.mp3	rhotic open front unrounded vowel	IPA-304-419.gif
 a̤	a̤	IPAsounds/breathy-voiced_open_front_unrounded.mp3	a breathy voiced open front unrounded vowel	IPA-304-405.gif
 a̰	a̰	IPAsounds/creaky-voiced_open_front_unrounded.mp3	a creaky voiced open front unrounded vowel	IPA-304-406.gif
 b	b	IPAsounds/V_bilabial_plosive.mp3	a voiced bilabial plosive	IPA-102.gif
@@ -27,6 +25,7 @@ d̥	d̥	IPAsounds/devoiced_V_alveolar_plosive.mp3	a devoiced voiced alveolar plo
 d̪	d̪	IPAsounds/dentalized_V_alveolar_plosive.mp3	a dentalized voiced alveolar plosive	IPA-104-408.gif
 d̺	d̺	IPAsounds/apical_V_alveolar_plosive.mp3	an apical voiced alveolar plosive	IPA-104-409.gif
 d̻	d̻	IPAsounds/laminal_V_alveolar_plosive.mp3	a laminal voiced alveolar plosive	IPA-104-410.gif
+d̼	d̫	IPAsounds/linguolabialized_V_alveolar_plosive.mp3	a linguolabialized voiced alveolar plosive	IPA-104-407.gif
 dⁿ	dⁿ	IPAsounds/nasal-release_V_alveolar_plosive.mp3	a nasal released voiced alveolar plosive	IPA-104-425.gif
 è	è	IPAsounds/low-tone_close-mid_front_unrounded.mp3	a low-tone close-mid front unrounded vowel	IPA-302-515.gif
 é	é	IPAsounds/high-tone_close-mid_front_unrounded.mp3	a high-tone close-mid front unrounded vowel	IPA-302-513.gif
@@ -73,6 +72,7 @@ t̪	t̪	IPAsounds/dentalized_VL_alveolar_plosive.mp3	a dentalized voiceless alve
 t̬	t̬	IPAsounds/voiced_VL_alveolar_plosive.mp3	a voiced voiceless alveolar plosive	IPA-103-403.gif
 t̺	t̺	IPAsounds/apical_VL_alveolar_plosive.mp3	an apical voiceless alveolar plosive	IPA-103-409.gif
 t̻	t̻	IPAsounds/laminal_VL_alveolar_plosive.mp3	a laminal voiceless alveolar plosive	IPA-103-410.gif
+t̼	t̫	IPAsounds/linguolabialized_VL_alveolar_plosive.mp3	a linguolabialized voiceless alveolar plosive	IPA-103-407.gif
 u̟	u̟	IPAsounds/advanced_close_back_rounded.mp3	an advanced close back rounded vowel	IPA-308-413.gif
 v	v	IPAsounds/V_labiodental_fricative.mp3	a voiced labiodental fricative	IPA-129.gif
 w	w	IPAsounds/V_labial-velar_approximant.mp3	a voiced labial-velar approximant	IPA-170.gif

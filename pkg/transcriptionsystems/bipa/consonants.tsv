@@ -5,6 +5,9 @@ r̠̙	voiced	alveolar	trill		tongue_root:retracted-tongue-root,relative_articula
 nm	voiced	alveolar-and-bilabial	nasal			
 xʀ̥	voiceless	velar-and-uvular	fricative			
 βɾ	voiced	bilabial-and-alveolar	fricative			
+ɭ̥	voiced	retroflex	approximant	+	airstream:lateral,voicing:devoiced	
+ɲ̩	voiced	palatal	nasal	+	syllabicity:syllabic	
+ɳ̩	voiced	retroflex	nasal	+	syllabicity:syllabic	
 k̙	voiceless	velar	stop		tongue_root:retracted-tongue-root	
 g̙	voiced	velar	stop		tongue_root:retracted-tongue-root	
 d̙	voiced	alveolar	stop		tongue_root:retracted-tongue-root	
@@ -542,10 +545,9 @@ dʐ	voiced	retroflex	affricate	+	airstream:sibilant
 dᶼ	voiced	retroflex	affricate	+	airstream:sibilant	
 ɖᶼ	voiced	retroflex	affricate	+	airstream:sibilant	
 ɖːʐ	voiced	retroflex	affricate	+	duration:long,airstream:sibilant	
-ʈʂː	voiced	retroflex	affricate		duration:long,airstream:sibilant	
-ʈːʂ	voiced	retroflex	affricate	+	duration:long,airstream:sibilant	
-tʂː	voiced	retroflex	affricate	+	duration:long,airstream:sibilant	
-tːʂ	voiced	retroflex	affricate	+	duration:long,airstream:sibilant	
+ɖʐː	voiced	retroflex	affricate		duration:long,airstream:sibilant	
+dʐː	voiced	retroflex	affricate	+	duration:long,airstream:sibilant	
+dːʐ	voiced	retroflex	affricate	+	duration:long,airstream:sibilant	
 tʂ	voiceless	retroflex	affricate	+	airstream:sibilant	
 ʈʂ	voiceless	retroflex	affricate		airstream:sibilant	
 tᶳ	voiceless	retroflex	affricate	+	airstream:sibilant	
@@ -563,6 +565,7 @@ kǃǃ	voiceless	retroflex	click	+
 ɳ	voiced	retroflex	nasal			
 ɳ̍	voiced	retroflex	nasal		syllabicity:syllabic	
 ɳ̊	voiced	retroflex	nasal		voicing:devoiced	
+ɳ̥	voiced	retroflex	nasal	+	voicing:devoiced	
 ɖʱ	voiced	retroflex	stop		breathiness:breathy	
 ɖ̤	voiced	retroflex	stop	+	breathiness:breathy	
 ɖ	voiced	retroflex	stop			
