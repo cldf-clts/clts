@@ -16,25 +16,21 @@ BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMA
 <NA>	<NA>		+	ʟ̆	https://en.wikipedia.org/wiki/Velar_lateral_flap		Velar_lateral_flap				
 <NA>	<NA>		+	ʡ̮	https://en.wikipedia.org/wiki/Epiglottal_flap		Epiglottal_flap				
 a	unrounded open front vowel		+	a	https://en.wikipedia.org/wiki/Open_front_unrounded_vowel		Open_front_unrounded_vowel				
-ä	centralized unrounded open front vowel		+	ä	https://en.wikipedia.org/wiki/Open_central_unrounded_vowel		Open_central_unrounded_vowel				
 b	voiced bilabial stop consonant		+	b	https://en.wikipedia.org/wiki/Voiced_bilabial_stop		Voiced_bilabial_stop				
-bv	voiced labio-dental affricate consonant		+	b̪v	https://en.wikipedia.org/wiki/Voiced_labiodental_affricate		Voiced_labiodental_affricate				
 b̪	voiced labio-dental stop consonant		+	b̪	https://en.wikipedia.org/wiki/Voiced_labiodental_stop		Voiced_labiodental_stop				
+bv	voiced labio-dental affricate consonant		+	b̪v	https://en.wikipedia.org/wiki/Voiced_labiodental_affricate		Voiced_labiodental_affricate				
 bβ	voiced bilabial affricate consonant		+	bβ	https://en.wikipedia.org/wiki/Voiced_bilabial_affricate		Voiced_bilabial_affricate				
 c	voiceless palatal stop consonant		+	c	https://en.wikipedia.org/wiki/Voiceless_palatal_stop#Palatal_or_alveolo-palatal		Voiceless_palatal_stop#Palatal_or_alveolo-palatal				
 cç	voiceless palatal affricate consonant		+	cç	https://en.wikipedia.org/wiki/Voiceless_palatal_affricate		Voiceless_palatal_affricate				
-ç	voiceless palatal sibilant fricative consonant		+	ç	https://en.wikipedia.org/wiki/Voiceless_palatal_fricative#Palatal		Voiceless_palatal_fricative#Palatal				
 d	voiced alveolar stop consonant		+	d	https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_stops#Alveolar		Voiced_dental_and_alveolar_stops#Alveolar				
 dz	voiced alveolar sibilant affricate consonant		+	dz	https://en.wikipedia.org/wiki/Voiced_alveolar_sibilant_affricate		Voiced_alveolar_sibilant_affricate				
-dð	voiced dental affricate consonant		+	d̪ð	https://en.wikipedia.org/wiki/Voiced_dental_non-sibilant_affricate		Voiced_dental_non-sibilant_affricate				
 dɮ	voiced alveolar lateral affricate consonant		+	dɮ	https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_affricate		Voiced_alveolar_lateral_affricate				
 dʒ	voiced post-alveolar sibilant affricate consonant		+	d̠ʒ	https://en.wikipedia.org/wiki/Voiced_palato-alveolar_sibilant_affricate		Voiced_palato-alveolar_sibilant_affricate				
+dð	voiced dental affricate consonant		+	d̪ð	https://en.wikipedia.org/wiki/Voiced_dental_non-sibilant_affricate		Voiced_dental_non-sibilant_affricate				
 d̼	voiced linguolabial stop consonant		+	d̼	https://en.wikipedia.org/wiki/Voiced_linguolabial_stop		Voiced_linguolabial_stop				
 e	unrounded close-mid front vowel		+	e	https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel		Close-mid_front_unrounded_vowel				
 e̞	unrounded mid front vowel		+	e̞	https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel		Mid_front_unrounded_vowel				
 f	voiceless labio-dental fricative consonant		+	f	https://en.wikipedia.org/wiki/Voiceless_labiodental_fricative		Voiceless_labiodental_fricative				
-g	voiced velar stop consonant		+	ɡ	https://en.wikipedia.org/wiki/Voiced_velar_stop		Voiced_velar_stop				
-gɣ	voiced velar affricate consonant		+	ɡɣ	https://en.wikipedia.org/wiki/Voiced_velar_affricate		Voiced_velar_affricate				
 h	voiceless glottal fricative consonant		+	h	https://en.wikipedia.org/wiki/Voiceless_glottal_fricative		Voiceless_glottal_fricative				
 i	unrounded close front vowel		+	i	https://en.wikipedia.org/wiki/Close_front_unrounded_vowel		Close_front_unrounded_vowel				
 j	voiced palatal approximant consonant		+	j	https://en.wikipedia.org/wiki/Palatal_approximant#Palatal		Palatal_approximant#Palatal				
@@ -52,9 +48,9 @@ n̼	voiced linguolabial nasal consonant		+	n̼	https://en.wikipedia.org/wiki/Lin
 o	rounded close-mid back vowel		+	o	https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel		Close-mid_back_rounded_vowel				
 o̞	rounded mid back vowel		+	o̞	https://en.wikipedia.org/wiki/Mid_back_rounded_vowel		Mid_back_rounded_vowel				
 p	voiceless bilabial stop consonant		+	p	https://en.wikipedia.org/wiki/Voiceless_bilabial_stop		Voiceless_bilabial_stop				
-pf	voiceless labio-dental affricate consonant		+	p̪f	https://en.wikipedia.org/wiki/Voiceless_labiodental_affricate		Voiceless_labiodental_affricate				
 pɸ	voiceless bilabial affricate consonant		+	pɸ	https://en.wikipedia.org/wiki/Voiceless_bilabial_affricate		Voiceless_bilabial_affricate				
 p̪	voiceless labio-dental stop consonant		+	p̪	https://en.wikipedia.org/wiki/Voiceless_labiodental_stop		Voiceless_labiodental_stop				
+pf	voiceless labio-dental affricate consonant		+	p̪f	https://en.wikipedia.org/wiki/Voiceless_labiodental_affricate		Voiceless_labiodental_affricate				
 q	voiceless uvular stop consonant		+	q	https://en.wikipedia.org/wiki/Voiceless_uvular_stop		Voiceless_uvular_stop				
 qχ	voiceless uvular affricate consonant		+	qχ	https://en.wikipedia.org/wiki/Voiceless_uvular_affricate		Voiceless_uvular_affricate				
 qχ’	voiceless uvular ejective affricate consonant	+	+	qχʼ	https://en.wikipedia.org/wiki/Uvular_ejective_affricate		Uvular_ejective_affricate				
@@ -69,14 +65,16 @@ tɬ	voiceless alveolar lateral affricate consonant		+	tɬ	https://en.wikipedia.o
 tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬʼ	https://en.wikipedia.org/wiki/Alveolar_lateral_ejective_affricate		Alveolar_lateral_ejective_affricate				
 tʃ	voiceless post-alveolar sibilant affricate consonant		+	t̠ʃ	https://en.wikipedia.org/wiki/Voiceless_palato-alveolar_sibilant_affricate		Voiceless_palato-alveolar_sibilant_affricate				
 tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	t̠ʃʼ	https://en.wikipedia.org/wiki/Palato-alveolar_ejective_affricate		Palato-alveolar_ejective_affricate				
-t̼	voiceless linguolabial stop consonant		+	t̼	https://en.wikipedia.org/wiki/Voiceless_linguolabial_stop		Voiceless_linguolabial_stop				
 tθ	voiceless dental affricate consonant		+	t̪θ	https://en.wikipedia.org/wiki/Voiceless_dental_non-sibilant_affricate		Voiceless_dental_non-sibilant_affricate				
+t̼	voiceless linguolabial stop consonant		+	t̼	https://en.wikipedia.org/wiki/Voiceless_linguolabial_stop		Voiceless_linguolabial_stop				
 u	rounded close back vowel		+	u	https://en.wikipedia.org/wiki/Close_back_rounded_vowel		Close_back_rounded_vowel				
 v	voiced labio-dental fricative consonant		+	v	https://en.wikipedia.org/wiki/Voiced_labiodental_fricative		Voiced_labiodental_fricative				
 x	voiceless velar fricative consonant		+	x	https://en.wikipedia.org/wiki/Voiceless_velar_fricative		Voiceless_velar_fricative				
 y	rounded close front vowel		+	y	https://en.wikipedia.org/wiki/Close_front_rounded_vowel		Close_front_rounded_vowel				
 z	voiced alveolar sibilant fricative consonant		+	z	https://en.wikipedia.org/wiki/Voiced_alveolar_fricative#Voiced_alveolar_sibilant		Voiced_alveolar_fricative#Voiced_alveolar_sibilant				
+ä	centralized unrounded open front vowel		+	ä	https://en.wikipedia.org/wiki/Open_central_unrounded_vowel		Open_central_unrounded_vowel				
 æ	unrounded near-open front vowel		+	æ	https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel		Near-open_front_unrounded_vowel				
+ç	voiceless palatal sibilant fricative consonant		+	ç	https://en.wikipedia.org/wiki/Voiceless_palatal_fricative#Palatal		Voiceless_palatal_fricative#Palatal				
 ð	voiced dental fricative consonant		+	ð	https://en.wikipedia.org/wiki/Voiced_dental_fricative		Voiced_dental_fricative				
 ð̠	voiced alveolar fricative consonant		+	ð̠	https://en.wikipedia.org/wiki/Voiced_alveolar_non-sibilant_fricative		Voiced_alveolar_non-sibilant_fricative				
 ð̼	voiced linguolabial fricative consonant		+	ð̼	https://en.wikipedia.org/wiki/Voiced_linguolabial_fricative		Voiced_linguolabial_fricative				
@@ -102,6 +100,8 @@ z	voiced alveolar sibilant fricative consonant		+	z	https://en.wikipedia.org/wik
 ɞ̞	rounded near-open central vowel		+	ɞ̞	https://en.wikipedia.org/wiki/Near-open_central_rounded_vowel		Near-open_central_rounded_vowel				
 ɟ	voiced palatal stop consonant		+	ɟ	https://en.wikipedia.org/wiki/Voiced_palatal_stop#Palatal_or_alveolo-palatal		Voiced_palatal_stop#Palatal_or_alveolo-palatal				
 ɟʝ	voiced palatal affricate consonant		+	ɟʝ	https://en.wikipedia.org/wiki/Voiced_palatal_affricate		Voiced_palatal_affricate				
+g	voiced velar stop consonant		+	ɡ	https://en.wikipedia.org/wiki/Voiced_velar_stop		Voiced_velar_stop				
+gɣ	voiced velar affricate consonant		+	ɡɣ	https://en.wikipedia.org/wiki/Voiced_velar_affricate		Voiced_velar_affricate				
 ɢ	voiced uvular stop consonant		+	ɢ	https://en.wikipedia.org/wiki/Voiced_uvular_stop		Voiced_uvular_stop				
 ɣ	voiced velar fricative consonant		+	ɣ	https://en.wikipedia.org/wiki/Voiced_velar_fricative		Voiced_velar_fricative				
 ɤ	unrounded close-mid back vowel		+	ɤ	https://en.wikipedia.org/wiki/Close-mid_back_unrounded_vowel		Close-mid_back_unrounded_vowel				
@@ -134,7 +134,7 @@ z	voiced alveolar sibilant fricative consonant		+	z	https://en.wikipedia.org/wik
 ɹ̥	devoiced voiced alveolar approximant consonant	+	+	ɹ̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_approximant		Voiceless_alveolar_approximant				
 ɺ	voiced alveolar lateral tap consonant		+	ɺ	https://en.wikipedia.org/wiki/Alveolar_lateral_flap		Alveolar_lateral_flap				
 ɻ	voiced retroflex approximant consonant		+	ɻ	https://en.wikipedia.org/wiki/Retroflex_approximant		Retroflex_approximant				
-ɻ̥	devoiced voiced retroflex approximant consonant	+	+	ɻ̊	https://en.wikipedia.org/wiki/Voiceless_retroflex_approximant		Voiceless_retroflex_approximant				
+ɻ̥	voiceless retroflex approximant consonant		+	ɻ̊	https://en.wikipedia.org/wiki/Voiceless_retroflex_approximant		Voiceless_retroflex_approximant				
 ɽ	voiced retroflex tap consonant		+	ɽ	https://en.wikipedia.org/wiki/Retroflex_flap		Retroflex_flap				
 ɽ̥	devoiced voiced retroflex tap consonant	+	+	ɽ̊	https://en.wikipedia.org/wiki/Voiceless_retroflex_flap		Voiceless_retroflex_flap				
 ɾ	voiced alveolar tap consonant		+	ɾ	https://en.wikipedia.org/wiki/Alveolar_flap		Alveolar_flap				

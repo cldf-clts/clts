@@ -547,6 +547,7 @@ long voiced retroflex sibilant affricate consonant	ɖʐː	T	C	1	T	d	#9664c8
 breathy voiced retroflex stop consonant	ɖʱ	T	C	1	T	d	#9664c8
 voiced dental implosive consonant	ɗ	T	C	1	T	d	#9664c8
 devoiced voiced dental implosive consonant	ɗ̥	T	C	1	T	d	#9664c8
+voiced linguolabial implosive consonant	ɗ̼	T	C	1	T	d	#9664c8
 unrounded close-mid central vowel	ɘ	E	V	7	V	I	#c86464
 long unrounded close-mid central vowel	ɘː	E	V	7	V	I	#c86464
 nasalized unrounded close-mid central vowel	ɘ̃	E	V	7	V	I	#c86464
@@ -675,6 +676,7 @@ voiced dental lateral tap consonant	ɺ̪̪	R	C	5	R	r	#6464c8
 voiced retroflex approximant consonant	ɻ	R	C	5	R	L	#6464c8
 voiced retroflex fricative consonant	ɻ̝	R	C	5	R	L	#6464c8
 voiceless retroflex fricative consonant	ɻ̝̊	R	C	5	R	L	#6464c8
+voiceless retroflex approximant consonant	ɻ̥	R	C	5	R	L	#6464c8
 voiced retroflex tap consonant	ɽ	R	C	5	R	r	#6464c8
 breathy voiced retroflex tap consonant	ɽʱ	R	C	5	R	r	#6464c8
 voiced alveolar tap consonant	ɾ	R	C	5	R	r	#6464c8
