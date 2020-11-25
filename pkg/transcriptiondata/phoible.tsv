@@ -2527,7 +2527,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	h
 ɭː	long voiced retroflex lateral approximant consonant	+	+	ɭː	http://phoible.org/parameters/7DCF86CCBEEB367764BC474D32A221F0		0:-:-:-:+:+:+:+:0:+:-:-:-:+:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ɭ̟	advanced voiced retroflex lateral approximant consonant	+	+	ɭ̟	http://phoible.org/parameters/F1C6D6782A3116F1A77A195F4EB3AA1E		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:0:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ɭʱ	breathy voiced retroflex lateral approximant consonant	+	+	ɭ̤	http://phoible.org/parameters/5C28D305F711969E0A074969990FAB96		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:+:-:-:-:-:-			1	
-<NA>	<NA>	+	+	ɭ̥	http://phoible.org/parameters/E31F30626CFDAD792E73B8C4611707A9		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			3	
+ɭ̊	devoiced voiced retroflex lateral approximant consonant		+	ɭ̥	http://phoible.org/parameters/E31F30626CFDAD792E73B8C4611707A9		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			3	
 ɭ̩	syllabic voiced retroflex lateral approximant consonant		+	ɭ̩	http://phoible.org/parameters/E4146AE561EDE3F4ADBACD61AC62F43A		0:-:+:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ɭ̺	voiced apical retroflex lateral approximant consonant	+	+	ɭ̺	http://phoible.org/parameters/24A535AE6483DF1A5566564AD56F5743		0:-:-:-:-:+:+:+:0:+:-:-:-:+:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ɭ͓	with-friction voiced retroflex lateral approximant consonant	+	+	ɭ͓	http://phoible.org/parameters/CA199ADD4F952751566A55C641A9333C		0:-:-:-:-:+:+:+:+:+:-:-:-:+:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
@@ -2613,7 +2613,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	h
 ɲʱ	breathy voiced palatal nasal consonant	+	+	ɲ̤ʱ	http://phoible.org/parameters/7F64E14C92E51841555F2B844132DB96		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:+:-:+:+:-:+:-:0:0:0:+:-:+:-:-:-:-:-			1	
 ɲ̊	devoiced voiced palatal nasal consonant		+	ɲ̥	http://phoible.org/parameters/0A91CF68DC2F5F5D919483CFE48E6EA0		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:+:-:+:+:-:+:-:0:0:0:-:-:-:-:-:-:-:-			26	
 ɲ̥ː	long devoiced voiced palatal nasal consonant	+	+	ɲ̥ɲ̥	http://phoible.org/parameters/289BF753FA31364A1B592B53DB7EA1B5		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:+:-:+:+:-:+:-:0:0:0:-:-:-:-:-:-:-:-			1	
-<NA>	<NA>	+	+	ɲ̩	http://phoible.org/parameters/FA0529B56B4FBE213D85D4A8D5951A4A		0:-:+:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:+:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			2	
+ɲ̍	syllabic voiced palatal nasal consonant		+	ɲ̩	http://phoible.org/parameters/FA0529B56B4FBE213D85D4A8D5951A4A		0:-:+:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:+:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			2	
 ɲ̰	creaky voiced palatal nasal consonant	+	+	ɲ̰	http://phoible.org/parameters/5C6E5C51464EE464DD1D81153022418A		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:+:-:+:+:-:+:-:0:0:0:+:-:-:+:-:-:-:-			4	
 ɲ̻	voiced laminal palatal nasal consonant	+	+	ɲ̻	http://phoible.org/parameters/ACF302726685E178CA78FAA3EE284FC9		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:+:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			1	
 ɲ̟̻	advanced voiced laminal palatal nasal consonant	+	+	ɲ̻̟	http://phoible.org/parameters/F3EAB14FFCA6935A214F3C4A09B0CAAF		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:+:+:-:+:+:-:+:-:0:0:0:+:-:-:-:-:-:-:-			1	
@@ -2636,7 +2636,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	h
 ɳʷ	labialized voiced retroflex nasal consonant	+	+	ɳʷ	http://phoible.org/parameters/3223CC6D46E77C6B791AE62A93005DCC		0:-:-:-:-:+:+:-:0:-:-:-:+:-:+:+:-:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			10	
 ɳ̟	advanced voiced retroflex nasal consonant	+	+	ɳ̟	http://phoible.org/parameters/4268E36FA97545B29FAC34BBD5F56881		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:0:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ɳʱ	breathy voiced retroflex nasal consonant	+	+	ɳ̤	http://phoible.org/parameters/57D46E48CD7EDDF6BC3CFF573C7BDF1A		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:+:-:-:-:-:-			1	
-<NA>	<NA>	+	+	ɳ̥	http://phoible.org/parameters/A3A22FD81BD24EE94EFA222D968215C8		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
+ɳ̊	devoiced voiced retroflex nasal consonant		+	ɳ̥	http://phoible.org/parameters/A3A22FD81BD24EE94EFA222D968215C8		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 ɳ̺	voiced apical retroflex nasal consonant	+	+	ɳ̺	http://phoible.org/parameters/C53567DC436AB673D7D82E8EC91CC7A2		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:+:-:-:-:-:-:-:-			1	
 ɴ	voiced uvular nasal consonant		+	ɴ	http://phoible.org/parameters/C39DA742ED3DD44A5EFDBCC9003F49B6		0:-:-:-:-:+:+:-:0:-:-:-:+:-:-:0:0:-:0:0:0:+:-:-:-:+:0:0:0:+:-:-:-:-:-:-:-			7	
 ⁿq	pre-nasalized voiceless uvular stop consonant	+	+	ɴq	http://phoible.org/parameters/62855E0C36A83F8A970A734D237DE0CB		0:-:-:-:-:+:+,-:-:-:-:-:-:+,-:-:-:0:0:-:0:0:0:+:-:-:-:+:0:0:0:+,-:-:-:-:-:-:-:-			4	
@@ -2788,7 +2788,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	h
 ʈʂ	voiceless retroflex sibilant affricate consonant		+	ʈʂ	http://phoible.org/parameters/0C125CB557D530881A8F1E46A3EB6F0C		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:-:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			106	
 ʈʂʰ	aspirated voiceless retroflex sibilant affricate consonant		+	ʈʂʰ	http://phoible.org/parameters/1221CD26FBA96262AA84D0449FF78413		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:-:-:+:-:0:0:0:0:0:0:0:-:-:+:-:-:-:-:-			55	
 ʈʂʷ	labialized voiceless retroflex sibilant affricate consonant	+	+	ʈʂʷ	http://phoible.org/parameters/781494F5BEAE7612A34BD487B0134436		0:-:-:-:-:+:-:-:+:-:-:-:-:-:+:+:-:+:-:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
-ʈʂː	long voiced retroflex sibilant affricate consonant		+	ʈʂː	http://phoible.org/parameters/E69200AFBF5F09ED21FFC56E1C25C180		0:-:-:-:+:+:-:-:+:-:-:-:-:-:-:0:0:+:-:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
+ʈʂː	long voiceless retroflex sibilant affricate consonant	+	+	ʈʂː	http://phoible.org/parameters/E69200AFBF5F09ED21FFC56E1C25C180		0:-:-:-:+:+:-:-:+:-:-:-:-:-:-:0:0:+:-:-:+:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 ʈɻ̝̊	voiceless retroflex affricate consonant		+	ʈʂ͇	http://phoible.org/parameters/4192E64FD8E8038E20A5BDFF73F8D646		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:-:-:-:-:-:-:-:-			1	
 ʈʂ’	voiceless retroflex ejective sibilant affricate consonant	+	+	ʈʂ’	http://phoible.org/parameters/07A5AC4B034CB0AB5D7EDE061466784F		0:-:-:-:-:+:-:-:+:-:-:-:-:-:-:0:0:+:-:-:+:-:0:0:0:0:0:0:0:-:-:-:+:-:+:-:-			12	
 ʈʰ	aspirated voiceless retroflex stop consonant		+	ʈʰ	http://phoible.org/parameters/4364823B8F03525E91440277AEC22689		0:-:-:-:-:+:-:-:-:-:-:-:-:-:-:0:0:+:-:-:-:-:0:0:0:0:0:0:0:-:-:+:-:-:-:-:-			139	

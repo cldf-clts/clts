@@ -1,9 +1,9 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
-<NA>	<NA>		+	ɖ͡ʐː		\t{ɖ͡\textrtailz}\textlengthmark	retroflex:affricate:+voice				
-<NA>	<NA>		+	ɭ̥		*\textturny	retroflex:liquid:−voice +lateral				
-<NA>	<NA>		+	ɲ̩		\textipa{\s{\textltailn}}	palatal:nasal:+voice +nasal +syllabic				
-<NA>	<NA>		+	ɳ̥		*\:n	retroflex:nasal:−voice +nasal				
-<NA>	<NA>		+	ɳ̩		\textipa{\s{\:n}}	retroflex:nasal:+voice +nasal +syllabic				
+ɳ̊	devoiced voiced retroflex nasal consonant		+	ɳ̥		*\:n	retroflex:nasal:−voice +nasal				
+ɭ̊	devoiced voiced retroflex lateral approximant consonant		+	ɭ̥		*\textturny	retroflex:liquid:−voice +lateral				
+ɲ̍	syllabic voiced palatal nasal consonant		+	ɲ̩		\textipa{\s{\textltailn}}	palatal:nasal:+voice +nasal +syllabic				
+ɳ̍	syllabic voiced retroflex nasal consonant		+	ɳ̩		\textipa{\s{\:n}}	retroflex:nasal:+voice +nasal +syllabic				
+<NA>	<NA>		+				empty:empty:				
 <NA>	<NA>		+	d̠͡ɮ̠		\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}	dental:affricate:+voice +lateral				
 <NA>	<NA>		+	d̠͡ɮ̠ʰ		\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}} extsuperscript{h}	dental:affricate:+voice +lateral +spread glottis				
 <NA>	<NA>		+	d̠͡ɮ̠ʰː		\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}} extsuperscript{h}\textlengthmark	dental:affricate:+voice +lateral +spread glottis				
@@ -12,25 +12,14 @@ BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMA
 <NA>	<NA>		+	d̠͡ɮ̠ʷ		\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}\super w	dental, labial:affricate:+voice +lateral				
 <NA>	<NA>		+	d̠͡ɮ̠ʷː		\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}\super w\textlengthmark	dental, labial:affricate:+voice +lateral				
 <NA>	<NA>		+	d̠͡ɮ̠ː		\t{\textsubbar{d}͡\textsubbar{\textlyoghlig}}\textlengthmark	dental:affricate:+voice +lateral				
-<NA>	<NA>		+	d̪͡ɮ̪		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}	dental:affricate:+voice +lateral				
-<NA>	<NA>		+	d̪͡ɮ̪ʰ		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}} extsuperscript{h}	dental:affricate:+voice +lateral +spread glottis				
-<NA>	<NA>		+	d̪͡ɮ̪ʰː		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}} extsuperscript{h}\textlengthmark	dental:affricate:+voice +lateral +spread glottis				
-<NA>	<NA>		+	d̪͡ɮ̪ʲ		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super j	dental, palatal:affricate:+voice +lateral				
-<NA>	<NA>		+	d̪͡ɮ̪ʲː		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super j\textlengthmark	dental, palatal:affricate:+voice +lateral				
-<NA>	<NA>		+	d̪͡ɮ̪ʷ		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super w	dental, labial:affricate:+voice +lateral				
-<NA>	<NA>		+	d̪͡ɮ̪ʷː		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super w\textlengthmark	dental, labial:affricate:+voice +lateral				
-<NA>	<NA>		+	d̪͡ɮ̪ː		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\textlengthmark	dental:affricate:+voice +lateral				
-<NA>	<NA>		+	ɺ̪		\textsubbridge{\textturnlonglegr}	dental:liquid:+voice +lateral				
-<NA>	<NA>		+	ɺ̪ʲ		\textsubbridge{\textturnlonglegr}\super j	dental, palatal:liquid:+voice +lateral				
-<NA>	<NA>		+				empty:empty:				
-<NA>	<NA>		+	t͡ɬ̲		\t{t͡\textsubbar{\textbeltl}}	alveolar:affricate:+voice +lateral				
-<NA>	<NA>		+	t͡ɬ̲ʰ		\t{t͡\textsubbar{\textbeltl}} extsuperscript{h}	alveolar:affricate:+voice +lateral +spread glottis				
-<NA>	<NA>		+	t͡ɬ̲ʰː		\t{t͡\textsubbar{\textbeltl}} extsuperscript{h}\textlengthmark	alveolar:affricate:+voice +lateral +spread glottis				
-<NA>	<NA>		+	t͡ɬ̲ʲ		\t{t͡\textsubbar{\textbeltl}}\super j	alveolar, palatal:affricate:+voice +lateral				
-<NA>	<NA>		+	t͡ɬ̲ʲː		\t{t͡\textsubbar{\textbeltl}}\super j\textlengthmark	alveolar, palatal:affricate:+voice +lateral				
-<NA>	<NA>		+	t͡ɬ̲ʷ		\t{t͡\textsubbar{\textbeltl}}\super w	alveolar, labial:affricate:+voice +lateral				
-<NA>	<NA>		+	t͡ɬ̲ʷː		\t{t͡\textsubbar{\textbeltl}}\super w\textlengthmark	alveolar, labial:affricate:+voice +lateral				
-<NA>	<NA>		+	t͡ɬ̲ː		\t{t͡\textsubbar{\textbeltl}}\textlengthmark	alveolar:affricate:+voice +lateral				
+tɬ	voiceless alveolar lateral affricate consonant		+	t͡ɬ̲		\t{t͡\textsubbar{\textbeltl}}	alveolar:affricate:+voice +lateral				
+tɬʰ	aspirated voiceless alveolar lateral affricate consonant		+	t͡ɬ̲ʰ		\t{t͡\textsubbar{\textbeltl}} extsuperscript{h}	alveolar:affricate:+voice +lateral +spread glottis				
+tɬʰː	aspirated long voiceless alveolar lateral affricate consonant	+	+	t͡ɬ̲ʰː		\t{t͡\textsubbar{\textbeltl}} extsuperscript{h}\textlengthmark	alveolar:affricate:+voice +lateral +spread glottis				
+tɬʲ	palatalized voiceless alveolar lateral affricate consonant	+	+	t͡ɬ̲ʲ		\t{t͡\textsubbar{\textbeltl}}\super j	alveolar, palatal:affricate:+voice +lateral				
+tɬʲː	palatalized long voiceless alveolar lateral affricate consonant	+	+	t͡ɬ̲ʲː		\t{t͡\textsubbar{\textbeltl}}\super j\textlengthmark	alveolar, palatal:affricate:+voice +lateral				
+tɬʷ	labialized voiceless alveolar lateral affricate consonant	+	+	t͡ɬ̲ʷ		\t{t͡\textsubbar{\textbeltl}}\super w	alveolar, labial:affricate:+voice +lateral				
+tɬʷː	labialized long voiceless alveolar lateral affricate consonant	+	+	t͡ɬ̲ʷː		\t{t͡\textsubbar{\textbeltl}}\super w\textlengthmark	alveolar, labial:affricate:+voice +lateral				
+tɬː	long voiceless alveolar lateral affricate consonant	+	+	t͡ɬ̲ː		\t{t͡\textsubbar{\textbeltl}}\textlengthmark	alveolar:affricate:+voice +lateral				
 a	unrounded open front vowel		+	a		a	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis				
 aː	long unrounded open front vowel		+	aː		a\textlengthmark	empty:vowel:−high +low +back −round +voice −nasal −spread glottis −constricted glottis				
 ã	nasalized unrounded open front vowel		+	ã		\textipa{\~a}	empty:vowel:−high +low +back −round +voice +nasal −spread glottis −constricted glottis				
@@ -210,6 +199,14 @@ d̩ʷ	syllabic labialized voiced alveolar stop consonant	+	+	d̩ʷ		\textipa{\s{
 d̩ʷː	syllabic labialized long voiced alveolar stop consonant	+	+	d̩ʷː		\textipa{\s{d}}\super w\textlengthmark	alveolar, labial:plosive:+voice +syllabic				
 d̩ː	syllabic long voiced alveolar stop consonant	+	+	d̩ː		\textipa{\s{d}}\textlengthmark	alveolar:plosive:+voice +syllabic				
 d̪	voiced dental stop consonant		+	d̪		\textsubbridge{d}	dental:plosive:+voice				
+d̪ɮ	voiced dental lateral affricate consonant		+	d̪͡ɮ̪		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}	dental:affricate:+voice +lateral				
+d̪ɮʰ	aspirated voiced dental lateral affricate consonant	+	+	d̪͡ɮ̪ʰ		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}} extsuperscript{h}	dental:affricate:+voice +lateral +spread glottis				
+d̪ɮʰː	aspirated long voiced dental lateral affricate consonant	+	+	d̪͡ɮ̪ʰː		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}} extsuperscript{h}\textlengthmark	dental:affricate:+voice +lateral +spread glottis				
+d̪ɮʲ	palatalized voiced dental lateral affricate consonant	+	+	d̪͡ɮ̪ʲ		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super j	dental, palatal:affricate:+voice +lateral				
+d̪ɮʲː	palatalized long voiced dental lateral affricate consonant	+	+	d̪͡ɮ̪ʲː		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super j\textlengthmark	dental, palatal:affricate:+voice +lateral				
+d̪ɮʷ	labialized voiced dental lateral affricate consonant	+	+	d̪͡ɮ̪ʷ		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super w	dental, labial:affricate:+voice +lateral				
+d̪ɮʷː	labialized long voiced dental lateral affricate consonant	+	+	d̪͡ɮ̪ʷː		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\super w\textlengthmark	dental, labial:affricate:+voice +lateral				
+d̪ɮː	long voiced dental lateral affricate consonant	+	+	d̪͡ɮ̪ː		\t{\textsubbridge{d}͡\textsubbridge{\textlyoghlig}}\textlengthmark	dental:affricate:+voice +lateral				
 d̪ʰ	aspirated voiced dental stop consonant	+	+	d̪ʰ		\textsubbridge{d} extsuperscript{h}	dental:plosive:+voice +spread glottis				
 d̪ʰː	aspirated long voiced dental stop consonant	+	+	d̪ʰː		\textsubbridge{d} extsuperscript{h}\textlengthmark	dental:plosive:+voice +spread glottis				
 d̪ʲ	palatalized voiced dental stop consonant		+	d̪ʲ		\textsubbridge{d}\super j	dental, palatal:plosive:+voice				
@@ -1019,6 +1016,7 @@ z̫ː	long voiced alveolar whistled-sibilant fricative consonant	+	+	z͎ː		\beg
 ɖʐʲː	palatalized long voiced retroflex sibilant affricate consonant	+	+	ɖ͡ʐʲː		\t{ɖ͡\textrtailz}\super j\textlengthmark	retroflex, palatal:affricate:+voice				
 ɖʐʷ	labialized voiced retroflex sibilant affricate consonant	+	+	ɖ͡ʐʷ		\t{ɖ͡\textrtailz}\super w	retroflex, labial:affricate:+voice				
 ɖʐʷː	labialized long voiced retroflex sibilant affricate consonant	+	+	ɖ͡ʐʷː		\t{ɖ͡\textrtailz}\super w\textlengthmark	retroflex, labial:affricate:+voice				
+ɖʐː	long voiced retroflex sibilant affricate consonant		+	ɖ͡ʐː		\t{ɖ͡\textrtailz}\textlengthmark	retroflex:affricate:+voice				
 ɖʰ	aspirated voiced retroflex stop consonant	+	+	ɖʰ		\textrtaild extsuperscript{h}	retroflex:plosive:+voice +spread glottis				
 ɖʰː	aspirated long voiced retroflex stop consonant	+	+	ɖʰː		\textrtaild extsuperscript{h}\textlengthmark	retroflex:plosive:+voice +spread glottis				
 ɖʲ	palatalized voiced retroflex stop consonant	+	+	ɖʲ		\textrtaild\super j	retroflex, palatal:plosive:+voice				
@@ -1609,6 +1607,8 @@ z̫ː	long voiced alveolar whistled-sibilant fricative consonant	+	+	z͎ː		\beg
 ɺ̥ʲ	palatalized devoiced voiced alveolar lateral tap consonant	+	+	ɺ̥ʲ		*\textturnlonglegr\super j	alveolar, palatal:liquid:−voice +lateral				
 ɺ̩	syllabic voiced alveolar lateral tap consonant	+	+	ɺ̩		\textipa{\s{\textturnlonglegr}}	alveolar:liquid:+voice +lateral +syllabic				
 ɺ̩̥	syllabic devoiced voiced alveolar lateral tap consonant	+	+	ɺ̥̩		\textipa{\s{ *\textturnlonglegr}}	alveolar:liquid:−voice +lateral +syllabic				
+ɺ̪̪	voiced dental lateral tap consonant		+	ɺ̪		\textsubbridge{\textturnlonglegr}	dental:liquid:+voice +lateral				
+ɺ̪̪ʲ	palatalized voiced dental lateral tap consonant	+	+	ɺ̪ʲ		\textsubbridge{\textturnlonglegr}\super j	dental, palatal:liquid:+voice +lateral				
 ɻ	voiced retroflex approximant consonant		+	ɻ		\textturnrrtail	retroflex:liquid:+voice −lateral				
 ɻʲ	palatalized voiced retroflex approximant consonant	+	+	ɻʲ		\textturnrrtail\super j	retroflex, palatal:liquid:+voice −lateral				
 ɻ̥	devoiced voiced retroflex approximant consonant	+	+	ɻ̥		*\textturnrrtail	retroflex:liquid:−voice −lateral				
@@ -1681,7 +1681,7 @@ z̫ː	long voiced alveolar whistled-sibilant fricative consonant	+	+	z͎ː		\beg
 ʈʂʲː	palatalized long voiceless retroflex sibilant affricate consonant	+	+	ʈ͡ʂʲː		\t{\textrtailt \textrtails}\super j\textlengthmark	retroflex, palatal:affricate:−voice				
 ʈʂʷ	labialized voiceless retroflex sibilant affricate consonant	+	+	ʈ͡ʂʷ		\t{\textrtailt \textrtails}\super w	retroflex, labial:affricate:−voice				
 ʈʂʷː	labialized long voiceless retroflex sibilant affricate consonant	+	+	ʈ͡ʂʷː		\t{\textrtailt \textrtails}\super w\textlengthmark	retroflex, labial:affricate:−voice				
-ʈʂː	long voiced retroflex sibilant affricate consonant		+	ʈ͡ʂː		\t{\textrtailt \textrtails}\textlengthmark	retroflex:affricate:−voice				
+ʈʂː	long voiceless retroflex sibilant affricate consonant	+	+	ʈ͡ʂː		\t{\textrtailt \textrtails}\textlengthmark	retroflex:affricate:−voice				
 ʈʰ	aspirated voiceless retroflex stop consonant		+	ʈʰ		\textrtailt extsuperscript{h}	retroflex:plosive:−voice +spread glottis				
 ʈʰː	aspirated long voiceless retroflex stop consonant		+	ʈʰː		\textrtailt extsuperscript{h}\textlengthmark	retroflex:plosive:−voice +spread glottis				
 ʈʲ	palatalized voiceless retroflex stop consonant	+	+	ʈʲ		\textrtailt\super j	retroflex, palatal:plosive:−voice				

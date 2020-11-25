@@ -432,7 +432,7 @@ l̩	syllabic voiced alveolar lateral approximant consonant		+	l̩	http://eurasia
 l̪	voiced dental lateral approximant consonant		+	l̪	http://eurasianphonology.info/search_exact?dialects=True&query=l%CC%AA					29	
 l̪ʱ	breathy voiced dental lateral approximant consonant	+	+	l̪ʱ	http://eurasianphonology.info/search_exact?dialects=True&query=l%CC%AA%CA%B1					1	
 l̪ʲ	palatalized voiced dental lateral approximant consonant		+	l̪ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=l%CC%AA%CA%B2					3	
-l̪ˠ	velarized voiced dental lateral approximant consonant	+	+	l̪ˠ	http://eurasianphonology.info/search_exact?dialects=True&query=l%CC%AA%CB%A0					2	
+l̪ˠ	velarized voiced dental lateral approximant consonant		+	l̪ˠ	http://eurasianphonology.info/search_exact?dialects=True&query=l%CC%AA%CB%A0					2	
 l̪̥	devoiced voiced dental lateral approximant consonant		+	l̪̊	http://eurasianphonology.info/search_exact?dialects=True&query=l%CC%AA%CC%8A					1	
 l̺	voiced apical alveolar lateral approximant consonant	+	+	l̺	http://eurasianphonology.info/search_exact?dialects=True&query=l%CC%BA					15	
 l̻	voiced laminal alveolar lateral approximant consonant		+	l̻	http://eurasianphonology.info/search_exact?dialects=True&query=l%CC%BB					6	
@@ -1234,7 +1234,7 @@ gʷ	labialized voiced velar stop consonant		+	ɡʷ	http://eurasianphonology.info
 lˠ	velarized voiced alveolar lateral approximant consonant		+	ɫ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AB					31	
 lˠː	velarized long voiced alveolar lateral approximant consonant	+	+	ɫː	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AB%CB%90					1	
 l̥ˠ	velarized devoiced voiced alveolar lateral approximant consonant	+	+	ɫ̥	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AB%CC%A5					1	
-l̪ˠ	velarized voiced dental lateral approximant consonant	+	+	ɫ̪	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AB%CC%AA					8	
+l̪ˠ	velarized voiced dental lateral approximant consonant		+	ɫ̪	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AB%CC%AA					8	
 l̺ˠ	velarized voiced apical alveolar lateral approximant consonant	+	+	ɫ̺	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AB%CC%BA					3	
 l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AB%CC%BB					1	
 ɬ	voiceless alveolar lateral fricative consonant		+	ɬ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AC					39	
@@ -1246,7 +1246,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	h
 ɬ̪	voiceless dental lateral fricative consonant		+	ɬ̪	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AC%CC%AA					3	
 ɬʼ	voiceless alveolar ejective lateral fricative consonant		+	ɬ’	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AC%E2%80%99					1	
 ɭ	voiced retroflex lateral approximant consonant		+	ɭ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AD					16	
-<NA>	<NA>	+	+	ɭ̥	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AD%CC%A5					1	
+ɭ̊	devoiced voiced retroflex lateral approximant consonant		+	ɭ̥	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AD%CC%A5					1	
 ɮ	voiced alveolar lateral fricative consonant		+	ɮ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AE					4	
 ɮʲ	palatalized voiced alveolar lateral fricative consonant	+	+	ɮʲ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AE%CA%B2					1	
 ɮ’	voiced alveolar ejective lateral fricative consonant	+	+	ɮʼ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AE%CA%BC					1	
@@ -1282,7 +1282,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	h
 ɳ	voiced retroflex nasal consonant		+	ɳ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%B3					36	
 ɳʱ	breathy voiced retroflex nasal consonant	+	+	ɳʱ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%B3%CA%B1					2	
 ɳʲ	palatalized voiced retroflex nasal consonant	+	+	ɳʲ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%B3%CA%B2					1	
-<NA>	<NA>	+	+	ɳ̥	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%B3%CC%A5					1	
+ɳ̊	devoiced voiced retroflex nasal consonant		+	ɳ̥	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%B3%CC%A5					1	
 ɴ	voiced uvular nasal consonant		+	ɴ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%B4					2	
 ɵ	rounded close-mid central vowel		+	ɵ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%B5					19	
 ɵy	from rounded close-mid central to rounded close front diphthong	+	+	ɵy	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%B5y					1	
