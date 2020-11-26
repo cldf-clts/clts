@@ -1,186 +1,186 @@
-BIPA	URL	FEATURES	GRAPHEME
-(?)	https://en.wikipedia.org/wiki/Palatal_lateral_ejective_affricate	Palatal_lateral_ejective_affricate	cʎ̝̥ʼ
-(?)	https://en.wikipedia.org/wiki/Voiced_alveolar_affricate	Voiced_alveolar_affricate	dɹ̝
-(?)	https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_sibilant_affricate	Voiceless_alveolo-palatal_sibilant_affricate	d̠ʑ
-(?)	https://en.wikipedia.org/wiki/Velar_lateral_ejective_affricate	Velar_lateral_ejective_affricate	kʟ̝̊ʼ
-(?)	https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate	Voiceless_alveolar_affricate	tɹ̝̊
-(?)	https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_sibilant_affricate	Voiceless_alveolo-palatal_sibilant_affricate	t̠ɕ
-(?)	https://en.wikipedia.org/wiki/Uvular_flap	Uvular_flap	ɢ̆
-(?)	https://en.wikipedia.org/wiki/Voiceless_retroflex_lateral_fricative	Voiceless_retroflex_lateral_fricative	ɭ̊˔
-(?)	https://en.wikipedia.org/wiki/Retroflex_lateral_flap	Retroflex_lateral_flap	ɺ̢
-(?)	https://en.wikipedia.org/wiki/Voiced_retroflex_non-sibilant_fricative	Voiced_retroflex_non-sibilant_fricative	ɻ˔
-(?)	https://en.wikipedia.org/wiki/Retroflex_trill	Retroflex_trill	ɽɽ
-(?)	https://en.wikipedia.org/wiki/Voiceless_retroflex_trill	Voiceless_retroflex_trill	ɽ̊ɽ̊
-(?)	https://en.wikipedia.org/wiki/Voiceless_palatal_lateral_fricative	Voiceless_palatal_lateral_fricative	ʎ̥˔
-(?)	https://en.wikipedia.org/wiki/Palatal_lateral_flap	Palatal_lateral_flap	ʎ̮
-(?)	https://en.wikipedia.org/wiki/Velar_lateral_flap	Velar_lateral_flap	ʟ̆
-(?)	https://en.wikipedia.org/wiki/Epiglottal_flap	Epiglottal_flap	ʡ̮
-a	https://en.wikipedia.org/wiki/Open_front_unrounded_vowel	Open_front_unrounded_vowel	a
-ä	https://en.wikipedia.org/wiki/Open_central_unrounded_vowel	Open_central_unrounded_vowel	ä
-b	https://en.wikipedia.org/wiki/Voiced_bilabial_stop	Voiced_bilabial_stop	b
-bv	https://en.wikipedia.org/wiki/Voiced_labiodental_affricate	Voiced_labiodental_affricate	b̪v
-b̪	https://en.wikipedia.org/wiki/Voiced_labiodental_stop	Voiced_labiodental_stop	b̪
-bβ	https://en.wikipedia.org/wiki/Voiced_bilabial_affricate	Voiced_bilabial_affricate	bβ
-c	https://en.wikipedia.org/wiki/Voiceless_palatal_stop#Palatal_or_alveolo-palatal	Voiceless_palatal_stop#Palatal_or_alveolo-palatal	c
-cç	https://en.wikipedia.org/wiki/Voiceless_palatal_affricate	Voiceless_palatal_affricate	cç
-ç	https://en.wikipedia.org/wiki/Voiceless_palatal_fricative#Palatal	Voiceless_palatal_fricative#Palatal	ç
-d	https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_stops#Alveolar	Voiced_dental_and_alveolar_stops#Alveolar	d
-dz	https://en.wikipedia.org/wiki/Voiced_alveolar_sibilant_affricate	Voiced_alveolar_sibilant_affricate	dz
-dð	https://en.wikipedia.org/wiki/Voiced_dental_non-sibilant_affricate	Voiced_dental_non-sibilant_affricate	d̪ð
-dɮ	https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_affricate	Voiced_alveolar_lateral_affricate	dɮ
-dʒ	https://en.wikipedia.org/wiki/Voiced_palato-alveolar_sibilant_affricate	Voiced_palato-alveolar_sibilant_affricate	d̠ʒ
-d̼	https://en.wikipedia.org/wiki/Voiced_linguolabial_stop	Voiced_linguolabial_stop	d̼
-e	https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel	Close-mid_front_unrounded_vowel	e
-e̞	https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel	Mid_front_unrounded_vowel	e̞
-f	https://en.wikipedia.org/wiki/Voiceless_labiodental_fricative	Voiceless_labiodental_fricative	f
-g	https://en.wikipedia.org/wiki/Voiced_velar_stop	Voiced_velar_stop	ɡ
-gɣ	https://en.wikipedia.org/wiki/Voiced_velar_affricate	Voiced_velar_affricate	ɡɣ
-h	https://en.wikipedia.org/wiki/Voiceless_glottal_fricative	Voiceless_glottal_fricative	h
-i	https://en.wikipedia.org/wiki/Close_front_unrounded_vowel	Close_front_unrounded_vowel	i
-j	https://en.wikipedia.org/wiki/Palatal_approximant#Palatal	Palatal_approximant#Palatal	j
-j̊	https://en.wikipedia.org/wiki/Voiceless_palatal_approximant	Voiceless_palatal_approximant	j̊
-k	https://en.wikipedia.org/wiki/Voiceless_velar_stop	Voiceless_velar_stop	k
-kx	https://en.wikipedia.org/wiki/Voiceless_velar_affricate	Voiceless_velar_affricate	kx
-kx’	https://en.wikipedia.org/wiki/Velar_ejective_affricate	Velar_ejective_affricate	kxʼ
-l	https://en.wikipedia.org/wiki/Alveolar_lateral_approximant	Alveolar_lateral_approximant	l
-l̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_lateral_approximant	Voiceless_alveolar_lateral_approximant	l̥
-m	https://en.wikipedia.org/wiki/Bilabial_nasal	Bilabial_nasal	m
-m̥	https://en.wikipedia.org/wiki/Voiceless_bilabial_nasal	Voiceless_bilabial_nasal	m̥
-n	https://en.wikipedia.org/wiki/Dental,_alveolar_and_postalveolar_nasals#Alveolar	Dental,_alveolar_and_postalveolar_nasals#Alveolar	n
-n̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_nasal	Voiceless_alveolar_nasal	n̥
-n̼	https://en.wikipedia.org/wiki/Linguolabial_nasal	Linguolabial_nasal	n̼
-o	https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel	Close-mid_back_rounded_vowel	o
-o̞	https://en.wikipedia.org/wiki/Mid_back_rounded_vowel	Mid_back_rounded_vowel	o̞
-p	https://en.wikipedia.org/wiki/Voiceless_bilabial_stop	Voiceless_bilabial_stop	p
-pf	https://en.wikipedia.org/wiki/Voiceless_labiodental_affricate	Voiceless_labiodental_affricate	p̪f
-pɸ	https://en.wikipedia.org/wiki/Voiceless_bilabial_affricate	Voiceless_bilabial_affricate	pɸ
-p̪	https://en.wikipedia.org/wiki/Voiceless_labiodental_stop	Voiceless_labiodental_stop	p̪
-q	https://en.wikipedia.org/wiki/Voiceless_uvular_stop	Voiceless_uvular_stop	q
-qχ	https://en.wikipedia.org/wiki/Voiceless_uvular_affricate	Voiceless_uvular_affricate	qχ
-qχ’	https://en.wikipedia.org/wiki/Uvular_ejective_affricate	Uvular_ejective_affricate	qχʼ
-r	https://en.wikipedia.org/wiki/Alveolar_trill	Alveolar_trill	r
-r̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_trill	Voiceless_alveolar_trill	r̥
-r̼	https://en.wikipedia.org/wiki/Linguolabial_trill	Linguolabial_trill	r̼
-s	https://en.wikipedia.org/wiki/Voiceless_alveolar_fricative#Voiceless_alveolar_sibilant	Voiceless_alveolar_fricative#Voiceless_alveolar_sibilant	s
-t	https://en.wikipedia.org/wiki/Voiceless_dental_and_alveolar_stops#Alveolar	Voiceless_dental_and_alveolar_stops#Alveolar	t
-ts	https://en.wikipedia.org/wiki/Voiceless_alveolar_sibilant_affricate	Voiceless_alveolar_sibilant_affricate	ts
-tsʼ	https://en.wikipedia.org/wiki/Alveolar_ejective_affricate	Alveolar_ejective_affricate	tsʼ
-tɬ	https://en.wikipedia.org/wiki/Voiceless_alveolar_lateral_affricate	Voiceless_alveolar_lateral_affricate	tɬ
-tɬʼ	https://en.wikipedia.org/wiki/Alveolar_lateral_ejective_affricate	Alveolar_lateral_ejective_affricate	tɬʼ
-tʃ	https://en.wikipedia.org/wiki/Voiceless_palato-alveolar_sibilant_affricate	Voiceless_palato-alveolar_sibilant_affricate	t̠ʃ
-tʃʼ	https://en.wikipedia.org/wiki/Palato-alveolar_ejective_affricate	Palato-alveolar_ejective_affricate	t̠ʃʼ
-t̼	https://en.wikipedia.org/wiki/Voiceless_linguolabial_stop	Voiceless_linguolabial_stop	t̼
-tθ	https://en.wikipedia.org/wiki/Voiceless_dental_non-sibilant_affricate	Voiceless_dental_non-sibilant_affricate	t̪θ
-u	https://en.wikipedia.org/wiki/Close_back_rounded_vowel	Close_back_rounded_vowel	u
-v	https://en.wikipedia.org/wiki/Voiced_labiodental_fricative	Voiced_labiodental_fricative	v
-x	https://en.wikipedia.org/wiki/Voiceless_velar_fricative	Voiceless_velar_fricative	x
-y	https://en.wikipedia.org/wiki/Close_front_rounded_vowel	Close_front_rounded_vowel	y
-z	https://en.wikipedia.org/wiki/Voiced_alveolar_fricative#Voiced_alveolar_sibilant	Voiced_alveolar_fricative#Voiced_alveolar_sibilant	z
-æ	https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel	Near-open_front_unrounded_vowel	æ
-ð	https://en.wikipedia.org/wiki/Voiced_dental_fricative	Voiced_dental_fricative	ð
-ð̠	https://en.wikipedia.org/wiki/Voiced_alveolar_non-sibilant_fricative	Voiced_alveolar_non-sibilant_fricative	ð̠
-ð̼	https://en.wikipedia.org/wiki/Voiced_linguolabial_fricative	Voiced_linguolabial_fricative	ð̼
-ø	https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel	Close-mid_front_rounded_vowel	ø
-ø̞	https://en.wikipedia.org/wiki/Mid_front_rounded_vowel	Mid_front_rounded_vowel	ø̞
-ħ	https://en.wikipedia.org/wiki/Voiceless_pharyngeal_fricative	Voiceless_pharyngeal_fricative	ħ
-ŋ	https://en.wikipedia.org/wiki/Velar_nasal	Velar_nasal	ŋ
-ŋ̊	https://en.wikipedia.org/wiki/Voiceless_velar_nasal	Voiceless_velar_nasal	ŋ̊
-œ	https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel	Open-mid_front_rounded_vowel	œ
-ɐ	https://en.wikipedia.org/wiki/Near-open_central_unrounded_vowel	Near-open_central_unrounded_vowel	ɐ
-ɑ	https://en.wikipedia.org/wiki/Open_back_unrounded_vowel	Open_back_unrounded_vowel	ɑ
-ɒ	https://en.wikipedia.org/wiki/Open_back_rounded_vowel	Open_back_rounded_vowel	ɒ
-ɒ̈	https://en.wikipedia.org/wiki/Open_central_rounded_vowel	Open_central_rounded_vowel	ɒ̈
-ɔ	https://en.wikipedia.org/wiki/Open-mid_back_rounded_vowel	Open-mid_back_rounded_vowel	ɔ
-ɕ	https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative	Voiceless_alveolo-palatal_fricative	ɕ
-ɖ	https://en.wikipedia.org/wiki/Voiced_retroflex_stop	Voiced_retroflex_stop	ɖ
-ɖʐ	https://en.wikipedia.org/wiki/Voiced_retroflex_sibilant_affricate	Voiced_retroflex_sibilant_affricate	ɖʐ
-ɘ	https://en.wikipedia.org/wiki/Close-mid_central_unrounded_vowel	Close-mid_central_unrounded_vowel	ɘ
-ə	https://en.wikipedia.org/wiki/Mid_central_vowel#Mid_central_unrounded_vowel	Mid_central_vowel#Mid_central_unrounded_vowel	ə
-ɛ	https://en.wikipedia.org/wiki/Open-mid_front_unrounded_vowel	Open-mid_front_unrounded_vowel	ɛ
-ɜ	https://en.wikipedia.org/wiki/Open-mid_central_unrounded_vowel	Open-mid_central_unrounded_vowel	ɜ
-ɞ	https://en.wikipedia.org/wiki/Open-mid_central_rounded_vowel	Open-mid_central_rounded_vowel	ɞ
-ɞ̞	https://en.wikipedia.org/wiki/Near-open_central_rounded_vowel	Near-open_central_rounded_vowel	ɞ̞
-ɟ	https://en.wikipedia.org/wiki/Voiced_palatal_stop#Palatal_or_alveolo-palatal	Voiced_palatal_stop#Palatal_or_alveolo-palatal	ɟ
-ɟʝ	https://en.wikipedia.org/wiki/Voiced_palatal_affricate	Voiced_palatal_affricate	ɟʝ
-ɢ	https://en.wikipedia.org/wiki/Voiced_uvular_stop	Voiced_uvular_stop	ɢ
-ɣ	https://en.wikipedia.org/wiki/Voiced_velar_fricative	Voiced_velar_fricative	ɣ
-ɤ	https://en.wikipedia.org/wiki/Close-mid_back_unrounded_vowel	Close-mid_back_unrounded_vowel	ɤ
-ɤ̞	https://en.wikipedia.org/wiki/Mid_back_unrounded_vowel	Mid_back_unrounded_vowel	ɤ̞
-ɦ	https://en.wikipedia.org/wiki/Voiced_glottal_fricative	Voiced_glottal_fricative	ɦ
-ɨ	https://en.wikipedia.org/wiki/Close_central_unrounded_vowel	Close_central_unrounded_vowel	ɨ
-ɪ	https://en.wikipedia.org/wiki/Near-close_near-front_unrounded_vowel	Near-close_near-front_unrounded_vowel	ɪ
-ɪ̈	https://en.wikipedia.org/wiki/Near-close_central_unrounded_vowel	Near-close_central_unrounded_vowel	ɪ̈
-ɬ	https://en.wikipedia.org/wiki/Voiceless_alveolar_lateral_fricative	Voiceless_alveolar_lateral_fricative	ɬ
-ɭ	https://en.wikipedia.org/wiki/Retroflex_lateral_approximant	Retroflex_lateral_approximant	ɭ
-ɭ̊	https://en.wikipedia.org/wiki/Voiceless_retroflex_lateral_approximant	Voiceless_retroflex_lateral_approximant	ɭ̊
-ɮ	https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_fricative	Voiced_alveolar_lateral_fricative	ɮ
-ɯ	https://en.wikipedia.org/wiki/Close_back_unrounded_vowel	Close_back_unrounded_vowel	ɯ
-ɯ̽	https://en.wikipedia.org/wiki/Near-close_near-back_unrounded_vowel	Near-close_near-back_unrounded_vowel	ɯ̽
-ɰ	https://en.wikipedia.org/wiki/Voiced_velar_approximant	Voiced_velar_approximant	ɰ
-ɰ̥	https://en.wikipedia.org/wiki/Voiceless_velar_approximant	Voiceless_velar_approximant	ɰ̊
-ɱ	https://en.wikipedia.org/wiki/Labiodental_nasal	Labiodental_nasal	ɱ
-ɲ	https://en.wikipedia.org/wiki/Palatal_nasal#Palatal_or_alveolo-palatal	Palatal_nasal#Palatal_or_alveolo-palatal	ɲ
-ɲ̊	https://en.wikipedia.org/wiki/Voiceless_palatal_nasal	Voiceless_palatal_nasal	ɲ̊
-ɳ	https://en.wikipedia.org/wiki/Retroflex_nasal	Retroflex_nasal	ɳ
-ɳ̊	https://en.wikipedia.org/wiki/Voiceless_retroflex_nasal	Voiceless_retroflex_nasal	ɳ̊
-ɴ	https://en.wikipedia.org/wiki/Uvular_nasal	Uvular_nasal	ɴ
-ɵ	https://en.wikipedia.org/wiki/Close-mid_central_rounded_vowel	Close-mid_central_rounded_vowel	ɵ
-ɵ̞	https://en.wikipedia.org/wiki/Mid_central_vowel#Mid_central_rounded_vowel	Mid_central_vowel#Mid_central_rounded_vowel	ɵ̞
-ɶ	https://en.wikipedia.org/wiki/Open_front_rounded_vowel	Open_front_rounded_vowel	ɶ
-ɸ	https://en.wikipedia.org/wiki/Voiceless_bilabial_fricative	Voiceless_bilabial_fricative	ɸ
-ɹ	https://en.wikipedia.org/wiki/Alveolar_approximant	Alveolar_approximant	ɹ
-ɹ̠˔	https://en.wikipedia.org/wiki/Voiced_postalveolar_non-sibilant_fricative	Voiced_postalveolar_non-sibilant_fricative	ɹ̠˔
-ɹ̠̊˔	https://en.wikipedia.org/wiki/Voiceless_postalveolar_non-sibilant_fricative	Voiceless_postalveolar_non-sibilant_fricative	ɹ̠̊˔
-ɹ̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_approximant	Voiceless_alveolar_approximant	ɹ̥
-ɺ	https://en.wikipedia.org/wiki/Alveolar_lateral_flap	Alveolar_lateral_flap	ɺ
-ɻ	https://en.wikipedia.org/wiki/Retroflex_approximant	Retroflex_approximant	ɻ
-ɻ̥	https://en.wikipedia.org/wiki/Voiceless_retroflex_approximant	Voiceless_retroflex_approximant	ɻ̊
-ɽ	https://en.wikipedia.org/wiki/Retroflex_flap	Retroflex_flap	ɽ
-ɽ̥	https://en.wikipedia.org/wiki/Voiceless_retroflex_flap	Voiceless_retroflex_flap	ɽ̊
-ɾ	https://en.wikipedia.org/wiki/Alveolar_flap	Alveolar_flap	ɾ
-ɾ̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_flap	Voiceless_alveolar_flap	ɾ̥
-ɾ̼	https://en.wikipedia.org/wiki/Linguolabial_tap	Linguolabial_tap	ɾ̼
-ʀ	https://en.wikipedia.org/wiki/Uvular_trill	Uvular_trill	ʀ
-ʀ̥	https://en.wikipedia.org/wiki/Voiceless_uvular_trill	Voiceless_uvular_trill	ʀ̥
-ʁ	https://en.wikipedia.org/wiki/Voiced_uvular_fricative	Voiced_uvular_fricative	ʁ
-ʂ	https://en.wikipedia.org/wiki/Voiceless_retroflex_fricative	Voiceless_retroflex_fricative	ʂ
-ʃ	https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative	Voiceless_postalveolar_fricative	ʃ
-ʈ	https://en.wikipedia.org/wiki/Voiceless_retroflex_stop	Voiceless_retroflex_stop	ʈ
-ʈʂ	https://en.wikipedia.org/wiki/Voiceless_retroflex_sibilant_affricate	Voiceless_retroflex_sibilant_affricate	ʈʂ
-ʈʂ’	https://en.wikipedia.org/wiki/Retroflex_ejective_affricate	Retroflex_ejective_affricate	ʈʂʼ
-ʉ	https://en.wikipedia.org/wiki/Close_central_rounded_vowel	Close_central_rounded_vowel	ʉ
-ʊ	https://en.wikipedia.org/wiki/Near-close_near-back_rounded_vowel	Near-close_near-back_rounded_vowel	ʊ
-ʊ̈	https://en.wikipedia.org/wiki/Near-close_central_rounded_vowel	Near-close_central_rounded_vowel	ʊ̈
-ʋ	https://en.wikipedia.org/wiki/Labiodental_approximant	Labiodental_approximant	ʋ
-ʋ̥	https://en.wikipedia.org/wiki/Voiceless_labiodental_approximant	Voiceless_labiodental_approximant	ʋ̥
-ʌ	https://en.wikipedia.org/wiki/Open-mid_back_unrounded_vowel	Open-mid_back_unrounded_vowel	ʌ
-ʎ	https://en.wikipedia.org/wiki/Palatal_lateral_approximant	Palatal_lateral_approximant	ʎ
-ʎ̝	https://en.wikipedia.org/wiki/Voiced_palatal_lateral_fricative	Voiced_palatal_lateral_fricative	ʎ̝
-ʎ̥	https://en.wikipedia.org/wiki/Voiceless_palatal_lateral_approximant	Voiceless_palatal_lateral_approximant	ʎ̥
-ʏ	https://en.wikipedia.org/wiki/Near-close_near-front_rounded_vowel	Near-close_near-front_rounded_vowel	ʏ
-ʐ	https://en.wikipedia.org/wiki/Voiced_retroflex_fricative	Voiced_retroflex_fricative	ʐ
-ʑ	https://en.wikipedia.org/wiki/Voiced_alveolo-palatal_fricative	Voiced_alveolo-palatal_fricative	ʑ
-ʒ	https://en.wikipedia.org/wiki/Voiced_postalveolar_fricative	Voiced_postalveolar_fricative	ʒ
-ʔ	https://en.wikipedia.org/wiki/Glottal_stop	Glottal_stop	ʔ
-ʔh	https://en.wikipedia.org/wiki/Voiceless_glottal_affricate	Voiceless_glottal_affricate	ʔh
-ʔ̞	https://en.wikipedia.org/wiki/Creaky-voiced_glottal_approximant	Creaky-voiced_glottal_approximant	ʔ̞
-ʕ	https://en.wikipedia.org/wiki/Voiced_pharyngeal_fricative	Voiced_pharyngeal_fricative	ʕ
-ʙ	https://en.wikipedia.org/wiki/Bilabial_trill	Bilabial_trill	ʙ
-ʙ̥	https://en.wikipedia.org/wiki/Voiceless_bilabial_trill	Voiceless_bilabial_trill	ʙ̥
-ʜ	https://en.wikipedia.org/wiki/Voiceless_epiglottal_trill	Voiceless_epiglottal_trill	ʜ
-ʝ	https://en.wikipedia.org/wiki/Voiced_palatal_fricative#Palatal	Voiced_palatal_fricative#Palatal	ʝ
-ʟ	https://en.wikipedia.org/wiki/Velar_lateral_approximant	Velar_lateral_approximant	ʟ
-ʟ̝	https://en.wikipedia.org/wiki/Voiced_velar_lateral_fricative	Voiced_velar_lateral_fricative	ʟ̝
-ʟ̝̥	https://en.wikipedia.org/wiki/Voiceless_velar_lateral_fricative	Voiceless_velar_lateral_fricative	ʟ̝̊
-ʟ̠	https://en.wikipedia.org/wiki/Uvular_lateral_approximant	Uvular_lateral_approximant	ʟ̠
-ʟ̥	https://en.wikipedia.org/wiki/Voiceless_velar_lateral_approximant	Voiceless_velar_lateral_approximant	ʟ̥
-ʡ	https://en.wikipedia.org/wiki/Epiglottal_stop	Epiglottal_stop	ʡ
-ʢ	https://en.wikipedia.org/wiki/Voiced_epiglottal_trill	Voiced_epiglottal_trill	ʢ
-ʢ	https://en.wikipedia.org/wiki/Voiced_epiglottal_trill	Voiced_epiglottal_trill	ʢ
-β	https://en.wikipedia.org/wiki/Voiced_bilabial_fricative	Voiced_bilabial_fricative	β
-θ	https://en.wikipedia.org/wiki/Voiceless_dental_fricative	Voiceless_dental_fricative	θ
-θ̠	https://en.wikipedia.org/wiki/Voiceless_alveolar_non-sibilant_fricative	Voiceless_alveolar_non-sibilant_fricative	θ̠
-θ̼	https://en.wikipedia.org/wiki/Voiceless_linguolabial_fricative	Voiceless_linguolabial_fricative	θ̼
-χ	https://en.wikipedia.org/wiki/Voiceless_uvular_fricative	Voiceless_uvular_fricative	χ
-ⱱ	https://en.wikipedia.org/wiki/Labiodental_flap	Labiodental_flap	ⱱ
-ⱱ̟	https://en.wikipedia.org/wiki/Bilabial_flap	Bilabial_flap	ⱱ̟
+BIPA	URL	FEATURES	GRAPHEME	SYMBOLS
+<NA>	https://en.wikipedia.org/wiki/Palatal_lateral_ejective_affricate	Palatal_lateral_ejective_affricate	cʎ̝̥ʼ	
+<NA>	https://en.wikipedia.org/wiki/Voiced_alveolar_affricate	Voiced_alveolar_affricate	dɹ̝	
+<NA>	https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_sibilant_affricate	Voiceless_alveolo-palatal_sibilant_affricate	d̠ʑ	
+<NA>	https://en.wikipedia.org/wiki/Velar_lateral_ejective_affricate	Velar_lateral_ejective_affricate	kʟ̝̊ʼ	
+<NA>	https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate	Voiceless_alveolar_affricate	tɹ̝̊	
+<NA>	https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_sibilant_affricate	Voiceless_alveolo-palatal_sibilant_affricate	t̠ɕ	
+<NA>	https://en.wikipedia.org/wiki/Uvular_flap	Uvular_flap	ɢ̆	
+<NA>	https://en.wikipedia.org/wiki/Voiceless_retroflex_lateral_fricative	Voiceless_retroflex_lateral_fricative	ɭ̊˔	
+<NA>	https://en.wikipedia.org/wiki/Retroflex_lateral_flap	Retroflex_lateral_flap	ɺ̢	
+<NA>	https://en.wikipedia.org/wiki/Voiced_retroflex_non-sibilant_fricative	Voiced_retroflex_non-sibilant_fricative	ɻ˔	
+<NA>	https://en.wikipedia.org/wiki/Retroflex_trill	Retroflex_trill	ɽɽ	
+<NA>	https://en.wikipedia.org/wiki/Voiceless_retroflex_trill	Voiceless_retroflex_trill	ɽ̊ɽ̊	
+<NA>	https://en.wikipedia.org/wiki/Voiceless_palatal_lateral_fricative	Voiceless_palatal_lateral_fricative	ʎ̥˔	
+<NA>	https://en.wikipedia.org/wiki/Palatal_lateral_flap	Palatal_lateral_flap	ʎ̮	
+<NA>	https://en.wikipedia.org/wiki/Velar_lateral_flap	Velar_lateral_flap	ʟ̆	
+<NA>	https://en.wikipedia.org/wiki/Epiglottal_flap	Epiglottal_flap	ʡ̮	
+a	https://en.wikipedia.org/wiki/Open_front_unrounded_vowel	Open_front_unrounded_vowel	a	◌a
+ä	https://en.wikipedia.org/wiki/Open_central_unrounded_vowel	Open_central_unrounded_vowel	ä	◌a ◌̈
+b	https://en.wikipedia.org/wiki/Voiced_bilabial_stop	Voiced_bilabial_stop	b	◌b
+bv	https://en.wikipedia.org/wiki/Voiced_labiodental_affricate	Voiced_labiodental_affricate	b̪v	◌b ◌v
+b̪	https://en.wikipedia.org/wiki/Voiced_labiodental_stop	Voiced_labiodental_stop	b̪	◌b ◌̪
+bβ	https://en.wikipedia.org/wiki/Voiced_bilabial_affricate	Voiced_bilabial_affricate	bβ	◌b ◌β
+c	https://en.wikipedia.org/wiki/Voiceless_palatal_stop#Palatal_or_alveolo-palatal	Voiceless_palatal_stop#Palatal_or_alveolo-palatal	c	◌c
+cç	https://en.wikipedia.org/wiki/Voiceless_palatal_affricate	Voiceless_palatal_affricate	cç	◌c ◌c ◌̧
+ç	https://en.wikipedia.org/wiki/Voiceless_palatal_fricative#Palatal	Voiceless_palatal_fricative#Palatal	ç	◌c ◌̧
+d	https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_stops#Alveolar	Voiced_dental_and_alveolar_stops#Alveolar	d	◌d
+dz	https://en.wikipedia.org/wiki/Voiced_alveolar_sibilant_affricate	Voiced_alveolar_sibilant_affricate	dz	◌d ◌z
+dð	https://en.wikipedia.org/wiki/Voiced_dental_non-sibilant_affricate	Voiced_dental_non-sibilant_affricate	d̪ð	◌d ◌ð
+dɮ	https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_affricate	Voiced_alveolar_lateral_affricate	dɮ	◌d ◌ɮ
+dʒ	https://en.wikipedia.org/wiki/Voiced_palato-alveolar_sibilant_affricate	Voiced_palato-alveolar_sibilant_affricate	d̠ʒ	◌d ◌ʒ
+d̼	https://en.wikipedia.org/wiki/Voiced_linguolabial_stop	Voiced_linguolabial_stop	d̼	◌d ◌̼
+e	https://en.wikipedia.org/wiki/Close-mid_front_unrounded_vowel	Close-mid_front_unrounded_vowel	e	◌e
+e̞	https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel	Mid_front_unrounded_vowel	e̞	◌e ◌̞
+f	https://en.wikipedia.org/wiki/Voiceless_labiodental_fricative	Voiceless_labiodental_fricative	f	◌f
+g	https://en.wikipedia.org/wiki/Voiced_velar_stop	Voiced_velar_stop	ɡ	◌g
+gɣ	https://en.wikipedia.org/wiki/Voiced_velar_affricate	Voiced_velar_affricate	ɡɣ	◌g ◌ɣ
+h	https://en.wikipedia.org/wiki/Voiceless_glottal_fricative	Voiceless_glottal_fricative	h	◌h
+i	https://en.wikipedia.org/wiki/Close_front_unrounded_vowel	Close_front_unrounded_vowel	i	◌i
+j	https://en.wikipedia.org/wiki/Palatal_approximant#Palatal	Palatal_approximant#Palatal	j	◌j
+j̊	https://en.wikipedia.org/wiki/Voiceless_palatal_approximant	Voiceless_palatal_approximant	j̊	◌j ◌̊
+k	https://en.wikipedia.org/wiki/Voiceless_velar_stop	Voiceless_velar_stop	k	◌k
+kx	https://en.wikipedia.org/wiki/Voiceless_velar_affricate	Voiceless_velar_affricate	kx	◌k ◌x
+kx’	https://en.wikipedia.org/wiki/Velar_ejective_affricate	Velar_ejective_affricate	kxʼ	◌k ◌x ◌’
+l	https://en.wikipedia.org/wiki/Alveolar_lateral_approximant	Alveolar_lateral_approximant	l	◌l
+l̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_lateral_approximant	Voiceless_alveolar_lateral_approximant	l̥	◌l ◌̥
+m	https://en.wikipedia.org/wiki/Bilabial_nasal	Bilabial_nasal	m	◌m
+m̥	https://en.wikipedia.org/wiki/Voiceless_bilabial_nasal	Voiceless_bilabial_nasal	m̥	◌m ◌̥
+n	https://en.wikipedia.org/wiki/Dental,_alveolar_and_postalveolar_nasals#Alveolar	Dental,_alveolar_and_postalveolar_nasals#Alveolar	n	◌n
+n̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_nasal	Voiceless_alveolar_nasal	n̥	◌n ◌̥
+n̼	https://en.wikipedia.org/wiki/Linguolabial_nasal	Linguolabial_nasal	n̼	◌n ◌̼
+o	https://en.wikipedia.org/wiki/Close-mid_back_rounded_vowel	Close-mid_back_rounded_vowel	o	◌o
+o̞	https://en.wikipedia.org/wiki/Mid_back_rounded_vowel	Mid_back_rounded_vowel	o̞	◌o ◌̞
+p	https://en.wikipedia.org/wiki/Voiceless_bilabial_stop	Voiceless_bilabial_stop	p	◌p
+pf	https://en.wikipedia.org/wiki/Voiceless_labiodental_affricate	Voiceless_labiodental_affricate	p̪f	◌p ◌f
+pɸ	https://en.wikipedia.org/wiki/Voiceless_bilabial_affricate	Voiceless_bilabial_affricate	pɸ	◌p ◌ɸ
+p̪	https://en.wikipedia.org/wiki/Voiceless_labiodental_stop	Voiceless_labiodental_stop	p̪	◌p ◌̪
+q	https://en.wikipedia.org/wiki/Voiceless_uvular_stop	Voiceless_uvular_stop	q	◌q
+qχ	https://en.wikipedia.org/wiki/Voiceless_uvular_affricate	Voiceless_uvular_affricate	qχ	◌q ◌χ
+qχ’	https://en.wikipedia.org/wiki/Uvular_ejective_affricate	Uvular_ejective_affricate	qχʼ	◌q ◌χ ◌’
+r	https://en.wikipedia.org/wiki/Alveolar_trill	Alveolar_trill	r	◌r
+r̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_trill	Voiceless_alveolar_trill	r̥	◌r ◌̥
+r̼	https://en.wikipedia.org/wiki/Linguolabial_trill	Linguolabial_trill	r̼	◌r ◌̼
+s	https://en.wikipedia.org/wiki/Voiceless_alveolar_fricative#Voiceless_alveolar_sibilant	Voiceless_alveolar_fricative#Voiceless_alveolar_sibilant	s	◌s
+t	https://en.wikipedia.org/wiki/Voiceless_dental_and_alveolar_stops#Alveolar	Voiceless_dental_and_alveolar_stops#Alveolar	t	◌t
+ts	https://en.wikipedia.org/wiki/Voiceless_alveolar_sibilant_affricate	Voiceless_alveolar_sibilant_affricate	ts	◌t ◌s
+tsʼ	https://en.wikipedia.org/wiki/Alveolar_ejective_affricate	Alveolar_ejective_affricate	tsʼ	◌t ◌s ◌ʼ
+tɬ	https://en.wikipedia.org/wiki/Voiceless_alveolar_lateral_affricate	Voiceless_alveolar_lateral_affricate	tɬ	◌t ◌ɬ
+tɬʼ	https://en.wikipedia.org/wiki/Alveolar_lateral_ejective_affricate	Alveolar_lateral_ejective_affricate	tɬʼ	◌t ◌ɬ ◌ʼ
+tʃ	https://en.wikipedia.org/wiki/Voiceless_palato-alveolar_sibilant_affricate	Voiceless_palato-alveolar_sibilant_affricate	t̠ʃ	◌t ◌ʃ
+tʃʼ	https://en.wikipedia.org/wiki/Palato-alveolar_ejective_affricate	Palato-alveolar_ejective_affricate	t̠ʃʼ	◌t ◌ʃ ◌ʼ
+t̼	https://en.wikipedia.org/wiki/Voiceless_linguolabial_stop	Voiceless_linguolabial_stop	t̼	◌t ◌̼
+tθ	https://en.wikipedia.org/wiki/Voiceless_dental_non-sibilant_affricate	Voiceless_dental_non-sibilant_affricate	t̪θ	◌t ◌θ
+u	https://en.wikipedia.org/wiki/Close_back_rounded_vowel	Close_back_rounded_vowel	u	◌u
+v	https://en.wikipedia.org/wiki/Voiced_labiodental_fricative	Voiced_labiodental_fricative	v	◌v
+x	https://en.wikipedia.org/wiki/Voiceless_velar_fricative	Voiceless_velar_fricative	x	◌x
+y	https://en.wikipedia.org/wiki/Close_front_rounded_vowel	Close_front_rounded_vowel	y	◌y
+z	https://en.wikipedia.org/wiki/Voiced_alveolar_fricative#Voiced_alveolar_sibilant	Voiced_alveolar_fricative#Voiced_alveolar_sibilant	z	◌z
+æ	https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel	Near-open_front_unrounded_vowel	æ	◌æ
+ð	https://en.wikipedia.org/wiki/Voiced_dental_fricative	Voiced_dental_fricative	ð	◌ð
+ð̠	https://en.wikipedia.org/wiki/Voiced_alveolar_non-sibilant_fricative	Voiced_alveolar_non-sibilant_fricative	ð̠	◌ð ◌̠
+ð̼	https://en.wikipedia.org/wiki/Voiced_linguolabial_fricative	Voiced_linguolabial_fricative	ð̼	◌ð ◌̼
+ø	https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel	Close-mid_front_rounded_vowel	ø	◌ø
+ø̞	https://en.wikipedia.org/wiki/Mid_front_rounded_vowel	Mid_front_rounded_vowel	ø̞	◌ø ◌̞
+ħ	https://en.wikipedia.org/wiki/Voiceless_pharyngeal_fricative	Voiceless_pharyngeal_fricative	ħ	◌ħ
+ŋ	https://en.wikipedia.org/wiki/Velar_nasal	Velar_nasal	ŋ	◌ŋ
+ŋ̊	https://en.wikipedia.org/wiki/Voiceless_velar_nasal	Voiceless_velar_nasal	ŋ̊	◌ŋ ◌̊
+œ	https://en.wikipedia.org/wiki/Open-mid_front_rounded_vowel	Open-mid_front_rounded_vowel	œ	◌œ
+ɐ	https://en.wikipedia.org/wiki/Near-open_central_unrounded_vowel	Near-open_central_unrounded_vowel	ɐ	◌ɐ
+ɑ	https://en.wikipedia.org/wiki/Open_back_unrounded_vowel	Open_back_unrounded_vowel	ɑ	◌ɑ
+ɒ	https://en.wikipedia.org/wiki/Open_back_rounded_vowel	Open_back_rounded_vowel	ɒ	◌ɒ
+ɒ̈	https://en.wikipedia.org/wiki/Open_central_rounded_vowel	Open_central_rounded_vowel	ɒ̈	◌ɒ ◌̈
+ɔ	https://en.wikipedia.org/wiki/Open-mid_back_rounded_vowel	Open-mid_back_rounded_vowel	ɔ	◌ɔ
+ɕ	https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_fricative	Voiceless_alveolo-palatal_fricative	ɕ	◌ɕ
+ɖ	https://en.wikipedia.org/wiki/Voiced_retroflex_stop	Voiced_retroflex_stop	ɖ	◌ɖ
+ɖʐ	https://en.wikipedia.org/wiki/Voiced_retroflex_sibilant_affricate	Voiced_retroflex_sibilant_affricate	ɖʐ	◌ɖ ◌ʐ
+ɘ	https://en.wikipedia.org/wiki/Close-mid_central_unrounded_vowel	Close-mid_central_unrounded_vowel	ɘ	◌ɘ
+ə	https://en.wikipedia.org/wiki/Mid_central_vowel#Mid_central_unrounded_vowel	Mid_central_vowel#Mid_central_unrounded_vowel	ə	◌ə
+ɛ	https://en.wikipedia.org/wiki/Open-mid_front_unrounded_vowel	Open-mid_front_unrounded_vowel	ɛ	◌ɛ
+ɜ	https://en.wikipedia.org/wiki/Open-mid_central_unrounded_vowel	Open-mid_central_unrounded_vowel	ɜ	◌ɜ
+ɞ	https://en.wikipedia.org/wiki/Open-mid_central_rounded_vowel	Open-mid_central_rounded_vowel	ɞ	◌ɞ
+ɞ̞	https://en.wikipedia.org/wiki/Near-open_central_rounded_vowel	Near-open_central_rounded_vowel	ɞ̞	◌ɞ ◌̞
+ɟ	https://en.wikipedia.org/wiki/Voiced_palatal_stop#Palatal_or_alveolo-palatal	Voiced_palatal_stop#Palatal_or_alveolo-palatal	ɟ	◌ɟ
+ɟʝ	https://en.wikipedia.org/wiki/Voiced_palatal_affricate	Voiced_palatal_affricate	ɟʝ	◌ɟ ◌ʝ
+ɢ	https://en.wikipedia.org/wiki/Voiced_uvular_stop	Voiced_uvular_stop	ɢ	◌ɢ
+ɣ	https://en.wikipedia.org/wiki/Voiced_velar_fricative	Voiced_velar_fricative	ɣ	◌ɣ
+ɤ	https://en.wikipedia.org/wiki/Close-mid_back_unrounded_vowel	Close-mid_back_unrounded_vowel	ɤ	◌ɤ
+ɤ̞	https://en.wikipedia.org/wiki/Mid_back_unrounded_vowel	Mid_back_unrounded_vowel	ɤ̞	◌ɤ ◌̞
+ɦ	https://en.wikipedia.org/wiki/Voiced_glottal_fricative	Voiced_glottal_fricative	ɦ	◌ɦ
+ɨ	https://en.wikipedia.org/wiki/Close_central_unrounded_vowel	Close_central_unrounded_vowel	ɨ	◌ɨ
+ɪ	https://en.wikipedia.org/wiki/Near-close_near-front_unrounded_vowel	Near-close_near-front_unrounded_vowel	ɪ	◌ɪ
+ɪ̈	https://en.wikipedia.org/wiki/Near-close_central_unrounded_vowel	Near-close_central_unrounded_vowel	ɪ̈	◌ɪ ◌̈
+ɬ	https://en.wikipedia.org/wiki/Voiceless_alveolar_lateral_fricative	Voiceless_alveolar_lateral_fricative	ɬ	◌ɬ
+ɭ	https://en.wikipedia.org/wiki/Retroflex_lateral_approximant	Retroflex_lateral_approximant	ɭ	◌ɭ
+ɭ̊	https://en.wikipedia.org/wiki/Voiceless_retroflex_lateral_approximant	Voiceless_retroflex_lateral_approximant	ɭ̊	◌ɭ ◌̊
+ɮ	https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_fricative	Voiced_alveolar_lateral_fricative	ɮ	◌ɮ
+ɯ	https://en.wikipedia.org/wiki/Close_back_unrounded_vowel	Close_back_unrounded_vowel	ɯ	◌ɯ
+ɯ̽	https://en.wikipedia.org/wiki/Near-close_near-back_unrounded_vowel	Near-close_near-back_unrounded_vowel	ɯ̽	◌ɯ ◌̽
+ɰ	https://en.wikipedia.org/wiki/Voiced_velar_approximant	Voiced_velar_approximant	ɰ	◌ɰ
+ɰ̥	https://en.wikipedia.org/wiki/Voiceless_velar_approximant	Voiceless_velar_approximant	ɰ̊	◌ɰ ◌̥
+ɱ	https://en.wikipedia.org/wiki/Labiodental_nasal	Labiodental_nasal	ɱ	◌ɱ
+ɲ	https://en.wikipedia.org/wiki/Palatal_nasal#Palatal_or_alveolo-palatal	Palatal_nasal#Palatal_or_alveolo-palatal	ɲ	◌ɲ
+ɲ̊	https://en.wikipedia.org/wiki/Voiceless_palatal_nasal	Voiceless_palatal_nasal	ɲ̊	◌ɲ ◌̊
+ɳ	https://en.wikipedia.org/wiki/Retroflex_nasal	Retroflex_nasal	ɳ	◌ɳ
+ɳ̊	https://en.wikipedia.org/wiki/Voiceless_retroflex_nasal	Voiceless_retroflex_nasal	ɳ̊	◌ɳ ◌̊
+ɴ	https://en.wikipedia.org/wiki/Uvular_nasal	Uvular_nasal	ɴ	◌ɴ
+ɵ	https://en.wikipedia.org/wiki/Close-mid_central_rounded_vowel	Close-mid_central_rounded_vowel	ɵ	◌ɵ
+ɵ̞	https://en.wikipedia.org/wiki/Mid_central_vowel#Mid_central_rounded_vowel	Mid_central_vowel#Mid_central_rounded_vowel	ɵ̞	◌ɵ ◌̞
+ɶ	https://en.wikipedia.org/wiki/Open_front_rounded_vowel	Open_front_rounded_vowel	ɶ	◌ɶ
+ɸ	https://en.wikipedia.org/wiki/Voiceless_bilabial_fricative	Voiceless_bilabial_fricative	ɸ	◌ɸ
+ɹ	https://en.wikipedia.org/wiki/Alveolar_approximant	Alveolar_approximant	ɹ	◌ɹ
+ɹ̠˔	https://en.wikipedia.org/wiki/Voiced_postalveolar_non-sibilant_fricative	Voiced_postalveolar_non-sibilant_fricative	ɹ̠˔	◌ɹ ◌̠ ◌˔
+ɹ̠̊˔	https://en.wikipedia.org/wiki/Voiceless_postalveolar_non-sibilant_fricative	Voiceless_postalveolar_non-sibilant_fricative	ɹ̠̊˔	◌ɹ ◌̠ ◌̊ ◌˔
+ɹ̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_approximant	Voiceless_alveolar_approximant	ɹ̥	◌ɹ ◌̥
+ɺ	https://en.wikipedia.org/wiki/Alveolar_lateral_flap	Alveolar_lateral_flap	ɺ	◌ɺ
+ɻ	https://en.wikipedia.org/wiki/Retroflex_approximant	Retroflex_approximant	ɻ	◌ɻ
+ɻ̥	https://en.wikipedia.org/wiki/Voiceless_retroflex_approximant	Voiceless_retroflex_approximant	ɻ̊	◌ɻ ◌̥
+ɽ	https://en.wikipedia.org/wiki/Retroflex_flap	Retroflex_flap	ɽ	◌ɽ
+ɽ̥	https://en.wikipedia.org/wiki/Voiceless_retroflex_flap	Voiceless_retroflex_flap	ɽ̊	◌ɽ ◌̥
+ɾ	https://en.wikipedia.org/wiki/Alveolar_flap	Alveolar_flap	ɾ	◌ɾ
+ɾ̥	https://en.wikipedia.org/wiki/Voiceless_alveolar_flap	Voiceless_alveolar_flap	ɾ̥	◌ɾ ◌̥
+ɾ̼	https://en.wikipedia.org/wiki/Linguolabial_tap	Linguolabial_tap	ɾ̼	◌ɾ ◌̼
+ʀ	https://en.wikipedia.org/wiki/Uvular_trill	Uvular_trill	ʀ	◌ʀ
+ʀ̥	https://en.wikipedia.org/wiki/Voiceless_uvular_trill	Voiceless_uvular_trill	ʀ̥	◌ʀ ◌̥
+ʁ	https://en.wikipedia.org/wiki/Voiced_uvular_fricative	Voiced_uvular_fricative	ʁ	◌ʁ
+ʂ	https://en.wikipedia.org/wiki/Voiceless_retroflex_fricative	Voiceless_retroflex_fricative	ʂ	◌ʂ
+ʃ	https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative	Voiceless_postalveolar_fricative	ʃ	◌ʃ
+ʈ	https://en.wikipedia.org/wiki/Voiceless_retroflex_stop	Voiceless_retroflex_stop	ʈ	◌ʈ
+ʈʂ	https://en.wikipedia.org/wiki/Voiceless_retroflex_sibilant_affricate	Voiceless_retroflex_sibilant_affricate	ʈʂ	◌ʈ ◌ʂ
+ʈʂ’	https://en.wikipedia.org/wiki/Retroflex_ejective_affricate	Retroflex_ejective_affricate	ʈʂʼ	◌ʈ ◌ʂ ◌’
+ʉ	https://en.wikipedia.org/wiki/Close_central_rounded_vowel	Close_central_rounded_vowel	ʉ	◌ʉ
+ʊ	https://en.wikipedia.org/wiki/Near-close_near-back_rounded_vowel	Near-close_near-back_rounded_vowel	ʊ	◌ʊ
+ʊ̈	https://en.wikipedia.org/wiki/Near-close_central_rounded_vowel	Near-close_central_rounded_vowel	ʊ̈	◌ʊ ◌̈
+ʋ	https://en.wikipedia.org/wiki/Labiodental_approximant	Labiodental_approximant	ʋ	◌ʋ
+ʋ̥	https://en.wikipedia.org/wiki/Voiceless_labiodental_approximant	Voiceless_labiodental_approximant	ʋ̥	◌ʋ ◌̥
+ʌ	https://en.wikipedia.org/wiki/Open-mid_back_unrounded_vowel	Open-mid_back_unrounded_vowel	ʌ	◌ʌ
+ʎ	https://en.wikipedia.org/wiki/Palatal_lateral_approximant	Palatal_lateral_approximant	ʎ	◌ʎ
+ʎ̝	https://en.wikipedia.org/wiki/Voiced_palatal_lateral_fricative	Voiced_palatal_lateral_fricative	ʎ̝	◌ʎ ◌̝
+ʎ̥	https://en.wikipedia.org/wiki/Voiceless_palatal_lateral_approximant	Voiceless_palatal_lateral_approximant	ʎ̥	◌ʎ ◌̥
+ʏ	https://en.wikipedia.org/wiki/Near-close_near-front_rounded_vowel	Near-close_near-front_rounded_vowel	ʏ	◌ʏ
+ʐ	https://en.wikipedia.org/wiki/Voiced_retroflex_fricative	Voiced_retroflex_fricative	ʐ	◌ʐ
+ʑ	https://en.wikipedia.org/wiki/Voiced_alveolo-palatal_fricative	Voiced_alveolo-palatal_fricative	ʑ	◌ʑ
+ʒ	https://en.wikipedia.org/wiki/Voiced_postalveolar_fricative	Voiced_postalveolar_fricative	ʒ	◌ʒ
+ʔ	https://en.wikipedia.org/wiki/Glottal_stop	Glottal_stop	ʔ	◌ʔ
+ʔh	https://en.wikipedia.org/wiki/Voiceless_glottal_affricate	Voiceless_glottal_affricate	ʔh	◌ʔ ◌h
+ʔ̞	https://en.wikipedia.org/wiki/Creaky-voiced_glottal_approximant	Creaky-voiced_glottal_approximant	ʔ̞	◌ʔ ◌̞
+ʕ	https://en.wikipedia.org/wiki/Voiced_pharyngeal_fricative	Voiced_pharyngeal_fricative	ʕ	◌ʕ
+ʙ	https://en.wikipedia.org/wiki/Bilabial_trill	Bilabial_trill	ʙ	◌ʙ
+ʙ̥	https://en.wikipedia.org/wiki/Voiceless_bilabial_trill	Voiceless_bilabial_trill	ʙ̥	◌ʙ ◌̥
+ʜ	https://en.wikipedia.org/wiki/Voiceless_epiglottal_trill	Voiceless_epiglottal_trill	ʜ	◌ʜ
+ʝ	https://en.wikipedia.org/wiki/Voiced_palatal_fricative#Palatal	Voiced_palatal_fricative#Palatal	ʝ	◌ʝ
+ʟ	https://en.wikipedia.org/wiki/Velar_lateral_approximant	Velar_lateral_approximant	ʟ	◌ʟ
+ʟ̝	https://en.wikipedia.org/wiki/Voiced_velar_lateral_fricative	Voiced_velar_lateral_fricative	ʟ̝	◌ʟ ◌̝
+ʟ̝̥	https://en.wikipedia.org/wiki/Voiceless_velar_lateral_fricative	Voiceless_velar_lateral_fricative	ʟ̝̊	◌ʟ ◌̝ ◌̥
+ʟ̠	https://en.wikipedia.org/wiki/Uvular_lateral_approximant	Uvular_lateral_approximant	ʟ̠	◌ʟ ◌̠
+ʟ̥	https://en.wikipedia.org/wiki/Voiceless_velar_lateral_approximant	Voiceless_velar_lateral_approximant	ʟ̥	◌ʟ ◌̥
+ʡ	https://en.wikipedia.org/wiki/Epiglottal_stop	Epiglottal_stop	ʡ	◌ʡ
+ʢ	https://en.wikipedia.org/wiki/Voiced_epiglottal_trill	Voiced_epiglottal_trill	ʢ	◌ʢ
+ʢ	https://en.wikipedia.org/wiki/Voiced_epiglottal_trill	Voiced_epiglottal_trill	ʢ	◌ʢ
+β	https://en.wikipedia.org/wiki/Voiced_bilabial_fricative	Voiced_bilabial_fricative	β	◌β
+θ	https://en.wikipedia.org/wiki/Voiceless_dental_fricative	Voiceless_dental_fricative	θ	◌θ
+θ̠	https://en.wikipedia.org/wiki/Voiceless_alveolar_non-sibilant_fricative	Voiceless_alveolar_non-sibilant_fricative	θ̠	◌θ ◌̠
+θ̼	https://en.wikipedia.org/wiki/Voiceless_linguolabial_fricative	Voiceless_linguolabial_fricative	θ̼	◌θ ◌̼
+χ	https://en.wikipedia.org/wiki/Voiceless_uvular_fricative	Voiceless_uvular_fricative	χ	◌χ
+ⱱ	https://en.wikipedia.org/wiki/Labiodental_flap	Labiodental_flap	ⱱ	◌ⱱ
+ⱱ̟	https://en.wikipedia.org/wiki/Bilabial_flap	Bilabial_flap	ⱱ̟	◌ⱱ ◌̟

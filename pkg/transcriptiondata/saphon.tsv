@@ -1,16 +1,12 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
 <NA>	<NA>		+	pʲʰ							
-<NA>	<NA>		+	ãʲ							
-<NA>	<NA>		+	ð̞							
 <NA>	<NA>		+	aʰ							
-<NA>	<NA>		+	bz							
 <NA>	<NA>		+	eʰ							
 <NA>	<NA>		+	iʰ							
 <NA>	<NA>		+	k̪							
 <NA>	<NA>		+	laryngeal_harmony							
 <NA>	<NA>		+	nasal_harmony							
 <NA>	<NA>		+	oʰ							
-<NA>	<NA>		+	ps							
 <NA>	<NA>		+	tone							
 <NA>	<NA>		+	tˣ							
 <NA>	<NA>		+	t̪ʙ							
@@ -20,6 +16,7 @@ aĭ	from unrounded open front to ultra-short unrounded close front diphthong	+	
 aː	long unrounded open front vowel		+	aː							
 aːĭ	from long unrounded open front to ultra-short unrounded close front diphthong	+	+	aʲː							
 ã	nasalized unrounded open front vowel		+	ã							
+ãi	from nasalized unrounded open front to unrounded close front diphthong	+	+	ãʲ							
 ãː	long nasalized unrounded open front vowel		+	ãː							
 a̰	creaky unrounded open front vowel		+	a̰							
 ã̰	nasalized creaky unrounded open front vowel	+	+	ã̰							
@@ -27,6 +24,7 @@ b	voiced bilabial stop consonant		+	b
 bʲ	palatalized voiced bilabial stop consonant		+	bʲ							
 bʷ	labialized voiced bilabial stop consonant		+	bʷ							
 bː	long voiced bilabial stop consonant		+	bː							
+bˢ	with-sibilant-release voiced bilabial stop consonant	+	+	bz							
 b̰	creaky voiced bilabial stop consonant	+	+	b̰							
 bβ	voiced bilabial affricate consonant		+	bβ							
 c	voiceless palatal stop consonant		+	c							
@@ -126,6 +124,7 @@ pʲ	palatalized voiceless bilabial stop consonant		+	pʲ
 pʷ	labialized voiceless bilabial stop consonant		+	pʷ							
 pʼ	voiceless bilabial ejective stop consonant		+	pʼ							
 pː	long voiceless bilabial stop consonant		+	pː							
+pˢ	with-sibilant-release voiceless bilabial stop consonant	+	+	ps							
 q	voiceless uvular stop consonant		+	q							
 qʰ	aspirated voiceless uvular stop consonant		+	qʰ							
 qʷ	labialized voiceless uvular stop consonant		+	qʷ							
@@ -271,6 +270,7 @@ z	voiced alveolar sibilant fricative consonant		+	z
 ɸ	voiceless bilabial fricative consonant		+	ɸ							
 ɸʲ	palatalized voiceless bilabial fricative consonant	+	+	ɸʲ							
 ɹ	voiced alveolar approximant consonant		+	ɹ							
+ɹ̪	voiced dental approximant consonant		+	ð̞							
 ɺ	voiced alveolar lateral tap consonant		+	ɺ							
 ɺ̥	devoiced voiced alveolar lateral tap consonant	+	+	ɺ̥							
 ɻ	voiced retroflex approximant consonant		+	ɻ							

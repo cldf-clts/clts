@@ -1,10 +1,7 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
 <NA>	<NA>		+	ɡ̥ʰ						1	
-<NA>	<NA>		+	dːʒ						6	
 <NA>	<NA>		+	+						43	
 <NA>	<NA>		+	_						81	
-<NA>	<NA>		+	bz						1	
-<NA>	<NA>		+	ps						5	
 <NA>	<NA>		+	ʔj						2	
 <NA>	<NA>		+	⁰²						1	
 <NA>	<NA>		+	⁰⁴						1	
@@ -26,6 +23,7 @@ bʰ	aspirated voiced bilabial stop consonant		+	bʰ						2
 bʱ	breathy voiced bilabial stop consonant		+	b̤						3	
 bʲ	palatalized voiced bilabial stop consonant		+	bʲ						2	
 bː	long voiced bilabial stop consonant		+	bː						10	
+bˢ	with-sibilant-release voiced bilabial stop consonant	+	+	bz						1	
 b̥	devoiced voiced bilabial stop consonant		+	b̥						2	
 b̥ʰ	aspirated devoiced voiced bilabial stop consonant		+	b̥ʰ						1	
 c	voiceless palatal stop consonant		+	c						40	
@@ -38,6 +36,7 @@ dz	voiced alveolar sibilant affricate consonant		+	dz						27
 dʑ	voiced alveolo-palatal sibilant affricate consonant		+	dʑ						21	
 dʒ	voiced post-alveolar sibilant affricate consonant		+	dʒ						43	
 dʒʰ	aspirated voiced post-alveolar sibilant affricate consonant	+	+	dʒʰ						1	
+dʒː	long voiced post-alveolar sibilant affricate consonant		+	dːʒ						6	
 dʰ	aspirated voiced alveolar stop consonant		+	dʰ						2	
 dʱ	breathy voiced alveolar stop consonant		+	d̤						3	
 dʱː	long breathy voiced alveolar stop consonant		+	d̤ː						1	
@@ -131,6 +130,7 @@ pʰ	aspirated voiceless bilabial stop consonant		+	pʰ						64
 pʲ	palatalized voiceless bilabial stop consonant		+	pʲ						2	
 pʼ	voiceless bilabial ejective stop consonant		+	pʼ						1	
 pː	long voiceless bilabial stop consonant		+	pː						13	
+pˢ	with-sibilant-release voiceless bilabial stop consonant	+	+	ps						5	
 q	voiceless uvular stop consonant		+	q						15	
 qʰ	aspirated voiceless uvular stop consonant		+	qʰ						5	
 qʷ	labialized voiceless uvular stop consonant		+	qʷ						4	
