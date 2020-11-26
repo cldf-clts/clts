@@ -18,10 +18,12 @@ s̙	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:si
 s̙ˤ	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:sibilant,glottalization:glottalized	
 ð̙ˤ	voiceless	dental	fricative		tongue_root:retracted-tongue-root,glottalization:glottalized	
 tθ̠	voiceless	alveolar	affricate	+		
-tθ͇	voiceless	alveolar	affricate			
+tθ͇	voiceless	alveolar	affricate	+		
+ts͇	voiceless	alveolar	affricate			
 tɹ̠̊˔	voiceless	post-alveolar	affricate			
 ʈɻ̝̊	voiceless	retroflex	affricate			
-dð͇	voiced	alveolar	affricate			
+dð͇	voiced	alveolar	affricate	+		
+dz͇	voiced	alveolar	affricate			
 dɹ̠˔	voiced	post-alveolar	affricate			
 ɖɻ̝	voiced	retroflex	affricate			
 θ̠	voiceless	alveolar	fricative			
