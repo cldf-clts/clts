@@ -51,8 +51,8 @@ long voiced alveolar sibilant affricate consonant	dzː	T	C	1	T	d	#9664c8
 voiced dental sibilant affricate consonant	dz̪	T	C	1	T	d	#9664c8
 long voiced dental sibilant affricate consonant	dz̪ː	T	C	1	T	d	#9664c8
 voiced alveolar whistled-sibilant affricate consonant	dz̫	T	C	1	T	d	#9664c8
+voiced alveolar affricate consonant	dz͇	T	C	1	T	d	#9664c8
 voiced dental affricate consonant	dð	T	C	1	T	d	#9664c8
-voiced alveolar affricate consonant	dð͇	T	C	1	T	d	#9664c8
 voiced alveolar lateral affricate consonant	dɮ	T	C	1	T	d	#9664c8
 voiced post-alveolar affricate consonant	dɹ̠˔	T	C	1	T	d	#9664c8
 voiced alveolo-palatal sibilant affricate consonant	dʑ	C	C	2	K	j	#c89664
@@ -295,6 +295,7 @@ palatalized voiceless dental sibilant affricate consonant	ts̪ʲ	T	C	1	T	t	#9664
 voiceless dental ejective sibilant affricate consonant	ts̪ʼ	T	C	1	T	t	#9664c8
 long voiceless dental sibilant affricate consonant	ts̪ː	T	C	1	T	t	#9664c8
 voiceless alveolar whistled-sibilant affricate consonant	ts̫	T	C	1	T	t	#9664c8
+voiceless alveolar affricate consonant	ts͇	T	C	1	T	t	#9664c8
 voiceless alveolo-palatal sibilant affricate consonant	tɕ	C	C	2	K	C	#c89664
 aspirated voiceless alveolo-palatal sibilant affricate consonant	tɕʰ	C	C	2	K	C	#c89664
 long voiceless alveolo-palatal sibilant affricate consonant	tɕː	T	C	1	T	t	#9664c8
@@ -340,7 +341,6 @@ with-nasal-release voiceless dental stop consonant	t̪ⁿ	T	C	1	T	t	#9664c8
 revoiced voiceless alveolar stop consonant	t̬	T	C	1	T	t	#9664c8
 voiceless linguolabial stop consonant	t̼	T	C	1	T	t	#9664c8
 voiceless dental affricate consonant	tθ	T	C	1	T	t	#9664c8
-voiceless alveolar affricate consonant	tθ͇	T	C	1	T	t	#9664c8
 with-nasal-release voiceless alveolar stop consonant	tⁿ	T	C	1	T	t	#9664c8
 rounded close back vowel	u	Y	V	7	V	u	#c86464
 long rounded close back vowel	uː	Y	V	7	V	u	#c86464
