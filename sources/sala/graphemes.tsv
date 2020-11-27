@@ -1,34 +1,30 @@
 BIPA	GRAPHEME	ID	SYMBOLS
-(?)	  ̀ 	T4NL	
-(?)	  ́ 	T2NL	
-(?)	  ̂ 	T7NL	
-(?)	  ̄ 	T3NL	
-(?)	  ̋ 	T1NL	
-(?)	  ̌ 	T6NL	
-(?)	  ̏ 	T5NL	
-(?)	  ̣ 	T17NL	
-(?)	  ̧ 	T18NL	
-(?)	  ̰ 	T16NL	
-(?)	  ↑ 	T14NL	
-(?)	  ↓ 	T15NL	
-(?)	   	T8NL	
-(?)	   	T9NL	
-(?)	   	T10NL	
-(?)	   	T11NL	
-(?)	   	T12NL	
-(?)	   	T13NL	
-(?)	ƈ	C189NL	
-(?)	ƙ	C191NL	
-(?)	ƥ	C177NL	
-(?)	ƭ	C183NL	
+<NA>	  ̀ 	T4NL	
+<NA>	  ́ 	T2NL	
+<NA>	  ̂ 	T7NL	
+<NA>	  ̄ 	T3NL	
+<NA>	  ̋ 	T1NL	
+<NA>	  ̌ 	T6NL	
+<NA>	  ̏ 	T5NL	
+<NA>	  ̣ 	T17NL	
+<NA>	  ̧ 	T18NL	
+<NA>	  ̰ 	T16NL	
+<NA>	  ↑ 	T14NL	
+<NA>	  ↓ 	T15NL	
+<NA>	   	T8NL	
+<NA>	   	T9NL	
+<NA>	   	T10NL	
+<NA>	   	T11NL	
+<NA>	   	T12NL	
+<NA>	   	T13NL	
+<NA>	ƈ	C189NL	
+<NA>	ƙ	C191NL	
+<NA>	ƥ	C177NL	
+<NA>	ƭ	C183NL	
 a	a	V103NL	◌a
 b	b	C2NL	◌b
 c	c	C13NL	◌c
-ç	ç	C101NL	◌c ◌̧
 d	d	C8NL	◌d
-dz	ʣ	D2NL	◌d ◌z
-dʑ	ʥ	D6NL	◌d ◌ʑ
-dʒ	ʤ	D4NL	◌d ◌ʒ
 e	e	V35NL	◌e
 f	f	C91NL	◌f
 g	g	C16NL	◌g
@@ -45,9 +41,6 @@ q	q	C17NL	◌q
 r	r	C52NL	◌r
 s	s	C95NL	◌s
 t	t	C7NL	◌t
-ts	ʦ	D1NL	◌t ◌s
-tɕ	ʨ	D5NL	◌t ◌ɕ
-tʃ	ʧ	D3NL	◌t ◌ʃ
 u	u	V16NL	◌u
 v	v	C92NL	◌v
 w	w	A2NL	◌w
@@ -55,6 +48,7 @@ x	x	C103NL	◌x
 y	y	V3NL	◌y
 z	z	C96NL	◌z
 æ	æ	V86NL	◌æ
+ç	ç	C101NL	◌c ◌̧
 ð	ð	C94NL	◌ð
 ø	ø	V37NL	◌ø
 ħ	ħ	C107NL	◌ħ
@@ -118,12 +112,18 @@ z	z	C96NL	◌z
 ʕ	ʕ	C108NL	◌ʕ
 ʙ	ʙ	C46NL	◌ʙ
 ʛ	ʛ	C194NL	◌ʛ
-ʛ̥	ʠ	C193NL	◌ʛ ◌̥
 ʜ	ʜ	A4NL	◌ʜ
 ʝ	ʝ	C102NL	◌ʝ
 ʟ	ʟ	C170NL	◌ʟ
+ʛ̥	ʠ	C193NL	◌ʛ ◌̥
 ʡ	ʡ	A6NL	◌ʡ
 ʢ	ʢ	A5NL	◌ʢ
+dz	ʣ	D2NL	◌d ◌z
+dʒ	ʤ	D4NL	◌d ◌ʒ
+dʑ	ʥ	D6NL	◌d ◌ʑ
+ts	ʦ	D1NL	◌t ◌s
+tʃ	ʧ	D3NL	◌t ◌ʃ
+tɕ	ʨ	D5NL	◌t ◌ɕ
 β	β	C90NL	◌β
 θ	θ	C93NL	◌θ
 χ	χ	C105NL	◌χ
