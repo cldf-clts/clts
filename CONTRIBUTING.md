@@ -18,7 +18,7 @@ $ clts map TS/graphemes.tsv
 
 This will provide you with basic information on the characters that could be automatically mapped (that is: interpreted in the light of the BIPA system). The results of this can be found in the file `TS/graphemes.mapped.tsv`. Here, all so far empty BIPA cells now either contain a `<NA>`, or a grapheme in the BIPA system. The mapping script also makes educated guesses. For example, `nts` will be interpreted as `ⁿts`. These guesses are marked by an asterisk preceding the BIPA symbol, and you should manually check them and correct them by either deleting the asterisk (means: you accept the suggestion of the system) or providing an alternative reading that is BIPA conform, or by setting the symbol to `<NA>`, which means that no attempt will be undertaken to map it. 
 
-Further "warnings" that you should manually check include clusters, since the sounds we accept as clusters should be a small group only. They are marked by `(!)` preceding the grapheme, and you should also decide about them by deleting the `(!)` or modifying the transcription.
+Further "warnings" that you should manually check include clusters, since the sounds we accept as clusters should be a small group only. They are marked by `(!)` preceding the grapheme, and you should also decide about them by deleting the `(!)` or modifying the transcription. 
 
 Once this has been done, you can replace the file `graphemes.tsv` with the manually corrected file `graphemes.mapped.tsv`, which can, for example be done with the terminal:
 
@@ -30,6 +30,14 @@ Now, you should add the bibliographic information of your new transcription data
 
 As a last point, you should provide the description for the dataset in the file `sources/index.tsv`, where you add the NAME (the name of the folder, that is, the "identifier"), a short description (field DESCRIPTION), references (field REFS) as bibtex-keys separated by a comma, the type (TYPE), which should be `td`, and (if this comes along with the data) the template for the resolution of the URL, where the datapoint can be found (URITEMPLATE). 
 
+Now you can update the CLTS data in our package. This can be done with the help of the command:
+
+```
+$ clts make_dataset TS
+```
+
+This will add a final check on your data and add a file of your transcription data to the folder `pkg/transcriptiondata/`, named `TS.tsv`. 
+
 Now, you can make a pull request in which you send this updated code for review by our CLTS team. Once all problems in the manually corrected mapping have been resolved, we will add this transcription system as a source, and list you as a contributor.
 
 For this pull request, you first branch the data:
@@ -40,6 +48,7 @@ $ git checkout TS
 $ git add sources/TS/graphemes.tsv
 $ git add data/references.bib
 $ git add sources/index.tsv
+$ git add pkg/transcriptiondata/TS.tsvv
 $ git commit -m "add TS"
 $ git push --set-upstream TS origin/TS
 ```
