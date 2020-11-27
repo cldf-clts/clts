@@ -24,11 +24,7 @@ BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMA
 a	unrounded open front vowel		+	a							
 b	voiced bilabial stop consonant		+	b							
 c	voiceless palatal stop consonant		+	c							
-ç	voiceless palatal sibilant fricative consonant		+	ç							
 d	voiced alveolar stop consonant		+	d							
-dz	voiced alveolar sibilant affricate consonant		+	ʣ							
-dʑ	voiced alveolo-palatal sibilant affricate consonant		+	ʥ							
-dʒ	voiced post-alveolar sibilant affricate consonant		+	ʤ							
 e	unrounded close-mid front vowel		+	e							
 f	voiceless labio-dental fricative consonant		+	f							
 g	voiced velar stop consonant		+	g							
@@ -45,9 +41,6 @@ q	voiceless uvular stop consonant		+	q
 r	voiced alveolar trill consonant		+	r							
 s	voiceless alveolar sibilant fricative consonant		+	s							
 t	voiceless alveolar stop consonant		+	t							
-ts	voiceless alveolar sibilant affricate consonant		+	ʦ							
-tɕ	voiceless alveolo-palatal sibilant affricate consonant		+	ʨ							
-tʃ	voiceless post-alveolar sibilant affricate consonant		+	ʧ							
 u	rounded close back vowel		+	u							
 v	voiced labio-dental fricative consonant		+	v							
 w	voiced labio-velar approximant consonant		+	w							
@@ -55,6 +48,7 @@ x	voiceless velar fricative consonant		+	x
 y	rounded close front vowel		+	y							
 z	voiced alveolar sibilant fricative consonant		+	z							
 æ	unrounded near-open front vowel		+	æ							
+ç	voiceless palatal sibilant fricative consonant		+	ç							
 ð	voiced dental fricative consonant		+	ð							
 ø	rounded close-mid front vowel		+	ø							
 ħ	voiceless pharyngeal fricative consonant		+	ħ							
@@ -118,12 +112,18 @@ z	voiced alveolar sibilant fricative consonant		+	z
 ʕ	voiced pharyngeal fricative consonant		+	ʕ							
 ʙ	voiced bilabial trill consonant		+	ʙ							
 ʛ	voiced uvular implosive consonant		+	ʛ							
-ʛ̥	voiceless uvular implosive consonant		+	ʠ							
 ʜ	voiceless epiglottal fricative consonant		+	ʜ							
 ʝ	voiced palatal fricative consonant		+	ʝ							
 ʟ	voiced velar lateral approximant consonant		+	ʟ							
+ʛ̥	voiceless uvular implosive consonant		+	ʠ							
 ʡ	voiceless epiglottal stop consonant		+	ʡ							
 ʢ	voiced epiglottal fricative consonant		+	ʢ							
+dz	voiced alveolar sibilant affricate consonant		+	ʣ							
+dʒ	voiced post-alveolar sibilant affricate consonant		+	ʤ							
+dʑ	voiced alveolo-palatal sibilant affricate consonant		+	ʥ							
+ts	voiceless alveolar sibilant affricate consonant		+	ʦ							
+tʃ	voiceless post-alveolar sibilant affricate consonant		+	ʧ							
+tɕ	voiceless alveolo-palatal sibilant affricate consonant		+	ʨ							
 β	voiced bilabial fricative consonant		+	β							
 θ	voiceless dental fricative consonant		+	θ							
 χ	voiceless uvular fricative consonant		+	χ							
