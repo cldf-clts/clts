@@ -1,14 +1,14 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
 <NA>	<NA>		+	cʎ̝̥ʼ	https://en.wikipedia.org/wiki/Palatal_lateral_ejective_affricate		Palatal_lateral_ejective_affricate				
-<NA>	<NA>		+	dɹ̝	https://en.wikipedia.org/wiki/Voiced_alveolar_affricate		Voiced_alveolar_affricate				
+dð̠	<NA>		+	dɹ̝	https://en.wikipedia.org/wiki/Voiced_alveolar_affricate		Voiced_alveolar_affricate				
 <NA>	<NA>		+	d̠ʑ	https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_sibilant_affricate		Voiceless_alveolo-palatal_sibilant_affricate				
-<NA>	<NA>		+	kʟ̝̊ʼ	https://en.wikipedia.org/wiki/Velar_lateral_ejective_affricate		Velar_lateral_ejective_affricate				
-<NA>	<NA>		+	tɹ̝̊	https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate		Voiceless_alveolar_affricate				
+kʟ̥	<NA>		+	kʟ̝̊ʼ	https://en.wikipedia.org/wiki/Velar_lateral_ejective_affricate		Velar_lateral_ejective_affricate				
+tθ̠	<NA>		+	tɹ̝̊	https://en.wikipedia.org/wiki/Voiceless_alveolar_affricate		Voiceless_alveolar_affricate				
 <NA>	<NA>		+	t̠ɕ	https://en.wikipedia.org/wiki/Voiceless_alveolo-palatal_sibilant_affricate		Voiceless_alveolo-palatal_sibilant_affricate				
 <NA>	<NA>		+	ɢ̆	https://en.wikipedia.org/wiki/Uvular_flap		Uvular_flap				
 <NA>	<NA>		+	ɭ̊˔	https://en.wikipedia.org/wiki/Voiceless_retroflex_lateral_fricative		Voiceless_retroflex_lateral_fricative				
 <NA>	<NA>		+	ɺ̢	https://en.wikipedia.org/wiki/Retroflex_lateral_flap		Retroflex_lateral_flap				
-<NA>	<NA>		+	ɻ˔	https://en.wikipedia.org/wiki/Voiced_retroflex_non-sibilant_fricative		Voiced_retroflex_non-sibilant_fricative				
+ɻ̝̊	<NA>		+	ɻ˔	https://en.wikipedia.org/wiki/Voiced_retroflex_non-sibilant_fricative		Voiced_retroflex_non-sibilant_fricative				
 <NA>	<NA>		+	ɽɽ	https://en.wikipedia.org/wiki/Retroflex_trill		Retroflex_trill				
 <NA>	<NA>		+	ɽ̊ɽ̊	https://en.wikipedia.org/wiki/Voiceless_retroflex_trill		Voiceless_retroflex_trill				
 <NA>	<NA>		+	ʎ̥˔	https://en.wikipedia.org/wiki/Voiceless_palatal_lateral_fricative		Voiceless_palatal_lateral_fricative				
@@ -21,7 +21,7 @@ b̪	voiced labio-dental stop consonant		+	b̪	https://en.wikipedia.org/wiki/Voic
 bv	voiced labio-dental affricate consonant		+	b̪v	https://en.wikipedia.org/wiki/Voiced_labiodental_affricate		Voiced_labiodental_affricate				
 bβ	voiced bilabial affricate consonant		+	bβ	https://en.wikipedia.org/wiki/Voiced_bilabial_affricate		Voiced_bilabial_affricate				
 c	voiceless palatal stop consonant		+	c	https://en.wikipedia.org/wiki/Voiceless_palatal_stop#Palatal_or_alveolo-palatal		Voiceless_palatal_stop#Palatal_or_alveolo-palatal				
-cç	voiceless palatal affricate consonant		+	cç	https://en.wikipedia.org/wiki/Voiceless_palatal_affricate		Voiceless_palatal_affricate				
+cç	voiceless palatal affricate consonant		+	cç	https://en.wikipedia.org/wiki/Voiceless_palatal_affricate		Voiceless_palatal_affricate				
 d	voiced alveolar stop consonant		+	d	https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_stops#Alveolar		Voiced_dental_and_alveolar_stops#Alveolar				
 dz	voiced alveolar sibilant affricate consonant		+	dz	https://en.wikipedia.org/wiki/Voiced_alveolar_sibilant_affricate		Voiced_alveolar_sibilant_affricate				
 dɮ	voiced alveolar lateral affricate consonant		+	dɮ	https://en.wikipedia.org/wiki/Voiced_alveolar_lateral_affricate		Voiced_alveolar_lateral_affricate				
@@ -72,9 +72,9 @@ v	voiced labio-dental fricative consonant		+	v	https://en.wikipedia.org/wiki/Voi
 x	voiceless velar fricative consonant		+	x	https://en.wikipedia.org/wiki/Voiceless_velar_fricative		Voiceless_velar_fricative				
 y	rounded close front vowel		+	y	https://en.wikipedia.org/wiki/Close_front_rounded_vowel		Close_front_rounded_vowel				
 z	voiced alveolar sibilant fricative consonant		+	z	https://en.wikipedia.org/wiki/Voiced_alveolar_fricative#Voiced_alveolar_sibilant		Voiced_alveolar_fricative#Voiced_alveolar_sibilant				
-ä	centralized unrounded open front vowel		+	ä	https://en.wikipedia.org/wiki/Open_central_unrounded_vowel		Open_central_unrounded_vowel				
+ä	centralized unrounded open front vowel		+	ä	https://en.wikipedia.org/wiki/Open_central_unrounded_vowel		Open_central_unrounded_vowel				
 æ	unrounded near-open front vowel		+	æ	https://en.wikipedia.org/wiki/Near-open_front_unrounded_vowel		Near-open_front_unrounded_vowel				
-ç	voiceless palatal sibilant fricative consonant		+	ç	https://en.wikipedia.org/wiki/Voiceless_palatal_fricative#Palatal		Voiceless_palatal_fricative#Palatal				
+ç	voiceless palatal sibilant fricative consonant		+	ç	https://en.wikipedia.org/wiki/Voiceless_palatal_fricative#Palatal		Voiceless_palatal_fricative#Palatal				
 ð	voiced dental fricative consonant		+	ð	https://en.wikipedia.org/wiki/Voiced_dental_fricative		Voiced_dental_fricative				
 ð̠	voiced alveolar fricative consonant		+	ð̠	https://en.wikipedia.org/wiki/Voiced_alveolar_non-sibilant_fricative		Voiced_alveolar_non-sibilant_fricative				
 ð̼	voiced linguolabial fricative consonant		+	ð̼	https://en.wikipedia.org/wiki/Voiced_linguolabial_fricative		Voiced_linguolabial_fricative				
