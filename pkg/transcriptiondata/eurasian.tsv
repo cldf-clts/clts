@@ -1,5 +1,5 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
-aɯ	<NA>		+	aɰ	http://eurasianphonology.info/search_exact?dialects=True&query=a%C9%B0					1	
+aɯ̯	<NA>		+	aɰ	http://eurasianphonology.info/search_exact?dialects=True&query=a%C9%B0					1	
 äː	<NA>		+	ä̠ː	http://eurasianphonology.info/search_exact?dialects=True&query=a%CC%88%CC%A0%CB%90					1	
 <NA>	<NA>		+	b˞	http://eurasianphonology.info/search_exact?dialects=True&query=b%CB%9E					1	
 <NA>	<NA>		+	d̺ʒ̺	http://eurasianphonology.info/search_exact?dialects=True&query=d%CC%BA%CA%92%CC%BA					1	
@@ -63,8 +63,8 @@ z	<NA>		+	z͇	http://eurasianphonology.info/search_exact?dialects=True&query=z%C
 ð̠ˠ	<NA>		+	ð͇ˠ	http://eurasianphonology.info/search_exact?dialects=True&query=%C3%B0%CD%87%CB%A0					1	
 ɖʐ	<NA>		+	ɖɽ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%96%C9%BD					1	
 <NA>	<NA>		+	ɬ̺̪	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AC%CC%BA%CC%AA					1	
-tʂ	<NA>		+	ʈɽ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%C9%BD					1	
-tʂʰ	<NA>		+	ʈɽʰ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%C9%BD%CA%B0					1	
+ʈʂ	<NA>		+	ʈɽ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%C9%BD					1	
+ʈʂʰ	<NA>		+	ʈɽʰ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%C9%BD%CA%B0					1	
 ˀb	<NA>		+	ʼb	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%BCb					1	
 ˀd	<NA>		+	ʼd	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%BCd					1	
 ˀj	<NA>		+	ʼj	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%BCj					2	
