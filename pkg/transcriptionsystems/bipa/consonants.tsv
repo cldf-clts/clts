@@ -17,13 +17,13 @@ s̙	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:si
 ð̙	voiceless	dental	fricative		tongue_root:retracted-tongue-root	
 s̙ˤ	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:sibilant,glottalization:glottalized	
 ð̙ˤ	voiceless	dental	fricative		tongue_root:retracted-tongue-root,glottalization:glottalized	
-tθ̠	voiceless	alveolar	affricate	+		
-tθ͇	voiceless	alveolar	affricate	+		
-ts͇	voiceless	alveolar	affricate			
+tθ̠	voiceless	alveolar	affricate			
+tθ͇	voiceless	alveolar	affricate	+	
 tɹ̠̊˔	voiceless	post-alveolar	affricate			
-ʈɻ̝̊	voiceless	retroflex	affricate			
+ʈɻ̝̊	voiceless	retroflex	affricate 	
+ʈθ̣	voiceless	retroflex	affricate	+
+dð̠	voiced	alveolar	affricate			
 dð͇	voiced	alveolar	affricate	+		
-dz͇	voiced	alveolar	affricate			
 dɹ̠˔	voiced	post-alveolar	affricate			
 ɖɻ̝	voiced	retroflex	affricate			
 θ̠	voiceless	alveolar	fricative			
@@ -43,8 +43,7 @@ d̠ʒ̫	voiced	post-alveolar	affricate		airstream:whistled-sibilant
  ɺ̣	voiced	retroflex	tap		airstream:lateral	
 ˀⁿg	voiced	velar	stop		preceding:pre-glottalized-and-nasalized	
 dʒ̊	voiced	alveolar	affricate		voicing:devoiced	
-ṛ	voiced	retroflex	trill			
-ʈθ̣	voiceless	retroflex	affricate	+		
+ṛ	voiced	retroflex	trill				
 ˀⁿd	voiced	alveolar	stop		preceding:pre-glottalized-and-nasalized	
 ŋm	voiced	velar-and-bilabial	nasal			
 pt	voiceless	bilabial-and-alveolar	stop			
@@ -87,7 +86,7 @@ rʲ	voiced	alveolar	trill		palatalization:palatalized
 ᶎ	voiced	alveolar	fricative	+	palatalization:palatalized,airstream:sibilant	IPA extensions supplement
 zʲ	voiced	alveolar	fricative		palatalization:palatalized,airstream:sibilant	
 s̻	voiceless	alveolar	fricative		laminality:laminal,airstream:sibilant	
-oz̻	voiced	alveolar	fricative		laminality:laminal,airstream:sibilant	
+z̻	voiced	alveolar	fricative		laminality:laminal,airstream:sibilant	
 n̻	voiced	alveolar	nasal		laminality:laminal	
 l̻	voiced	alveolar	approximant		airstream:lateral,laminality:laminal	
 dɮ	voiced	alveolar	affricate		airstream:lateral	
@@ -351,7 +350,7 @@ s̪ˠ	voiceless	dental	fricative		velarization:velarized,airstream:sibilant
 ɗ̼	voiced	linguolabial	implosive			
 n̪	voiced	dental	nasal			
 n̪ˠ	voiced	dental	nasal		velarization:velarized	
-d̪̈	voiced	dental	stop	+	breathiness:breathy	
+d̪̈	voiced	dental	stop	+	breathiness:breathy	
 d̪ʱ	voiced	dental	stop		breathiness:breathy	
 d̪ːʱ	voiced	dental	stop	+	duration:long,breathiness:breathy	
 d̪ʱː	voiced	dental	stop		duration:long,breathiness:breathy	
@@ -486,7 +485,7 @@ c	voiceless	palatal	stop
 cʰ	voiceless	palatal	stop		aspiration:aspirated	
 cː	voiceless	palatal	stop		duration:long	
 cʼ	voiceless	palatal	stop		ejection:ejective	
-cçʰ	voiceless	palatal	affricate		aspiration:aspirated	
+cçʰ	voiceless	palatal	affricate		aspiration:aspirated	
 ɲ̥	voiced	palatal	nasal	+	voicing:devoiced	
 j̊	voiced	palatal	approximant		voicing:devoiced	
 j̥	voiced	palatal	approximant	+	voicing:devoiced	
