@@ -17,10 +17,10 @@ BIPA	GRAPHEME	ID	SYMBOLS
 <NA>	   	T11NL	
 <NA>	   	T12NL	
 <NA>	   	T13NL	
-<NA>	ƈ	C189NL	
-<NA>	ƙ	C191NL	
-<NA>	ƥ	C177NL	
-<NA>	ƭ	C183NL	
+ʄ̥	ƈ	C189NL	
+ɠ̥	ƙ	C191NL	
+ɓ̥	ƥ	C177NL	
+ɗ̥	ƭ	C183NL	
 a	a	V103NL	◌a
 b	b	C2NL	◌b
 c	c	C13NL	◌c
@@ -48,7 +48,7 @@ x	x	C103NL	◌x
 y	y	V3NL	◌y
 z	z	C96NL	◌z
 æ	æ	V86NL	◌æ
-ç	ç	C101NL	◌c ◌̧
+ç	ç	C101NL	◌c ◌̧
 ð	ð	C94NL	◌ð
 ø	ø	V37NL	◌ø
 ħ	ħ	C107NL	◌ħ
