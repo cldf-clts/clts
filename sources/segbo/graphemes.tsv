@@ -1,13 +1,13 @@
 BIPA	GRAPHEME	COUNT	SYMBOLS
 <NA>	pʃʰ	1	
 <NA>	pʲʰ	2	
-<NA>	z̻	1	
+z̻	z̻	1	
 <NA>	ʊai	1	
 a	a	1	◌a
 ai	ai	2	◌a ◌i
 au	au	1	◌a ◌u
 aː	aː	3	◌a ◌ː
-ã	ã	1	◌a ◌̃
+ã	ã	1	◌a ◌̃
 b	b	64	◌b
 bʰ	bʰ	1	◌b ◌ʰ
 bʱ	bʱ	1	◌b ◌ʱ
@@ -15,7 +15,7 @@ bʷ	bʷ	1	◌b ◌ʷ
 bˤ	bˤ	1	◌b ◌ˤ
 bʱ	b̤	1	◌b ◌ʱ
 c	c	9	◌c
-cç	cç	1	◌c ◌c ◌̧
+cç	cç	1	◌c ◌c ◌̧
 cʰ	cʰ	1	◌c ◌ʰ
 d	d	54	◌d
 dz	dz	10	◌d ◌z
@@ -38,7 +38,7 @@ fː	fː	1	◌f ◌ː
 h	h	64	◌h
 hʷ	hʷ	1	◌h ◌ʷ
 iː	iː	2	◌i ◌ː
-ĩ	ĩ	1	◌i ◌̃
+ĩ	ĩ	1	◌i ◌̃
 j	j	19	◌j
 k	k	19	◌k
 kp	kp	3	◌k ◌p
@@ -66,7 +66,7 @@ n̪ˤ	n̪ˤ	1	◌n ◌̪ ◌ˤ
 ⁿdz̺	n̺d̺z̺	1	◌ⁿ ◌d ◌z ◌̺
 o	o	31	◌o
 oː	oː	6	◌o ◌ː
-õ	õ	1	◌o ◌̃
+õ	õ	1	◌o ◌̃
 o̞	o̞	1	◌o ◌̞
 p	p	48	◌p
 pʰ	pʰ	8	◌p ◌ʰ
@@ -126,7 +126,7 @@ zː	zː	1	◌z ◌ː
 zˤ	zˤ	5	◌z ◌ˤ
 æ	æ	4	◌æ
 æ̃ː	æ̃ː	1	◌æ ◌̃ ◌ː
-ç	ç	2	◌c ◌̧
+ç	ç	2	◌c ◌̧
 ð	ð	9	◌ð
 ðˠ	ðˠ	1	◌ð ◌ˠ
 ðˤ	ðˤ	6	◌ð ◌ˤ
