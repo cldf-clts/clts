@@ -1,7 +1,7 @@
 BIPA	GRAPHEME	FEATURES	SYMBOLS
 <NA>	b͡d̼	-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long	
-<NA>	d̪͡ɮ̪̟	-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr -lab -round -velaric -long	
-<NA>	d̪͡ɮ̪̠	-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr -lab -round -velaric -long	
+d̪ɮ	d̪͡ɮ̪̟	-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr -lab -round -velaric -long	
+dɮ	d̪͡ɮ̪̠	-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr -lab -round -velaric -long	
 <NA>	d̪͡ɮ̪̤	-syl -son +cons -cont +delrel +lat -nas +voi +sg -cg +ant +cor -distr -lab -round -velaric -long	
 <NA>	d̪͡ɮ̪̤ʲ	-syl -son +cons -cont +delrel +lat -nas +voi +sg -cg +ant +cor -distr -lab +hi -back -round -velaric -long	
 <NA>	d̪͡ɮ̪̤ʷ	-syl -son +cons -cont +delrel +lat -nas +voi +sg -cg +ant +cor -distr -lab +hi +back +round -velaric -long	
@@ -17,12 +17,12 @@ BIPA	GRAPHEME	FEATURES	SYMBOLS
 <NA>	d̪͡ɮ̪̰̃	-syl -son +cons -cont +delrel +lat +nas +voi -sg +cg +ant +cor -distr -lab -round -velaric -long	
 <NA>	d̪͡ɮ̪̺	-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr -lab -round -velaric -long	
 <NA>	d̪͡ɮ̪̻	-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor +distr -lab -round -velaric -long	
-<NA>	d̪͡ɮ̪ᶣ	-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr -lab +hi -back +round -velaric -long	
-<NA>	n̪̼	-syl +son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long	
+d̪ɮᶣ	d̪͡ɮ̪ᶣ	-syl -son +cons -cont +delrel +lat -nas +voi -sg -cg +ant +cor -distr -lab +hi -back +round -velaric -long	
+n̼	n̪̼	-syl +son +cons -cont -delrel -lat +nas +voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long	
 <NA>	p͡t̼	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab -hi -lo -back -round -velaric -long	
-<NA>	t̪̼	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long	
-<NA>	z̻	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long	
-<NA>	ǀ̼	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr +lab +hi -lo -round +velaric -long	
+t̼	t̪̼	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr +lab -hi -lo -back -round -velaric -long	
+z̻	z̻	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long	
+ʇ̼	ǀ̼	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr +lab +hi -lo -round +velaric -long	
 <NA>	ǁʲʼ	-syl -son +cons -cont -delrel +lat -nas -voi -sg +cg +ant +cor -distr -lab +hi -lo -back -round +velaric -long	
 <NA>	ǁʷʼ	-syl -son +cons -cont -delrel +lat -nas -voi -sg +cg +ant +cor -distr -lab +hi -lo +back +round +velaric -long	
 <NA>	ǁʷˤʼ	-syl -son +cons -cont -delrel +lat -nas -voi -sg +cg +ant +cor -distr -lab +hi +lo +back +round +velaric -long	
@@ -33,37 +33,37 @@ BIPA	GRAPHEME	FEATURES	SYMBOLS
 <NA>	ǁˤʼ	-syl -son +cons -cont -delrel +lat -nas -voi -sg +cg +ant +cor -distr -lab +hi +lo +back -round +velaric -long	
 <NA>	ǁ̼	-syl -son +cons -cont -delrel +lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo -round +velaric -long	
 <NA>	ǃ̼	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor -distr +lab +hi -lo -round +velaric -long	
-<NA>	ˀa	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	
-<NA>	ˀe	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense -long	
-<NA>	ˀi	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric +tense -long	
-<NA>	ˀo	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric +tense -long	
-<NA>	ˀu	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric +tense -long	
-<NA>	ˀy	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -back +round -velaric +tense -long	
-<NA>	ˀæ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo -back -round -velaric +tense -long	
-<NA>	ˀø	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back +round -velaric +tense -long	
-<NA>	ˀœ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back +round -velaric -tense -long	
-<NA>	ˀɐ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric +tense -long	
-<NA>	ˀɑ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	
-<NA>	ˀɒ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back +round -velaric +tense -long	
-<NA>	ˀɔ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric -tense -long	
-<NA>	ˀɘ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense -long	
-<NA>	ˀɘ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric -tense -long	
-<NA>	ˀə	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric -tense -long	
-<NA>	ˀɛ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric -tense -long	
-<NA>	ˀɜ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric +tense -long	
-<NA>	ˀɞ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor +lab -hi -lo -back +round -velaric -tense -long	
-<NA>	ˀɞ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric +tense -long	
-<NA>	ˀɤ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric +tense -long	
-<NA>	ˀɨ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back -round -velaric +tense -long	
-<NA>	ˀɪ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric -tense -long	
-<NA>	ˀɯ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back -round -velaric -tense -long	
-<NA>	ˀɵ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor +lab -hi -lo -back +round -velaric +tense -long	
-<NA>	ˀɵ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric -tense -long	
-<NA>	ˀɶ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo -back +round -velaric +tense -long	
-<NA>	ˀʉ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor +lab +hi -lo -back +round -velaric +tense -long	
-<NA>	ˀʊ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back +round -velaric -tense -long	
-<NA>	ˀʌ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric +tense -long	
-<NA>	ˀʏ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back +round -velaric -tense -long	
+aˀ	ˀa	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	
+eˀ	ˀe	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense -long	
+iˀ	ˀi	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric +tense -long	
+oˀ	ˀo	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric +tense -long	
+uˀ	ˀu	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric +tense -long	
+yˀ	ˀy	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo -back +round -velaric +tense -long	
+æˀ	ˀæ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo -back -round -velaric +tense -long	
+øˀ	ˀø	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back +round -velaric +tense -long	
+œˀ	ˀœ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back +round -velaric -tense -long	
+ɐˀ	ˀɐ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric +tense -long	
+ɑˀ	ˀɑ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	
+ɒˀ	ˀɒ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back +round -velaric +tense -long	
+ɔˀ	ˀɔ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric -tense -long	
+ɘˀ	ˀɘ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense -long	
+ɘˀ	ˀɘ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric -tense -long	
+əˀ	ˀə	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric -tense -long	
+ɛˀ	ˀɛ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric -tense -long	
+ɜˀ	ˀɜ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric +tense -long	
+ɞˀ	ˀɞ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor +lab -hi -lo -back +round -velaric -tense -long	
+ɞˀ	ˀɞ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric +tense -long	
+ɤˀ	ˀɤ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric +tense -long	
+ɨˀ	ˀɨ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back -round -velaric +tense -long	
+ɪˀ	ˀɪ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric -tense -long	
+ɯˀ	ˀɯ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back -round -velaric -tense -long	
+ɵˀ	ˀɵ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor +lab -hi -lo -back +round -velaric +tense -long	
+ɵˀ	ˀɵ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric -tense -long	
+ɶˀ	ˀɶ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo -back +round -velaric +tense -long	
+ʉˀ	ˀʉ	+syl +son -cons +cont -lat -nas +voi -sg +cg -cor +lab +hi -lo -back +round -velaric +tense -long	
+ʊˀ	ˀʊ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back +round -velaric -tense -long	
+ʌˀ	ˀʌ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo +back -round -velaric +tense -long	
+ʏˀ	ˀʏ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back +round -velaric -tense -long	
 a	a	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a
 aˀ	aˀ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌ˀ
 aː	aː	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense +long	◌a ◌ː
@@ -87,7 +87,7 @@ a̤	a̤	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor -lab -hi +lo +
 a̤ː	a̤ː	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor -lab -hi +lo +back -round -velaric +tense +long	◌a ◌̤ ◌ː
 a̤ˠ	a̤ˠ	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor -lab +hi +lo +back -round -velaric +tense -long	◌a ◌̤ ◌ˠ
 a̤ˤ	a̤ˤ	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̤ ◌ˤ
-ḁ̤	a̤̥	+syl +son -cons +cont -delrel -lat -nas -voi +sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̥ ◌̤
+ḁ̤	a̤̥	+syl +son -cons +cont -delrel -lat -nas -voi +sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̥ ◌̤
 a̯	a̯	-syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̯
 a̰	a̰	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̰
 a̰ː	a̰ː	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense +long	◌a ◌̰ ◌ː
@@ -289,10 +289,10 @@ bβ̰ː	b͡β̰ː	-syl -son +cons -cont +delrel -lat -nas -strid +voi -sg +cg +a
 bβ̰ˠ	b͡β̰ˠ	-syl -son +cons -cont +delrel -lat -nas -strid +voi -sg +cg +ant -cor +lab +hi +back -round -velaric -long	◌b ◌β ◌̰ ◌ˠ
 bβ̰ˤ	b͡β̰ˤ	-syl -son +cons -cont +delrel -lat -nas -strid +voi -sg +cg +ant -cor +lab +lo +back -round -velaric -long	◌b ◌β ◌̰ ◌ˤ
 bβ̰̃	b͡β̰̃	-syl -son +cons -cont +delrel -lat +nas -strid +voi -sg +cg +ant -cor +lab -round -velaric -long	◌b ◌β ◌̰ ◌̃
-bṽ	b͡ṽ	-syl -son +cons -cont +delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌b ◌v ◌̃
-bṽː	b͡ṽː	-syl -son +cons -cont +delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long	◌b ◌v ◌̃ ◌ː
-bṽˤ	b͡ṽˤ	-syl -son +cons -cont +delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi +lo +back -round -velaric -long	◌b ◌v ◌̃ ◌ˤ
-bṽ̰	b͡ṽ̰	-syl -son +cons -cont +delrel -lat +nas +strid +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌b ◌v ◌̰ ◌̃
+bṽ	b͡ṽ	-syl -son +cons -cont +delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌b ◌v ◌̃
+bṽː	b͡ṽː	-syl -son +cons -cont +delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long	◌b ◌v ◌̃ ◌ː
+bṽˤ	b͡ṽˤ	-syl -son +cons -cont +delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi +lo +back -round -velaric -long	◌b ◌v ◌̃ ◌ˤ
+bṽ̰	b͡ṽ̰	-syl -son +cons -cont +delrel -lat +nas +strid +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌b ◌v ◌̰ ◌̃
 bⁿ	bⁿ	-syl -son +cons -cont -delrel -lat +nas +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌b ◌ⁿ
 c	c	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c
 cʰ	cʰ	-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌ʰ
@@ -336,51 +336,51 @@ c’ˤ	cˤʼ	-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab
 cˤː	cˤː	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric +long	◌c ◌ˤ ◌ː
 c̟	c̟	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̟
 c̠	c̠	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̠
-cç	c͡ç	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧
-cçʰ	c͡çʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ʰ
-cçʲʰ	c͡çʰʲ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ʲ ◌ʰ
-cçʷʰ	c͡çʰʷ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ʰ
-cçʰː	c͡çʰː	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌ʰ ◌ː
-cçˠʰ	c͡çʰˠ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˠ ◌ʰ
-cçˤʰ	c͡çʰˤ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˤ ◌ʰ
-cçᶣʰ	c͡çʰᶣ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back +round -velaric -long	◌c ◌c ◌̧ ◌ᶣ ◌ʰ
-cçʲ	c͡çʲ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ʲ
-cçʲʰ	c͡çʲʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ʲ ◌ʰ
-cçʲʷ	c͡çʲʷ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʲ ◌ʷ
-cçʲʷʰ	c͡çʲʷʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʲ ◌ʷ ◌ʰ
-cç’ʲ	c͡çʲʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʲ
-cçʲː	c͡çʲː	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌ʲ ◌ː
-cçʷ	c͡çʷ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ
-cçʷʰ	c͡çʷʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ʰ
-cçʷʰː	c͡çʷʰː	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric +long	◌c ◌c ◌̧ ◌ʷ ◌ʰ ◌ː
-cç’ʷ	c͡çʷʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʷ
-cçʷˀ	c͡çʷˀ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˀ
-cçʷː	c͡çʷː	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric +long	◌c ◌c ◌̧ ◌ʷ ◌ː
-cçʷˠ	c͡çʷˠ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˠ
-cçʷˠʰ	c͡çʷˠʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˠ ◌ʰ
-cçʷˤ	c͡çʷˤ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi +lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˤ
-cçʷˤʰ	c͡çʷˤʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi +lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˤ ◌ʰ
-cç’ʷˤ	c͡çʷˤʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi +lo +back +round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʷ ◌ˤ
-cç’	c͡çʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌’
-cç’ʲ	c͡çʼʲ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʲ
-cç’ʷ	c͡çʼʷ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʷ
-cç’ː	c͡çʼː	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌’ ◌ː
-cçˀ	c͡çˀ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ˀ
-cçː	c͡çː	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌ː
-cçʲː	c͡çːʲ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌ʲ ◌ː
-cçʷː	c͡çːʷ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric +long	◌c ◌c ◌̧ ◌ʷ ◌ː
-cçˠː	c͡çːˠ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back -round -velaric +long	◌c ◌c ◌̧ ◌ˠ ◌ː
-cçˤː	c͡çːˤ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric +long	◌c ◌c ◌̧ ◌ˤ ◌ː
-cçˠ	c͡çˠ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˠ
-cçˤ	c͡çˤ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˤ
-cçˤʰ	c͡çˤʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˤ ◌ʰ
-cç’ˤ	c͡çˤʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi +lo +back -round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ˤ
-cçˤː	c͡çˤː	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric +long	◌c ◌c ◌̧ ◌ˤ ◌ː
-cç̟	c͡ç̟	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌̟
-cç̠	c͡ç̠	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌̠
-cç̺	c͡ç̺	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor -distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌̺
-cç̻	c͡ç̻	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌̻
-cçᶣ	c͡çᶣ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back +round -velaric -long	◌c ◌c ◌̧ ◌ᶣ
+cç	c͡ç	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧
+cçʰ	c͡çʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ʰ
+cçʲʰ	c͡çʰʲ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ʲ ◌ʰ
+cçʷʰ	c͡çʰʷ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ʰ
+cçʰː	c͡çʰː	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌ʰ ◌ː
+cçˠʰ	c͡çʰˠ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˠ ◌ʰ
+cçˤʰ	c͡çʰˤ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˤ ◌ʰ
+cçᶣʰ	c͡çʰᶣ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back +round -velaric -long	◌c ◌c ◌̧ ◌ᶣ ◌ʰ
+cçʲ	c͡çʲ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ʲ
+cçʲʰ	c͡çʲʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ʲ ◌ʰ
+cçʲʷ	c͡çʲʷ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʲ ◌ʷ
+cçʲʷʰ	c͡çʲʷʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʲ ◌ʷ ◌ʰ
+cç’ʲ	c͡çʲʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʲ
+cçʲː	c͡çʲː	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌ʲ ◌ː
+cçʷ	c͡çʷ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ
+cçʷʰ	c͡çʷʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ʰ
+cçʷʰː	c͡çʷʰː	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric +long	◌c ◌c ◌̧ ◌ʷ ◌ʰ ◌ː
+cç’ʷ	c͡çʷʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʷ
+cçʷˀ	c͡çʷˀ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˀ
+cçʷː	c͡çʷː	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric +long	◌c ◌c ◌̧ ◌ʷ ◌ː
+cçʷˠ	c͡çʷˠ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˠ
+cçʷˠʰ	c͡çʷˠʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˠ ◌ʰ
+cçʷˤ	c͡çʷˤ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi +lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˤ
+cçʷˤʰ	c͡çʷˤʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi +lo +back +round -velaric -long	◌c ◌c ◌̧ ◌ʷ ◌ˤ ◌ʰ
+cç’ʷˤ	c͡çʷˤʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi +lo +back +round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʷ ◌ˤ
+cç’	c͡çʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌’
+cç’ʲ	c͡çʼʲ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʲ
+cç’ʷ	c͡çʼʷ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ʷ
+cç’ː	c͡çʼː	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌’ ◌ː
+cçˀ	c͡çˀ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌ˀ
+cçː	c͡çː	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌ː
+cçʲː	c͡çːʲ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric +long	◌c ◌c ◌̧ ◌ʲ ◌ː
+cçʷː	c͡çːʷ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back +round -velaric +long	◌c ◌c ◌̧ ◌ʷ ◌ː
+cçˠː	c͡çːˠ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back -round -velaric +long	◌c ◌c ◌̧ ◌ˠ ◌ː
+cçˤː	c͡çːˤ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric +long	◌c ◌c ◌̧ ◌ˤ ◌ː
+cçˠ	c͡çˠ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˠ
+cçˤ	c͡çˤ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˤ
+cçˤʰ	c͡çˤʰ	-syl -son +cons -cont +delrel -lat -nas -voi +sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric -long	◌c ◌c ◌̧ ◌ˤ ◌ʰ
+cç’ˤ	c͡çˤʼ	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi +lo +back -round -velaric -long	◌c ◌c ◌̧ ◌’ ◌ˤ
+cçˤː	c͡çˤː	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi +lo +back -round -velaric +long	◌c ◌c ◌̧ ◌ˤ ◌ː
+cç̟	c͡ç̟	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌̟
+cç̠	c͡ç̠	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌̠
+cç̺	c͡ç̺	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor -distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌̺
+cç̻	c͡ç̻	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌c ◌c ◌̧ ◌̻
+cçᶣ	c͡çᶣ	-syl -son +cons -cont +delrel -lat -nas -voi -sg -cg -ant +cor +distr -lab +hi -lo -back +round -velaric -long	◌c ◌c ◌̧ ◌ᶣ
 cᶣ	cᶣ	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back +round -velaric -long	◌c ◌ᶣ
 cⁿ	cⁿ	-syl -son +cons -cont -delrel -lat +nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌ⁿ
 d	d	-syl -son +cons -cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long	◌d
@@ -2523,11 +2523,11 @@ z̰ˤ	z̰ˤ	-syl -son +cons +cont -delrel -lat -nas +voi -sg +cg +ant +cor -dist
 z̰̃	z̰̃	-syl -son +cons +cont -delrel -lat +nas +voi -sg +cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long	◌z ◌̰ ◌̃
 z̺	z̺	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long	◌z ◌̺
 zᶣ	zᶣ	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr -lab +hi -lo -back +round -velaric -long	◌z ◌ᶣ
-ã	ã	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̃
-ãː	ãː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense +long	◌a ◌̃ ◌ː
-ãˤ	ãˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̃ ◌ˤ
-ã̰	ã̰	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̰ ◌̃
-ä	ä	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̈
+ã	ã	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̃
+ãː	ãː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense +long	◌a ◌̃ ◌ː
+ãˤ	ãˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̃ ◌ˤ
+ã̰	ã̰	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̰ ◌̃
+ä	ä	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̈
 æ	æ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo -back -round -velaric +tense -long	◌æ
 æˀ	æˀ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo -back -round -velaric +tense -long	◌æ ◌ˀ
 æː	æː	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo -back -round -velaric +tense +long	◌æ ◌ː
@@ -2567,54 +2567,54 @@ ä	ä	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +b
 æ̰ˠ	æ̰ˠ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi +lo +back -round -velaric +tense -long	◌æ ◌̰ ◌ˠ
 æ̰ˤ	æ̰ˤ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌æ ◌̰ ◌ˤ
 æ̰̃	æ̰̃	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab -hi +lo -back -round -velaric +tense -long	◌æ ◌̰ ◌̃
-ç	ç	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧
-çʰ	çʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ʰ
-çʲʰ	çʰʲ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ʲ ◌ʰ
-çʷʰ	çʰʷ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ʰ
-çʰː	çʰː	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌ʰ ◌ː
-çˠʰ	çʰˠ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back -round -velaric -long	◌c ◌̧ ◌ˠ ◌ʰ
-çˤʰ	çʰˤ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long	◌c ◌̧ ◌ˤ ◌ʰ
-çᶣʰ	çʰᶣ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back +round -velaric -long	◌c ◌̧ ◌ᶣ ◌ʰ
-çʲ	çʲ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ʲ
-çʲʰ	çʲʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ʲ ◌ʰ
-çʲʷ	çʲʷ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʲ ◌ʷ
-çʲʷʰ	çʲʷʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʲ ◌ʷ ◌ʰ
-ç’ʲ	çʲʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌’ ◌ʲ
-çʲː	çʲː	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌ʲ ◌ː
-çʷ	çʷ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ
-çʷʰ	çʷʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ʰ
-çʷʰː	çʷʰː	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric +long	◌c ◌̧ ◌ʷ ◌ʰ ◌ː
-ç’ʷ	çʷʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌’ ◌ʷ
-çʷˀ	çʷˀ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˀ
-çʷː	çʷː	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric +long	◌c ◌̧ ◌ʷ ◌ː
-çʷˠ	çʷˠ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˠ
-çʷˠʰ	çʷˠʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˠ ◌ʰ
-çʷˤ	çʷˤ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˤ
-çʷˤʰ	çʷˤʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˤ ◌ʰ
-ç’ʷˤ	çʷˤʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi +lo +back +round -velaric -long	◌c ◌̧ ◌’ ◌ʷ ◌ˤ
-ç’	çʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌’
-ç’ʲ	çʼʲ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌’ ◌ʲ
-ç’ʷ	çʼʷ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌’ ◌ʷ
-ç’ː	çʼː	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌’ ◌ː
-çˀ	çˀ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ˀ
-çː	çː	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌ː
-çʲː	çːʲ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌ʲ ◌ː
-çʷː	çːʷ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric +long	◌c ◌̧ ◌ʷ ◌ː
-çˠː	çːˠ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back -round -velaric +long	◌c ◌̧ ◌ˠ ◌ː
-çˤː	çːˤ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric +long	◌c ◌̧ ◌ˤ ◌ː
-çˠ	çˠ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back -round -velaric -long	◌c ◌̧ ◌ˠ
-çˤ	çˤ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long	◌c ◌̧ ◌ˤ
-çˤʰ	çˤʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long	◌c ◌̧ ◌ˤ ◌ʰ
-ç’ˤ	çˤʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi +lo +back -round -velaric -long	◌c ◌̧ ◌’ ◌ˤ
-çˤː	çˤː	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric +long	◌c ◌̧ ◌ˤ ◌ː
-ç̝	ç̝	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̝
-ç̞	ç̞	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̞
-ç̟	ç̟	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̟
-ç̠	ç̠	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̠
-ç̩	ç̩	+syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̩
-çᶣ	çᶣ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back +round -velaric -long	◌c ◌̧ ◌ᶣ
-ë	ë	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̈
-ï	ï	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̈
+ç	ç	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧
+çʰ	çʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ʰ
+çʲʰ	çʰʲ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ʲ ◌ʰ
+çʷʰ	çʰʷ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ʰ
+çʰː	çʰː	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌ʰ ◌ː
+çˠʰ	çʰˠ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back -round -velaric -long	◌c ◌̧ ◌ˠ ◌ʰ
+çˤʰ	çʰˤ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long	◌c ◌̧ ◌ˤ ◌ʰ
+çᶣʰ	çʰᶣ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back +round -velaric -long	◌c ◌̧ ◌ᶣ ◌ʰ
+çʲ	çʲ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ʲ
+çʲʰ	çʲʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ʲ ◌ʰ
+çʲʷ	çʲʷ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʲ ◌ʷ
+çʲʷʰ	çʲʷʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʲ ◌ʷ ◌ʰ
+ç’ʲ	çʲʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌’ ◌ʲ
+çʲː	çʲː	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌ʲ ◌ː
+çʷ	çʷ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ
+çʷʰ	çʷʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ʰ
+çʷʰː	çʷʰː	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric +long	◌c ◌̧ ◌ʷ ◌ʰ ◌ː
+ç’ʷ	çʷʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌’ ◌ʷ
+çʷˀ	çʷˀ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˀ
+çʷː	çʷː	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric +long	◌c ◌̧ ◌ʷ ◌ː
+çʷˠ	çʷˠ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˠ
+çʷˠʰ	çʷˠʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˠ ◌ʰ
+çʷˤ	çʷˤ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˤ
+çʷˤʰ	çʷˤʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo +back +round -velaric -long	◌c ◌̧ ◌ʷ ◌ˤ ◌ʰ
+ç’ʷˤ	çʷˤʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi +lo +back +round -velaric -long	◌c ◌̧ ◌’ ◌ʷ ◌ˤ
+ç’	çʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌’
+ç’ʲ	çʼʲ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌’ ◌ʲ
+ç’ʷ	çʼʷ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌c ◌̧ ◌’ ◌ʷ
+ç’ː	çʼː	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌’ ◌ː
+çˀ	çˀ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌ˀ
+çː	çː	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌ː
+çʲː	çːʲ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric +long	◌c ◌̧ ◌ʲ ◌ː
+çʷː	çːʷ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric +long	◌c ◌̧ ◌ʷ ◌ː
+çˠː	çːˠ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back -round -velaric +long	◌c ◌̧ ◌ˠ ◌ː
+çˤː	çːˤ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric +long	◌c ◌̧ ◌ˤ ◌ː
+çˠ	çˠ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo +back -round -velaric -long	◌c ◌̧ ◌ˠ
+çˤ	çˤ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long	◌c ◌̧ ◌ˤ
+çˤʰ	çˤʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo +back -round -velaric -long	◌c ◌̧ ◌ˤ ◌ʰ
+ç’ˤ	çˤʼ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi +lo +back -round -velaric -long	◌c ◌̧ ◌’ ◌ˤ
+çˤː	çˤː	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo +back -round -velaric +long	◌c ◌̧ ◌ˤ ◌ː
+ç̝	ç̝	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̝
+ç̞	ç̞	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̞
+ç̟	ç̟	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̟
+ç̠	ç̠	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̠
+ç̩	ç̩	+syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌c ◌̧ ◌̩
+çᶣ	çᶣ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back +round -velaric -long	◌c ◌̧ ◌ᶣ
+ë	ë	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̈
+ï	ï	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̈
 ð	ð	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long	◌ð
 ðʲ	ðʲ	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌ð ◌ʲ
 ðʲʷ	ðʲʷ	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab +hi -lo +back +round -velaric -long	◌ð ◌ʲ ◌ʷ
@@ -2657,11 +2657,11 @@ ï	ï	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab +hi -lo -b
 ð̺	ð̺	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long	◌ð ◌̺
 ð̻	ð̻	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long	◌ð ◌̻
 ðᶣ	ðᶣ	-syl -son +cons +cont -delrel -lat -nas +voi -sg -cg +ant +cor +distr -lab +hi -lo -back +round -velaric -long	◌ð ◌ᶣ
-õ	õ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi -lo +back +round -velaric +tense -long	◌o ◌̃
-õː	õː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi -lo +back +round -velaric +tense +long	◌o ◌̃ ◌ː
-õˤ	õˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back +round -velaric +tense -long	◌o ◌̃ ◌ˤ
-õ̰	õ̰	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric +tense -long	◌o ◌̰ ◌̃
-ö	ö	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo +back +round -velaric +tense -long	◌o ◌̈
+õ	õ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi -lo +back +round -velaric +tense -long	◌o ◌̃
+õː	õː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi -lo +back +round -velaric +tense +long	◌o ◌̃ ◌ː
+õˤ	õˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back +round -velaric +tense -long	◌o ◌̃ ◌ˤ
+õ̰	õ̰	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab -hi -lo +back +round -velaric +tense -long	◌o ◌̰ ◌̃
+ö	ö	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo +back +round -velaric +tense -long	◌o ◌̈
 ø	ø	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo -back +round -velaric +tense -long	◌ø
 øˀ	øˀ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back +round -velaric +tense -long	◌ø ◌ˀ
 øː	øː	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo -back +round -velaric +tense +long	◌ø ◌ː
@@ -2701,10 +2701,10 @@ ö	ö	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo +b
 ø̰ˠ	ø̰ˠ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back +round -velaric +tense -long	◌ø ◌̰ ◌ˠ
 ø̰ˤ	ø̰ˤ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back +round -velaric +tense -long	◌ø ◌̰ ◌ˤ
 ø̰̃	ø̰̃	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab -hi -lo -back +round -velaric +tense -long	◌ø ◌̰ ◌̃
-ü	ü	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̈
-ÿ	ÿ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -back +round -velaric +tense -long	◌y ◌̈
-ă	ă	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̆
-ĕ	ĕ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̆
+ü	ü	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̈
+ÿ	ÿ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo -back +round -velaric +tense -long	◌y ◌̈
+ă	ă	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̆
+ĕ	ĕ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̆
 ħ	ħ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long	◌ħ
 ħʰ	ħʰ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long	◌ħ ◌ʰ
 ħʲʰ	ħʰʲ	-syl -son +cons +cont -delrel -lat -nas -voi +sg -cg -ant -cor -lab +hi +lo -back -round -velaric -long	◌ħ ◌ʲ ◌ʰ
@@ -2747,10 +2747,10 @@ ĕ	ĕ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo -b
 ħ̠	ħ̠	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long	◌ħ ◌̠
 ħ̩	ħ̩	+syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab -hi +lo +back -round -velaric -long	◌ħ ◌̩
 ħᶣ	ħᶣ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi +lo -back +round -velaric -long	◌ħ ◌ᶣ
-ĩ	ĩ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̃
-ĩː	ĩː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab +hi -lo -back -round -velaric +tense +long	◌i ◌̃ ◌ː
-ĩˤ	ĩˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab +hi +lo +back -round -velaric +tense -long	◌i ◌̃ ◌ˤ
-ĭ	ĭ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̆
+ĩ	ĩ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̃
+ĩː	ĩː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab +hi -lo -back -round -velaric +tense +long	◌i ◌̃ ◌ː
+ĩˤ	ĩˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab +hi +lo +back -round -velaric +tense -long	◌i ◌̃ ◌ˤ
+ĭ	ĭ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̆
 ŋ	ŋ	-syl +son +cons -cont -delrel -lat +nas +voi -sg -cg -ant -cor -lab +hi -lo +back -round -velaric -long	◌ŋ
 ŋʲ	ŋʲ	-syl +son +cons -cont -delrel -lat +nas +voi -sg -cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌ŋ ◌ʲ
 ŋʲʷ	ŋʲʷ	-syl +son +cons -cont -delrel -lat +nas +voi -sg -cg -ant -cor -lab +hi -lo +back +round -velaric -long	◌ŋ ◌ʲ ◌ʷ
@@ -2791,7 +2791,7 @@ ĭ	ĭ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab +hi -lo -b
 ŋ̰ˠ	ŋ̰ˠ	-syl +son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab +hi -lo +back -round -velaric -long	◌ŋ ◌̰ ◌ˠ
 ŋ̰ˤ	ŋ̰ˤ	-syl +son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab +hi +lo +back -round -velaric -long	◌ŋ ◌̰ ◌ˤ
 ŋᶣ	ŋᶣ	-syl +son +cons -cont -delrel -lat +nas +voi -sg -cg -ant -cor -lab +hi -lo -back +round -velaric -long	◌ŋ ◌ᶣ
-ŏ	ŏ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo +back +round -velaric +tense -long	◌o ◌̆
+ŏ	ŏ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo +back +round -velaric +tense -long	◌o ◌̆
 œ	œ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo -back +round -velaric -tense -long	◌œ
 œˀ	œˀ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back +round -velaric -tense -long	◌œ ◌ˀ
 œː	œː	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo -back +round -velaric -tense +long	◌œ ◌ː
@@ -2831,10 +2831,10 @@ ŏ	ŏ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor -lab -hi -lo +b
 œ̰ˠ	œ̰ˠ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back +round -velaric -tense -long	◌œ ◌̰ ◌ˠ
 œ̰ˤ	œ̰ˤ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back +round -velaric -tense -long	◌œ ◌̰ ◌ˤ
 œ̰̃	œ̰̃	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab -hi -lo -back +round -velaric -tense -long	◌œ ◌̰ ◌̃
-ũ	ũ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̃
-ũː	ũː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +tense +long	◌u ◌̃ ◌ː
-ũˤ	ũˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi +lo +back +round -velaric +tense -long	◌u ◌̃ ◌ˤ
-ŭ	ŭ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̆
+ũ	ũ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̃
+ũː	ũː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +tense +long	◌u ◌̃ ◌ː
+ũˤ	ũˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi +lo +back +round -velaric +tense -long	◌u ◌̃ ◌ˤ
+ŭ	ŭ	+syl +son -cons +cont -delrel -lat -nas +voi -sg -cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̆
 ǀ	ǀ	-syl -son +cons -cont -delrel -lat -nas -voi -sg -cg +ant +cor +distr -lab +hi -lo -round +velaric -long	◌ǀ
 ǀʰ	ǀʰ	-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -lo -round +velaric -long	◌ǀ ◌ʰ
 ǀʲʰ	ǀʰʲ	-syl -son +cons -cont -delrel -lat -nas -voi +sg -cg +ant +cor +distr -lab +hi -lo -back -round +velaric -long	◌ǀ ◌ʲ ◌ʰ
@@ -6178,7 +6178,7 @@ lᶣˠ	ɫᶣ	-syl +son +cons +cont +lat -nas +voi -sg -cg +ant +cor -distr -lab 
 ˀbv	ˀb͡v	-syl -son +cons -cont +delrel -lat -nas +strid +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌ˀ ◌b ◌v
 ˀbβ	ˀb͡β	-syl -son +cons -cont +delrel -lat -nas -strid +voi -sg +cg +ant -cor +lab -round -velaric -long	◌ˀ ◌b ◌β
 ˀc	ˀc	-syl -son +cons -cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌ˀ ◌c
-ˀcç	ˀc͡ç	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌ˀ ◌c ◌c ◌̧
+ˀcç	ˀc͡ç	-syl -son +cons -cont +delrel -lat -nas -voi -sg +cg -ant +cor +distr -lab +hi -lo -back -round -velaric -long	◌ˀ ◌c ◌c ◌̧
 ˀd	ˀd	-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long	◌ˀ ◌d
 ˀd̪	ˀd̪	-syl -son +cons -cont -delrel -lat -nas +voi -sg +cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long	◌ˀ ◌d ◌̪
 ˀdz̪	ˀd̪͡z̪	-syl -son +cons -cont +delrel -lat -nas +voi -sg +cg +ant +cor +distr -lab -round -velaric -long	◌ˀ ◌d ◌z ◌̪
@@ -6223,7 +6223,7 @@ lᶣˠ	ɫᶣ	-syl +son +cons +cont +lat -nas +voi -sg -cg +ant +cor -distr -lab 
 ˀx	ˀx	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo +back -round -velaric -long	◌ˀ ◌x
 ˀz	ˀz	-syl -son +cons +cont -delrel -lat -nas +voi -sg +cg +ant +cor -distr -lab -hi -lo -back -round -velaric -long	◌ˀ ◌z
 ˀz̪	ˀz̪	-syl -son +cons +cont -delrel -lat -nas +voi -sg +cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long	◌ˀ ◌z ◌̪
-ˀç	ˀç	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌ˀ ◌c ◌̧
+ˀç	ˀç	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab +hi -lo -back -round -velaric -long	◌ˀ ◌c ◌̧
 ˀð	ˀð	-syl -son +cons +cont -delrel -lat -nas +voi -sg +cg +ant +cor +distr -lab -hi -lo -back -round -velaric -long	◌ˀ ◌ð
 ˀħ	ˀħ	-syl -son +cons +cont -delrel -lat -nas -voi -sg +cg -ant -cor -lab -hi +lo +back -round -velaric -long	◌ˀ ◌ħ
 ˀŋ	ˀŋ	-syl +son +cons -cont -delrel -lat +nas +voi -sg +cg -ant -cor -lab +hi -lo +back -round -velaric -long	◌ˀ ◌ŋ
@@ -6420,36 +6420,36 @@ lᶣˠ	ɫᶣ	-syl +son +cons +cont +lat -nas +voi -sg -cg +ant +cor -distr -lab 
 χ̠	χ̠	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab -hi -lo +back -round -velaric -long	◌χ ◌̠
 χ̩	χ̩	+syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab -hi -lo +back -round -velaric -long	◌χ ◌̩
 χᶣ	χᶣ	-syl -son +cons +cont -delrel -lat -nas -voi -sg -cg -ant -cor -lab +hi -lo -back +round -velaric -long	◌χ ◌ᶣ
-ḁ	ḁ	+syl +son -cons +cont -delrel -lat -nas -voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̥
-ḁː	ḁː	+syl +son -cons +cont -delrel -lat -nas -voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense +long	◌a ◌̥ ◌ː
-ḁˠ	ḁˠ	+syl +son -cons +cont -delrel -lat -nas -voi -sg -cg -cor -lab +hi +lo +back -round -velaric +tense -long	◌a ◌̥ ◌ˠ
-ḁˤ	ḁˤ	+syl +son -cons +cont -delrel -lat -nas -voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̥ ◌ˤ
-ḛ	ḛ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̰
-ḛː	ḛː	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense +long	◌e ◌̰ ◌ː
-ḛˠ	ḛˠ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back -round -velaric +tense -long	◌e ◌̰ ◌ˠ
-ḛˤ	ḛˤ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌e ◌̰ ◌ˤ
-ḛ̃	ḛ̃	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̰ ◌̃
-ḭ	ḭ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̰
-ḭː	ḭː	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric +tense +long	◌i ◌̰ ◌ː
-ḭˠ	ḭˠ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back -round -velaric +tense -long	◌i ◌̰ ◌ˠ
-ḭˤ	ḭˤ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi +lo +back -round -velaric +tense -long	◌i ◌̰ ◌ˤ
-ḭ̃	ḭ̃	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̰ ◌̃
-ṳ	ṳ	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̤
-ṳː	ṳː	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric +tense +long	◌u ◌̤ ◌ː
-ṳˤ	ṳˤ	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back +round -velaric +tense -long	◌u ◌̤ ◌ˤ
+ḁ	ḁ	+syl +son -cons +cont -delrel -lat -nas -voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̥
+ḁː	ḁː	+syl +son -cons +cont -delrel -lat -nas -voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense +long	◌a ◌̥ ◌ː
+ḁˠ	ḁˠ	+syl +son -cons +cont -delrel -lat -nas -voi -sg -cg -cor -lab +hi +lo +back -round -velaric +tense -long	◌a ◌̥ ◌ˠ
+ḁˤ	ḁˤ	+syl +son -cons +cont -delrel -lat -nas -voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌a ◌̥ ◌ˤ
+ḛ	ḛ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̰
+ḛː	ḛː	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense +long	◌e ◌̰ ◌ː
+ḛˠ	ḛˠ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back -round -velaric +tense -long	◌e ◌̰ ◌ˠ
+ḛˤ	ḛˤ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌e ◌̰ ◌ˤ
+ḛ̃	ḛ̃	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̰ ◌̃
+ḭ	ḭ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̰
+ḭː	ḭː	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric +tense +long	◌i ◌̰ ◌ː
+ḭˠ	ḭˠ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi -lo +back -round -velaric +tense -long	◌i ◌̰ ◌ˠ
+ḭˤ	ḭˤ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor -lab +hi +lo +back -round -velaric +tense -long	◌i ◌̰ ◌ˤ
+ḭ̃	ḭ̃	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor -lab +hi -lo -back -round -velaric +tense -long	◌i ◌̰ ◌̃
+ṳ	ṳ	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̤
+ṳː	ṳː	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi -lo +back +round -velaric +tense +long	◌u ◌̤ ◌ː
+ṳˤ	ṳˤ	+syl +son -cons +cont -delrel -lat -nas +voi +sg -cg -cor +lab +hi +lo +back +round -velaric +tense -long	◌u ◌̤ ◌ˤ
 u̥̤	ṳ̥	+syl +son -cons +cont -delrel -lat -nas -voi +sg -cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̥ ◌̤
-ṵ	ṵ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̰
-ṵː	ṵː	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric +tense +long	◌u ◌̰ ◌ː
-ṵˤ	ṵˤ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi +lo +back +round -velaric +tense -long	◌u ◌̰ ◌ˤ
-ṵ̃	ṵ̃	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̰ ◌̃
-ṽ	ṽ	-syl -son +cons +cont -delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌v ◌̃
-ṽː	ṽː	-syl -son +cons +cont -delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long	◌v ◌̃ ◌ː
-ṽˤ	ṽˤ	-syl -son +cons +cont -delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi +lo +back -round -velaric -long	◌v ◌̃ ◌ˤ
-ṽ̰	ṽ̰	-syl -son +cons +cont -delrel -lat +nas +strid +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌v ◌̰ ◌̃
-ẽ	ẽ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̃
-ẽː	ẽː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi -lo -back -round -velaric +tense +long	◌e ◌̃ ◌ː
-ẽˤ	ẽˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌e ◌̃ ◌ˤ
-ỹ	ỹ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -back +round -velaric +tense -long	◌y ◌̃
-ỹː	ỹː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -back +round -velaric +tense +long	◌y ◌̃ ◌ː
-ỹˤ	ỹˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi +lo +back +round -velaric +tense -long	◌y ◌̃ ◌ˤ
-ỹ̰	ỹ̰	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor +lab +hi -lo -back +round -velaric +tense -long	◌y ◌̰ ◌̃
+ṵ	ṵ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̰
+ṵː	ṵː	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric +tense +long	◌u ◌̰ ◌ː
+ṵˤ	ṵˤ	+syl +son -cons +cont -delrel -lat -nas +voi -sg +cg -cor +lab +hi +lo +back +round -velaric +tense -long	◌u ◌̰ ◌ˤ
+ṵ̃	ṵ̃	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor +lab +hi -lo +back +round -velaric +tense -long	◌u ◌̰ ◌̃
+ṽ	ṽ	-syl -son +cons +cont -delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌v ◌̃
+ṽː	ṽː	-syl -son +cons +cont -delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi -lo -back -round -velaric +long	◌v ◌̃ ◌ː
+ṽˤ	ṽˤ	-syl -son +cons +cont -delrel -lat +nas +strid +voi -sg -cg +ant -cor +lab -hi +lo +back -round -velaric -long	◌v ◌̃ ◌ˤ
+ṽ̰	ṽ̰	-syl -son +cons +cont -delrel -lat +nas +strid +voi -sg +cg +ant -cor +lab -hi -lo -back -round -velaric -long	◌v ◌̰ ◌̃
+ẽ	ẽ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi -lo -back -round -velaric +tense -long	◌e ◌̃
+ẽː	ẽː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi -lo -back -round -velaric +tense +long	◌e ◌̃ ◌ː
+ẽˤ	ẽˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor -lab -hi +lo +back -round -velaric +tense -long	◌e ◌̃ ◌ˤ
+ỹ	ỹ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -back +round -velaric +tense -long	◌y ◌̃
+ỹː	ỹː	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi -lo -back +round -velaric +tense +long	◌y ◌̃ ◌ː
+ỹˤ	ỹˤ	+syl +son -cons +cont -delrel -lat +nas +voi -sg -cg -cor +lab +hi +lo +back +round -velaric +tense -long	◌y ◌̃ ◌ˤ
+ỹ̰	ỹ̰	+syl +son -cons +cont -delrel -lat +nas +voi -sg +cg -cor +lab +hi -lo -back +round -velaric +tense -long	◌y ◌̰ ◌̃
