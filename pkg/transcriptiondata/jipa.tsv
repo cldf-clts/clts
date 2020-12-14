@@ -1,958 +1,958 @@
-BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
-<NA>	<NA>		+	aʊɪ						1	triphthong
-<NA>	<NA>		+	eəɪ						1	triphthong
-<NA>	<NA>		+	iau						2	triphthong
-<NA>	<NA>		+	iou						1	triphthong
-<NA>	<NA>		+	iəɪ						1	triphthong
-<NA>	<NA>		+	jai̯						1	triphthong
-<NA>	<NA>		+	jau̯						1	triphthong
-<NA>	<NA>		+	jeu̯						1	triphthong
-<NA>	<NA>		+	ld						1	
-<NA>	<NA>		+	oəɪ						1	triphthong
-<NA>	<NA>		+	uai						1	
-<NA>	<NA>		+	uei						1	
-<NA>	<NA>		+	wai̯						1	
-<NA>	<NA>		+	wei̯						1	
-<NA>	<NA>		+	z̻						1	
-<NA>	<NA>		+	ǁ’						1	
-<NA>	<NA>		+	ɔoũ						1	triphthong
-<NA>	<NA>		+	əɪa						1	triphthong
-<NA>	<NA>		+	əʁ̞						1	
-<NA>	<NA>		+	əʊɪ						1	triphthong
-n	voiced alveolar nasal consonant		+	N						1	
-ⁿb	pre-nasalized voiced bilabial stop consonant		+	Nb						2	
-ⁿd	pre-nasalized voiced alveolar stop consonant		+	Nd						2	
-ⁿdz	pre-nasalized voiced alveolar sibilant affricate consonant	+	+	Ndz						1	
-ⁿɖʐ	pre-nasalized voiced retroflex sibilant affricate consonant	+	+	Ndʐ						1	
-ⁿdʑ	pre-nasalized voiced alveolo-palatal sibilant affricate consonant	+	+	Ndʑ						2	
-ⁿdz̪	pre-nasalized voiced dental sibilant affricate consonant	+	+	Nd̪z̪						1	
-ⁿdz̻	pre-nasalized voiced laminal alveolar sibilant affricate consonant	+	+	Nd̻z̻						1	
-ⁿg	pre-nasalized voiced velar stop consonant		+	Ng						2	
-ⁿkʰ	pre-nasalized aspirated voiceless velar stop consonant	+	+	Nkʰ						1	
-ⁿpʰ	pre-nasalized aspirated voiceless bilabial stop consonant	+	+	Npʰ						1	
-ⁿtɕʰ	pre-nasalized aspirated voiceless alveolo-palatal sibilant affricate consonant	+	+	Ntɕʰ						1	
-ⁿtʰ	pre-nasalized aspirated voiceless alveolar stop consonant	+	+	Ntʰ						1	
-ⁿts̪ʰ	pre-nasalized aspirated voiceless dental sibilant affricate consonant	+	+	Nt̪s̪ʰ						1	
-ⁿts̻ʰ	pre-nasalized aspirated voiceless laminal alveolar sibilant affricate consonant	+	+	Nt̻s̻ʰ						1	
-ⁿɖʳ	pre-nasalized with-trilled-release voiced retroflex stop consonant	+	+	Nɖɽ						1	
-ⁿʈʳʰ	pre-nasalized aspirated with-trilled-release voiceless retroflex stop consonant	+	+	Nʈɽʰ						1	
-a	unrounded open front vowel		+	a						126	
-ae	from unrounded open front to unrounded close-mid front diphthong	+	+	ae						1	
-ae̯	from unrounded open front to non-syllabic unrounded close-mid front diphthong	+	+	ae̯						2	
-ai	from unrounded open front to unrounded close front diphthong	+	+	ai						12	
-ai̯	from unrounded open front to non-syllabic unrounded close front diphthong	+	+	ai̯						2	
-ai̯	from unrounded open front to non-syllabic unrounded close front diphthong	+	+	aj						4	
-ao̯	from unrounded open front to non-syllabic rounded close-mid back diphthong	+	+	ao̯						1	
-au	from unrounded open front to rounded close back diphthong	+	+	au						16	
-au̯	from unrounded open front to non-syllabic rounded close back diphthong	+	+	au̯						2	
-au̯	from unrounded open front to non-syllabic rounded close back diphthong	+	+	aw						4	
-aɛ	from unrounded open front to unrounded open-mid front diphthong	+	+	aɛ						1	
-aɛ̯	from unrounded open front to non-syllabic unrounded open-mid front diphthong	+	+	aɛ̯						1	
-aɪ	from unrounded open front to unrounded near-close near-front diphthong	+	+	aɪ						9	
-aɪ̃	from unrounded open front to nasalized unrounded near-close near-front diphthong	+	+	aɪ̃						1	
-aɵ̯	from unrounded open front to non-syllabic rounded close-mid central diphthong	+	+	aɵ̯						1	
-aʊ	from unrounded open front to rounded near-close near-back diphthong	+	+	aʊ						8	
-aʊ̃	from unrounded open front to nasalized rounded near-close near-back diphthong	+	+	aʊ̃						1	
-aˀ	glottalized unrounded open front vowel	+	+	aʔ						1	
-aː	long unrounded open front vowel		+	aː						54	
-aːi	from long unrounded open front to unrounded close front diphthong	+	+	aːi						1	
-aːu	from long unrounded open front to rounded close back diphthong	+	+	aːu						1	
-aˑ	mid-long unrounded open front vowel		+	aˑ						3	
-a˞	rhotacized unrounded open front vowel		+	a˞						1	
-aˠ	velarized unrounded open front vowel	+	+	aˠ						1	
-aˤ	pharyngealized unrounded open front vowel	+	+	aˤ						2	
-aˤː	long pharyngealized unrounded open front vowel	+	+	aˤ:						1	
-ã	nasalized unrounded open front vowel		+	ã						16	
-ãː	long nasalized unrounded open front vowel		+	ãː						4	
-ãˤ	pharyngealized nasalized unrounded open front vowel	+	+	ãˤ						1	
-ã̰	nasalized creaky unrounded open front vowel	+	+	ã̰						1	
-a̤	breathy unrounded open front vowel	+	+	a̤						2	
-a̤ː	long breathy unrounded open front vowel	+	+	a̤ː						1	
-a̤ˑ	mid-long breathy unrounded open front vowel	+	+	a̤ˑ						1	
-a̰	creaky unrounded open front vowel		+	a̰						3	
-b	voiced bilabial stop consonant		+	b						127	
-bː	long voiced bilabial stop consonant		+	b:						1	
-bː	long voiced bilabial stop consonant		+	bb						1	
-bʱː	long breathy voiced bilabial stop consonant		+	bbʱ						1	
-bʰ	aspirated voiced bilabial stop consonant		+	bʰ						1	
-bʰː	aspirated long voiced bilabial stop consonant		+	bʰː						1	
-bʱ	breathy voiced bilabial stop consonant		+	bʱ						6	
-bʱː	long breathy voiced bilabial stop consonant		+	bʱː						1	
-bʲ	palatalized voiced bilabial stop consonant		+	bʲ						4	
-bʷ	labialized voiced bilabial stop consonant		+	bʷ						1	
-bʷː	labialized long voiced bilabial stop consonant		+	bʷː						1	
-bː	long voiced bilabial stop consonant		+	bː						13	
-bˠ	velarized voiced bilabial stop consonant		+	bˠ						1	
-b̥	devoiced voiced bilabial stop consonant		+	b̥						3	
-c	voiceless palatal stop consonant		+	c						26	
-cⁿ	with-nasal-release voiceless palatal stop consonant	+	+	cn						1	
-cç	voiceless palatal affricate consonant		+	cç						1	
-cçː	long voiceless palatal affricate consonant	+	+	cçː						1	
-cʰ	aspirated voiceless palatal stop consonant		+	cʰ						3	
-cː	long voiceless palatal stop consonant		+	cː						1	
-d	voiced alveolar stop consonant		+	d						122	
-dː	long voiced alveolar stop consonant		+	d:						1	
-dʒː	long voiced post-alveolar sibilant affricate consonant		+	d:ʒ						1	
-dː	long voiced alveolar stop consonant		+	dd						1	
-dʱː	long breathy voiced alveolar stop consonant		+	ddʱ						1	
-dɮ	voiced alveolar lateral affricate consonant		+	dlʒ						1	
-dz	voiced alveolar sibilant affricate consonant		+	dz						18	
-dzː	long voiced alveolar sibilant affricate consonant		+	dzdz						1	
-dzʱ	breathy voiced alveolar sibilant affricate consonant	+	+	dzʱ						1	
-dzʱː	long breathy voiced alveolar sibilant affricate consonant	+	+	dzʱː						1	
-dzʲ	palatalized voiced alveolar sibilant affricate consonant	+	+	dzʲ						2	
-dzː	long voiced alveolar sibilant affricate consonant		+	dzː						2	
-ɖʐ	voiced retroflex sibilant affricate consonant		+	dʐ						3	
-dʑ	voiced alveolo-palatal sibilant affricate consonant		+	dʑ						12	
-dʑː	long voiced alveolo-palatal sibilant affricate consonant		+	dʑː						1	
-dʒ	voiced post-alveolar sibilant affricate consonant		+	dʒ						70	
-dʒː	long voiced post-alveolar sibilant affricate consonant		+	dʒdʒ						1	
-dʒʱː	long breathy voiced post-alveolar sibilant affricate consonant	+	+	dʒdʒʱ						1	
-dʒʱ	breathy voiced post-alveolar sibilant affricate consonant		+	dʒʱ						2	
-dʒʱː	long breathy voiced post-alveolar sibilant affricate consonant	+	+	dʒʱː						1	
-dʒʲ	palatalized voiced post-alveolar sibilant affricate consonant		+	dʒʲ						1	
-dʒː	long voiced post-alveolar sibilant affricate consonant		+	dʒː						4	
-ɟʝ	voiced palatal affricate consonant		+	dʝ						1	
-dʰ	aspirated voiced alveolar stop consonant		+	dʰ						1	
-dʰː	aspirated long voiced alveolar stop consonant		+	dʰː						1	
-dʱ	breathy voiced alveolar stop consonant		+	dʱ						4	
-dʱː	long breathy voiced alveolar stop consonant		+	dʱː						2	
-dʲ	palatalized voiced alveolar stop consonant		+	dʲ						5	
-dʷ	labialized voiced alveolar stop consonant	+	+	dʷ						1	
-dː	long voiced alveolar stop consonant		+	dː						10	
-dzː	long voiced alveolar sibilant affricate consonant		+	dːz						1	
-dʒː	long voiced post-alveolar sibilant affricate consonant		+	dːʃ						1	
-dʑː	long voiced alveolo-palatal sibilant affricate consonant		+	dːʑ						1	
-dˤ	pharyngealized voiced alveolar stop consonant		+	dˤ						2	
-dˤː	pharyngealized long voiced alveolar stop consonant	+	+	dˤː						1	
-dʑ	voiced alveolo-palatal sibilant affricate consonant		+	d̠ʑ						2	
-dʑʱ	breathy voiced alveolo-palatal sibilant affricate consonant	+	+	d̠ʑʱ						2	
-dʑʱː	long breathy voiced alveolo-palatal sibilant affricate consonant	+	+	d̠ʑʱː						1	
-dʑː	long voiced alveolo-palatal sibilant affricate consonant		+	d̠ʑː						1	
-d̥	devoiced voiced alveolar stop consonant		+	d̥						3	
-d̪	voiced dental stop consonant		+	d̪						7	
-dz̪	voiced dental sibilant affricate consonant		+	d̪z̪						1	
-d̪ʱ	breathy voiced dental stop consonant		+	d̪ʱ						3	
-d̪ʱː	long breathy voiced dental stop consonant		+	d̪ʱː						2	
-d̪ʲ	palatalized voiced dental stop consonant		+	d̪ʲ						1	
-d̪ʷ	labialized voiced dental stop consonant	+	+	d̪ʷ						1	
-d̪ː	long voiced dental stop consonant		+	d̪ː						2	
-d̪ˠ	velarized voiced dental stop consonant		+	d̪ˠ						1	
-dz̻	voiced laminal alveolar sibilant affricate consonant	+	+	d̻z̻						1	
-dz	voiced alveolar sibilant affricate consonant		+	d͜z						1	
-e	unrounded close-mid front vowel		+	e						105	
-eː	long unrounded close-mid front vowel		+	e:						1	
-ea	from unrounded close-mid front to unrounded open front diphthong	+	+	ea						2	
-eaː	from unrounded close-mid front to long unrounded open front diphthong	+	+	eaː						1	
-eã	from unrounded close-mid front to nasalized unrounded open front diphthong	+	+	eã						1	
-ei	from unrounded close-mid front to unrounded close front diphthong	+	+	ei						9	
-ei̯	from unrounded close-mid front to non-syllabic unrounded close front diphthong	+	+	ei̯						3	
-ei̯	from unrounded close-mid front to non-syllabic unrounded close front diphthong	+	+	ej						2	
-eo	from unrounded close-mid front to rounded close-mid back diphthong	+	+	eo						2	
-eoː	from unrounded close-mid front to long rounded close-mid back diphthong	+	+	eoː						1	
-eu	from unrounded close-mid front to rounded close back diphthong	+	+	eu						6	
-eu̯	from unrounded close-mid front to non-syllabic rounded close back diphthong	+	+	eu̯						2	
-eu̯	from unrounded close-mid front to non-syllabic rounded close back diphthong	+	+	ew						1	
-eɑ	from unrounded close-mid front to unrounded open back diphthong	+	+	eɑ						1	
-eɔ	from unrounded close-mid front to rounded open-mid back diphthong	+	+	eɔ						1	
-eə	from unrounded close-mid front to unrounded mid central diphthong	+	+	eə						3	
-eɪ	from unrounded close-mid front to unrounded near-close near-front diphthong	+	+	eɪ						6	
-eɪ̃	from unrounded close-mid front to nasalized unrounded near-close near-front diphthong	+	+	eɪ̃						1	
-eː	long unrounded close-mid front vowel		+	eː						45	
-eːː	ultra-long unrounded close-mid front vowel		+	eːː						1	
-eˤː	long pharyngealized unrounded close-mid front vowel	+	+	eːˤ						1	
-eˑ	mid-long unrounded close-mid front vowel		+	eˑ						4	
-eˠ	velarized unrounded close-mid front vowel	+	+	eˠ						1	
-eˠː	long velarized unrounded close-mid front vowel	+	+	eˠː						1	
-eˤ	pharyngealized unrounded close-mid front vowel	+	+	eˤ						1	
-ẽ	nasalized unrounded close-mid front vowel		+	ẽ						12	
-ẽː	long nasalized unrounded close-mid front vowel		+	ẽː						1	
-ẽˤ	pharyngealized nasalized unrounded close-mid front vowel	+	+	ẽˤ						1	
-ḛ̃	nasalized creaky unrounded close-mid front vowel	+	+	ḛ̃						1	
-ë	centralized unrounded close-mid front vowel	+	+	ë						1	
-e̝	raised unrounded close-mid front vowel	+	+	e̝						1	
-e̞ɪ	from unrounded mid front to unrounded near-close near-front diphthong	+	+	e̞ɪ						1	
-e̤	breathy unrounded close-mid front vowel		+	e̤						3	
-e̤ː	long breathy unrounded close-mid front vowel	+	+	e̤ː						1	
-e̤ˑ	mid-long breathy unrounded close-mid front vowel	+	+	e̤ˑ						1	
-ḛ	creaky unrounded close-mid front vowel		+	ḛ						3	
-f	voiceless labio-dental fricative consonant		+	f						113	
-fʰ	aspirated voiceless labio-dental fricative consonant		+	fʰ						1	
-fʲ	palatalized voiceless labio-dental fricative consonant		+	fʲ						2	
-fʷ	labialized voiceless labio-dental fricative consonant	+	+	fʷ						2	
-fʷː	labialized long voiceless labio-dental fricative consonant		+	fʷː						1	
-fː	long voiceless labio-dental fricative consonant		+	fː						10	
-fˠ	velarized voiceless labio-dental fricative consonant		+	fˠ						1	
-g	voiced velar stop consonant		+	g						117	
-gː	long voiced velar stop consonant		+	g:						1	
-gb	voiced velar-and-bilabial stop consonant		+	gb						9	
-gː	long voiced velar stop consonant		+	gg						1	
-gʱː	long breathy voiced velar stop consonant	+	+	ggʱ						1	
-gǀ	voiced dental click consonant		+	gǀ						1	
-gǁ	voiced lateral click consonant		+	gǁ						1	
-gǃ	voiced alveolar click consonant		+	gǃ						1	
-gʰ	aspirated voiced velar stop consonant		+	gʰ						1	
-gʱ	breathy voiced velar stop consonant		+	gʱ						6	
-gʱː	long breathy voiced velar stop consonant	+	+	gʱː						3	
-gʲ	palatalized voiced velar stop consonant		+	gʲ						3	
-gʷ	labialized voiced velar stop consonant		+	gʷ						14	
-gʷː	labialized long voiced velar stop consonant	+	+	gʷː						5	
-gː	long voiced velar stop consonant		+	gː						12	
-g̊	devoiced voiced velar stop consonant		+	g̊						3	
-h	voiceless glottal fricative consonant		+	h						102	
-hʲ	palatalized voiceless glottal fricative consonant	+	+	hʲ						1	
-hʲː	palatalized long voiceless glottal fricative consonant	+	+	hʲː						1	
-hʷ	labialized voiceless glottal fricative consonant	+	+	hʷ						2	
-hʷː	labialized long voiceless glottal fricative consonant	+	+	hʷː						1	
-hː	long voiceless glottal fricative consonant	+	+	hː						7	
-h̃	nasalized voiceless glottal fricative consonant		+	h̃						1	
-i	unrounded close front vowel		+	i						148	
-iː	long unrounded close front vowel		+	i:						1	
-ia	from unrounded close front to unrounded open front diphthong	+	+	ia						6	
-ie	from unrounded close front to unrounded close-mid front diphthong	+	+	ie						4	
-iː	long unrounded close front vowel		+	ij						1	
-io	from unrounded close front to rounded close-mid back diphthong	+	+	io						1	
-iu	from unrounded close front to rounded close back diphthong	+	+	iu						5	
-iu̯	from unrounded close front to non-syllabic rounded close back diphthong	+	+	iw						1	
-iɐ	from unrounded close front to unrounded near-open central diphthong	+	+	iɐ						1	
-iɑ	from unrounded close front to unrounded open back diphthong	+	+	iɑ						1	
-iɔ	from unrounded close front to rounded open-mid back diphthong	+	+	iɔ						1	
-iə	from unrounded close front to unrounded mid central diphthong	+	+	iə						5	
-iə̯	from unrounded close front to non-syllabic unrounded mid central diphthong	+	+	iə̯						1	
-iɛ	from unrounded close front to unrounded open-mid front diphthong	+	+	iɛ						1	
-iˀ	glottalized unrounded close front vowel	+	+	iʔ						1	
-iː	long unrounded close front vowel		+	iː						59	
-iːu	from long unrounded close front to rounded close back diphthong	+	+	iːu						1	
-iːə	from long unrounded close front to unrounded mid central diphthong	+	+	iːə						1	
-iːː	ultra-long unrounded close front vowel		+	iːː						1	
-iˑ	mid-long unrounded close front vowel		+	iˑ						5	
-iˠ	velarized unrounded close front vowel	+	+	iˠ						1	
-iˤ	pharyngealized unrounded close front vowel	+	+	iˤ						2	
-ĩ	nasalized unrounded close front vowel		+	ĩ						19	
-ĩː	long nasalized unrounded close front vowel		+	ĩː						5	
-ĩˤ	pharyngealized nasalized unrounded close front vowel	+	+	ĩˤ						1	
-ḭ̃	nasalized creaky unrounded close front vowel	+	+	ḭ̃						1	
-i̙	retracted-tongue-root unrounded close front vowel	+	+	i̙						1	
-i̞	lowered unrounded close front vowel	+	+	i̞						1	
-i̞ː	long lowered unrounded close front vowel	+	+	i̞ː						1	
-i̤	breathy unrounded close front vowel		+	i̤						2	
-i̤ː	long breathy unrounded close front vowel	+	+	i̤ː						1	
-i̤ˑ	mid-long breathy unrounded close front vowel	+	+	i̤ˑ						1	
-ḭ	creaky unrounded close front vowel		+	ḭ						3	
-j	voiced palatal approximant consonant		+	j						140	
-jː	long voiced palatal approximant consonant		+	j:						1	
-i̯a	from non-syllabic unrounded close front to unrounded open front diphthong	+	+	ja						3	
-i̯e	from non-syllabic unrounded close front to unrounded close-mid front diphthong	+	+	je						3	
-jː	long voiced palatal approximant consonant		+	jj						1	
-i̯o	from non-syllabic unrounded close front to rounded close-mid back diphthong	+	+	jo						3	
-i̯u	from non-syllabic unrounded close front to rounded close back diphthong	+	+	ju						3	
-i̯ɛ	from non-syllabic unrounded close front to unrounded open-mid front diphthong	+	+	jɛ						1	
-i̯ʌ	from non-syllabic unrounded close front to unrounded open-mid back diphthong	+	+	jʌ						1	
-jʷ	labialized voiced palatal approximant consonant	+	+	jʷ						1	
-jː	long voiced palatal approximant consonant		+	jː						11	
-j̃	nasalized voiced palatal approximant consonant		+	j̃						2	
-k	voiceless velar stop consonant		+	k						155	
-kʼ	voiceless velar ejective stop consonant		+	k'						1	
-kː	long voiceless velar stop consonant		+	k:						1	
-kː	long voiceless velar stop consonant		+	kk						1	
-kʰː	aspirated long voiceless velar stop consonant	+	+	kkʰ						1	
-kˡ	with-lateral-release voiceless velar stop consonant	+	+	kl						1	
-kp	voiceless velar-and-bilabial stop consonant		+	kp						9	
-kˢ	with-sibilant-release voiceless velar stop consonant	+	+	ks						1	
-kx	voiceless velar affricate consonant		+	kx						1	
-kⁿ	with-nasal-release voiceless velar stop consonant	+	+	kŋ						1	
-kⁿʷ	labialized with-nasal-release voiceless velar stop consonant	+	+	kŋʷ						1	
-kʰ	aspirated voiceless velar stop consonant		+	kʰ						32	
-kʰː	aspirated long voiceless velar stop consonant	+	+	kʰː						3	
-kʲ	palatalized voiceless velar stop consonant		+	kʲ						5	
-k’ʲ	palatalized voiceless velar ejective stop consonant	+	+	kʲʼ						1	
-k’ʲ	palatalized voiceless velar ejective stop consonant	+	+	kʲ’						1	
-kʷ	labialized voiceless velar stop consonant		+	kʷ						24	
-kʼʷ	labialized voiceless velar ejective stop consonant		+	kʷ'						2	
-kʷʰ	labialized aspirated voiceless velar stop consonant		+	kʷʰ						3	
-kʼʷ	labialized voiceless velar ejective stop consonant		+	kʷʼ						1	
-kʷː	labialized long voiceless velar stop consonant		+	kʷː						5	
-k’ʷː	labialized long voiceless velar ejective stop consonant	+	+	kʷ’ː						1	
-kʼ	voiceless velar ejective stop consonant		+	kʼ						1	
-kʼʷ	labialized voiceless velar ejective stop consonant		+	kʼʷ						1	
-kː	long voiceless velar stop consonant		+	kː						15	
-l	voiced alveolar lateral approximant consonant		+	l						151	
-lː	long voiced alveolar lateral approximant consonant		+	l:						1	
-lː	long voiced alveolar lateral approximant consonant		+	ll						1	
-ɮ	voiced alveolar lateral fricative consonant		+	lʒ						1	
-lˀ	glottalized voiced alveolar lateral approximant consonant	+	+	lʔ						1	
-lʱ	breathy voiced alveolar lateral approximant consonant		+	lʱ						2	
-lʲ	palatalized voiced alveolar lateral approximant consonant		+	lʲ						6	
-lʲʷ	palatalized labialized voiced alveolar lateral approximant consonant	+	+	lʲʷ						1	
-lʷ	labialized voiced alveolar lateral approximant consonant	+	+	lʷ						1	
-lː	long voiced alveolar lateral approximant consonant		+	lː						18	
-lˤ	pharyngealized voiced alveolar lateral approximant consonant	+	+	lˤ						2	
-lˤː	pharyngealized long voiced alveolar lateral approximant consonant	+	+	lˤː						1	
-l̥	devoiced voiced alveolar lateral approximant consonant		+	l̥						3	
-l̪	voiced dental lateral approximant consonant		+	l̪						1	
-l̪ʷ	labialized voiced dental lateral approximant consonant	+	+	l̪ʷ						1	
-l̪ˠ	velarized voiced dental lateral approximant consonant		+	l̪ˠ						1	
-m	voiced bilabial nasal consonant		+	m						158	
-mː	long voiced bilabial nasal consonant		+	m:						1	
-ⁿb	pre-nasalized voiced bilabial stop consonant		+	mb						10	
-ⁿbʲ	pre-nasalized palatalized voiced bilabial stop consonant	+	+	mbʲ						1	
-ⁿbʷ	pre-nasalized labialized voiced bilabial stop consonant	+	+	mbʷ						2	
-ⁿf	pre-nasalized voiceless labio-dental fricative consonant	+	+	mf						1	
-mː	long voiced bilabial nasal consonant		+	mm						1	
-ⁿp	pre-nasalized voiceless bilabial stop consonant		+	mp						3	
-ⁿpʲ	pre-nasalized palatalized voiceless bilabial stop consonant	+	+	mpʲ						1	
-ⁿpʷ	pre-nasalized labialized voiceless bilabial stop consonant	+	+	mpʷ						1	
-mˀ	glottalized voiced bilabial nasal consonant	+	+	mʔ						1	
-mʱ	breathy voiced bilabial nasal consonant		+	mʱ						2	
-mʲ	palatalized voiced bilabial nasal consonant		+	mʲ						5	
-mʷ	labialized voiced bilabial nasal consonant		+	mʷ						4	
-mʷː	labialized long voiced bilabial nasal consonant		+	mʷː						1	
-mː	long voiced bilabial nasal consonant		+	mː						18	
-mˠ	velarized voiced bilabial nasal consonant		+	mˠ						1	
-mˤ	pharyngealized voiced bilabial nasal consonant	+	+	mˤ						1	
-m̥	devoiced voiced bilabial nasal consonant		+	m̥						5	
-m̩	syllabic voiced bilabial nasal consonant		+	m̩						1	
-n̼	voiced linguolabial nasal consonant		+	m̼						1	
-n	voiced alveolar nasal consonant		+	n						159	
-nː	long voiced alveolar nasal consonant		+	n:						1	
-ⁿd	pre-nasalized voiced alveolar stop consonant		+	nd						10	
-ⁿdz	pre-nasalized voiced alveolar sibilant affricate consonant	+	+	ndz						1	
-ⁿɖʐ	pre-nasalized voiced retroflex sibilant affricate consonant	+	+	ndʐ						1	
-ⁿdʑ	pre-nasalized voiced alveolo-palatal sibilant affricate consonant	+	+	ndʑ						1	
-ⁿdʒ	pre-nasalized voiced post-alveolar affricate consonant		+	ndʒ						2	
-ⁿdʲ	pre-nasalized palatalized voiced alveolar stop consonant	+	+	ndʲ						1	
-ⁿdʷ	pre-nasalized labialized voiced alveolar stop consonant	+	+	ndʷ						1	
-ⁿg	pre-nasalized voiced velar stop consonant		+	ng						1	
-nː	long voiced alveolar nasal consonant		+	nn						1	
-ⁿs	pre-nasalized voiceless alveolar sibilant fricative consonant	+	+	ns						3	
-ⁿsʷ	pre-nasalized labialized voiceless alveolar sibilant fricative consonant	+	+	nsʷ						1	
-ⁿt	pre-nasalized voiceless alveolar stop consonant		+	nt						3	
-ⁿtʃ	pre-nasalized voiceless post-alveolar sibilant affricate consonant		+	ntʃ						1	
-ⁿtʲ	pre-nasalized palatalized voiceless alveolar stop consonant	+	+	ntʲ						1	
-ⁿtʷ	pre-nasalized labialized voiceless alveolar stop consonant	+	+	ntʷ						1	
-ⁿz	pre-nasalized voiced alveolar sibilant fricative consonant	+	+	nz						1	
-ⁿzʷ	pre-nasalized labialized voiced alveolar sibilant fricative consonant	+	+	nzʷ						1	
-ⁿʃ	pre-nasalized voiceless post-alveolar sibilant fricative consonant	+	+	nʃ						1	
-nˀ	glottalized voiced alveolar nasal consonant	+	+	nʔ						1	
-nʱ	breathy voiced alveolar nasal consonant	+	+	nʱ						2	
-nʲ	palatalized voiced alveolar nasal consonant		+	nʲ						8	
-nʲʷ	palatalized labialized voiced alveolar nasal consonant	+	+	nʲʷ						1	
-nʷ	labialized voiced alveolar nasal consonant	+	+	nʷ						2	
-nː	long voiced alveolar nasal consonant		+	nː						20	
-nˤ	pharyngealized voiced alveolar nasal consonant		+	nˤ						2	
-n	voiced alveolar nasal consonant		+	n̘						1	
-n̥	devoiced voiced alveolar nasal consonant		+	n̥						5	
-n̪	voiced dental nasal consonant		+	n̪						6	
-ⁿd̪	pre-nasalized voiced dental stop consonant		+	n̪d̪						1	
-ⁿd̪ʲ	pre-nasalized palatalized voiced dental stop consonant	+	+	n̪d̪ʲ						1	
-ⁿd̪ʷ	pre-nasalized labialized voiced dental stop consonant	+	+	n̪d̪ʷ						1	
-ⁿt̪	pre-nasalized voiceless dental stop consonant		+	n̪t̪						1	
-n̪ʲ	palatalized voiced dental nasal consonant	+	+	n̪ʲ						1	
-n̪ʷ	labialized voiced dental nasal consonant	+	+	n̪ʷ						1	
-n̪ː	long voiced dental nasal consonant	+	+	n̪ː						1	
-n̪ˠ	velarized voiced dental nasal consonant		+	n̪ˠ						1	
-n̩	syllabic voiced alveolar nasal consonant		+	n̹						1	
-o	rounded close-mid back vowel		+	o						114	
-oa	from rounded close-mid back to unrounded open front diphthong	+	+	oa						1	
-oe	from rounded close-mid back to unrounded close-mid front diphthong	+	+	oe						3	
-oe̯	from rounded close-mid back to non-syllabic unrounded close-mid front diphthong	+	+	oe̯						1	
-oi	from rounded close-mid back to unrounded close front diphthong	+	+	oi						6	
-oi̯	from rounded close-mid back to non-syllabic unrounded close front diphthong	+	+	oi̯						3	
-oi̯	from rounded close-mid back to non-syllabic unrounded close front diphthong	+	+	oj						3	
-o̯ː	long non-syllabic rounded close-mid back vowel	+	+	oo̯						1	
-ou	from rounded close-mid back to rounded close back diphthong	+	+	ou						8	
-ou̯	from rounded close-mid back to non-syllabic rounded close back diphthong	+	+	ou̯						2	
-ou̯	from rounded close-mid back to non-syllabic rounded close back diphthong	+	+	ow						1	
-oɑ	from rounded close-mid back to unrounded open back diphthong	+	+	oɑ						1	
-oɪ	from rounded close-mid back to unrounded near-close near-front diphthong	+	+	oɪ						2	
-oʊ	from rounded close-mid back to rounded near-close near-back diphthong	+	+	oʊ						1	
-oʊ̃	from rounded close-mid back to nasalized rounded near-close near-back diphthong	+	+	oʊ̃						2	
-oː	long rounded close-mid back vowel		+	oː						50	
-oːɒ̯ˤ	from long rounded close-mid back to pharyngealized non-syllabic rounded open back diphthong	+	+	oːɒ̯ʔ						1	
-oːə	from long rounded close-mid back to unrounded mid central diphthong	+	+	oːə						1	
-oːː	ultra-long rounded close-mid back vowel		+	oːː						1	
-oˤː	long pharyngealized rounded close-mid back vowel	+	+	oːˤ						1	
-oˑ	mid-long rounded close-mid back vowel		+	oˑ						5	
-oˤ	pharyngealized rounded close-mid back vowel		+	oˤ						2	
-oˤː	long pharyngealized rounded close-mid back vowel	+	+	oˤː						1	
-õ	nasalized rounded close-mid back vowel		+	õ						12	
-õi	from nasalized rounded close-mid back to unrounded close front diphthong	+	+	õi						1	
-õː	long nasalized rounded close-mid back vowel		+	õː						4	
-õˤ	pharyngealized nasalized rounded close-mid back vowel	+	+	õˤ						1	
-õ̰	nasalized creaky rounded close-mid back vowel	+	+	õ̰						1	
-ö	centralized rounded close-mid back vowel	+	+	ö						1	
-o̙	retracted-tongue-root rounded close-mid back vowel	+	+	o̙						1	
-o̝	raised rounded close-mid back vowel	+	+	o̝						1	
-o̤	breathy rounded close-mid back vowel		+	o̤						2	
-o̤ː	long breathy rounded close-mid back vowel	+	+	o̤ː						1	
-o̤ˑ	mid-long breathy rounded close-mid back vowel	+	+	o̤ˑ						1	
-o̰	creaky rounded close-mid back vowel		+	o̰						3	
-p	voiceless bilabial stop consonant		+	p						149	
-pʼ	voiceless bilabial ejective stop consonant		+	p'						2	
-pː	long voiceless bilabial stop consonant		+	p:						2	
-pf	voiceless labio-dental affricate consonant		+	pf						3	
-pⁿ	with-nasal-release voiceless bilabial stop consonant	+	+	pm						1	
-pː	long voiceless bilabial stop consonant		+	pp						1	
-pʰː	aspirated long voiceless bilabial stop consonant		+	ppʰ						1	
-pʰ	aspirated voiceless bilabial stop consonant		+	pʰ						29	
-pʰː	aspirated long voiceless bilabial stop consonant		+	pʰː						3	
-pʲ	palatalized voiceless bilabial stop consonant		+	pʲ						4	
-pʷ	labialized voiceless bilabial stop consonant		+	pʷ						2	
-p’ʷ	labialized voiceless bilabial ejective stop consonant	+	+	pʷ’						1	
-pʼ	voiceless bilabial ejective stop consonant		+	pʼ						2	
-pː	long voiceless bilabial stop consonant		+	pː						9	
-pˠ	velarized voiceless bilabial stop consonant		+	pˠ						1	
-t̼	voiceless linguolabial stop consonant		+	p̼						1	
-p’ː	long voiceless bilabial ejective stop consonant	+	+	p’ː						1	
-q	voiceless uvular stop consonant		+	q						18	
-qʼ	voiceless uvular ejective stop consonant		+	q'						1	
-qʰ	aspirated voiceless uvular stop consonant		+	qʰ						4	
-qʷ	labialized voiceless uvular stop consonant		+	qʷ						4	
-qʼʷ	labialized voiceless uvular ejective stop consonant		+	qʷ'						1	
-qʼ	voiceless uvular ejective stop consonant		+	qʼ						1	
-qʼʷ	labialized voiceless uvular ejective stop consonant		+	qʼʷ						1	
-qː	long voiceless uvular stop consonant	+	+	qː						1	
-qχ	voiceless uvular affricate consonant		+	qχ						1	
-r	voiced alveolar trill consonant		+	r						77	
-rː	long voiced alveolar trill consonant		+	rr						1	
-rʲ	palatalized voiced alveolar trill consonant		+	rʲ						2	
-rː	long voiced alveolar trill consonant		+	rː						7	
-rˤ	pharyngealized voiced alveolar trill consonant		+	rˤ						1	
-rˤː	pharyngealized long voiced alveolar trill consonant		+	rˤː						1	
-r̝	raised voiced alveolar trill consonant	+	+	r̝						3	
-s	voiceless alveolar sibilant fricative consonant		+	s						148	
-sː	long voiceless alveolar sibilant fricative consonant		+	s:						1	
-sː	long voiceless alveolar sibilant fricative consonant		+	ss						1	
-sʰ	aspirated voiceless alveolar sibilant fricative consonant	+	+	sʰ						2	
-sʲ	palatalized voiceless alveolar sibilant fricative consonant		+	sʲ						4	
-sʲː	palatalized long voiceless alveolar sibilant fricative consonant	+	+	sʲː						1	
-sʷ	labialized voiceless alveolar sibilant fricative consonant	+	+	sʷ						1	
-sʷː	labialized long voiceless alveolar sibilant fricative consonant	+	+	sʷː						1	
-sʼ	voiceless alveolar ejective sibilant fricative consonant		+	sʼ						1	
-sː	long voiceless alveolar sibilant fricative consonant		+	sː						14	
-sˠ	velarized voiceless alveolar sibilant fricative consonant		+	sˠ						2	
-sˤ	pharyngealized voiceless alveolar sibilant fricative consonant	+	+	sˤ						2	
-sˤː	pharyngealized long voiceless alveolar sibilant fricative consonant	+	+	sˤː						1	
-s̪	voiceless dental sibilant fricative consonant		+	s̪						2	
-s̺	voiceless apical alveolar sibilant fricative consonant	+	+	s̺						2	
-s̻	voiceless laminal alveolar sibilant fricative consonant		+	s̻						2	
-t	voiceless alveolar stop consonant		+	t						146	
-tʼ	voiceless alveolar ejective stop consonant		+	t'						2	
-ts	voiceless alveolar sibilant affricate consonant		+	ts						51	
-tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	ts'						2	
-tsː	long voiceless alveolar sibilant affricate consonant		+	tsts						1	
-tsʰ	aspirated voiceless alveolar sibilant affricate consonant		+	tsʰ						12	
-tsʰː	aspirated long voiceless alveolar sibilant affricate consonant	+	+	tsʰː						1	
-tsʲ	palatalized voiceless alveolar sibilant affricate consonant		+	tsʲ						2	
-tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	tsʼ						2	
-tsː	long voiceless alveolar sibilant affricate consonant		+	tsː						2	
-ts̺	voiceless apical alveolar sibilant affricate consonant	+	+	ts̺						1	
-ts̻	voiceless laminal alveolar sibilant affricate consonant	+	+	ts̻						1	
-tː	long voiceless alveolar stop consonant		+	tt						1	
-tʰː	aspirated long voiceless alveolar stop consonant	+	+	ttʰ						1	
-cç	voiceless palatal affricate consonant		+	tç						2	
-tɕ	voiceless alveolo-palatal sibilant affricate consonant		+	tɕ						17	
-tɕʰ	aspirated voiceless alveolo-palatal sibilant affricate consonant		+	tɕʰ						10	
-tɬ	voiceless alveolar lateral affricate consonant		+	tɬ						5	
-tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬ'						2	
-tɬʰ	aspirated voiceless alveolar lateral affricate consonant		+	tɬʰ						2	
-tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬʼ						1	
-ʈʂ	voiceless retroflex sibilant affricate consonant		+	tʂ						5	
-ʈʂʰ	aspirated voiceless retroflex sibilant affricate consonant		+	tʂʰ						3	
-tʃ	voiceless post-alveolar sibilant affricate consonant		+	tʃ						91	
-tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	tʃ'						2	
-tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tʃtʃ						1	
-tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant		+	tʃtʃʰ						1	
-tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant		+	tʃʰ						11	
-tʃʰː	aspirated long voiceless post-alveolar sibilant affricate consonant	+	+	tʃʰː						1	
-tʃʲ	palatalized voiceless post-alveolar sibilant affricate consonant		+	tʃʲ						2	
-tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼ						1	
-tʃʼː	long voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼː						1	
-tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tʃː						6	
-tʃ̺	voiceless apical post-alveolar sibilant affricate consonant	+	+	tʃ̺						1	
-tʃ̺ʰ	aspirated voiceless apical post-alveolar sibilant affricate consonant	+	+	tʃ̺ʰ						1	
-tʰ	aspirated voiceless alveolar stop consonant		+	tʰ						29	
-tʰː	aspirated long voiceless alveolar stop consonant	+	+	tʰː						2	
-tʲ	palatalized voiceless alveolar stop consonant		+	tʲ						8	
-tⁿʲ	palatalized with-nasal-release voiceless alveolar stop consonant	+	+	tʲnʲ						1	
-tʲʷ	palatalized labialized voiceless alveolar stop consonant	+	+	tʲʷ						1	
-tʲː	palatalized long voiceless alveolar stop consonant	+	+	tʲː						1	
-tʷ	labialized voiceless alveolar stop consonant		+	tʷ						2	
-t’ʷ	labialized voiceless alveolar ejective stop consonant	+	+	tʷ’						1	
-tʼ	voiceless alveolar ejective stop consonant		+	tʼ						2	
-tː	long voiceless alveolar stop consonant		+	tː						14	
-tɕː	long voiceless alveolo-palatal sibilant affricate consonant		+	tːɕ						1	
-tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tːʃ						2	
-tˠ	velarized voiceless alveolar stop consonant	+	+	tˠ						1	
-tˤ	pharyngealized voiceless alveolar stop consonant		+	tˤ						2	
-tˤː	pharyngealized long voiceless alveolar stop consonant	+	+	tˤː						1	
-tɕ	voiceless alveolo-palatal sibilant affricate consonant		+	t̠ɕ						2	
-tɕʰ	aspirated voiceless alveolo-palatal sibilant affricate consonant		+	t̠ɕʰ						2	
-tɕʰː	aspirated long voiceless alveolo-palatal sibilant affricate consonant	+	+	t̠ɕʰː						1	
-tɕː	long voiceless alveolo-palatal sibilant affricate consonant		+	t̠ɕː						2	
-t̪	voiceless dental stop consonant		+	t̪						18	
-t̪ː	long voiceless dental stop consonant		+	t̪:						1	
-ts̪	voiceless dental sibilant affricate consonant		+	t̪s̪						1	
-ts̪ʰ	aspirated voiceless dental sibilant affricate consonant		+	t̪s̪ʰ						1	
-t̪ʰ	aspirated voiceless dental stop consonant		+	t̪ʰ						3	
-t̪ʰː	aspirated long voiceless dental stop consonant		+	t̪ʰː						2	
-t̪ʷ	labialized voiceless dental stop consonant		+	t̪ʷ						2	
-t̪ː	long voiceless dental stop consonant		+	t̪ː						3	
-t̪ˠ	velarized voiceless dental stop consonant		+	t̪ˠ						1	
-ts̻	voiceless laminal alveolar sibilant affricate consonant	+	+	t̻s̻						1	
-ts̻ʰ	aspirated voiceless laminal alveolar sibilant affricate consonant	+	+	t̻s̻ʰ						1	
-ts	voiceless alveolar sibilant affricate consonant		+	t͜s						1	
-t’ː	long voiceless alveolar ejective stop consonant	+	+	t’ː						1	
-u	rounded close back vowel		+	u						138	
-ua	from rounded close back to unrounded open front diphthong	+	+	ua						5	
-ue	from rounded close back to unrounded close-mid front diphthong	+	+	ue						1	
-ui	from rounded close back to unrounded close front diphthong	+	+	ui						7	
-ui̯	from rounded close back to non-syllabic unrounded close front diphthong	+	+	ui̯						1	
-ui̯	from rounded close back to non-syllabic unrounded close front diphthong	+	+	uj						2	
-uo	from rounded close back to rounded close-mid back diphthong	+	+	uo						2	
-u̯ː	long non-syllabic rounded close back vowel	+	+	uw						1	
-uɐ	from rounded close back to unrounded near-open central diphthong	+	+	uɐ						1	
-uɑ	from rounded close back to unrounded open back diphthong	+	+	uɑ						1	
-uə	from rounded close back to unrounded mid central diphthong	+	+	uə						4	
-uə̯	from rounded close back to non-syllabic unrounded mid central diphthong	+	+	uə̯						1	
-uɪ	from rounded close back to unrounded near-close near-front diphthong	+	+	uɪ						3	
-uː	long rounded close back vowel		+	uː						53	
-uːi	from long rounded close back to unrounded close front diphthong	+	+	uːi						1	
-uːə	from long rounded close back to unrounded mid central diphthong	+	+	uːə						1	
-uːː	ultra-long rounded close back vowel		+	uːː						1	
-uˑ	mid-long rounded close back vowel		+	uˑ						2	
-uˤ	pharyngealized rounded close back vowel	+	+	uˤ						2	
-ũ	nasalized rounded close back vowel		+	ũ						15	
-ũi	from nasalized rounded close back to unrounded close front diphthong	+	+	ũi						1	
-ũː	long nasalized rounded close back vowel		+	ũː						2	
-ũˤ	pharyngealized nasalized rounded close back vowel	+	+	ũˤ						1	
-ṵ̃	nasalized creaky rounded close back vowel	+	+	ṵ̃						1	
-u̙	retracted-tongue-root rounded close back vowel	+	+	u̙						1	
-u̞	lowered rounded close back vowel	+	+	u̞						1	
-u̞ː	long lowered rounded close back vowel	+	+	u̞ː						1	
-u̠	retracted rounded close back vowel	+	+	u̠						1	
-ṳ	breathy rounded close back vowel		+	ṳ						2	
-ṳː	long breathy rounded close back vowel	+	+	ṳː						1	
-ṳˑ	mid-long breathy rounded close back vowel	+	+	ṳˑ						1	
-ṵ	creaky rounded close back vowel		+	ṵ						3	
-v	voiced labio-dental fricative consonant		+	v						72	
-vʲ	palatalized voiced labio-dental fricative consonant		+	vʲ						3	
-vʷ	labialized voiced labio-dental fricative consonant	+	+	vʷ						1	
-vː	long voiced labio-dental fricative consonant		+	vː						2	
-v̥	devoiced voiced labio-dental fricative consonant		+	v̥						1	
-v̩	syllabic voiced labio-dental fricative consonant		+	v̩						1	
-w	voiced labio-velar approximant consonant		+	w						101	
-u̯a	from non-syllabic rounded close back to unrounded open front diphthong	+	+	wa						3	
-u̯e	from non-syllabic rounded close back to unrounded close-mid front diphthong	+	+	we						3	
-u̯i	from non-syllabic rounded close back to unrounded close front diphthong	+	+	wi						3	
-u̯o	from non-syllabic rounded close back to rounded close-mid back diphthong	+	+	wo						2	
-u̯ɛ	from non-syllabic rounded close back to unrounded open-mid front diphthong	+	+	wɛ						1	
-u̯ʌ	from non-syllabic rounded close back to unrounded open-mid back diphthong	+	+	wʌ						1	
-wˀ	glottalized voiced labio-velar approximant consonant	+	+	wʔ						1	
-wʲ	palatalized voiced labio-velar approximant consonant	+	+	wʲ						1	
-wː	long voiced labio-velar approximant consonant		+	wː						7	
-w̃	nasalized voiced labio-velar approximant consonant		+	w̃						2	
-ⱱ̟	advanced voiced labio-dental tap consonant	+	+	w̆						1	
-x	voiceless velar fricative consonant		+	x						63	
-xʲ	palatalized voiceless velar fricative consonant		+	xʲ						2	
-xʷ	labialized voiceless velar fricative consonant		+	xʷ						7	
-y	rounded close front vowel		+	y						25	
-ya	from rounded close front to unrounded open front diphthong	+	+	ya						1	
-ye	from rounded close front to unrounded close-mid front diphthong	+	+	ye						2	
-yi	from rounded close front to unrounded close front diphthong	+	+	yi						1	
-yo	from rounded close front to rounded close-mid back diphthong	+	+	yo						1	
-yɑ	from rounded close front to unrounded open back diphthong	+	+	yɑ						1	
-yə	from rounded close front to unrounded mid central diphthong	+	+	yə						1	
-yə̯	from rounded close front to non-syllabic unrounded mid central diphthong	+	+	yə̯						1	
-yː	long rounded close front vowel		+	yː						14	
-yːə	from long rounded close front to unrounded mid central diphthong	+	+	yːə						1	
-yːː	ultra-long rounded close front vowel		+	yːː						1	
-yˑ	mid-long rounded close front vowel		+	yˑ						1	
-ỹ	nasalized rounded close front vowel		+	ỹ						1	
-z	voiced alveolar sibilant fricative consonant		+	z						96	
-zʲ	palatalized voiced alveolar sibilant fricative consonant		+	zʲ						3	
-zʷ	labialized voiced alveolar sibilant fricative consonant	+	+	zʷ						1	
-zː	long voiced alveolar sibilant fricative consonant	+	+	zː						6	
-zˠ	velarized voiced alveolar sibilant fricative consonant	+	+	zˠ						1	
-zˤ	pharyngealized voiced alveolar sibilant fricative consonant	+	+	zˤ						1	
-zˤː	pharyngealized long voiced alveolar sibilant fricative consonant	+	+	zˤː						1	
-z̠	retracted voiced alveolar sibilant fricative consonant	+	+	z̠						1	
-z̥	devoiced voiced alveolar sibilant fricative consonant		+	z̥						1	
-z̩	syllabic voiced alveolar sibilant fricative consonant		+	z̩						2	
-z̪	voiced dental sibilant fricative consonant		+	z̪						1	
-æ	unrounded near-open front vowel		+	æ						18	
-æe	from unrounded near-open front to unrounded close-mid front diphthong	+	+	æe						2	
-æi	from unrounded near-open front to unrounded close front diphthong	+	+	æi						2	
-æi̯	from unrounded near-open front to non-syllabic unrounded close front diphthong	+	+	æi̯						1	
-æo	from unrounded near-open front to rounded close-mid back diphthong	+	+	æo						2	
-æu	from unrounded near-open front to rounded close back diphthong	+	+	æu						2	
-æu̯	from unrounded near-open front to non-syllabic rounded close back diphthong	+	+	æu̯						1	
-æɔ	from unrounded near-open front to rounded open-mid back diphthong	+	+	æɔ						1	
-æɪ	from unrounded near-open front to unrounded near-close near-front diphthong	+	+	æɪ						1	
-æː	long unrounded near-open front vowel		+	æː						5	
-æːɪ	from long unrounded near-open front to unrounded near-close near-front diphthong	+	+	æːɪ						1	
-æːʊ	from long unrounded near-open front to rounded near-close near-back diphthong	+	+	æːʊ						1	
-æːː	ultra-long unrounded near-open front vowel		+	æːː						1	
-æˤː	long pharyngealized unrounded near-open front vowel	+	+	æːˤ						1	
-æˑ	mid-long unrounded near-open front vowel		+	æˑ						1	
-æ̃ː	long nasalized unrounded near-open front vowel		+	æ̃ː						1	
-ç	voiceless palatal sibilant fricative consonant		+	ç						7	
-ð	voiced dental fricative consonant		+	ð						11	
-ðˤ	pharyngealized voiced dental fricative consonant	+	+	ðˤ						2	
-ɹ̪	voiced dental approximant consonant		+	ð̞						1	
-ø	rounded close-mid front vowel		+	ø						13	
-øe	from rounded close-mid front to unrounded close-mid front diphthong	+	+	øe						1	
-øi	from rounded close-mid front to unrounded close front diphthong	+	+	øi						1	
-øy	from rounded close-mid front to rounded close front diphthong	+	+	øy						2	
-øɑ	from rounded close-mid front to unrounded open back diphthong	+	+	øɑ						1	
-øɪ	from rounded close-mid front to unrounded near-close near-front diphthong	+	+	øɪ						1	
-øː	long rounded close-mid front vowel		+	øː						14	
-øːː	ultra-long rounded close-mid front vowel		+	øːː						1	
-øˑ	mid-long rounded close-mid front vowel		+	øˑ						1	
-ħ	voiceless pharyngeal fricative consonant		+	ħ						4	
-ŋ	voiced velar nasal consonant		+	ŋ						89	
-ŋː	long voiced velar nasal consonant		+	ŋ:						1	
-ⁿg	pre-nasalized voiced velar stop consonant		+	ŋg						10	
-ⁿgb	from pre-nasalized voiced velar stop to voiced bilabial stop cluster	+	+	ŋgb						1	
-ⁿgʷ	pre-nasalized labialized voiced velar stop consonant	+	+	ŋgʷ						4	
-ⁿk	pre-nasalized voiceless velar stop consonant		+	ŋk						3	
-ⁿkʷ	pre-nasalized labialized voiceless velar stop consonant		+	ŋkʷ						1	
-ŋʲ	palatalized voiced velar nasal consonant	+	+	ŋʲ						1	
-ŋʷ	labialized voiced velar nasal consonant		+	ŋʷ						5	
-ŋː	long voiced velar nasal consonant		+	ŋː						9	
-ŋˤ	pharyngealized voiced velar nasal consonant	+	+	ŋˤ						1	
-ŋ̊	devoiced voiced velar nasal consonant		+	ŋ̊						2	
-ŋ̊	devoiced voiced velar nasal consonant		+	ŋ̥						1	
-œ	rounded open-mid front vowel		+	œ						16	
-œy	from rounded open-mid front to rounded close front diphthong	+	+	œy						4	
-œyː	from rounded open-mid front to long rounded close front diphthong	+	+	œyː						1	
-œʏ	from rounded open-mid front to rounded near-close near-front diphthong	+	+	œʏ						1	
-œː	long rounded open-mid front vowel		+	œː						9	
-œ̃ː	long nasalized rounded open-mid front vowel		+	œ̃ː						1	
-œ̞	lowered rounded open-mid front vowel	+	+	œ̞						1	
-ǀ	voiceless dental click consonant		+	ǀ						1	
-ǀʰ	aspirated voiceless dental click consonant	+	+	ǀʰ						1	
-ǀ’	voiceless dental ejective click consonant	+	+	ǀ’						1	
-ǁ	voiceless lateral click consonant		+	ǁ						1	
-ǁʰ	aspirated voiceless lateral click consonant	+	+	ǁʰ						1	
-ǃ	voiceless alveolar click consonant		+	ǃ						1	
-ǃʰ	aspirated voiceless alveolar click consonant	+	+	ǃʰ						1	
-ǃ’	voiceless alveolar ejective click consonant	+	+	ǃ’						1	
-ȵ	voiced alveolo-palatal nasal consonant		+	ȵ						1	
-ɐ	unrounded near-open central vowel		+	ɐ						17	
-ɐi	from unrounded near-open central to unrounded close front diphthong	+	+	ɐi						4	
-ɐu	from unrounded near-open central to rounded close back diphthong	+	+	ɐu						3	
-ɐʉ	from unrounded near-open central to rounded close central diphthong	+	+	ɐʉ						1	
-ɐː	long unrounded near-open central vowel		+	ɐː						3	
-ɐ̃	nasalized unrounded near-open central vowel		+	ɐ̃						4	
-ɐ̃i	from nasalized unrounded near-open central to unrounded close front diphthong	+	+	ɐ̃i						1	
-ɐ̃u	from nasalized unrounded near-open central to rounded close back diphthong	+	+	ɐ̃u						1	
-ɐ̝	raised unrounded near-open central vowel	+	+	ɐ̝						1	
-ɐ̟	advanced unrounded near-open central vowel	+	+	ɐ̟						1	
-ɐ̰	creaky unrounded near-open central vowel	+	+	ɐ̰						1	
-ɑ	unrounded open back vowel		+	ɑ						24	
-ɑe	from unrounded open back to unrounded close-mid front diphthong	+	+	ɑe						3	
-ɑi	from unrounded open back to unrounded close front diphthong	+	+	ɑi						1	
-ɑo	from unrounded open back to rounded close-mid back diphthong	+	+	ɑo						1	
-ɑu	from unrounded open back to rounded close back diphthong	+	+	ɑu						1	
-ɑuː	from unrounded open back to long rounded close back diphthong	+	+	ɑuː						1	
-ɑɔ̯	from unrounded open back to non-syllabic rounded open-mid back diphthong	+	+	ɑɔ̯						1	
-ɑɪ	from unrounded open back to unrounded near-close near-front diphthong	+	+	ɑɪ						1	
-ɑɯ	from unrounded open back to unrounded close back diphthong	+	+	ɑɯ						1	
-ɑʊ	from unrounded open back to rounded near-close near-back diphthong	+	+	ɑʊ						1	
-ɑː	long unrounded open back vowel		+	ɑː						10	
-ɑː	long unrounded open back vowel		+	ɑːː						1	
-ɑˤː	long pharyngealized unrounded open back vowel	+	+	ɑːˤ						1	
-ɑˑ	mid-long unrounded open back vowel	+	+	ɑˑ						1	
-ɑ̃	nasalized unrounded open back vowel		+	ɑ̃						5	
-ɑ̃ː	long nasalized unrounded open back vowel		+	ɑ̃ː						2	
-ɑ̰	creaky unrounded open back vowel	+	+	ɑ̰						1	
-ɒ	rounded open back vowel		+	ɒ						8	
-ɒː	long rounded open back vowel		+	ɒː						3	
-ɓ	voiced bilabial implosive consonant		+	ɓ						13	
-ɓʲ	palatalized voiced bilabial implosive consonant		+	ɓʲ						1	
-ɓː	long voiced bilabial implosive consonant	+	+	ɓː						1	
-ɔ	rounded open-mid back vowel		+	ɔ						68	
-ɔe̯	from rounded open-mid back to non-syllabic unrounded close-mid front diphthong	+	+	ɔe̯						1	
-ɔi	from rounded open-mid back to unrounded close front diphthong	+	+	ɔi						4	
-ɔo̯	from rounded open-mid back to non-syllabic rounded close-mid back diphthong	+	+	ɔo̯						1	
-ɔu	from rounded open-mid back to rounded close back diphthong	+	+	ɔu						2	
-ɔuː	from rounded open-mid back to long rounded close back diphthong	+	+	ɔuː						1	
-ɔɛ̯	from rounded open-mid back to non-syllabic unrounded open-mid front diphthong	+	+	ɔɛ̯						1	
-ɔɜ	from rounded open-mid back to unrounded open-mid central diphthong	+	+	ɔɜ						1	
-ɔɪ	from rounded open-mid back to unrounded near-close near-front diphthong	+	+	ɔɪ						5	
-ɔː	long rounded open-mid back vowel		+	ɔː						23	
-ɔːi	from long rounded open-mid back to unrounded close front diphthong	+	+	ɔːi						1	
-ɔːə	from long rounded open-mid back to unrounded mid central diphthong	+	+	ɔːə						1	
-ɔˤː	long pharyngealized rounded open-mid back vowel	+	+	ɔːˤ						1	
-ɔˑ	mid-long rounded open-mid back vowel	+	+	ɔˑ						2	
-ɔˤː	long pharyngealized rounded open-mid back vowel	+	+	ɔˤː						1	
-ɔ̃	nasalized rounded open-mid back vowel		+	ɔ̃						10	
-ɔ̃ː	long nasalized rounded open-mid back vowel		+	ɔ̃ː						2	
-ɔ̤	breathy rounded open-mid back vowel	+	+	ɔ̤						2	
-ɔ̤ː	long breathy rounded open-mid back vowel	+	+	ɔ̤ː						1	
-ɔ̤ˑ	mid-long breathy rounded open-mid back vowel	+	+	ɔ̤ˑ						1	
-ɕ	voiceless alveolo-palatal sibilant fricative consonant		+	ɕ						17	
-ɕː	long voiceless alveolo-palatal sibilant fricative consonant	+	+	ɕː						3	
-ɖ	voiced retroflex stop consonant		+	ɖ						11	
-ɖː	long voiced retroflex stop consonant	+	+	ɖɖ						1	
-ɖʱː	long breathy voiced retroflex stop consonant	+	+	ɖɖʱ						1	
-ɖʳ	with-trilled-release voiced retroflex stop consonant	+	+	ɖɽ						1	
-ɖʐ	voiced retroflex sibilant affricate consonant		+	ɖʐ						2	
-ɖʰ	aspirated voiced retroflex stop consonant	+	+	ɖʰ						1	
-ɖʱ	breathy voiced retroflex stop consonant		+	ɖʱ						5	
-ɖʱː	long breathy voiced retroflex stop consonant	+	+	ɖʱː						1	
-ɖː	long voiced retroflex stop consonant	+	+	ɖː						3	
-ɖʱː	long breathy voiced retroflex stop consonant	+	+	ɖːʱ						1	
-ɗ	voiced dental implosive consonant		+	ɗ						12	
-ɗː	long voiced dental implosive consonant	+	+	ɗː						1	
-ɘ	unrounded close-mid central vowel		+	ɘ						3	
-ɘ̃	nasalized unrounded close-mid central vowel		+	ɘ̃						1	
-ə	unrounded mid central vowel		+	ə						47	
-əɪ	from unrounded mid central to unrounded near-close near-front diphthong	+	+	əɪ						1	
-əʉ	from unrounded mid central to rounded close central diphthong	+	+	əʉ						1	
-əʊ	from unrounded mid central to rounded near-close near-back diphthong	+	+	əʊ						4	
-ə̃	nasalized unrounded mid central vowel		+	ə̃						4	
-ə̤	breathy unrounded mid central vowel	+	+	ə̤						1	
-ə˞	rhotacized unrounded mid central vowel		+	ɚ						2	
-ɛ	unrounded open-mid front vowel		+	ɛ						78	
-ɛe̯	from unrounded open-mid front to non-syllabic unrounded close-mid front diphthong	+	+	ɛe̯						1	
-ɛi	from unrounded open-mid front to unrounded close front diphthong	+	+	ɛi						5	
-ɛiː	from unrounded open-mid front to long unrounded close front diphthong	+	+	ɛiː						1	
-ɛi̯	from unrounded open-mid front to non-syllabic unrounded close front diphthong	+	+	ɛj						1	
-ɛo̯	from unrounded open-mid front to non-syllabic rounded close-mid back diphthong	+	+	ɛo̯						1	
-ɛu	from unrounded open-mid front to rounded close back diphthong	+	+	ɛu						4	
-ɛə	from unrounded open-mid front to unrounded mid central diphthong	+	+	ɛə						1	
-ɛɪ	from unrounded open-mid front to unrounded near-close near-front diphthong	+	+	ɛɪ						3	
-ɛː	long unrounded open-mid front vowel		+	ɛː						30	
-ɛːɒ̯ˤ	from long unrounded open-mid front to pharyngealized non-syllabic rounded open back diphthong	+	+	ɛːɒ̯ˤ;						1	
-ɛˑ	mid-long unrounded open-mid front vowel	+	+	ɛˑ						2	
-ɛˠ	velarized unrounded open-mid front vowel	+	+	ɛˠ						1	
-ɛˠː	long velarized unrounded open-mid front vowel	+	+	ɛˠː						1	
-ɛ̃	nasalized unrounded open-mid front vowel		+	ɛ̃						11	
-ɛ̃ː	long nasalized unrounded open-mid front vowel		+	ɛ̃ː						2	
-ɛ̤	breathy unrounded open-mid front vowel	+	+	ɛ̤						2	
-ɛ̤ː	long breathy unrounded open-mid front vowel	+	+	ɛ̤ː						1	
-ɛ̤ˑ	mid-long breathy unrounded open-mid front vowel	+	+	ɛ̤ˑ						1	
-ɜ	unrounded open-mid central vowel		+	ɜ						2	
-ɜɪ	from unrounded open-mid central to unrounded near-close near-front diphthong	+	+	ɜɪ						1	
-ɜː	long unrounded open-mid central vowel		+	ɜː						1	
-ɞ	rounded open-mid central vowel		+	ɞ						1	
-ɞʊ	from rounded open-mid central to rounded near-close near-back diphthong	+	+	ɞʊ						1	
-ɞʏ̯	from rounded open-mid central to non-syllabic rounded near-close near-front diphthong	+	+	ɞʏ̯						1	
-ɟ	voiced palatal stop consonant		+	ɟ						21	
-ɟʝ	voiced palatal affricate consonant		+	ɟʝ						2	
-ɟʝː	long voiced palatal affricate consonant	+	+	ɟʝː						1	
-ɟʱ	breathy voiced palatal stop consonant	+	+	ɟʱ						1	
-ɠ	voiced velar implosive consonant		+	ɠ						3	
-ɠɓ	from voiced velar implosive to voiced bilabial implosive cluster	+	+	ɠɓ						1	
-ɢ	voiced uvular stop consonant		+	ɢ						1	
-ɣ	voiced velar fricative consonant		+	ɣ						36	
-ɣʷ	labialized voiced velar fricative consonant		+	ɣʷ						2	
-ɣ̊	devoiced voiced velar fricative consonant		+	ɣ̊						1	
-ɤ	unrounded close-mid back vowel		+	ɤ						7	
-ɤe	from unrounded close-mid back to unrounded close-mid front diphthong	+	+	ɤe						1	
-ɤi	from unrounded close-mid back to unrounded close front diphthong	+	+	ɤi						1	
-ɤo	from unrounded close-mid back to rounded close-mid back diphthong	+	+	ɤo						1	
-ɤu	from unrounded close-mid back to rounded close back diphthong	+	+	ɤu						1	
-ɤɑ	from unrounded close-mid back to unrounded open back diphthong	+	+	ɤɑ						1	
-ɤː	long unrounded close-mid back vowel		+	ɤː						2	
-ɤː	long unrounded close-mid back vowel		+	ɤːː						1	
-ɤˑ	mid-long unrounded close-mid back vowel	+	+	ɤˑ						1	
-ɥ	voiced labio-palatal approximant consonant		+	ɥ						2	
-ɦ	voiced glottal fricative consonant		+	ɦ						17	
-ɧ	voiceless palatal-velar fricative consonant		+	ɧ						1	
-ɨ	unrounded close central vowel		+	ɨ						11	
-ɨː	long unrounded close central vowel		+	ɨː						2	
-ɨˤ	pharyngealized unrounded close central vowel	+	+	ɨˤ						1	
-ɨ̃	nasalized unrounded close central vowel		+	ɨ̃						1	
-ɨ̞	lowered unrounded close central vowel	+	+	ɨ̞						1	
-ɪ	unrounded near-close near-front vowel		+	ɪ						41	
-ɪi	from unrounded near-close near-front to unrounded close front diphthong	+	+	ɪi						1	
-ɪə	from unrounded near-close near-front to unrounded mid central diphthong	+	+	ɪə						3	
-ɪː	long unrounded near-close near-front vowel		+	ɪː						3	
-ɪːɒ̯ˤ	from long unrounded near-close near-front to pharyngealized non-syllabic rounded open back diphthong	+	+	ɪːɒ̯ˤ						1	
-ɪˑ	mid-long unrounded near-close near-front vowel	+	+	ɪˑ						1	
-ɪˠ	velarized unrounded near-close near-front vowel	+	+	ɪˠ						1	
-ɪ̃	nasalized unrounded near-close near-front vowel		+	ɪ̃						5	
-ɪ̯a	from non-syllabic unrounded near-close near-front to unrounded open front diphthong	+	+	ɪ̯a						1	
-ɪ̯u̞	from non-syllabic unrounded near-close near-front to lowered rounded close back diphthong	+	+	ɪ̯u̞						1	
-ɪ̯ɛ	from non-syllabic unrounded near-close near-front to unrounded open-mid front diphthong	+	+	ɪ̯ɛ						1	
-ɪ̽	mid-centralized unrounded near-close near-front vowel	+	+	ɪ̽						1	
-lˠ	velarized voiced alveolar lateral approximant consonant		+	ɫ						2	
-ɬ	voiceless alveolar lateral fricative consonant		+	ɬ						15	
-ɬː	long voiceless alveolar lateral fricative consonant	+	+	ɬː						1	
-ɭ	voiced retroflex lateral approximant consonant		+	ɭ						6	
-ɭː	long voiced retroflex lateral approximant consonant	+	+	ɭɭ						1	
-ɭʷ	labialized voiced retroflex lateral approximant consonant	+	+	ɭʷ						1	
-ɭː	long voiced retroflex lateral approximant consonant	+	+	ɭː						1	
-ɮ	voiced alveolar lateral fricative consonant		+	ɮ						1	
-ɯ	unrounded close back vowel		+	ɯ						14	
-ɯa	from unrounded close back to unrounded open front diphthong	+	+	ɯa						1	
-ɯi	from unrounded close back to unrounded close front diphthong	+	+	ɯi						1	
-ɯə	from unrounded close back to unrounded mid central diphthong	+	+	ɯə						1	
-ɯː	long unrounded close back vowel		+	ɯː						3	
-ɯ̃	nasalized unrounded close back vowel		+	ɯ̃						3	
-ɯ̤	breathy unrounded close back vowel		+	ɯ̤						1	
-ɰ	voiced velar approximant consonant		+	ɰ						3	
-ⁿf	pre-nasalized voiceless labio-dental fricative consonant	+	+	ɱf						1	
-ⁿv	pre-nasalized voiced labio-dental fricative consonant	+	+	ɱv						1	
-ⁿvʷ	pre-nasalized labialized voiced labio-dental fricative consonant	+	+	ɱvʷ						1	
-ɲ	voiced palatal nasal consonant		+	ɲ						68	
-ⁿc	pre-nasalized voiceless palatal stop consonant	+	+	ɲc						1	
-ⁿdʒ	pre-nasalized voiced post-alveolar affricate consonant		+	ɲdʒ						1	
-ⁿɟ	pre-nasalized voiced palatal stop consonant		+	ɲɟ						1	
-ɲː	long voiced palatal nasal consonant		+	ɲː						6	
-ɲ̊	devoiced voiced palatal nasal consonant		+	ɲ̊						1	
-ɲ̊	devoiced voiced palatal nasal consonant		+	ɲ̥						2	
-ɳ	voiced retroflex nasal consonant		+	ɳ						10	
-ɳʱ	breathy voiced retroflex nasal consonant	+	+	ɳʱ						1	
-ɳʷ	labialized voiced retroflex nasal consonant	+	+	ɳʷ						1	
-ɳː	long voiced retroflex nasal consonant	+	+	ɳː						1	
-ɴ	voiced uvular nasal consonant		+	ɴ						1	
-ⁿgb	from pre-nasalized voiced velar stop to voiced bilabial stop cluster	+	+	ɴgb						1	
-ɵ	rounded close-mid central vowel		+	ɵ						5	
-ɵy	from rounded close-mid central to rounded close front diphthong	+	+	ɵy						1	
-ɵː	long rounded close-mid central vowel		+	ɵː						3	
-ɶ	rounded open front vowel		+	ɶ						1	
-ɸ	voiceless bilabial fricative consonant		+	ɸ						3	
-ɹ	voiced alveolar approximant consonant		+	ɹ						15	
-ɹˀ	glottalized voiced alveolar approximant consonant	+	+	ɹʔ						1	
-ɹː	long voiced alveolar approximant consonant	+	+	ɹː						1	
-ɹ̩	syllabic voiced alveolar approximant consonant		+	ɹ̩						4	
-ɹ̺	voiced apical alveolar approximant consonant	+	+	ɹ̺						1	
-ɺ	voiced alveolar lateral tap consonant		+	ɺ						1	
-ɺʲ	palatalized voiced alveolar lateral tap consonant	+	+	ɺʲ						1	
-ɺʷ	labialized voiced alveolar lateral tap consonant	+	+	ɺʷ						1	
-ɻ	voiced retroflex approximant consonant		+	ɻ						7	
-ɻʷ	labialized voiced retroflex approximant consonant	+	+	ɻʷ						1	
-ɽ	voiced retroflex tap consonant		+	ɽ						8	
-ɽʱ	breathy voiced retroflex tap consonant		+	ɽʱ						2	
-ɾ	voiced alveolar tap consonant		+	ɾ						40	
-ɾʲ	palatalized voiced alveolar tap consonant	+	+	ɾʲ						1	
-ɾʷ	labialized voiced alveolar tap consonant	+	+	ɾʷ						1	
-ɾː	long voiced alveolar tap consonant	+	+	ɾː						1	
-ɾˠ	velarized voiced alveolar tap consonant	+	+	ɾˠ						1	
-ɾ̥	devoiced voiced alveolar tap consonant		+	ɾ̥						1	
-ʀ	voiced uvular trill consonant		+	ʀ						6	
-ʀʲ	palatalized voiced uvular trill consonant	+	+	ʀʲ						1	
-ʁ	voiced uvular fricative consonant		+	ʁ						14	
-ʁʷ	labialized voiced uvular fricative consonant	+	+	ʁʷ						1	
-ʁʷː	labialized long voiced uvular fricative consonant	+	+	ʁʷː						1	
-ʁː	long voiced uvular fricative consonant	+	+	ʁː						1	
-ʁ̞	voiced uvular approximant consonant		+	ʁ̞						1	
-ʂ	voiceless retroflex sibilant fricative consonant		+	ʂ						11	
-ʃ	voiceless post-alveolar sibilant fricative consonant		+	ʃ						99	
-ʃʰ	aspirated voiceless post-alveolar sibilant fricative consonant	+	+	ʃʰ						1	
-ʃʲː	palatalized long voiceless post-alveolar sibilant fricative consonant	+	+	ʃʲː						1	
-ʃː	long voiceless post-alveolar sibilant fricative consonant	+	+	ʃː						8	
-ʃˤ	pharyngealized voiceless post-alveolar sibilant fricative consonant	+	+	ʃˤ						1	
-ʃ̺	voiceless apical post-alveolar sibilant fricative consonant	+	+	ʃ̺						1	
-ʄ	voiced palatal implosive consonant		+	ʄ						2	
-ʈ	voiceless retroflex stop consonant		+	ʈ						13	
-ʈⁿ	with-nasal-release voiceless retroflex stop consonant	+	+	ʈɳ						1	
-ʈⁿʷ	labialized with-nasal-release voiceless retroflex stop consonant	+	+	ʈɳʷ						1	
-ʈʳ	with-trilled-release voiceless retroflex stop consonant	+	+	ʈɽ						1	
-ʈʳʰ	aspirated with-trilled-release voiceless retroflex stop consonant	+	+	ʈɽʰ						1	
-ʈʂ	voiceless retroflex sibilant affricate consonant		+	ʈʂ						5	
-ʈʂʰ	aspirated voiceless retroflex sibilant affricate consonant		+	ʈʂʰ						1	
-ʈʂː	long voiceless retroflex sibilant affricate consonant	+	+	ʈʂː						1	
-ʈː	long voiceless retroflex stop consonant	+	+	ʈʈ						1	
-ʈʰː	aspirated long voiceless retroflex stop consonant		+	ʈʈʰ						1	
-ʈʰ	aspirated voiceless retroflex stop consonant		+	ʈʰ						6	
-ʈʲʰː	palatalized aspirated long voiceless retroflex stop consonant	+	+	ʈʰː						2	
-ʈʷ	labialized voiceless retroflex stop consonant	+	+	ʈʷ						1	
-ʈː	long voiceless retroflex stop consonant	+	+	ʈː						3	
-ʉ	rounded close central vowel		+	ʉ						3	
-ʉə	from rounded close central to unrounded mid central diphthong	+	+	ʉə						1	
-ʉː	long rounded close central vowel		+	ʉː						4	
-ʉ̟	advanced rounded close central vowel	+	+	ʉ̟						1	
-ʊ	rounded near-close near-back vowel		+	ʊ						34	
-ʊə	from rounded near-close near-back to unrounded mid central diphthong	+	+	ʊə						1	
-ʊː	long rounded near-close near-back vowel		+	ʊː						2	
-ʊːɒ̯ˤ	from long rounded near-close near-back to pharyngealized non-syllabic rounded open back diphthong	+	+	ʊːɒ̯ˤ						1	
-ʊˑ	mid-long rounded near-close near-back vowel	+	+	ʊˑ						1	
-ʊˤː	long pharyngealized rounded near-close near-back vowel	+	+	ʊˤː						1	
-ʊ̃	nasalized rounded near-close near-back vowel		+	ʊ̃						5	
-ʊ̯ɔ	from non-syllabic rounded near-close near-back to rounded open-mid back diphthong	+	+	ʊ̯ɔ						1	
-ʊ̽	mid-centralized rounded near-close near-back vowel	+	+	ʊ̽						1	
-ʋ	voiced labio-dental approximant consonant		+	ʋ						13	
-ʋː	long voiced labio-dental approximant consonant	+	+	ʋʋ						1	
-ʋː	long voiced labio-dental approximant consonant	+	+	ʋː						1	
-ʌ	unrounded open-mid back vowel		+	ʌ						12	
-ʌi	from unrounded open-mid back to unrounded close front diphthong	+	+	ʌi						2	
-ʌu	from unrounded open-mid back to rounded close back diphthong	+	+	ʌu						2	
-ʌː	long unrounded open-mid back vowel		+	ʌː						4	
-ʌˑ	mid-long unrounded open-mid back vowel	+	+	ʌˑ						1	
-ʌˤː	long pharyngealized unrounded open-mid back vowel	+	+	ʌˤː						1	
-ʌ̃	nasalized unrounded open-mid back vowel		+	ʌ̃						1	
-ʍ	voiceless labio-velar approximant consonant		+	ʍ						2	
-ʎ	voiced palatal lateral approximant consonant		+	ʎ						22	
-ʎ̥	devoiced voiced palatal lateral approximant consonant		+	ʎ̥						2	
-ʏ	rounded near-close near-front vowel		+	ʏ						10	
-ʐ	voiced retroflex sibilant fricative consonant		+	ʐ						7	
-ʑ	voiced alveolo-palatal sibilant fricative consonant		+	ʑ						10	
-ʒ	voiced post-alveolar sibilant fricative consonant		+	ʒ						63	
-ʒː	long voiced post-alveolar sibilant fricative consonant	+	+	ʒː						3	
-ʒˤ	pharyngealized voiced post-alveolar sibilant fricative consonant	+	+	ʒˤ						1	
-ʒˤː	pharyngealized long voiced post-alveolar sibilant fricative consonant	+	+	ʒˤː						1	
-ʒ̊	devoiced voiced post-alveolar sibilant fricative consonant		+	ʒ̊						1	
-ʔ	voiceless glottal stop consonant		+	ʔ						49	
-ʔː	long voiceless glottal stop consonant	+	+	ʔ:						1	
-ˀb	pre-glottalized voiced bilabial stop consonant	+	+	ʔb						1	
-ˀd	pre-glottalized voiced alveolar stop consonant	+	+	ʔd						1	
-ʔʲ	palatalized voiceless glottal stop consonant		+	ʔj						3	
-ʔʲ	palatalized voiceless glottal stop consonant		+	ʔj̰						1	
-ˀl	pre-glottalized voiced alveolar lateral approximant consonant	+	+	ʔl						1	
-ˀm	pre-glottalized voiced bilabial nasal consonant	+	+	ʔm						2	
-ˀn	pre-glottalized voiced alveolar nasal consonant	+	+	ʔn						2	
-ˀⁿd	pre-glottalized-and-nasalized voiced alveolar stop consonant		+	ʔnd						1	
-ˀr	pre-glottalized voiced alveolar trill consonant	+	+	ʔr						1	
-ˀr̥	pre-glottalized devoiced voiced alveolar trill consonant	+	+	ʔr̥						1	
-ʔʷ	labialized voiceless glottal stop consonant		+	ʔw						1	
-ʔ̰ʷ	labialized creaky voiceless glottal stop consonant	+	+	ʔw̰						1	
-ˀⁿg	pre-glottalized-and-nasalized voiced velar stop consonant		+	ʔŋg						1	
-ʔʲ	palatalized voiceless glottal stop consonant		+	ʔʲ						2	
-ʔʲː	palatalized long voiceless glottal stop consonant	+	+	ʔʲː						1	
-ʔʷ	labialized voiceless glottal stop consonant		+	ʔʷ						1	
-ʔʷː	labialized long voiceless glottal stop consonant	+	+	ʔʷː						1	
-ˀβ	pre-glottalized voiced bilabial fricative consonant	+	+	ʔβ						1	
-ʕ	voiced pharyngeal fricative consonant		+	ʕ						4	
-ʕˀ	glottalized voiced pharyngeal fricative consonant	+	+	ʕʔ						1	
-ʕʷ	labialized voiced pharyngeal fricative consonant	+	+	ʕʷ						1	
-ʕʷˀ	labialized glottalized voiced pharyngeal fricative consonant	+	+	ʕʷʔ						1	
-ʕː	long voiced pharyngeal fricative consonant	+	+	ʕː						1	
-ʙ	voiced bilabial trill consonant		+	ʙ						1	
-ʙ̥	devoiced voiced bilabial trill consonant		+	ʙ̥						1	
-ʜ	voiceless epiglottal fricative consonant		+	ʜ						1	
-ʜː	long voiceless epiglottal fricative consonant	+	+	ʜː						1	
-ʝ	voiced palatal fricative consonant		+	ʝ						2	
-ʝ̞	lowered voiced palatal fricative consonant	+	+	ʝ̞						1	
-ˀj	pre-glottalized voiced palatal approximant consonant	+	+	ˀj						1	
-ˀl	pre-glottalized voiced alveolar lateral approximant consonant	+	+	ˀl						1	
-ˀm	pre-glottalized voiced bilabial nasal consonant	+	+	ˀm						1	
-ˀn	pre-glottalized voiced alveolar nasal consonant	+	+	ˀn						1	
-ˀw	pre-glottalized voiced labio-velar approximant consonant	+	+	ˀw						1	
-β	voiced bilabial fricative consonant		+	β						7	
-βʲ	palatalized voiced bilabial fricative consonant	+	+	βʲ						1	
-βʷ	labialized voiced bilabial fricative consonant		+	βʷ						2	
-βː	long voiced bilabial fricative consonant	+	+	βː						1	
-β̞	voiced bilabial approximant consonant		+	β̞						5	
-θ	voiceless dental fricative consonant		+	θ						15	
-χ	voiceless uvular fricative consonant		+	χ						18	
-χʷ	labialized voiceless uvular fricative consonant		+	χʷ						5	
-χʷː	labialized long voiceless uvular fricative consonant	+	+	χʷː						1	
-χː	long voiceless uvular fricative consonant	+	+	χː						1	
-tⁿ	with-nasal-release voiceless alveolar stop consonant		+	ᵗn						1	
-tⁿʷ	labialized with-nasal-release voiceless alveolar stop consonant	+	+	ᵗnʷ						1	
-t̪ⁿ	with-nasal-release voiceless dental stop consonant		+	ᵗ̪n̪						1	
-ⁿb	pre-nasalized voiced bilabial stop consonant		+	ⁿb						1	
-ⁿd	pre-nasalized voiced alveolar stop consonant		+	ⁿd						3	
-ⁿdʒ	pre-nasalized voiced post-alveolar affricate consonant		+	ⁿdʒ						2	
-ⁿg	pre-nasalized voiced velar stop consonant		+	ⁿg						1	
-ⁿǀ	pre-nasalized voiceless dental click consonant	+	+	ⁿǀ						1	
-ⁿǁ	pre-nasalized voiceless lateral click consonant	+	+	ⁿǁ						1	
-ⁿǃ	pre-nasalized voiceless alveolar click consonant	+	+	ⁿǃ						1	
-ⁿɟ	pre-nasalized voiced palatal stop consonant		+	ⁿɟ						1	
-ⱱ	voiced labio-dental tap consonant		+	ⱱ						1	
-ⱱ̟	advanced voiced labio-dental tap consonant	+	+	ⱱ̟						1	
+BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	SYMBOLS	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
+<NA>	<NA>		+	aʊɪ	<NA>						1	triphthong
+<NA>	<NA>		+	eəɪ	<NA>						1	triphthong
+<NA>	<NA>		+	iau	<NA>						2	triphthong
+<NA>	<NA>		+	iou	<NA>						1	triphthong
+<NA>	<NA>		+	iəɪ	<NA>						1	triphthong
+<NA>	<NA>		+	jai̯	<NA>						1	triphthong
+<NA>	<NA>		+	jau̯	<NA>						1	triphthong
+<NA>	<NA>		+	jeu̯	<NA>						1	triphthong
+<NA>	<NA>		+	ld	<NA>						1	
+<NA>	<NA>		+	oəɪ	<NA>						1	triphthong
+<NA>	<NA>		+	uai	<NA>						1	
+<NA>	<NA>		+	uei	<NA>						1	
+<NA>	<NA>		+	wai̯	<NA>						1	
+<NA>	<NA>		+	wei̯	<NA>						1	
+<NA>	<NA>		+	z̻	<NA>						1	
+<NA>	<NA>		+	ǁ’	<NA>						1	
+<NA>	<NA>		+	ɔoũ	<NA>						1	triphthong
+<NA>	<NA>		+	əɪa	<NA>						1	triphthong
+<NA>	<NA>		+	əʁ̞	<NA>						1	
+<NA>	<NA>		+	əʊɪ	<NA>						1	triphthong
+n	voiced alveolar nasal consonant		+	N	◌n						1	
+ⁿb	pre-nasalized voiced bilabial stop consonant		+	Nb	◌ⁿ ◌b						2	
+ⁿd	pre-nasalized voiced alveolar stop consonant		+	Nd	◌ⁿ ◌d						2	
+ⁿdz	pre-nasalized voiced alveolar sibilant affricate consonant	+	+	Ndz	◌ⁿ ◌d ◌z						1	
+ⁿɖʐ	pre-nasalized voiced retroflex sibilant affricate consonant	+	+	Ndʐ	◌ⁿ ◌ɖ ◌ʐ						1	
+ⁿdʑ	pre-nasalized voiced alveolo-palatal sibilant affricate consonant	+	+	Ndʑ	◌ⁿ ◌d ◌ʑ						2	
+ⁿdz̪	pre-nasalized voiced dental sibilant affricate consonant	+	+	Nd̪z̪	◌ⁿ ◌d ◌z ◌̪						1	
+ⁿdz̻	pre-nasalized voiced laminal alveolar sibilant affricate consonant	+	+	Nd̻z̻	◌ⁿ ◌d ◌z ◌̻						1	
+ⁿg	pre-nasalized voiced velar stop consonant		+	Ng	◌ⁿ ◌g						2	
+ⁿkʰ	pre-nasalized aspirated voiceless velar stop consonant	+	+	Nkʰ	◌ⁿ ◌k ◌ʰ						1	
+ⁿpʰ	pre-nasalized aspirated voiceless bilabial stop consonant	+	+	Npʰ	◌ⁿ ◌p ◌ʰ						1	
+ⁿtɕʰ	pre-nasalized aspirated voiceless alveolo-palatal sibilant affricate consonant	+	+	Ntɕʰ	◌ⁿ ◌t ◌ɕ ◌ʰ						1	
+ⁿtʰ	pre-nasalized aspirated voiceless alveolar stop consonant	+	+	Ntʰ	◌ⁿ ◌t ◌ʰ						1	
+ⁿts̪ʰ	pre-nasalized aspirated voiceless dental sibilant affricate consonant	+	+	Nt̪s̪ʰ	◌ⁿ ◌t ◌s ◌̪ ◌ʰ						1	
+ⁿts̻ʰ	pre-nasalized aspirated voiceless laminal alveolar sibilant affricate consonant	+	+	Nt̻s̻ʰ	◌ⁿ ◌t ◌s ◌̻ ◌ʰ						1	
+ⁿɖʳ	pre-nasalized with-trilled-release voiced retroflex stop consonant	+	+	Nɖɽ	◌ⁿ ◌ɖ ◌ʳ						1	
+ⁿʈʳʰ	pre-nasalized aspirated with-trilled-release voiceless retroflex stop consonant	+	+	Nʈɽʰ	◌ⁿ ◌ʈ ◌ʳ ◌ʰ						1	
+a	unrounded open front vowel		+	a	◌a						126	
+ae	from unrounded open front to unrounded close-mid front diphthong	+	+	ae	◌a ◌e						1	
+ae̯	from unrounded open front to non-syllabic unrounded close-mid front diphthong	+	+	ae̯	◌a ◌e ◌̯						2	
+ai	from unrounded open front to unrounded close front diphthong	+	+	ai	◌a ◌i						12	
+ai̯	from unrounded open front to non-syllabic unrounded close front diphthong	+	+	ai̯	◌a ◌i ◌̯						2	
+ai̯	from unrounded open front to non-syllabic unrounded close front diphthong	+	+	aj	◌a ◌i ◌̯						4	
+ao̯	from unrounded open front to non-syllabic rounded close-mid back diphthong	+	+	ao̯	◌a ◌o ◌̯						1	
+au	from unrounded open front to rounded close back diphthong	+	+	au	◌a ◌u						16	
+au̯	from unrounded open front to non-syllabic rounded close back diphthong	+	+	au̯	◌a ◌u ◌̯						2	
+au̯	from unrounded open front to non-syllabic rounded close back diphthong	+	+	aw	◌a ◌u ◌̯						4	
+aɛ	from unrounded open front to unrounded open-mid front diphthong	+	+	aɛ	◌a ◌ɛ						1	
+aɛ̯	from unrounded open front to non-syllabic unrounded open-mid front diphthong	+	+	aɛ̯	◌a ◌ɛ ◌̯						1	
+aɪ	from unrounded open front to unrounded near-close near-front diphthong	+	+	aɪ	◌a ◌ɪ						9	
+aɪ̃	from unrounded open front to nasalized unrounded near-close near-front diphthong	+	+	aɪ̃	◌a ◌ɪ ◌̃						1	
+aɵ̯	from unrounded open front to non-syllabic rounded close-mid central diphthong	+	+	aɵ̯	◌a ◌ɵ ◌̯						1	
+aʊ	from unrounded open front to rounded near-close near-back diphthong	+	+	aʊ	◌a ◌ʊ						8	
+aʊ̃	from unrounded open front to nasalized rounded near-close near-back diphthong	+	+	aʊ̃	◌a ◌ʊ ◌̃						1	
+aˀ	glottalized unrounded open front vowel	+	+	aʔ	◌a ◌ˀ						1	
+aː	long unrounded open front vowel		+	aː	◌a ◌ː						54	
+aːi	from long unrounded open front to unrounded close front diphthong	+	+	aːi	◌a ◌ː ◌i						1	
+aːu	from long unrounded open front to rounded close back diphthong	+	+	aːu	◌a ◌ː ◌u						1	
+aˑ	mid-long unrounded open front vowel		+	aˑ	◌a ◌ˑ						3	
+a˞	rhotacized unrounded open front vowel		+	a˞	◌a ◌˞						1	
+aˠ	velarized unrounded open front vowel	+	+	aˠ	◌a ◌ˠ						1	
+aˤ	pharyngealized unrounded open front vowel	+	+	aˤ	◌a ◌ˤ						2	
+aˤː	long pharyngealized unrounded open front vowel	+	+	aˤ:	◌a ◌ˤ ◌ː						1	
+ã	nasalized unrounded open front vowel		+	ã	◌a ◌̃						16	
+ãː	long nasalized unrounded open front vowel		+	ãː	◌a ◌̃ ◌ː						4	
+ãˤ	pharyngealized nasalized unrounded open front vowel	+	+	ãˤ	◌a ◌̃ ◌ˤ						1	
+ã̰	nasalized creaky unrounded open front vowel	+	+	ã̰	◌a ◌̰ ◌̃						1	
+a̤	breathy unrounded open front vowel	+	+	a̤	◌a ◌̤						2	
+a̤ː	long breathy unrounded open front vowel	+	+	a̤ː	◌a ◌̤ ◌ː						1	
+a̤ˑ	mid-long breathy unrounded open front vowel	+	+	a̤ˑ	◌a ◌̤ ◌ˑ						1	
+a̰	creaky unrounded open front vowel		+	a̰	◌a ◌̰						3	
+b	voiced bilabial stop consonant		+	b	◌b						127	
+bː	long voiced bilabial stop consonant		+	b:	◌b ◌ː						1	
+bː	long voiced bilabial stop consonant		+	bb	◌b ◌ː						1	
+bʱː	long breathy voiced bilabial stop consonant		+	bbʱ	◌b ◌ʱ ◌ː						1	
+bʰ	aspirated voiced bilabial stop consonant		+	bʰ	◌b ◌ʰ						1	
+bʰː	aspirated long voiced bilabial stop consonant		+	bʰː	◌b ◌ʰ ◌ː						1	
+bʱ	breathy voiced bilabial stop consonant		+	bʱ	◌b ◌ʱ						6	
+bʱː	long breathy voiced bilabial stop consonant		+	bʱː	◌b ◌ʱ ◌ː						1	
+bʲ	palatalized voiced bilabial stop consonant		+	bʲ	◌b ◌ʲ						4	
+bʷ	labialized voiced bilabial stop consonant		+	bʷ	◌b ◌ʷ						1	
+bʷː	labialized long voiced bilabial stop consonant		+	bʷː	◌b ◌ʷ ◌ː						1	
+bː	long voiced bilabial stop consonant		+	bː	◌b ◌ː						13	
+bˠ	velarized voiced bilabial stop consonant		+	bˠ	◌b ◌ˠ						1	
+b̥	devoiced voiced bilabial stop consonant		+	b̥	◌b ◌̥						3	
+c	voiceless palatal stop consonant		+	c	◌c						26	
+cⁿ	with-nasal-release voiceless palatal stop consonant	+	+	cn	◌c ◌ⁿ						1	
+cç	voiceless palatal affricate consonant		+	cç	◌c ◌c ◌̧						1	
+cçː	long voiceless palatal affricate consonant	+	+	cçː	◌c ◌c ◌̧ ◌ː						1	
+cʰ	aspirated voiceless palatal stop consonant		+	cʰ	◌c ◌ʰ						3	
+cː	long voiceless palatal stop consonant		+	cː	◌c ◌ː						1	
+d	voiced alveolar stop consonant		+	d	◌d						122	
+dː	long voiced alveolar stop consonant		+	d:	◌d ◌ː						1	
+dʒː	long voiced post-alveolar sibilant affricate consonant		+	d:ʒ	◌d ◌ʒ ◌ː						1	
+dː	long voiced alveolar stop consonant		+	dd	◌d ◌ː						1	
+dʱː	long breathy voiced alveolar stop consonant		+	ddʱ	◌d ◌ʱ ◌ː						1	
+dɮ	voiced alveolar lateral affricate consonant		+	dlʒ	◌d ◌ɮ						1	
+dz	voiced alveolar sibilant affricate consonant		+	dz	◌d ◌z						18	
+dzː	long voiced alveolar sibilant affricate consonant		+	dzdz	◌d ◌z ◌ː						1	
+dzʱ	breathy voiced alveolar sibilant affricate consonant	+	+	dzʱ	◌d ◌z ◌ʱ						1	
+dzʱː	long breathy voiced alveolar sibilant affricate consonant	+	+	dzʱː	◌d ◌z ◌ʱ ◌ː						1	
+dzʲ	palatalized voiced alveolar sibilant affricate consonant	+	+	dzʲ	◌d ◌z ◌ʲ						2	
+dzː	long voiced alveolar sibilant affricate consonant		+	dzː	◌d ◌z ◌ː						2	
+ɖʐ	voiced retroflex sibilant affricate consonant		+	dʐ	◌ɖ ◌ʐ						3	
+dʑ	voiced alveolo-palatal sibilant affricate consonant		+	dʑ	◌d ◌ʑ						12	
+dʑː	long voiced alveolo-palatal sibilant affricate consonant		+	dʑː	◌d ◌ʑ ◌ː						1	
+dʒ	voiced post-alveolar sibilant affricate consonant		+	dʒ	◌d ◌ʒ						70	
+dʒː	long voiced post-alveolar sibilant affricate consonant		+	dʒdʒ	◌d ◌ʒ ◌ː						1	
+dʒʱː	long breathy voiced post-alveolar sibilant affricate consonant	+	+	dʒdʒʱ	◌d ◌ʒ ◌ʱ ◌ː						1	
+dʒʱ	breathy voiced post-alveolar sibilant affricate consonant		+	dʒʱ	◌d ◌ʒ ◌ʱ						2	
+dʒʱː	long breathy voiced post-alveolar sibilant affricate consonant	+	+	dʒʱː	◌d ◌ʒ ◌ʱ ◌ː						1	
+dʒʲ	palatalized voiced post-alveolar sibilant affricate consonant		+	dʒʲ	◌d ◌ʒ ◌ʲ						1	
+dʒː	long voiced post-alveolar sibilant affricate consonant		+	dʒː	◌d ◌ʒ ◌ː						4	
+ɟʝ	voiced palatal affricate consonant		+	dʝ	◌ɟ ◌ʝ						1	
+dʰ	aspirated voiced alveolar stop consonant		+	dʰ	◌d ◌ʰ						1	
+dʰː	aspirated long voiced alveolar stop consonant		+	dʰː	◌d ◌ʰ ◌ː						1	
+dʱ	breathy voiced alveolar stop consonant		+	dʱ	◌d ◌ʱ						4	
+dʱː	long breathy voiced alveolar stop consonant		+	dʱː	◌d ◌ʱ ◌ː						2	
+dʲ	palatalized voiced alveolar stop consonant		+	dʲ	◌d ◌ʲ						5	
+dʷ	labialized voiced alveolar stop consonant	+	+	dʷ	◌d ◌ʷ						1	
+dː	long voiced alveolar stop consonant		+	dː	◌d ◌ː						10	
+dzː	long voiced alveolar sibilant affricate consonant		+	dːz	◌d ◌z ◌ː						1	
+dʒː	long voiced post-alveolar sibilant affricate consonant		+	dːʃ	◌d ◌ʒ ◌ː						1	
+dʑː	long voiced alveolo-palatal sibilant affricate consonant		+	dːʑ	◌d ◌ʑ ◌ː						1	
+dˤ	pharyngealized voiced alveolar stop consonant		+	dˤ	◌d ◌ˤ						2	
+dˤː	pharyngealized long voiced alveolar stop consonant	+	+	dˤː	◌d ◌ˤ ◌ː						1	
+dʑ	voiced alveolo-palatal sibilant affricate consonant		+	d̠ʑ	◌d ◌ʑ						2	
+dʑʱ	breathy voiced alveolo-palatal sibilant affricate consonant	+	+	d̠ʑʱ	◌d ◌ʑ ◌ʱ						2	
+dʑʱː	long breathy voiced alveolo-palatal sibilant affricate consonant	+	+	d̠ʑʱː	◌d ◌ʑ ◌ʱ ◌ː						1	
+dʑː	long voiced alveolo-palatal sibilant affricate consonant		+	d̠ʑː	◌d ◌ʑ ◌ː						1	
+d̥	devoiced voiced alveolar stop consonant		+	d̥	◌d ◌̥						3	
+d̪	voiced dental stop consonant		+	d̪	◌d ◌̪						7	
+dz̪	voiced dental sibilant affricate consonant		+	d̪z̪	◌d ◌z ◌̪						1	
+d̪ʱ	breathy voiced dental stop consonant		+	d̪ʱ	◌d ◌̪ ◌ʱ						3	
+d̪ʱː	long breathy voiced dental stop consonant		+	d̪ʱː	◌d ◌̪ ◌ʱ ◌ː						2	
+d̪ʲ	palatalized voiced dental stop consonant		+	d̪ʲ	◌d ◌̪ ◌ʲ						1	
+d̪ʷ	labialized voiced dental stop consonant	+	+	d̪ʷ	◌d ◌̪ ◌ʷ						1	
+d̪ː	long voiced dental stop consonant		+	d̪ː	◌d ◌̪ ◌ː						2	
+d̪ˠ	velarized voiced dental stop consonant		+	d̪ˠ	◌d ◌̪ ◌ˠ						1	
+dz̻	voiced laminal alveolar sibilant affricate consonant	+	+	d̻z̻	◌d ◌z ◌̻						1	
+dz	voiced alveolar sibilant affricate consonant		+	d͜z	◌d ◌z						1	
+e	unrounded close-mid front vowel		+	e	◌e						105	
+eː	long unrounded close-mid front vowel		+	e:	◌e ◌ː						1	
+ea	from unrounded close-mid front to unrounded open front diphthong	+	+	ea	◌e ◌a						2	
+eaː	from unrounded close-mid front to long unrounded open front diphthong	+	+	eaː	◌e ◌a ◌ː						1	
+eã	from unrounded close-mid front to nasalized unrounded open front diphthong	+	+	eã	◌e ◌a ◌̃						1	
+ei	from unrounded close-mid front to unrounded close front diphthong	+	+	ei	◌e ◌i						9	
+ei̯	from unrounded close-mid front to non-syllabic unrounded close front diphthong	+	+	ei̯	◌e ◌i ◌̯						3	
+ei̯	from unrounded close-mid front to non-syllabic unrounded close front diphthong	+	+	ej	◌e ◌i ◌̯						2	
+eo	from unrounded close-mid front to rounded close-mid back diphthong	+	+	eo	◌e ◌o						2	
+eoː	from unrounded close-mid front to long rounded close-mid back diphthong	+	+	eoː	◌e ◌o ◌ː						1	
+eu	from unrounded close-mid front to rounded close back diphthong	+	+	eu	◌e ◌u						6	
+eu̯	from unrounded close-mid front to non-syllabic rounded close back diphthong	+	+	eu̯	◌e ◌u ◌̯						2	
+eu̯	from unrounded close-mid front to non-syllabic rounded close back diphthong	+	+	ew	◌e ◌u ◌̯						1	
+eɑ	from unrounded close-mid front to unrounded open back diphthong	+	+	eɑ	◌e ◌ɑ						1	
+eɔ	from unrounded close-mid front to rounded open-mid back diphthong	+	+	eɔ	◌e ◌ɔ						1	
+eə	from unrounded close-mid front to unrounded mid central diphthong	+	+	eə	◌e ◌ə						3	
+eɪ	from unrounded close-mid front to unrounded near-close near-front diphthong	+	+	eɪ	◌e ◌ɪ						6	
+eɪ̃	from unrounded close-mid front to nasalized unrounded near-close near-front diphthong	+	+	eɪ̃	◌e ◌ɪ ◌̃						1	
+eː	long unrounded close-mid front vowel		+	eː	◌e ◌ː						45	
+eːː	ultra-long unrounded close-mid front vowel		+	eːː	◌e ◌ː ◌ː						1	
+eˤː	long pharyngealized unrounded close-mid front vowel	+	+	eːˤ	◌e ◌ˤ ◌ː						1	
+eˑ	mid-long unrounded close-mid front vowel		+	eˑ	◌e ◌ˑ						4	
+eˠ	velarized unrounded close-mid front vowel	+	+	eˠ	◌e ◌ˠ						1	
+eˠː	long velarized unrounded close-mid front vowel	+	+	eˠː	◌e ◌ˠ ◌ː						1	
+eˤ	pharyngealized unrounded close-mid front vowel	+	+	eˤ	◌e ◌ˤ						1	
+ẽ	nasalized unrounded close-mid front vowel		+	ẽ	◌e ◌̃						12	
+ẽː	long nasalized unrounded close-mid front vowel		+	ẽː	◌e ◌̃ ◌ː						1	
+ẽˤ	pharyngealized nasalized unrounded close-mid front vowel	+	+	ẽˤ	◌e ◌̃ ◌ˤ						1	
+ḛ̃	nasalized creaky unrounded close-mid front vowel	+	+	ḛ̃	◌e ◌̰ ◌̃						1	
+ë	centralized unrounded close-mid front vowel	+	+	ë	◌e ◌̈						1	
+e̝	raised unrounded close-mid front vowel	+	+	e̝	◌e ◌̝						1	
+e̞ɪ	from unrounded mid front to unrounded near-close near-front diphthong	+	+	e̞ɪ	◌e ◌̞ ◌ɪ						1	
+e̤	breathy unrounded close-mid front vowel		+	e̤	◌e ◌̤						3	
+e̤ː	long breathy unrounded close-mid front vowel	+	+	e̤ː	◌e ◌̤ ◌ː						1	
+e̤ˑ	mid-long breathy unrounded close-mid front vowel	+	+	e̤ˑ	◌e ◌̤ ◌ˑ						1	
+ḛ	creaky unrounded close-mid front vowel		+	ḛ	◌e ◌̰						3	
+f	voiceless labio-dental fricative consonant		+	f	◌f						113	
+fʰ	aspirated voiceless labio-dental fricative consonant		+	fʰ	◌f ◌ʰ						1	
+fʲ	palatalized voiceless labio-dental fricative consonant		+	fʲ	◌f ◌ʲ						2	
+fʷ	labialized voiceless labio-dental fricative consonant	+	+	fʷ	◌f ◌ʷ						2	
+fʷː	labialized long voiceless labio-dental fricative consonant		+	fʷː	◌f ◌ʷ ◌ː						1	
+fː	long voiceless labio-dental fricative consonant		+	fː	◌f ◌ː						10	
+fˠ	velarized voiceless labio-dental fricative consonant		+	fˠ	◌f ◌ˠ						1	
+g	voiced velar stop consonant		+	g	◌g						117	
+gː	long voiced velar stop consonant		+	g:	◌g ◌ː						1	
+gb	voiced velar-and-bilabial stop consonant		+	gb	◌g ◌b						9	
+gː	long voiced velar stop consonant		+	gg	◌g ◌ː						1	
+gʱː	long breathy voiced velar stop consonant	+	+	ggʱ	◌g ◌ʱ ◌ː						1	
+gǀ	voiced dental click consonant		+	gǀ	◌g ◌ǀ						1	
+gǁ	voiced lateral click consonant		+	gǁ	◌g ◌ǁ						1	
+gǃ	voiced alveolar click consonant		+	gǃ	◌g ◌ǃ						1	
+gʰ	aspirated voiced velar stop consonant		+	gʰ	◌g ◌ʰ						1	
+gʱ	breathy voiced velar stop consonant		+	gʱ	◌g ◌ʱ						6	
+gʱː	long breathy voiced velar stop consonant	+	+	gʱː	◌g ◌ʱ ◌ː						3	
+gʲ	palatalized voiced velar stop consonant		+	gʲ	◌g ◌ʲ						3	
+gʷ	labialized voiced velar stop consonant		+	gʷ	◌g ◌ʷ						14	
+gʷː	labialized long voiced velar stop consonant	+	+	gʷː	◌g ◌ʷ ◌ː						5	
+gː	long voiced velar stop consonant		+	gː	◌g ◌ː						12	
+g̊	devoiced voiced velar stop consonant		+	g̊	◌g ◌̊						3	
+h	voiceless glottal fricative consonant		+	h	◌h						102	
+hʲ	palatalized voiceless glottal fricative consonant	+	+	hʲ	◌h ◌ʲ						1	
+hʲː	palatalized long voiceless glottal fricative consonant	+	+	hʲː	◌h ◌ʲ ◌ː						1	
+hʷ	labialized voiceless glottal fricative consonant	+	+	hʷ	◌h ◌ʷ						2	
+hʷː	labialized long voiceless glottal fricative consonant	+	+	hʷː	◌h ◌ʷ ◌ː						1	
+hː	long voiceless glottal fricative consonant	+	+	hː	◌h ◌ː						7	
+h̃	nasalized voiceless glottal fricative consonant		+	h̃	◌h ◌̃						1	
+i	unrounded close front vowel		+	i	◌i						148	
+iː	long unrounded close front vowel		+	i:	◌i ◌ː						1	
+ia	from unrounded close front to unrounded open front diphthong	+	+	ia	◌i ◌a						6	
+ie	from unrounded close front to unrounded close-mid front diphthong	+	+	ie	◌i ◌e						4	
+iː	long unrounded close front vowel		+	ij	◌i ◌ː						1	
+io	from unrounded close front to rounded close-mid back diphthong	+	+	io	◌i ◌o						1	
+iu	from unrounded close front to rounded close back diphthong	+	+	iu	◌i ◌u						5	
+iu̯	from unrounded close front to non-syllabic rounded close back diphthong	+	+	iw	◌i ◌u ◌̯						1	
+iɐ	from unrounded close front to unrounded near-open central diphthong	+	+	iɐ	◌i ◌ɐ						1	
+iɑ	from unrounded close front to unrounded open back diphthong	+	+	iɑ	◌i ◌ɑ						1	
+iɔ	from unrounded close front to rounded open-mid back diphthong	+	+	iɔ	◌i ◌ɔ						1	
+iə	from unrounded close front to unrounded mid central diphthong	+	+	iə	◌i ◌ə						5	
+iə̯	from unrounded close front to non-syllabic unrounded mid central diphthong	+	+	iə̯	◌i ◌ə ◌̯						1	
+iɛ	from unrounded close front to unrounded open-mid front diphthong	+	+	iɛ	◌i ◌ɛ						1	
+iˀ	glottalized unrounded close front vowel	+	+	iʔ	◌i ◌ˀ						1	
+iː	long unrounded close front vowel		+	iː	◌i ◌ː						59	
+iːu	from long unrounded close front to rounded close back diphthong	+	+	iːu	◌i ◌ː ◌u						1	
+iːə	from long unrounded close front to unrounded mid central diphthong	+	+	iːə	◌i ◌ː ◌ə						1	
+iːː	ultra-long unrounded close front vowel		+	iːː	◌i ◌ː ◌ː						1	
+iˑ	mid-long unrounded close front vowel		+	iˑ	◌i ◌ˑ						5	
+iˠ	velarized unrounded close front vowel	+	+	iˠ	◌i ◌ˠ						1	
+iˤ	pharyngealized unrounded close front vowel	+	+	iˤ	◌i ◌ˤ						2	
+ĩ	nasalized unrounded close front vowel		+	ĩ	◌i ◌̃						19	
+ĩː	long nasalized unrounded close front vowel		+	ĩː	◌i ◌̃ ◌ː						5	
+ĩˤ	pharyngealized nasalized unrounded close front vowel	+	+	ĩˤ	◌i ◌̃ ◌ˤ						1	
+ḭ̃	nasalized creaky unrounded close front vowel	+	+	ḭ̃	◌i ◌̰ ◌̃						1	
+i̙	retracted-tongue-root unrounded close front vowel	+	+	i̙	◌i ◌̙						1	
+i̞	lowered unrounded close front vowel	+	+	i̞	◌i ◌̞						1	
+i̞ː	long lowered unrounded close front vowel	+	+	i̞ː	◌i ◌̞ ◌ː						1	
+i̤	breathy unrounded close front vowel		+	i̤	◌i ◌̤						2	
+i̤ː	long breathy unrounded close front vowel	+	+	i̤ː	◌i ◌̤ ◌ː						1	
+i̤ˑ	mid-long breathy unrounded close front vowel	+	+	i̤ˑ	◌i ◌̤ ◌ˑ						1	
+ḭ	creaky unrounded close front vowel		+	ḭ	◌i ◌̰						3	
+j	voiced palatal approximant consonant		+	j	◌j						140	
+jː	long voiced palatal approximant consonant		+	j:	◌j ◌ː						1	
+i̯a	from non-syllabic unrounded close front to unrounded open front diphthong	+	+	ja	◌i ◌̯ ◌a						3	
+i̯e	from non-syllabic unrounded close front to unrounded close-mid front diphthong	+	+	je	◌i ◌̯ ◌e						3	
+jː	long voiced palatal approximant consonant		+	jj	◌j ◌ː						1	
+i̯o	from non-syllabic unrounded close front to rounded close-mid back diphthong	+	+	jo	◌i ◌̯ ◌o						3	
+i̯u	from non-syllabic unrounded close front to rounded close back diphthong	+	+	ju	◌i ◌̯ ◌u						3	
+i̯ɛ	from non-syllabic unrounded close front to unrounded open-mid front diphthong	+	+	jɛ	◌i ◌̯ ◌ɛ						1	
+i̯ʌ	from non-syllabic unrounded close front to unrounded open-mid back diphthong	+	+	jʌ	◌i ◌̯ ◌ʌ						1	
+jʷ	labialized voiced palatal approximant consonant	+	+	jʷ	◌j ◌ʷ						1	
+jː	long voiced palatal approximant consonant		+	jː	◌j ◌ː						11	
+j̃	nasalized voiced palatal approximant consonant		+	j̃	◌j ◌̃						2	
+k	voiceless velar stop consonant		+	k	◌k						155	
+kʼ	voiceless velar ejective stop consonant		+	k'	◌k ◌ʼ						1	
+kː	long voiceless velar stop consonant		+	k:	◌k ◌ː						1	
+kː	long voiceless velar stop consonant		+	kk	◌k ◌ː						1	
+kʰː	aspirated long voiceless velar stop consonant	+	+	kkʰ	◌k ◌ʰ ◌ː						1	
+kˡ	with-lateral-release voiceless velar stop consonant	+	+	kl	◌k ◌ˡ						1	
+kp	voiceless velar-and-bilabial stop consonant		+	kp	◌k ◌p						9	
+kˢ	with-sibilant-release voiceless velar stop consonant	+	+	ks	◌k ◌ˢ						1	
+kx	voiceless velar affricate consonant		+	kx	◌k ◌x						1	
+kⁿ	with-nasal-release voiceless velar stop consonant	+	+	kŋ	◌k ◌ⁿ						1	
+kⁿʷ	labialized with-nasal-release voiceless velar stop consonant	+	+	kŋʷ	◌k ◌ⁿ ◌ʷ						1	
+kʰ	aspirated voiceless velar stop consonant		+	kʰ	◌k ◌ʰ						32	
+kʰː	aspirated long voiceless velar stop consonant	+	+	kʰː	◌k ◌ʰ ◌ː						3	
+kʲ	palatalized voiceless velar stop consonant		+	kʲ	◌k ◌ʲ						5	
+k’ʲ	palatalized voiceless velar ejective stop consonant	+	+	kʲʼ	◌k ◌’ ◌ʲ						1	
+k’ʲ	palatalized voiceless velar ejective stop consonant	+	+	kʲ’	◌k ◌’ ◌ʲ						1	
+kʷ	labialized voiceless velar stop consonant		+	kʷ	◌k ◌ʷ						24	
+kʼʷ	labialized voiceless velar ejective stop consonant		+	kʷ'	◌k ◌ʼ ◌ʷ						2	
+kʷʰ	labialized aspirated voiceless velar stop consonant		+	kʷʰ	◌k ◌ʷ ◌ʰ						3	
+kʼʷ	labialized voiceless velar ejective stop consonant		+	kʷʼ	◌k ◌ʼ ◌ʷ						1	
+kʷː	labialized long voiceless velar stop consonant		+	kʷː	◌k ◌ʷ ◌ː						5	
+k’ʷː	labialized long voiceless velar ejective stop consonant	+	+	kʷ’ː	◌k ◌’ ◌ʷ ◌ː						1	
+kʼ	voiceless velar ejective stop consonant		+	kʼ	◌k ◌ʼ						1	
+kʼʷ	labialized voiceless velar ejective stop consonant		+	kʼʷ	◌k ◌ʼ ◌ʷ						1	
+kː	long voiceless velar stop consonant		+	kː	◌k ◌ː						15	
+l	voiced alveolar lateral approximant consonant		+	l	◌l						151	
+lː	long voiced alveolar lateral approximant consonant		+	l:	◌l ◌ː						1	
+lː	long voiced alveolar lateral approximant consonant		+	ll	◌l ◌ː						1	
+ɮ	voiced alveolar lateral fricative consonant		+	lʒ	◌ɮ						1	
+lˀ	glottalized voiced alveolar lateral approximant consonant	+	+	lʔ	◌l ◌ˀ						1	
+lʱ	breathy voiced alveolar lateral approximant consonant		+	lʱ	◌l ◌ʱ						2	
+lʲ	palatalized voiced alveolar lateral approximant consonant		+	lʲ	◌l ◌ʲ						6	
+lʲʷ	palatalized labialized voiced alveolar lateral approximant consonant	+	+	lʲʷ	◌l ◌ʲ ◌ʷ						1	
+lʷ	labialized voiced alveolar lateral approximant consonant	+	+	lʷ	◌l ◌ʷ						1	
+lː	long voiced alveolar lateral approximant consonant		+	lː	◌l ◌ː						18	
+lˤ	pharyngealized voiced alveolar lateral approximant consonant	+	+	lˤ	◌l ◌ˤ						2	
+lˤː	pharyngealized long voiced alveolar lateral approximant consonant	+	+	lˤː	◌l ◌ˤ ◌ː						1	
+l̥	devoiced voiced alveolar lateral approximant consonant		+	l̥	◌l ◌̥						3	
+l̪	voiced dental lateral approximant consonant		+	l̪	◌l ◌̪						1	
+l̪ʷ	labialized voiced dental lateral approximant consonant	+	+	l̪ʷ	◌l ◌̪ ◌ʷ						1	
+l̪ˠ	velarized voiced dental lateral approximant consonant		+	l̪ˠ	◌l ◌̪ ◌ˠ						1	
+m	voiced bilabial nasal consonant		+	m	◌m						158	
+mː	long voiced bilabial nasal consonant		+	m:	◌m ◌ː						1	
+ⁿb	pre-nasalized voiced bilabial stop consonant		+	mb	◌ⁿ ◌b						10	
+ⁿbʲ	pre-nasalized palatalized voiced bilabial stop consonant	+	+	mbʲ	◌ⁿ ◌b ◌ʲ						1	
+ⁿbʷ	pre-nasalized labialized voiced bilabial stop consonant	+	+	mbʷ	◌ⁿ ◌b ◌ʷ						2	
+ⁿf	pre-nasalized voiceless labio-dental fricative consonant	+	+	mf	◌ⁿ ◌f						1	
+mː	long voiced bilabial nasal consonant		+	mm	◌m ◌ː						1	
+ⁿp	pre-nasalized voiceless bilabial stop consonant		+	mp	◌ⁿ ◌p						3	
+ⁿpʲ	pre-nasalized palatalized voiceless bilabial stop consonant	+	+	mpʲ	◌ⁿ ◌p ◌ʲ						1	
+ⁿpʷ	pre-nasalized labialized voiceless bilabial stop consonant	+	+	mpʷ	◌ⁿ ◌p ◌ʷ						1	
+mˀ	glottalized voiced bilabial nasal consonant	+	+	mʔ	◌m ◌ˀ						1	
+mʱ	breathy voiced bilabial nasal consonant		+	mʱ	◌m ◌ʱ						2	
+mʲ	palatalized voiced bilabial nasal consonant		+	mʲ	◌m ◌ʲ						5	
+mʷ	labialized voiced bilabial nasal consonant		+	mʷ	◌m ◌ʷ						4	
+mʷː	labialized long voiced bilabial nasal consonant		+	mʷː	◌m ◌ʷ ◌ː						1	
+mː	long voiced bilabial nasal consonant		+	mː	◌m ◌ː						18	
+mˠ	velarized voiced bilabial nasal consonant		+	mˠ	◌m ◌ˠ						1	
+mˤ	pharyngealized voiced bilabial nasal consonant	+	+	mˤ	◌m ◌ˤ						1	
+m̥	devoiced voiced bilabial nasal consonant		+	m̥	◌m ◌̥						5	
+m̩	syllabic voiced bilabial nasal consonant		+	m̩	◌m ◌̩						1	
+n̼	voiced linguolabial nasal consonant		+	m̼	◌n ◌̼						1	
+n	voiced alveolar nasal consonant		+	n	◌n						159	
+nː	long voiced alveolar nasal consonant		+	n:	◌n ◌ː						1	
+ⁿd	pre-nasalized voiced alveolar stop consonant		+	nd	◌ⁿ ◌d						10	
+ⁿdz	pre-nasalized voiced alveolar sibilant affricate consonant	+	+	ndz	◌ⁿ ◌d ◌z						1	
+ⁿɖʐ	pre-nasalized voiced retroflex sibilant affricate consonant	+	+	ndʐ	◌ⁿ ◌ɖ ◌ʐ						1	
+ⁿdʑ	pre-nasalized voiced alveolo-palatal sibilant affricate consonant	+	+	ndʑ	◌ⁿ ◌d ◌ʑ						1	
+ⁿdʒ	pre-nasalized voiced post-alveolar affricate consonant		+	ndʒ	◌ⁿ ◌d ◌ʒ						2	
+ⁿdʲ	pre-nasalized palatalized voiced alveolar stop consonant	+	+	ndʲ	◌ⁿ ◌d ◌ʲ						1	
+ⁿdʷ	pre-nasalized labialized voiced alveolar stop consonant	+	+	ndʷ	◌ⁿ ◌d ◌ʷ						1	
+ⁿg	pre-nasalized voiced velar stop consonant		+	ng	◌ⁿ ◌g						1	
+nː	long voiced alveolar nasal consonant		+	nn	◌n ◌ː						1	
+ⁿs	pre-nasalized voiceless alveolar sibilant fricative consonant	+	+	ns	◌ⁿ ◌s						3	
+ⁿsʷ	pre-nasalized labialized voiceless alveolar sibilant fricative consonant	+	+	nsʷ	◌ⁿ ◌s ◌ʷ						1	
+ⁿt	pre-nasalized voiceless alveolar stop consonant		+	nt	◌ⁿ ◌t						3	
+ⁿtʃ	pre-nasalized voiceless post-alveolar sibilant affricate consonant		+	ntʃ	◌ⁿ ◌t ◌ʃ						1	
+ⁿtʲ	pre-nasalized palatalized voiceless alveolar stop consonant	+	+	ntʲ	◌ⁿ ◌t ◌ʲ						1	
+ⁿtʷ	pre-nasalized labialized voiceless alveolar stop consonant	+	+	ntʷ	◌ⁿ ◌t ◌ʷ						1	
+ⁿz	pre-nasalized voiced alveolar sibilant fricative consonant	+	+	nz	◌ⁿ ◌z						1	
+ⁿzʷ	pre-nasalized labialized voiced alveolar sibilant fricative consonant	+	+	nzʷ	◌ⁿ ◌z ◌ʷ						1	
+ⁿʃ	pre-nasalized voiceless post-alveolar sibilant fricative consonant	+	+	nʃ	◌ⁿ ◌ʃ						1	
+nˀ	glottalized voiced alveolar nasal consonant	+	+	nʔ	◌n ◌ˀ						1	
+nʱ	breathy voiced alveolar nasal consonant	+	+	nʱ	◌n ◌ʱ						2	
+nʲ	palatalized voiced alveolar nasal consonant		+	nʲ	◌n ◌ʲ						8	
+nʲʷ	palatalized labialized voiced alveolar nasal consonant	+	+	nʲʷ	◌n ◌ʲ ◌ʷ						1	
+nʷ	labialized voiced alveolar nasal consonant	+	+	nʷ	◌n ◌ʷ						2	
+nː	long voiced alveolar nasal consonant		+	nː	◌n ◌ː						20	
+nˤ	pharyngealized voiced alveolar nasal consonant		+	nˤ	◌n ◌ˤ						2	
+n	voiced alveolar nasal consonant		+	n̘	◌n						1	
+n̥	devoiced voiced alveolar nasal consonant		+	n̥	◌n ◌̥						5	
+n̪	voiced dental nasal consonant		+	n̪	◌n ◌̪						6	
+ⁿd̪	pre-nasalized voiced dental stop consonant		+	n̪d̪	◌ⁿ ◌d ◌̪						1	
+ⁿd̪ʲ	pre-nasalized palatalized voiced dental stop consonant	+	+	n̪d̪ʲ	◌ⁿ ◌d ◌̪ ◌ʲ						1	
+ⁿd̪ʷ	pre-nasalized labialized voiced dental stop consonant	+	+	n̪d̪ʷ	◌ⁿ ◌d ◌̪ ◌ʷ						1	
+ⁿt̪	pre-nasalized voiceless dental stop consonant		+	n̪t̪	◌ⁿ ◌t ◌̪						1	
+n̪ʲ	palatalized voiced dental nasal consonant	+	+	n̪ʲ	◌n ◌̪ ◌ʲ						1	
+n̪ʷ	labialized voiced dental nasal consonant	+	+	n̪ʷ	◌n ◌̪ ◌ʷ						1	
+n̪ː	long voiced dental nasal consonant	+	+	n̪ː	◌n ◌̪ ◌ː						1	
+n̪ˠ	velarized voiced dental nasal consonant		+	n̪ˠ	◌n ◌̪ ◌ˠ						1	
+n̩	syllabic voiced alveolar nasal consonant		+	n̹	◌n ◌̩						1	
+o	rounded close-mid back vowel		+	o	◌o						114	
+oa	from rounded close-mid back to unrounded open front diphthong	+	+	oa	◌o ◌a						1	
+oe	from rounded close-mid back to unrounded close-mid front diphthong	+	+	oe	◌o ◌e						3	
+oe̯	from rounded close-mid back to non-syllabic unrounded close-mid front diphthong	+	+	oe̯	◌o ◌e ◌̯						1	
+oi	from rounded close-mid back to unrounded close front diphthong	+	+	oi	◌o ◌i						6	
+oi̯	from rounded close-mid back to non-syllabic unrounded close front diphthong	+	+	oi̯	◌o ◌i ◌̯						3	
+oi̯	from rounded close-mid back to non-syllabic unrounded close front diphthong	+	+	oj	◌o ◌i ◌̯						3	
+o̯ː	long non-syllabic rounded close-mid back vowel	+	+	oo̯	◌o ◌̯ ◌ː						1	
+ou	from rounded close-mid back to rounded close back diphthong	+	+	ou	◌o ◌u						8	
+ou̯	from rounded close-mid back to non-syllabic rounded close back diphthong	+	+	ou̯	◌o ◌u ◌̯						2	
+ou̯	from rounded close-mid back to non-syllabic rounded close back diphthong	+	+	ow	◌o ◌u ◌̯						1	
+oɑ	from rounded close-mid back to unrounded open back diphthong	+	+	oɑ	◌o ◌ɑ						1	
+oɪ	from rounded close-mid back to unrounded near-close near-front diphthong	+	+	oɪ	◌o ◌ɪ						2	
+oʊ	from rounded close-mid back to rounded near-close near-back diphthong	+	+	oʊ	◌o ◌ʊ						1	
+oʊ̃	from rounded close-mid back to nasalized rounded near-close near-back diphthong	+	+	oʊ̃	◌o ◌ʊ ◌̃						2	
+oː	long rounded close-mid back vowel		+	oː	◌o ◌ː						50	
+oːɒ̯ˤ	from long rounded close-mid back to pharyngealized non-syllabic rounded open back diphthong	+	+	oːɒ̯ʔ	◌o ◌ː ◌ɒ ◌̯ ◌ˤ						1	
+oːə	from long rounded close-mid back to unrounded mid central diphthong	+	+	oːə	◌o ◌ː ◌ə						1	
+oːː	ultra-long rounded close-mid back vowel		+	oːː	◌o ◌ː ◌ː						1	
+oˤː	long pharyngealized rounded close-mid back vowel	+	+	oːˤ	◌o ◌ˤ ◌ː						1	
+oˑ	mid-long rounded close-mid back vowel		+	oˑ	◌o ◌ˑ						5	
+oˤ	pharyngealized rounded close-mid back vowel		+	oˤ	◌o ◌ˤ						2	
+oˤː	long pharyngealized rounded close-mid back vowel	+	+	oˤː	◌o ◌ˤ ◌ː						1	
+õ	nasalized rounded close-mid back vowel		+	õ	◌o ◌̃						12	
+õi	from nasalized rounded close-mid back to unrounded close front diphthong	+	+	õi	◌o ◌̃ ◌i						1	
+õː	long nasalized rounded close-mid back vowel		+	õː	◌o ◌̃ ◌ː						4	
+õˤ	pharyngealized nasalized rounded close-mid back vowel	+	+	õˤ	◌o ◌̃ ◌ˤ						1	
+õ̰	nasalized creaky rounded close-mid back vowel	+	+	õ̰	◌o ◌̰ ◌̃						1	
+ö	centralized rounded close-mid back vowel	+	+	ö	◌o ◌̈						1	
+o̙	retracted-tongue-root rounded close-mid back vowel	+	+	o̙	◌o ◌̙						1	
+o̝	raised rounded close-mid back vowel	+	+	o̝	◌o ◌̝						1	
+o̤	breathy rounded close-mid back vowel		+	o̤	◌o ◌̤						2	
+o̤ː	long breathy rounded close-mid back vowel	+	+	o̤ː	◌o ◌̤ ◌ː						1	
+o̤ˑ	mid-long breathy rounded close-mid back vowel	+	+	o̤ˑ	◌o ◌̤ ◌ˑ						1	
+o̰	creaky rounded close-mid back vowel		+	o̰	◌o ◌̰						3	
+p	voiceless bilabial stop consonant		+	p	◌p						149	
+pʼ	voiceless bilabial ejective stop consonant		+	p'	◌p ◌ʼ						2	
+pː	long voiceless bilabial stop consonant		+	p:	◌p ◌ː						2	
+pf	voiceless labio-dental affricate consonant		+	pf	◌p ◌f						3	
+pⁿ	with-nasal-release voiceless bilabial stop consonant	+	+	pm	◌p ◌ⁿ						1	
+pː	long voiceless bilabial stop consonant		+	pp	◌p ◌ː						1	
+pʰː	aspirated long voiceless bilabial stop consonant		+	ppʰ	◌p ◌ʰ ◌ː						1	
+pʰ	aspirated voiceless bilabial stop consonant		+	pʰ	◌p ◌ʰ						29	
+pʰː	aspirated long voiceless bilabial stop consonant		+	pʰː	◌p ◌ʰ ◌ː						3	
+pʲ	palatalized voiceless bilabial stop consonant		+	pʲ	◌p ◌ʲ						4	
+pʷ	labialized voiceless bilabial stop consonant		+	pʷ	◌p ◌ʷ						2	
+p’ʷ	labialized voiceless bilabial ejective stop consonant	+	+	pʷ’	◌p ◌’ ◌ʷ						1	
+pʼ	voiceless bilabial ejective stop consonant		+	pʼ	◌p ◌ʼ						2	
+pː	long voiceless bilabial stop consonant		+	pː	◌p ◌ː						9	
+pˠ	velarized voiceless bilabial stop consonant		+	pˠ	◌p ◌ˠ						1	
+t̼	voiceless linguolabial stop consonant		+	p̼	◌t ◌̼						1	
+p’ː	long voiceless bilabial ejective stop consonant	+	+	p’ː	◌p ◌’ ◌ː						1	
+q	voiceless uvular stop consonant		+	q	◌q						18	
+qʼ	voiceless uvular ejective stop consonant		+	q'	◌q ◌ʼ						1	
+qʰ	aspirated voiceless uvular stop consonant		+	qʰ	◌q ◌ʰ						4	
+qʷ	labialized voiceless uvular stop consonant		+	qʷ	◌q ◌ʷ						4	
+qʼʷ	labialized voiceless uvular ejective stop consonant		+	qʷ'	◌q ◌ʼ ◌ʷ						1	
+qʼ	voiceless uvular ejective stop consonant		+	qʼ	◌q ◌ʼ						1	
+qʼʷ	labialized voiceless uvular ejective stop consonant		+	qʼʷ	◌q ◌ʼ ◌ʷ						1	
+qː	long voiceless uvular stop consonant	+	+	qː	◌q ◌ː						1	
+qχ	voiceless uvular affricate consonant		+	qχ	◌q ◌χ						1	
+r	voiced alveolar trill consonant		+	r	◌r						77	
+rː	long voiced alveolar trill consonant		+	rr	◌r ◌ː						1	
+rʲ	palatalized voiced alveolar trill consonant		+	rʲ	◌r ◌ʲ						2	
+rː	long voiced alveolar trill consonant		+	rː	◌r ◌ː						7	
+rˤ	pharyngealized voiced alveolar trill consonant		+	rˤ	◌r ◌ˤ						1	
+rˤː	pharyngealized long voiced alveolar trill consonant		+	rˤː	◌r ◌ˤ ◌ː						1	
+r̝	raised voiced alveolar trill consonant	+	+	r̝	◌r ◌̝						3	
+s	voiceless alveolar sibilant fricative consonant		+	s	◌s						148	
+sː	long voiceless alveolar sibilant fricative consonant		+	s:	◌s ◌ː						1	
+sː	long voiceless alveolar sibilant fricative consonant		+	ss	◌s ◌ː						1	
+sʰ	aspirated voiceless alveolar sibilant fricative consonant	+	+	sʰ	◌s ◌ʰ						2	
+sʲ	palatalized voiceless alveolar sibilant fricative consonant		+	sʲ	◌s ◌ʲ						4	
+sʲː	palatalized long voiceless alveolar sibilant fricative consonant	+	+	sʲː	◌s ◌ʲ ◌ː						1	
+sʷ	labialized voiceless alveolar sibilant fricative consonant	+	+	sʷ	◌s ◌ʷ						1	
+sʷː	labialized long voiceless alveolar sibilant fricative consonant	+	+	sʷː	◌s ◌ʷ ◌ː						1	
+sʼ	voiceless alveolar ejective sibilant fricative consonant		+	sʼ	◌s ◌ʼ						1	
+sː	long voiceless alveolar sibilant fricative consonant		+	sː	◌s ◌ː						14	
+sˠ	velarized voiceless alveolar sibilant fricative consonant		+	sˠ	◌s ◌ˠ						2	
+sˤ	pharyngealized voiceless alveolar sibilant fricative consonant	+	+	sˤ	◌s ◌ˤ						2	
+sˤː	pharyngealized long voiceless alveolar sibilant fricative consonant	+	+	sˤː	◌s ◌ˤ ◌ː						1	
+s̪	voiceless dental sibilant fricative consonant		+	s̪	◌s ◌̪						2	
+s̺	voiceless apical alveolar sibilant fricative consonant	+	+	s̺	◌s ◌̺						2	
+s̻	voiceless laminal alveolar sibilant fricative consonant		+	s̻	◌s ◌̻						2	
+t	voiceless alveolar stop consonant		+	t	◌t						146	
+tʼ	voiceless alveolar ejective stop consonant		+	t'	◌t ◌ʼ						2	
+ts	voiceless alveolar sibilant affricate consonant		+	ts	◌t ◌s						51	
+tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	ts'	◌t ◌s ◌ʼ						2	
+tsː	long voiceless alveolar sibilant affricate consonant		+	tsts	◌t ◌s ◌ː						1	
+tsʰ	aspirated voiceless alveolar sibilant affricate consonant		+	tsʰ	◌t ◌s ◌ʰ						12	
+tsʰː	aspirated long voiceless alveolar sibilant affricate consonant	+	+	tsʰː	◌t ◌s ◌ʰ ◌ː						1	
+tsʲ	palatalized voiceless alveolar sibilant affricate consonant		+	tsʲ	◌t ◌s ◌ʲ						2	
+tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	tsʼ	◌t ◌s ◌ʼ						2	
+tsː	long voiceless alveolar sibilant affricate consonant		+	tsː	◌t ◌s ◌ː						2	
+ts̺	voiceless apical alveolar sibilant affricate consonant	+	+	ts̺	◌t ◌s ◌̺						1	
+ts̻	voiceless laminal alveolar sibilant affricate consonant	+	+	ts̻	◌t ◌s ◌̻						1	
+tː	long voiceless alveolar stop consonant		+	tt	◌t ◌ː						1	
+tʰː	aspirated long voiceless alveolar stop consonant	+	+	ttʰ	◌t ◌ʰ ◌ː						1	
+cç	voiceless palatal affricate consonant		+	tç	◌c ◌c ◌̧						2	
+tɕ	voiceless alveolo-palatal sibilant affricate consonant		+	tɕ	◌t ◌ɕ						17	
+tɕʰ	aspirated voiceless alveolo-palatal sibilant affricate consonant		+	tɕʰ	◌t ◌ɕ ◌ʰ						10	
+tɬ	voiceless alveolar lateral affricate consonant		+	tɬ	◌t ◌ɬ						5	
+tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬ'	◌t ◌ɬ ◌ʼ						2	
+tɬʰ	aspirated voiceless alveolar lateral affricate consonant		+	tɬʰ	◌t ◌ɬ ◌ʰ						2	
+tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬʼ	◌t ◌ɬ ◌ʼ						1	
+ʈʂ	voiceless retroflex sibilant affricate consonant		+	tʂ	◌ʈ ◌ʂ						5	
+ʈʂʰ	aspirated voiceless retroflex sibilant affricate consonant		+	tʂʰ	◌ʈ ◌ʂ ◌ʰ						3	
+tʃ	voiceless post-alveolar sibilant affricate consonant		+	tʃ	◌t ◌ʃ						91	
+tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	tʃ'	◌t ◌ʃ ◌ʼ						2	
+tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tʃtʃ	◌t ◌ʃ ◌ː						1	
+tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant		+	tʃtʃʰ	◌t ◌ʃ ◌ʰ						1	
+tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant		+	tʃʰ	◌t ◌ʃ ◌ʰ						11	
+tʃʰː	aspirated long voiceless post-alveolar sibilant affricate consonant	+	+	tʃʰː	◌t ◌ʃ ◌ʰ ◌ː						1	
+tʃʲ	palatalized voiceless post-alveolar sibilant affricate consonant		+	tʃʲ	◌t ◌ʃ ◌ʲ						2	
+tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼ	◌t ◌ʃ ◌ʼ						1	
+tʃʼː	long voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼː	◌t ◌ʃ ◌ʼ ◌ː						1	
+tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tʃː	◌t ◌ʃ ◌ː						6	
+tʃ̺	voiceless apical post-alveolar sibilant affricate consonant	+	+	tʃ̺	◌t ◌ʃ ◌̺						1	
+tʃ̺ʰ	aspirated voiceless apical post-alveolar sibilant affricate consonant	+	+	tʃ̺ʰ	◌t ◌ʃ ◌̺ ◌ʰ						1	
+tʰ	aspirated voiceless alveolar stop consonant		+	tʰ	◌t ◌ʰ						29	
+tʰː	aspirated long voiceless alveolar stop consonant	+	+	tʰː	◌t ◌ʰ ◌ː						2	
+tʲ	palatalized voiceless alveolar stop consonant		+	tʲ	◌t ◌ʲ						8	
+tⁿʲ	palatalized with-nasal-release voiceless alveolar stop consonant	+	+	tʲnʲ	◌t ◌ⁿ ◌ʲ						1	
+tʲʷ	palatalized labialized voiceless alveolar stop consonant	+	+	tʲʷ	◌t ◌ʲ ◌ʷ						1	
+tʲː	palatalized long voiceless alveolar stop consonant	+	+	tʲː	◌t ◌ʲ ◌ː						1	
+tʷ	labialized voiceless alveolar stop consonant		+	tʷ	◌t ◌ʷ						2	
+t’ʷ	labialized voiceless alveolar ejective stop consonant	+	+	tʷ’	◌t ◌’ ◌ʷ						1	
+tʼ	voiceless alveolar ejective stop consonant		+	tʼ	◌t ◌ʼ						2	
+tː	long voiceless alveolar stop consonant		+	tː	◌t ◌ː						14	
+tɕː	long voiceless alveolo-palatal sibilant affricate consonant		+	tːɕ	◌t ◌ɕ ◌ː						1	
+tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tːʃ	◌t ◌ʃ ◌ː						2	
+tˠ	velarized voiceless alveolar stop consonant	+	+	tˠ	◌t ◌ˠ						1	
+tˤ	pharyngealized voiceless alveolar stop consonant		+	tˤ	◌t ◌ˤ						2	
+tˤː	pharyngealized long voiceless alveolar stop consonant	+	+	tˤː	◌t ◌ˤ ◌ː						1	
+tɕ	voiceless alveolo-palatal sibilant affricate consonant		+	t̠ɕ	◌t ◌ɕ						2	
+tɕʰ	aspirated voiceless alveolo-palatal sibilant affricate consonant		+	t̠ɕʰ	◌t ◌ɕ ◌ʰ						2	
+tɕʰː	aspirated long voiceless alveolo-palatal sibilant affricate consonant	+	+	t̠ɕʰː	◌t ◌ɕ ◌ʰ ◌ː						1	
+tɕː	long voiceless alveolo-palatal sibilant affricate consonant		+	t̠ɕː	◌t ◌ɕ ◌ː						2	
+t̪	voiceless dental stop consonant		+	t̪	◌t ◌̪						18	
+t̪ː	long voiceless dental stop consonant		+	t̪:	◌t ◌̪ ◌ː						1	
+ts̪	voiceless dental sibilant affricate consonant		+	t̪s̪	◌t ◌s ◌̪						1	
+ts̪ʰ	aspirated voiceless dental sibilant affricate consonant		+	t̪s̪ʰ	◌t ◌s ◌̪ ◌ʰ						1	
+t̪ʰ	aspirated voiceless dental stop consonant		+	t̪ʰ	◌t ◌̪ ◌ʰ						3	
+t̪ʰː	aspirated long voiceless dental stop consonant		+	t̪ʰː	◌t ◌̪ ◌ʰ ◌ː						2	
+t̪ʷ	labialized voiceless dental stop consonant		+	t̪ʷ	◌t ◌̪ ◌ʷ						2	
+t̪ː	long voiceless dental stop consonant		+	t̪ː	◌t ◌̪ ◌ː						3	
+t̪ˠ	velarized voiceless dental stop consonant		+	t̪ˠ	◌t ◌̪ ◌ˠ						1	
+ts̻	voiceless laminal alveolar sibilant affricate consonant	+	+	t̻s̻	◌t ◌s ◌̻						1	
+ts̻ʰ	aspirated voiceless laminal alveolar sibilant affricate consonant	+	+	t̻s̻ʰ	◌t ◌s ◌̻ ◌ʰ						1	
+ts	voiceless alveolar sibilant affricate consonant		+	t͜s	◌t ◌s						1	
+t’ː	long voiceless alveolar ejective stop consonant	+	+	t’ː	◌t ◌’ ◌ː						1	
+u	rounded close back vowel		+	u	◌u						138	
+ua	from rounded close back to unrounded open front diphthong	+	+	ua	◌u ◌a						5	
+ue	from rounded close back to unrounded close-mid front diphthong	+	+	ue	◌u ◌e						1	
+ui	from rounded close back to unrounded close front diphthong	+	+	ui	◌u ◌i						7	
+ui̯	from rounded close back to non-syllabic unrounded close front diphthong	+	+	ui̯	◌u ◌i ◌̯						1	
+ui̯	from rounded close back to non-syllabic unrounded close front diphthong	+	+	uj	◌u ◌i ◌̯						2	
+uo	from rounded close back to rounded close-mid back diphthong	+	+	uo	◌u ◌o						2	
+u̯ː	long non-syllabic rounded close back vowel	+	+	uw	◌u ◌̯ ◌ː						1	
+uɐ	from rounded close back to unrounded near-open central diphthong	+	+	uɐ	◌u ◌ɐ						1	
+uɑ	from rounded close back to unrounded open back diphthong	+	+	uɑ	◌u ◌ɑ						1	
+uə	from rounded close back to unrounded mid central diphthong	+	+	uə	◌u ◌ə						4	
+uə̯	from rounded close back to non-syllabic unrounded mid central diphthong	+	+	uə̯	◌u ◌ə ◌̯						1	
+uɪ	from rounded close back to unrounded near-close near-front diphthong	+	+	uɪ	◌u ◌ɪ						3	
+uː	long rounded close back vowel		+	uː	◌u ◌ː						53	
+uːi	from long rounded close back to unrounded close front diphthong	+	+	uːi	◌u ◌ː ◌i						1	
+uːə	from long rounded close back to unrounded mid central diphthong	+	+	uːə	◌u ◌ː ◌ə						1	
+uːː	ultra-long rounded close back vowel		+	uːː	◌u ◌ː ◌ː						1	
+uˑ	mid-long rounded close back vowel		+	uˑ	◌u ◌ˑ						2	
+uˤ	pharyngealized rounded close back vowel	+	+	uˤ	◌u ◌ˤ						2	
+ũ	nasalized rounded close back vowel		+	ũ	◌u ◌̃						15	
+ũi	from nasalized rounded close back to unrounded close front diphthong	+	+	ũi	◌u ◌̃ ◌i						1	
+ũː	long nasalized rounded close back vowel		+	ũː	◌u ◌̃ ◌ː						2	
+ũˤ	pharyngealized nasalized rounded close back vowel	+	+	ũˤ	◌u ◌̃ ◌ˤ						1	
+ṵ̃	nasalized creaky rounded close back vowel	+	+	ṵ̃	◌u ◌̰ ◌̃						1	
+u̙	retracted-tongue-root rounded close back vowel	+	+	u̙	◌u ◌̙						1	
+u̞	lowered rounded close back vowel	+	+	u̞	◌u ◌̞						1	
+u̞ː	long lowered rounded close back vowel	+	+	u̞ː	◌u ◌̞ ◌ː						1	
+u̠	retracted rounded close back vowel	+	+	u̠	◌u ◌̠						1	
+ṳ	breathy rounded close back vowel		+	ṳ	◌u ◌̤						2	
+ṳː	long breathy rounded close back vowel	+	+	ṳː	◌u ◌̤ ◌ː						1	
+ṳˑ	mid-long breathy rounded close back vowel	+	+	ṳˑ	◌u ◌̤ ◌ˑ						1	
+ṵ	creaky rounded close back vowel		+	ṵ	◌u ◌̰						3	
+v	voiced labio-dental fricative consonant		+	v	◌v						72	
+vʲ	palatalized voiced labio-dental fricative consonant		+	vʲ	◌v ◌ʲ						3	
+vʷ	labialized voiced labio-dental fricative consonant	+	+	vʷ	◌v ◌ʷ						1	
+vː	long voiced labio-dental fricative consonant		+	vː	◌v ◌ː						2	
+v̥	devoiced voiced labio-dental fricative consonant		+	v̥	◌v ◌̥						1	
+v̩	syllabic voiced labio-dental fricative consonant		+	v̩	◌v ◌̩						1	
+w	voiced labio-velar approximant consonant		+	w	◌w						101	
+u̯a	from non-syllabic rounded close back to unrounded open front diphthong	+	+	wa	◌u ◌̯ ◌a						3	
+u̯e	from non-syllabic rounded close back to unrounded close-mid front diphthong	+	+	we	◌u ◌̯ ◌e						3	
+u̯i	from non-syllabic rounded close back to unrounded close front diphthong	+	+	wi	◌u ◌̯ ◌i						3	
+u̯o	from non-syllabic rounded close back to rounded close-mid back diphthong	+	+	wo	◌u ◌̯ ◌o						2	
+u̯ɛ	from non-syllabic rounded close back to unrounded open-mid front diphthong	+	+	wɛ	◌u ◌̯ ◌ɛ						1	
+u̯ʌ	from non-syllabic rounded close back to unrounded open-mid back diphthong	+	+	wʌ	◌u ◌̯ ◌ʌ						1	
+wˀ	glottalized voiced labio-velar approximant consonant	+	+	wʔ	◌w ◌ˀ						1	
+wʲ	palatalized voiced labio-velar approximant consonant	+	+	wʲ	◌w ◌ʲ						1	
+wː	long voiced labio-velar approximant consonant		+	wː	◌w ◌ː						7	
+w̃	nasalized voiced labio-velar approximant consonant		+	w̃	◌w ◌̃						2	
+ⱱ̟	advanced voiced labio-dental tap consonant	+	+	w̆	◌ⱱ ◌̟						1	
+x	voiceless velar fricative consonant		+	x	◌x						63	
+xʲ	palatalized voiceless velar fricative consonant		+	xʲ	◌x ◌ʲ						2	
+xʷ	labialized voiceless velar fricative consonant		+	xʷ	◌x ◌ʷ						7	
+y	rounded close front vowel		+	y	◌y						25	
+ya	from rounded close front to unrounded open front diphthong	+	+	ya	◌y ◌a						1	
+ye	from rounded close front to unrounded close-mid front diphthong	+	+	ye	◌y ◌e						2	
+yi	from rounded close front to unrounded close front diphthong	+	+	yi	◌y ◌i						1	
+yo	from rounded close front to rounded close-mid back diphthong	+	+	yo	◌y ◌o						1	
+yɑ	from rounded close front to unrounded open back diphthong	+	+	yɑ	◌y ◌ɑ						1	
+yə	from rounded close front to unrounded mid central diphthong	+	+	yə	◌y ◌ə						1	
+yə̯	from rounded close front to non-syllabic unrounded mid central diphthong	+	+	yə̯	◌y ◌ə ◌̯						1	
+yː	long rounded close front vowel		+	yː	◌y ◌ː						14	
+yːə	from long rounded close front to unrounded mid central diphthong	+	+	yːə	◌y ◌ː ◌ə						1	
+yːː	ultra-long rounded close front vowel		+	yːː	◌y ◌ː ◌ː						1	
+yˑ	mid-long rounded close front vowel		+	yˑ	◌y ◌ˑ						1	
+ỹ	nasalized rounded close front vowel		+	ỹ	◌y ◌̃						1	
+z	voiced alveolar sibilant fricative consonant		+	z	◌z						96	
+zʲ	palatalized voiced alveolar sibilant fricative consonant		+	zʲ	◌z ◌ʲ						3	
+zʷ	labialized voiced alveolar sibilant fricative consonant	+	+	zʷ	◌z ◌ʷ						1	
+zː	long voiced alveolar sibilant fricative consonant	+	+	zː	◌z ◌ː						6	
+zˠ	velarized voiced alveolar sibilant fricative consonant	+	+	zˠ	◌z ◌ˠ						1	
+zˤ	pharyngealized voiced alveolar sibilant fricative consonant	+	+	zˤ	◌z ◌ˤ						1	
+zˤː	pharyngealized long voiced alveolar sibilant fricative consonant	+	+	zˤː	◌z ◌ˤ ◌ː						1	
+z̠	retracted voiced alveolar sibilant fricative consonant	+	+	z̠	◌z ◌̠						1	
+z̥	devoiced voiced alveolar sibilant fricative consonant		+	z̥	◌z ◌̥						1	
+z̩	syllabic voiced alveolar sibilant fricative consonant		+	z̩	◌z ◌̩						2	
+z̪	voiced dental sibilant fricative consonant		+	z̪	◌z ◌̪						1	
+æ	unrounded near-open front vowel		+	æ	◌æ						18	
+æe	from unrounded near-open front to unrounded close-mid front diphthong	+	+	æe	◌æ ◌e						2	
+æi	from unrounded near-open front to unrounded close front diphthong	+	+	æi	◌æ ◌i						2	
+æi̯	from unrounded near-open front to non-syllabic unrounded close front diphthong	+	+	æi̯	◌æ ◌i ◌̯						1	
+æo	from unrounded near-open front to rounded close-mid back diphthong	+	+	æo	◌æ ◌o						2	
+æu	from unrounded near-open front to rounded close back diphthong	+	+	æu	◌æ ◌u						2	
+æu̯	from unrounded near-open front to non-syllabic rounded close back diphthong	+	+	æu̯	◌æ ◌u ◌̯						1	
+æɔ	from unrounded near-open front to rounded open-mid back diphthong	+	+	æɔ	◌æ ◌ɔ						1	
+æɪ	from unrounded near-open front to unrounded near-close near-front diphthong	+	+	æɪ	◌æ ◌ɪ						1	
+æː	long unrounded near-open front vowel		+	æː	◌æ ◌ː						5	
+æːɪ	from long unrounded near-open front to unrounded near-close near-front diphthong	+	+	æːɪ	◌æ ◌ː ◌ɪ						1	
+æːʊ	from long unrounded near-open front to rounded near-close near-back diphthong	+	+	æːʊ	◌æ ◌ː ◌ʊ						1	
+æːː	ultra-long unrounded near-open front vowel		+	æːː	◌æ ◌ː ◌ː						1	
+æˤː	long pharyngealized unrounded near-open front vowel	+	+	æːˤ	◌æ ◌ˤ ◌ː						1	
+æˑ	mid-long unrounded near-open front vowel		+	æˑ	◌æ ◌ˑ						1	
+æ̃ː	long nasalized unrounded near-open front vowel		+	æ̃ː	◌æ ◌̃ ◌ː						1	
+ç	voiceless palatal sibilant fricative consonant		+	ç	◌c ◌̧						7	
+ð	voiced dental fricative consonant		+	ð	◌ð						11	
+ðˤ	pharyngealized voiced dental fricative consonant	+	+	ðˤ	◌ð ◌ˤ						2	
+ɹ̪	voiced dental approximant consonant		+	ð̞	◌ɹ ◌̪						1	
+ø	rounded close-mid front vowel		+	ø	◌ø						13	
+øe	from rounded close-mid front to unrounded close-mid front diphthong	+	+	øe	◌ø ◌e						1	
+øi	from rounded close-mid front to unrounded close front diphthong	+	+	øi	◌ø ◌i						1	
+øy	from rounded close-mid front to rounded close front diphthong	+	+	øy	◌ø ◌y						2	
+øɑ	from rounded close-mid front to unrounded open back diphthong	+	+	øɑ	◌ø ◌ɑ						1	
+øɪ	from rounded close-mid front to unrounded near-close near-front diphthong	+	+	øɪ	◌ø ◌ɪ						1	
+øː	long rounded close-mid front vowel		+	øː	◌ø ◌ː						14	
+øːː	ultra-long rounded close-mid front vowel		+	øːː	◌ø ◌ː ◌ː						1	
+øˑ	mid-long rounded close-mid front vowel		+	øˑ	◌ø ◌ˑ						1	
+ħ	voiceless pharyngeal fricative consonant		+	ħ	◌ħ						4	
+ŋ	voiced velar nasal consonant		+	ŋ	◌ŋ						89	
+ŋː	long voiced velar nasal consonant		+	ŋ:	◌ŋ ◌ː						1	
+ⁿg	pre-nasalized voiced velar stop consonant		+	ŋg	◌ⁿ ◌g						10	
+ⁿgb	from pre-nasalized voiced velar stop to voiced bilabial stop cluster	+	+	ŋgb	◌ⁿ ◌g ◌b						1	
+ⁿgʷ	pre-nasalized labialized voiced velar stop consonant	+	+	ŋgʷ	◌ⁿ ◌g ◌ʷ						4	
+ⁿk	pre-nasalized voiceless velar stop consonant		+	ŋk	◌ⁿ ◌k						3	
+ⁿkʷ	pre-nasalized labialized voiceless velar stop consonant		+	ŋkʷ	◌ⁿ ◌k ◌ʷ						1	
+ŋʲ	palatalized voiced velar nasal consonant	+	+	ŋʲ	◌ŋ ◌ʲ						1	
+ŋʷ	labialized voiced velar nasal consonant		+	ŋʷ	◌ŋ ◌ʷ						5	
+ŋː	long voiced velar nasal consonant		+	ŋː	◌ŋ ◌ː						9	
+ŋˤ	pharyngealized voiced velar nasal consonant	+	+	ŋˤ	◌ŋ ◌ˤ						1	
+ŋ̊	devoiced voiced velar nasal consonant		+	ŋ̊	◌ŋ ◌̊						2	
+ŋ̊	devoiced voiced velar nasal consonant		+	ŋ̥	◌ŋ ◌̊						1	
+œ	rounded open-mid front vowel		+	œ	◌œ						16	
+œy	from rounded open-mid front to rounded close front diphthong	+	+	œy	◌œ ◌y						4	
+œyː	from rounded open-mid front to long rounded close front diphthong	+	+	œyː	◌œ ◌y ◌ː						1	
+œʏ	from rounded open-mid front to rounded near-close near-front diphthong	+	+	œʏ	◌œ ◌ʏ						1	
+œː	long rounded open-mid front vowel		+	œː	◌œ ◌ː						9	
+œ̃ː	long nasalized rounded open-mid front vowel		+	œ̃ː	◌œ ◌̃ ◌ː						1	
+œ̞	lowered rounded open-mid front vowel	+	+	œ̞	◌œ ◌̞						1	
+ǀ	voiceless dental click consonant		+	ǀ	◌ǀ						1	
+ǀʰ	aspirated voiceless dental click consonant	+	+	ǀʰ	◌ǀ ◌ʰ						1	
+ǀ’	voiceless dental ejective click consonant	+	+	ǀ’	◌ǀ ◌’						1	
+ǁ	voiceless lateral click consonant		+	ǁ	◌ǁ						1	
+ǁʰ	aspirated voiceless lateral click consonant	+	+	ǁʰ	◌ǁ ◌ʰ						1	
+ǃ	voiceless alveolar click consonant		+	ǃ	◌ǃ						1	
+ǃʰ	aspirated voiceless alveolar click consonant	+	+	ǃʰ	◌ǃ ◌ʰ						1	
+ǃ’	voiceless alveolar ejective click consonant	+	+	ǃ’	◌ǃ ◌’						1	
+ȵ	voiced alveolo-palatal nasal consonant		+	ȵ	◌ȵ						1	
+ɐ	unrounded near-open central vowel		+	ɐ	◌ɐ						17	
+ɐi	from unrounded near-open central to unrounded close front diphthong	+	+	ɐi	◌ɐ ◌i						4	
+ɐu	from unrounded near-open central to rounded close back diphthong	+	+	ɐu	◌ɐ ◌u						3	
+ɐʉ	from unrounded near-open central to rounded close central diphthong	+	+	ɐʉ	◌ɐ ◌ʉ						1	
+ɐː	long unrounded near-open central vowel		+	ɐː	◌ɐ ◌ː						3	
+ɐ̃	nasalized unrounded near-open central vowel		+	ɐ̃	◌ɐ ◌̃						4	
+ɐ̃i	from nasalized unrounded near-open central to unrounded close front diphthong	+	+	ɐ̃i	◌ɐ ◌̃ ◌i						1	
+ɐ̃u	from nasalized unrounded near-open central to rounded close back diphthong	+	+	ɐ̃u	◌ɐ ◌̃ ◌u						1	
+ɐ̝	raised unrounded near-open central vowel	+	+	ɐ̝	◌ɐ ◌̝						1	
+ɐ̟	advanced unrounded near-open central vowel	+	+	ɐ̟	◌ɐ ◌̟						1	
+ɐ̰	creaky unrounded near-open central vowel	+	+	ɐ̰	◌ɐ ◌̰						1	
+ɑ	unrounded open back vowel		+	ɑ	◌ɑ						24	
+ɑe	from unrounded open back to unrounded close-mid front diphthong	+	+	ɑe	◌ɑ ◌e						3	
+ɑi	from unrounded open back to unrounded close front diphthong	+	+	ɑi	◌ɑ ◌i						1	
+ɑo	from unrounded open back to rounded close-mid back diphthong	+	+	ɑo	◌ɑ ◌o						1	
+ɑu	from unrounded open back to rounded close back diphthong	+	+	ɑu	◌ɑ ◌u						1	
+ɑuː	from unrounded open back to long rounded close back diphthong	+	+	ɑuː	◌ɑ ◌u ◌ː						1	
+ɑɔ̯	from unrounded open back to non-syllabic rounded open-mid back diphthong	+	+	ɑɔ̯	◌ɑ ◌ɔ ◌̯						1	
+ɑɪ	from unrounded open back to unrounded near-close near-front diphthong	+	+	ɑɪ	◌ɑ ◌ɪ						1	
+ɑɯ	from unrounded open back to unrounded close back diphthong	+	+	ɑɯ	◌ɑ ◌ɯ						1	
+ɑʊ	from unrounded open back to rounded near-close near-back diphthong	+	+	ɑʊ	◌ɑ ◌ʊ						1	
+ɑː	long unrounded open back vowel		+	ɑː	◌ɑ ◌ː						10	
+ɑː	long unrounded open back vowel		+	ɑːː	◌ɑ ◌ː						1	
+ɑˤː	long pharyngealized unrounded open back vowel	+	+	ɑːˤ	◌ɑ ◌ˤ ◌ː						1	
+ɑˑ	mid-long unrounded open back vowel	+	+	ɑˑ	◌ɑ ◌ˑ						1	
+ɑ̃	nasalized unrounded open back vowel		+	ɑ̃	◌ɑ ◌̃						5	
+ɑ̃ː	long nasalized unrounded open back vowel		+	ɑ̃ː	◌ɑ ◌̃ ◌ː						2	
+ɑ̰	creaky unrounded open back vowel	+	+	ɑ̰	◌ɑ ◌̰						1	
+ɒ	rounded open back vowel		+	ɒ	◌ɒ						8	
+ɒː	long rounded open back vowel		+	ɒː	◌ɒ ◌ː						3	
+ɓ	voiced bilabial implosive consonant		+	ɓ	◌ɓ						13	
+ɓʲ	palatalized voiced bilabial implosive consonant		+	ɓʲ	◌ɓ ◌ʲ						1	
+ɓː	long voiced bilabial implosive consonant	+	+	ɓː	◌ɓ ◌ː						1	
+ɔ	rounded open-mid back vowel		+	ɔ	◌ɔ						68	
+ɔe̯	from rounded open-mid back to non-syllabic unrounded close-mid front diphthong	+	+	ɔe̯	◌ɔ ◌e ◌̯						1	
+ɔi	from rounded open-mid back to unrounded close front diphthong	+	+	ɔi	◌ɔ ◌i						4	
+ɔo̯	from rounded open-mid back to non-syllabic rounded close-mid back diphthong	+	+	ɔo̯	◌ɔ ◌o ◌̯						1	
+ɔu	from rounded open-mid back to rounded close back diphthong	+	+	ɔu	◌ɔ ◌u						2	
+ɔuː	from rounded open-mid back to long rounded close back diphthong	+	+	ɔuː	◌ɔ ◌u ◌ː						1	
+ɔɛ̯	from rounded open-mid back to non-syllabic unrounded open-mid front diphthong	+	+	ɔɛ̯	◌ɔ ◌ɛ ◌̯						1	
+ɔɜ	from rounded open-mid back to unrounded open-mid central diphthong	+	+	ɔɜ	◌ɔ ◌ɜ						1	
+ɔɪ	from rounded open-mid back to unrounded near-close near-front diphthong	+	+	ɔɪ	◌ɔ ◌ɪ						5	
+ɔː	long rounded open-mid back vowel		+	ɔː	◌ɔ ◌ː						23	
+ɔːi	from long rounded open-mid back to unrounded close front diphthong	+	+	ɔːi	◌ɔ ◌ː ◌i						1	
+ɔːə	from long rounded open-mid back to unrounded mid central diphthong	+	+	ɔːə	◌ɔ ◌ː ◌ə						1	
+ɔˤː	long pharyngealized rounded open-mid back vowel	+	+	ɔːˤ	◌ɔ ◌ˤ ◌ː						1	
+ɔˑ	mid-long rounded open-mid back vowel	+	+	ɔˑ	◌ɔ ◌ˑ						2	
+ɔˤː	long pharyngealized rounded open-mid back vowel	+	+	ɔˤː	◌ɔ ◌ˤ ◌ː						1	
+ɔ̃	nasalized rounded open-mid back vowel		+	ɔ̃	◌ɔ ◌̃						10	
+ɔ̃ː	long nasalized rounded open-mid back vowel		+	ɔ̃ː	◌ɔ ◌̃ ◌ː						2	
+ɔ̤	breathy rounded open-mid back vowel	+	+	ɔ̤	◌ɔ ◌̤						2	
+ɔ̤ː	long breathy rounded open-mid back vowel	+	+	ɔ̤ː	◌ɔ ◌̤ ◌ː						1	
+ɔ̤ˑ	mid-long breathy rounded open-mid back vowel	+	+	ɔ̤ˑ	◌ɔ ◌̤ ◌ˑ						1	
+ɕ	voiceless alveolo-palatal sibilant fricative consonant		+	ɕ	◌ɕ						17	
+ɕː	long voiceless alveolo-palatal sibilant fricative consonant	+	+	ɕː	◌ɕ ◌ː						3	
+ɖ	voiced retroflex stop consonant		+	ɖ	◌ɖ						11	
+ɖː	long voiced retroflex stop consonant	+	+	ɖɖ	◌ɖ ◌ː						1	
+ɖʱː	long breathy voiced retroflex stop consonant	+	+	ɖɖʱ	◌ɖ ◌ʱ ◌ː						1	
+ɖʳ	with-trilled-release voiced retroflex stop consonant	+	+	ɖɽ	◌ɖ ◌ʳ						1	
+ɖʐ	voiced retroflex sibilant affricate consonant		+	ɖʐ	◌ɖ ◌ʐ						2	
+ɖʰ	aspirated voiced retroflex stop consonant	+	+	ɖʰ	◌ɖ ◌ʰ						1	
+ɖʱ	breathy voiced retroflex stop consonant		+	ɖʱ	◌ɖ ◌ʱ						5	
+ɖʱː	long breathy voiced retroflex stop consonant	+	+	ɖʱː	◌ɖ ◌ʱ ◌ː						1	
+ɖː	long voiced retroflex stop consonant	+	+	ɖː	◌ɖ ◌ː						3	
+ɖʱː	long breathy voiced retroflex stop consonant	+	+	ɖːʱ	◌ɖ ◌ʱ ◌ː						1	
+ɗ	voiced dental implosive consonant		+	ɗ	◌ɗ						12	
+ɗː	long voiced dental implosive consonant	+	+	ɗː	◌ɗ ◌ː						1	
+ɘ	unrounded close-mid central vowel		+	ɘ	◌ɘ						3	
+ɘ̃	nasalized unrounded close-mid central vowel		+	ɘ̃	◌ɘ ◌̃						1	
+ə	unrounded mid central vowel		+	ə	◌ə						47	
+əɪ	from unrounded mid central to unrounded near-close near-front diphthong	+	+	əɪ	◌ə ◌ɪ						1	
+əʉ	from unrounded mid central to rounded close central diphthong	+	+	əʉ	◌ə ◌ʉ						1	
+əʊ	from unrounded mid central to rounded near-close near-back diphthong	+	+	əʊ	◌ə ◌ʊ						4	
+ə̃	nasalized unrounded mid central vowel		+	ə̃	◌ə ◌̃						4	
+ə̤	breathy unrounded mid central vowel	+	+	ə̤	◌ə ◌̤						1	
+ə˞	rhotacized unrounded mid central vowel		+	ɚ	◌ə ◌˞						2	
+ɛ	unrounded open-mid front vowel		+	ɛ	◌ɛ						78	
+ɛe̯	from unrounded open-mid front to non-syllabic unrounded close-mid front diphthong	+	+	ɛe̯	◌ɛ ◌e ◌̯						1	
+ɛi	from unrounded open-mid front to unrounded close front diphthong	+	+	ɛi	◌ɛ ◌i						5	
+ɛiː	from unrounded open-mid front to long unrounded close front diphthong	+	+	ɛiː	◌ɛ ◌i ◌ː						1	
+ɛi̯	from unrounded open-mid front to non-syllabic unrounded close front diphthong	+	+	ɛj	◌ɛ ◌i ◌̯						1	
+ɛo̯	from unrounded open-mid front to non-syllabic rounded close-mid back diphthong	+	+	ɛo̯	◌ɛ ◌o ◌̯						1	
+ɛu	from unrounded open-mid front to rounded close back diphthong	+	+	ɛu	◌ɛ ◌u						4	
+ɛə	from unrounded open-mid front to unrounded mid central diphthong	+	+	ɛə	◌ɛ ◌ə						1	
+ɛɪ	from unrounded open-mid front to unrounded near-close near-front diphthong	+	+	ɛɪ	◌ɛ ◌ɪ						3	
+ɛː	long unrounded open-mid front vowel		+	ɛː	◌ɛ ◌ː						30	
+ɛːɒ̯ˤ	from long unrounded open-mid front to pharyngealized non-syllabic rounded open back diphthong	+	+	ɛːɒ̯ˤ;	◌ɛ ◌ː ◌ɒ ◌̯ ◌ˤ						1	
+ɛˑ	mid-long unrounded open-mid front vowel	+	+	ɛˑ	◌ɛ ◌ˑ						2	
+ɛˠ	velarized unrounded open-mid front vowel	+	+	ɛˠ	◌ɛ ◌ˠ						1	
+ɛˠː	long velarized unrounded open-mid front vowel	+	+	ɛˠː	◌ɛ ◌ˠ ◌ː						1	
+ɛ̃	nasalized unrounded open-mid front vowel		+	ɛ̃	◌ɛ ◌̃						11	
+ɛ̃ː	long nasalized unrounded open-mid front vowel		+	ɛ̃ː	◌ɛ ◌̃ ◌ː						2	
+ɛ̤	breathy unrounded open-mid front vowel	+	+	ɛ̤	◌ɛ ◌̤						2	
+ɛ̤ː	long breathy unrounded open-mid front vowel	+	+	ɛ̤ː	◌ɛ ◌̤ ◌ː						1	
+ɛ̤ˑ	mid-long breathy unrounded open-mid front vowel	+	+	ɛ̤ˑ	◌ɛ ◌̤ ◌ˑ						1	
+ɜ	unrounded open-mid central vowel		+	ɜ	◌ɜ						2	
+ɜɪ	from unrounded open-mid central to unrounded near-close near-front diphthong	+	+	ɜɪ	◌ɜ ◌ɪ						1	
+ɜː	long unrounded open-mid central vowel		+	ɜː	◌ɜ ◌ː						1	
+ɞ	rounded open-mid central vowel		+	ɞ	◌ɞ						1	
+ɞʊ	from rounded open-mid central to rounded near-close near-back diphthong	+	+	ɞʊ	◌ɞ ◌ʊ						1	
+ɞʏ̯	from rounded open-mid central to non-syllabic rounded near-close near-front diphthong	+	+	ɞʏ̯	◌ɞ ◌ʏ ◌̯						1	
+ɟ	voiced palatal stop consonant		+	ɟ	◌ɟ						21	
+ɟʝ	voiced palatal affricate consonant		+	ɟʝ	◌ɟ ◌ʝ						2	
+ɟʝː	long voiced palatal affricate consonant	+	+	ɟʝː	◌ɟ ◌ʝ ◌ː						1	
+ɟʱ	breathy voiced palatal stop consonant	+	+	ɟʱ	◌ɟ ◌ʱ						1	
+ɠ	voiced velar implosive consonant		+	ɠ	◌ɠ						3	
+ɠɓ	from voiced velar implosive to voiced bilabial implosive cluster	+	+	ɠɓ	◌ɠ ◌ɓ						1	
+ɢ	voiced uvular stop consonant		+	ɢ	◌ɢ						1	
+ɣ	voiced velar fricative consonant		+	ɣ	◌ɣ						36	
+ɣʷ	labialized voiced velar fricative consonant		+	ɣʷ	◌ɣ ◌ʷ						2	
+ɣ̊	devoiced voiced velar fricative consonant		+	ɣ̊	◌ɣ ◌̊						1	
+ɤ	unrounded close-mid back vowel		+	ɤ	◌ɤ						7	
+ɤe	from unrounded close-mid back to unrounded close-mid front diphthong	+	+	ɤe	◌ɤ ◌e						1	
+ɤi	from unrounded close-mid back to unrounded close front diphthong	+	+	ɤi	◌ɤ ◌i						1	
+ɤo	from unrounded close-mid back to rounded close-mid back diphthong	+	+	ɤo	◌ɤ ◌o						1	
+ɤu	from unrounded close-mid back to rounded close back diphthong	+	+	ɤu	◌ɤ ◌u						1	
+ɤɑ	from unrounded close-mid back to unrounded open back diphthong	+	+	ɤɑ	◌ɤ ◌ɑ						1	
+ɤː	long unrounded close-mid back vowel		+	ɤː	◌ɤ ◌ː						2	
+ɤː	long unrounded close-mid back vowel		+	ɤːː	◌ɤ ◌ː						1	
+ɤˑ	mid-long unrounded close-mid back vowel	+	+	ɤˑ	◌ɤ ◌ˑ						1	
+ɥ	voiced labio-palatal approximant consonant		+	ɥ	◌ɥ						2	
+ɦ	voiced glottal fricative consonant		+	ɦ	◌ɦ						17	
+ɧ	voiceless palatal-velar fricative consonant		+	ɧ	◌ɧ						1	
+ɨ	unrounded close central vowel		+	ɨ	◌ɨ						11	
+ɨː	long unrounded close central vowel		+	ɨː	◌ɨ ◌ː						2	
+ɨˤ	pharyngealized unrounded close central vowel	+	+	ɨˤ	◌ɨ ◌ˤ						1	
+ɨ̃	nasalized unrounded close central vowel		+	ɨ̃	◌ɨ ◌̃						1	
+ɨ̞	lowered unrounded close central vowel	+	+	ɨ̞	◌ɨ ◌̞						1	
+ɪ	unrounded near-close near-front vowel		+	ɪ	◌ɪ						41	
+ɪi	from unrounded near-close near-front to unrounded close front diphthong	+	+	ɪi	◌ɪ ◌i						1	
+ɪə	from unrounded near-close near-front to unrounded mid central diphthong	+	+	ɪə	◌ɪ ◌ə						3	
+ɪː	long unrounded near-close near-front vowel		+	ɪː	◌ɪ ◌ː						3	
+ɪːɒ̯ˤ	from long unrounded near-close near-front to pharyngealized non-syllabic rounded open back diphthong	+	+	ɪːɒ̯ˤ	◌ɪ ◌ː ◌ɒ ◌̯ ◌ˤ						1	
+ɪˑ	mid-long unrounded near-close near-front vowel	+	+	ɪˑ	◌ɪ ◌ˑ						1	
+ɪˠ	velarized unrounded near-close near-front vowel	+	+	ɪˠ	◌ɪ ◌ˠ						1	
+ɪ̃	nasalized unrounded near-close near-front vowel		+	ɪ̃	◌ɪ ◌̃						5	
+ɪ̯a	from non-syllabic unrounded near-close near-front to unrounded open front diphthong	+	+	ɪ̯a	◌ɪ ◌̯ ◌a						1	
+ɪ̯u̞	from non-syllabic unrounded near-close near-front to lowered rounded close back diphthong	+	+	ɪ̯u̞	◌ɪ ◌̯ ◌u ◌̞						1	
+ɪ̯ɛ	from non-syllabic unrounded near-close near-front to unrounded open-mid front diphthong	+	+	ɪ̯ɛ	◌ɪ ◌̯ ◌ɛ						1	
+ɪ̽	mid-centralized unrounded near-close near-front vowel	+	+	ɪ̽	◌ɪ ◌̽						1	
+lˠ	velarized voiced alveolar lateral approximant consonant		+	ɫ	◌l ◌ˠ						2	
+ɬ	voiceless alveolar lateral fricative consonant		+	ɬ	◌ɬ						15	
+ɬː	long voiceless alveolar lateral fricative consonant	+	+	ɬː	◌ɬ ◌ː						1	
+ɭ	voiced retroflex lateral approximant consonant		+	ɭ	◌ɭ						6	
+ɭː	long voiced retroflex lateral approximant consonant	+	+	ɭɭ	◌ɭ ◌ː						1	
+ɭʷ	labialized voiced retroflex lateral approximant consonant	+	+	ɭʷ	◌ɭ ◌ʷ						1	
+ɭː	long voiced retroflex lateral approximant consonant	+	+	ɭː	◌ɭ ◌ː						1	
+ɮ	voiced alveolar lateral fricative consonant		+	ɮ	◌ɮ						1	
+ɯ	unrounded close back vowel		+	ɯ	◌ɯ						14	
+ɯa	from unrounded close back to unrounded open front diphthong	+	+	ɯa	◌ɯ ◌a						1	
+ɯi	from unrounded close back to unrounded close front diphthong	+	+	ɯi	◌ɯ ◌i						1	
+ɯə	from unrounded close back to unrounded mid central diphthong	+	+	ɯə	◌ɯ ◌ə						1	
+ɯː	long unrounded close back vowel		+	ɯː	◌ɯ ◌ː						3	
+ɯ̃	nasalized unrounded close back vowel		+	ɯ̃	◌ɯ ◌̃						3	
+ɯ̤	breathy unrounded close back vowel		+	ɯ̤	◌ɯ ◌̤						1	
+ɰ	voiced velar approximant consonant		+	ɰ	◌ɰ						3	
+ⁿf	pre-nasalized voiceless labio-dental fricative consonant	+	+	ɱf	◌ⁿ ◌f						1	
+ⁿv	pre-nasalized voiced labio-dental fricative consonant	+	+	ɱv	◌ⁿ ◌v						1	
+ⁿvʷ	pre-nasalized labialized voiced labio-dental fricative consonant	+	+	ɱvʷ	◌ⁿ ◌v ◌ʷ						1	
+ɲ	voiced palatal nasal consonant		+	ɲ	◌ɲ						68	
+ⁿc	pre-nasalized voiceless palatal stop consonant	+	+	ɲc	◌ⁿ ◌c						1	
+ⁿdʒ	pre-nasalized voiced post-alveolar affricate consonant		+	ɲdʒ	◌ⁿ ◌d ◌ʒ						1	
+ⁿɟ	pre-nasalized voiced palatal stop consonant		+	ɲɟ	◌ⁿ ◌ɟ						1	
+ɲː	long voiced palatal nasal consonant		+	ɲː	◌ɲ ◌ː						6	
+ɲ̊	devoiced voiced palatal nasal consonant		+	ɲ̊	◌ɲ ◌̊						1	
+ɲ̊	devoiced voiced palatal nasal consonant		+	ɲ̥	◌ɲ ◌̊						2	
+ɳ	voiced retroflex nasal consonant		+	ɳ	◌ɳ						10	
+ɳʱ	breathy voiced retroflex nasal consonant	+	+	ɳʱ	◌ɳ ◌ʱ						1	
+ɳʷ	labialized voiced retroflex nasal consonant	+	+	ɳʷ	◌ɳ ◌ʷ						1	
+ɳː	long voiced retroflex nasal consonant	+	+	ɳː	◌ɳ ◌ː						1	
+ɴ	voiced uvular nasal consonant		+	ɴ	◌ɴ						1	
+ⁿgb	from pre-nasalized voiced velar stop to voiced bilabial stop cluster	+	+	ɴgb	◌ⁿ ◌g ◌b						1	
+ɵ	rounded close-mid central vowel		+	ɵ	◌ɵ						5	
+ɵy	from rounded close-mid central to rounded close front diphthong	+	+	ɵy	◌ɵ ◌y						1	
+ɵː	long rounded close-mid central vowel		+	ɵː	◌ɵ ◌ː						3	
+ɶ	rounded open front vowel		+	ɶ	◌ɶ						1	
+ɸ	voiceless bilabial fricative consonant		+	ɸ	◌ɸ						3	
+ɹ	voiced alveolar approximant consonant		+	ɹ	◌ɹ						15	
+ɹˀ	glottalized voiced alveolar approximant consonant	+	+	ɹʔ	◌ɹ ◌ˀ						1	
+ɹː	long voiced alveolar approximant consonant	+	+	ɹː	◌ɹ ◌ː						1	
+ɹ̩	syllabic voiced alveolar approximant consonant		+	ɹ̩	◌ɹ ◌̩						4	
+ɹ̺	voiced apical alveolar approximant consonant	+	+	ɹ̺	◌ɹ ◌̺						1	
+ɺ	voiced alveolar lateral tap consonant		+	ɺ	◌ɺ						1	
+ɺʲ	palatalized voiced alveolar lateral tap consonant	+	+	ɺʲ	◌ɺ ◌ʲ						1	
+ɺʷ	labialized voiced alveolar lateral tap consonant	+	+	ɺʷ	◌ɺ ◌ʷ						1	
+ɻ	voiced retroflex approximant consonant		+	ɻ	◌ɻ						7	
+ɻʷ	labialized voiced retroflex approximant consonant	+	+	ɻʷ	◌ɻ ◌ʷ						1	
+ɽ	voiced retroflex tap consonant		+	ɽ	◌ɽ						8	
+ɽʱ	breathy voiced retroflex tap consonant		+	ɽʱ	◌ɽ ◌ʱ						2	
+ɾ	voiced alveolar tap consonant		+	ɾ	◌ɾ						40	
+ɾʲ	palatalized voiced alveolar tap consonant	+	+	ɾʲ	◌ɾ ◌ʲ						1	
+ɾʷ	labialized voiced alveolar tap consonant	+	+	ɾʷ	◌ɾ ◌ʷ						1	
+ɾː	long voiced alveolar tap consonant	+	+	ɾː	◌ɾ ◌ː						1	
+ɾˠ	velarized voiced alveolar tap consonant	+	+	ɾˠ	◌ɾ ◌ˠ						1	
+ɾ̥	devoiced voiced alveolar tap consonant		+	ɾ̥	◌ɾ ◌̥						1	
+ʀ	voiced uvular trill consonant		+	ʀ	◌ʀ						6	
+ʀʲ	palatalized voiced uvular trill consonant	+	+	ʀʲ	◌ʀ ◌ʲ						1	
+ʁ	voiced uvular fricative consonant		+	ʁ	◌ʁ						14	
+ʁʷ	labialized voiced uvular fricative consonant	+	+	ʁʷ	◌ʁ ◌ʷ						1	
+ʁʷː	labialized long voiced uvular fricative consonant	+	+	ʁʷː	◌ʁ ◌ʷ ◌ː						1	
+ʁː	long voiced uvular fricative consonant	+	+	ʁː	◌ʁ ◌ː						1	
+ʁ̞	voiced uvular approximant consonant		+	ʁ̞	◌ʁ ◌̞						1	
+ʂ	voiceless retroflex sibilant fricative consonant		+	ʂ	◌ʂ						11	
+ʃ	voiceless post-alveolar sibilant fricative consonant		+	ʃ	◌ʃ						99	
+ʃʰ	aspirated voiceless post-alveolar sibilant fricative consonant	+	+	ʃʰ	◌ʃ ◌ʰ						1	
+ʃʲː	palatalized long voiceless post-alveolar sibilant fricative consonant	+	+	ʃʲː	◌ʃ ◌ʲ ◌ː						1	
+ʃː	long voiceless post-alveolar sibilant fricative consonant	+	+	ʃː	◌ʃ ◌ː						8	
+ʃˤ	pharyngealized voiceless post-alveolar sibilant fricative consonant	+	+	ʃˤ	◌ʃ ◌ˤ						1	
+ʃ̺	voiceless apical post-alveolar sibilant fricative consonant	+	+	ʃ̺	◌ʃ ◌̺						1	
+ʄ	voiced palatal implosive consonant		+	ʄ	◌ʄ						2	
+ʈ	voiceless retroflex stop consonant		+	ʈ	◌ʈ						13	
+ʈⁿ	with-nasal-release voiceless retroflex stop consonant	+	+	ʈɳ	◌ʈ ◌ⁿ						1	
+ʈⁿʷ	labialized with-nasal-release voiceless retroflex stop consonant	+	+	ʈɳʷ	◌ʈ ◌ⁿ ◌ʷ						1	
+ʈʳ	with-trilled-release voiceless retroflex stop consonant	+	+	ʈɽ	◌ʈ ◌ʳ						1	
+ʈʳʰ	aspirated with-trilled-release voiceless retroflex stop consonant	+	+	ʈɽʰ	◌ʈ ◌ʳ ◌ʰ						1	
+ʈʂ	voiceless retroflex sibilant affricate consonant		+	ʈʂ	◌ʈ ◌ʂ						5	
+ʈʂʰ	aspirated voiceless retroflex sibilant affricate consonant		+	ʈʂʰ	◌ʈ ◌ʂ ◌ʰ						1	
+ʈʂː	long voiceless retroflex sibilant affricate consonant	+	+	ʈʂː	◌ʈ ◌ʂ ◌ː						1	
+ʈː	long voiceless retroflex stop consonant	+	+	ʈʈ	◌ʈ ◌ː						1	
+ʈʰː	aspirated long voiceless retroflex stop consonant		+	ʈʈʰ	◌ʈ ◌ʰ ◌ː						1	
+ʈʰ	aspirated voiceless retroflex stop consonant		+	ʈʰ	◌ʈ ◌ʰ						6	
+ʈʲʰː	palatalized aspirated long voiceless retroflex stop consonant	+	+	ʈʰː	◌ʈ ◌ʲ ◌ʰ ◌ː						2	
+ʈʷ	labialized voiceless retroflex stop consonant	+	+	ʈʷ	◌ʈ ◌ʷ						1	
+ʈː	long voiceless retroflex stop consonant	+	+	ʈː	◌ʈ ◌ː						3	
+ʉ	rounded close central vowel		+	ʉ	◌ʉ						3	
+ʉə	from rounded close central to unrounded mid central diphthong	+	+	ʉə	◌ʉ ◌ə						1	
+ʉː	long rounded close central vowel		+	ʉː	◌ʉ ◌ː						4	
+ʉ̟	advanced rounded close central vowel	+	+	ʉ̟	◌ʉ ◌̟						1	
+ʊ	rounded near-close near-back vowel		+	ʊ	◌ʊ						34	
+ʊə	from rounded near-close near-back to unrounded mid central diphthong	+	+	ʊə	◌ʊ ◌ə						1	
+ʊː	long rounded near-close near-back vowel		+	ʊː	◌ʊ ◌ː						2	
+ʊːɒ̯ˤ	from long rounded near-close near-back to pharyngealized non-syllabic rounded open back diphthong	+	+	ʊːɒ̯ˤ	◌ʊ ◌ː ◌ɒ ◌̯ ◌ˤ						1	
+ʊˑ	mid-long rounded near-close near-back vowel	+	+	ʊˑ	◌ʊ ◌ˑ						1	
+ʊˤː	long pharyngealized rounded near-close near-back vowel	+	+	ʊˤː	◌ʊ ◌ˤ ◌ː						1	
+ʊ̃	nasalized rounded near-close near-back vowel		+	ʊ̃	◌ʊ ◌̃						5	
+ʊ̯ɔ	from non-syllabic rounded near-close near-back to rounded open-mid back diphthong	+	+	ʊ̯ɔ	◌ʊ ◌̯ ◌ɔ						1	
+ʊ̽	mid-centralized rounded near-close near-back vowel	+	+	ʊ̽	◌ʊ ◌̽						1	
+ʋ	voiced labio-dental approximant consonant		+	ʋ	◌ʋ						13	
+ʋː	long voiced labio-dental approximant consonant	+	+	ʋʋ	◌ʋ ◌ː						1	
+ʋː	long voiced labio-dental approximant consonant	+	+	ʋː	◌ʋ ◌ː						1	
+ʌ	unrounded open-mid back vowel		+	ʌ	◌ʌ						12	
+ʌi	from unrounded open-mid back to unrounded close front diphthong	+	+	ʌi	◌ʌ ◌i						2	
+ʌu	from unrounded open-mid back to rounded close back diphthong	+	+	ʌu	◌ʌ ◌u						2	
+ʌː	long unrounded open-mid back vowel		+	ʌː	◌ʌ ◌ː						4	
+ʌˑ	mid-long unrounded open-mid back vowel	+	+	ʌˑ	◌ʌ ◌ˑ						1	
+ʌˤː	long pharyngealized unrounded open-mid back vowel	+	+	ʌˤː	◌ʌ ◌ˤ ◌ː						1	
+ʌ̃	nasalized unrounded open-mid back vowel		+	ʌ̃	◌ʌ ◌̃						1	
+ʍ	voiceless labio-velar approximant consonant		+	ʍ	◌ʍ						2	
+ʎ	voiced palatal lateral approximant consonant		+	ʎ	◌ʎ						22	
+ʎ̥	devoiced voiced palatal lateral approximant consonant		+	ʎ̥	◌ʎ ◌̥						2	
+ʏ	rounded near-close near-front vowel		+	ʏ	◌ʏ						10	
+ʐ	voiced retroflex sibilant fricative consonant		+	ʐ	◌ʐ						7	
+ʑ	voiced alveolo-palatal sibilant fricative consonant		+	ʑ	◌ʑ						10	
+ʒ	voiced post-alveolar sibilant fricative consonant		+	ʒ	◌ʒ						63	
+ʒː	long voiced post-alveolar sibilant fricative consonant	+	+	ʒː	◌ʒ ◌ː						3	
+ʒˤ	pharyngealized voiced post-alveolar sibilant fricative consonant	+	+	ʒˤ	◌ʒ ◌ˤ						1	
+ʒˤː	pharyngealized long voiced post-alveolar sibilant fricative consonant	+	+	ʒˤː	◌ʒ ◌ˤ ◌ː						1	
+ʒ̊	devoiced voiced post-alveolar sibilant fricative consonant		+	ʒ̊	◌ʒ ◌̊						1	
+ʔ	voiceless glottal stop consonant		+	ʔ	◌ʔ						49	
+ʔː	long voiceless glottal stop consonant	+	+	ʔ:	◌ʔ ◌ː						1	
+ˀb	pre-glottalized voiced bilabial stop consonant	+	+	ʔb	◌ˀ ◌b						1	
+ˀd	pre-glottalized voiced alveolar stop consonant	+	+	ʔd	◌ˀ ◌d						1	
+ʔʲ	palatalized voiceless glottal stop consonant		+	ʔj	◌ʔ ◌ʲ						3	
+ʔʲ	palatalized voiceless glottal stop consonant		+	ʔj̰	◌ʔ ◌ʲ						1	
+ˀl	pre-glottalized voiced alveolar lateral approximant consonant	+	+	ʔl	◌ˀ ◌l						1	
+ˀm	pre-glottalized voiced bilabial nasal consonant	+	+	ʔm	◌ˀ ◌m						2	
+ˀn	pre-glottalized voiced alveolar nasal consonant	+	+	ʔn	◌ˀ ◌n						2	
+ˀⁿd	pre-glottalized-and-nasalized voiced alveolar stop consonant		+	ʔnd	◌ˀ ◌ⁿ ◌d						1	
+ˀr	pre-glottalized voiced alveolar trill consonant	+	+	ʔr	◌ˀ ◌r						1	
+ˀr̥	pre-glottalized devoiced voiced alveolar trill consonant	+	+	ʔr̥	◌ˀ ◌r ◌̥						1	
+ʔʷ	labialized voiceless glottal stop consonant		+	ʔw	◌ʔ ◌ʷ						1	
+ʔ̰ʷ	labialized creaky voiceless glottal stop consonant	+	+	ʔw̰	◌ʔ ◌̰ ◌ʷ						1	
+ˀⁿg	pre-glottalized-and-nasalized voiced velar stop consonant		+	ʔŋg	◌ˀ ◌ⁿ ◌g						1	
+ʔʲ	palatalized voiceless glottal stop consonant		+	ʔʲ	◌ʔ ◌ʲ						2	
+ʔʲː	palatalized long voiceless glottal stop consonant	+	+	ʔʲː	◌ʔ ◌ʲ ◌ː						1	
+ʔʷ	labialized voiceless glottal stop consonant		+	ʔʷ	◌ʔ ◌ʷ						1	
+ʔʷː	labialized long voiceless glottal stop consonant	+	+	ʔʷː	◌ʔ ◌ʷ ◌ː						1	
+ˀβ	pre-glottalized voiced bilabial fricative consonant	+	+	ʔβ	◌ˀ ◌β						1	
+ʕ	voiced pharyngeal fricative consonant		+	ʕ	◌ʕ						4	
+ʕˀ	glottalized voiced pharyngeal fricative consonant	+	+	ʕʔ	◌ʕ ◌ˀ						1	
+ʕʷ	labialized voiced pharyngeal fricative consonant	+	+	ʕʷ	◌ʕ ◌ʷ						1	
+ʕʷˀ	labialized glottalized voiced pharyngeal fricative consonant	+	+	ʕʷʔ	◌ʕ ◌ʷ ◌ˀ						1	
+ʕː	long voiced pharyngeal fricative consonant	+	+	ʕː	◌ʕ ◌ː						1	
+ʙ	voiced bilabial trill consonant		+	ʙ	◌ʙ						1	
+ʙ̥	devoiced voiced bilabial trill consonant		+	ʙ̥	◌ʙ ◌̥						1	
+ʜ	voiceless epiglottal fricative consonant		+	ʜ	◌ʜ						1	
+ʜː	long voiceless epiglottal fricative consonant	+	+	ʜː	◌ʜ ◌ː						1	
+ʝ	voiced palatal fricative consonant		+	ʝ	◌ʝ						2	
+ʝ̞	lowered voiced palatal fricative consonant	+	+	ʝ̞	◌ʝ ◌̞						1	
+ˀj	pre-glottalized voiced palatal approximant consonant	+	+	ˀj	◌ˀ ◌j						1	
+ˀl	pre-glottalized voiced alveolar lateral approximant consonant	+	+	ˀl	◌ˀ ◌l						1	
+ˀm	pre-glottalized voiced bilabial nasal consonant	+	+	ˀm	◌ˀ ◌m						1	
+ˀn	pre-glottalized voiced alveolar nasal consonant	+	+	ˀn	◌ˀ ◌n						1	
+ˀw	pre-glottalized voiced labio-velar approximant consonant	+	+	ˀw	◌ˀ ◌w						1	
+β	voiced bilabial fricative consonant		+	β	◌β						7	
+βʲ	palatalized voiced bilabial fricative consonant	+	+	βʲ	◌β ◌ʲ						1	
+βʷ	labialized voiced bilabial fricative consonant		+	βʷ	◌β ◌ʷ						2	
+βː	long voiced bilabial fricative consonant	+	+	βː	◌β ◌ː						1	
+β̞	voiced bilabial approximant consonant		+	β̞	◌β ◌̞						5	
+θ	voiceless dental fricative consonant		+	θ	◌θ						15	
+χ	voiceless uvular fricative consonant		+	χ	◌χ						18	
+χʷ	labialized voiceless uvular fricative consonant		+	χʷ	◌χ ◌ʷ						5	
+χʷː	labialized long voiceless uvular fricative consonant	+	+	χʷː	◌χ ◌ʷ ◌ː						1	
+χː	long voiceless uvular fricative consonant	+	+	χː	◌χ ◌ː						1	
+tⁿ	with-nasal-release voiceless alveolar stop consonant		+	ᵗn	◌t ◌ⁿ						1	
+tⁿʷ	labialized with-nasal-release voiceless alveolar stop consonant	+	+	ᵗnʷ	◌t ◌ⁿ ◌ʷ						1	
+t̪ⁿ	with-nasal-release voiceless dental stop consonant		+	ᵗ̪n̪	◌t ◌̪ ◌ⁿ						1	
+ⁿb	pre-nasalized voiced bilabial stop consonant		+	ⁿb	◌ⁿ ◌b						1	
+ⁿd	pre-nasalized voiced alveolar stop consonant		+	ⁿd	◌ⁿ ◌d						3	
+ⁿdʒ	pre-nasalized voiced post-alveolar affricate consonant		+	ⁿdʒ	◌ⁿ ◌d ◌ʒ						2	
+ⁿg	pre-nasalized voiced velar stop consonant		+	ⁿg	◌ⁿ ◌g						1	
+ⁿǀ	pre-nasalized voiceless dental click consonant	+	+	ⁿǀ	◌ⁿ ◌ǀ						1	
+ⁿǁ	pre-nasalized voiceless lateral click consonant	+	+	ⁿǁ	◌ⁿ ◌ǁ						1	
+ⁿǃ	pre-nasalized voiceless alveolar click consonant	+	+	ⁿǃ	◌ⁿ ◌ǃ						1	
+ⁿɟ	pre-nasalized voiced palatal stop consonant		+	ⁿɟ	◌ⁿ ◌ɟ						1	
+ⱱ	voiced labio-dental tap consonant		+	ⱱ	◌ⱱ						1	
+ⱱ̟	advanced voiced labio-dental tap consonant	+	+	ⱱ̟	◌ⱱ ◌̟						1	
