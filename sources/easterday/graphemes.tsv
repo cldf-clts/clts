@@ -1,0 +1,603 @@
+BIPA	TYPE	GRAPHEME	GRAPHEME_IN_CLDF	SYMBOLS
+ŋǁ’	Consonant	ŋ̥ǁ’	ŋ̥ǁ’	◌ⁿ ◌ǁ ◌’
+<NA>	Vowel		/	
+<NA>	Diphtong		/	
+<NA>	Vowel_sequence	and	and	
+<NA>	Geminate	contexts	contexts	
+<NA>	Geminate	in	in	
+<NA>	Geminate	many	many	
+<NA>	Vowel_sequence	many	many	
+<NA>	Diphtong	more	more	
+<NA>	Vowel_sequence	more	more	
+<NA>	Geminate	morphophonological	morphophonological	
+<NA>	Geminate	others	others	
+<NA>	Diphtong	perhaps	perhaps	
+<NA>	Vowel_sequence	uau	uau/	
+<NA>	Vowel	ː	ː	
+a	Vowel	a	a	◌a
+ae	Vowel_sequence	ae	ae	◌a ◌e
+ae	Diphtong	ae	/ae	◌a ◌e
+ae	Diphtong	ae	ae	◌a ◌e
+ai	Vowel_sequence	ai	ai	◌a ◌i
+ai	Diphtong	ai	/ai	◌a ◌i
+ai	Diphtong	ai	/ai/	◌a ◌i
+ai	Diphtong	ai	ai	◌a ◌i
+ai̯	Diphtong	aj	/aj	◌a ◌i ◌̯
+ai̯	Diphtong	aj	aj	◌a ◌i ◌̯
+ao	Vowel_sequence	ao	ao	◌a ◌o
+ao	Diphtong	ao	/ao	◌a ◌o
+ao	Diphtong	ao	ao	◌a ◌o
+au	Vowel_sequence	au	au	◌a ◌u
+au	Diphtong	au	/au	◌a ◌u
+au	Diphtong	au	au	◌a ◌u
+au	Diphtong	au	au/	◌a ◌u
+au̯	Diphtong	aw	/aw	◌a ◌u ◌̯
+au̯	Diphtong	aw	aw	◌a ◌u ◌̯
+aɔ	Vowel_sequence	aɔ	aɔ	◌a ◌ɔ
+aɛ	Vowel_sequence	aɛ	aɛ	◌a ◌ɛ
+aɨ	Diphtong	aɨ	aɨ	◌a ◌ɨ
+aɪ	Vowel_sequence	aɪ	aɪ	◌a ◌ɪ
+aɯ	Diphtong	aɯ	aɯ	◌a ◌ɯ
+aʉ	Vowel_sequence	aʉ	aʉ	◌a ◌ʉ
+aʉ	Diphtong	aʉ	aʉ/	◌a ◌ʉ
+aː	Vowel_sequence	aa	aa	◌a ◌ː
+aː	Vowel	aː	aː	◌a ◌ː
+aː	Vowel	aː	aː/	◌a ◌ː
+aːa	Vowel_sequence	aːa	aːa	◌a ◌ː ◌a
+aːi̯	Diphtong	aːj	aːj	◌a ◌ː ◌i ◌̯
+aːu̯	Diphtong	aːw	aːw/	◌a ◌ː ◌u ◌̯
+ã	Vowel	ã	ã	◌a ◌̃
+ãĩ	Diphtong	ãĩ	ãĩ	◌a ◌̃ ◌i ◌̃
+ãũ	Diphtong	ãũ	ãũ	◌a ◌̃ ◌u ◌̃
+ãː	Vowel	ãː	ãː	◌a ◌̃ ◌ː
+ḁ	Vowel	ḁ	ḁ	◌a ◌̥
+a̰	Vowel	a̰	a̰	◌a ◌̰
+a̰ḭ	Diphtong	a̰ḭ	a̰ḭ	◌a ◌̰ ◌i ◌̰
+a̰ṵ	Diphtong	a̰ṵ	a̰ṵ	◌a ◌̰ ◌u ◌̰
+ã̰	Vowel	ã̰	ã̰	◌a ◌̰ ◌̃
+ã̰ḭ̃	Diphtong	ã̰ḭ̃	ã̰ḭ̃	◌a ◌̰ ◌̃ ◌i ◌̰ ◌̃
+ã̰ṵ	Diphtong	ã̰ṵ	ã̰ṵ/	◌a ◌̰ ◌̃ ◌u ◌̰
+b	Consonant	b	/b	◌b
+b	Consonant	b	b	◌b
+bʰ	Consonant	bʰ	bʰ	◌b ◌ʰ
+bʲ	Consonant	bʲ	bʲ	◌b ◌ʲ
+bː	Geminate	bː	/bː	◌b ◌ː
+c	Consonant	c	c	◌c
+cʰ	Consonant	cʰ	cʰ	◌c ◌ʰ
+ç	Consonant	ç	ç	◌c ◌̧
+cⁿ	Consonant	c\textsuperscript{ɲ}	c\textsuperscript{ɲ}	◌c ◌ⁿ
+d	Consonant	d	d	◌d
+dz	Consonant	d͡z	d͡z	◌d ◌z
+dzʰ	Consonant	d͡zʰ	d͡zʰ	◌d ◌z ◌ʰ
+dz̪	Consonant	d̪͡z̪	d̪͡z̪	◌d ◌z ◌̪
+dʑ	Consonant	d͡ʑ	d͡ʑ	◌d ◌ʑ
+dʑʰ	Consonant	d͡ʑʰ	d͡ʑʰ	◌d ◌ʑ ◌ʰ
+dʒ	Consonant	d͡ʒ	d͡ʒ	◌d ◌ʒ
+dʒː	Geminate	d͡ʒː	d͡ʒː	◌d ◌ʒ ◌ː
+dʲ	Consonant	dʲ	dʲ	◌d ◌ʲ
+dʷ	Consonant	dʷ	dʷ	◌d ◌ʷ
+dː	Geminate	dː	dː	◌d ◌ː
+dˤ	Consonant	dˤ	dˤ	◌d ◌ˤ
+dˤː	Geminate	dˤː	dˤː	◌d ◌ˤ ◌ː
+d̪	Consonant	d̪	d̪	◌d ◌̪
+d̪ʰ	Consonant	d̪ʰ	d̪ʰ	◌d ◌̪ ◌ʰ
+e	Vowel	e	/e	◌e
+e	Vowel	e	e	◌e
+ea	Vowel_sequence	ea	/ea	◌e ◌a
+ea	Vowel_sequence	ea	ea	◌e ◌a
+ei	Vowel_sequence	ei	ei	◌e ◌i
+ei	Diphtong	ei	/ei	◌e ◌i
+ei	Diphtong	ei	ei	◌e ◌i
+ei̯	Diphtong	ej	/ej	◌e ◌i ◌̯
+ei̯	Diphtong	ej	ej	◌e ◌i ◌̯
+ei̯	Diphtong	ej	ej/	◌e ◌i ◌̯
+eo	Vowel_sequence	eo	eo	◌e ◌o
+eu	Vowel_sequence	eu	eu	◌e ◌u
+eu	Diphtong	eu	eu	◌e ◌u
+eɪ	Diphtong	eɪ	eɪ/	◌e ◌ɪ
+eʊ	Diphtong	eʊ	/eʊ	◌e ◌ʊ
+eː	Vowel_sequence	ee	ee	◌e ◌ː
+eː	Vowel	eː	eː	◌e ◌ː
+eː	Vowel	eː	eː/	◌e ◌ː
+ẽ	Vowel	ẽ	ẽ	◌e ◌̃
+ẽĩ	Diphtong	ẽĩ	ẽĩ	◌e ◌̃ ◌i ◌̃
+ẽũ	Diphtong	ẽũ	ẽũ	◌e ◌̃ ◌u ◌̃
+ẽː	Vowel	ẽː	ẽː	◌e ◌̃ ◌ː
+ḛ	Vowel	ḛ	ḛ	◌e ◌̰
+ḛḭ	Diphtong	ḛḭ	ḛḭ	◌e ◌̰ ◌i ◌̰
+ḛː	Vowel	ḛː	ḛː	◌e ◌̰ ◌ː
+f	Consonant	f	f	◌f
+fʲ	Consonant	fʲ	fʲ	◌f ◌ʲ
+fʷ	Consonant	fʷ	fʷ	◌f ◌ʷ
+fʼ	Consonant	f'	f'	◌f ◌ʼ
+fː	Geminate	fː	/fː	◌f ◌ː
+fː	Geminate	fː	fː	◌f ◌ː
+fː	Consonant	fː	fː	◌f ◌ː
+g	Consonant	ɡ	ɡ	◌g
+gb	Consonant	ɡ͡b	ɡ͡b	◌g ◌b
+gʰ	Consonant	ɡʰ	ɡʰ	◌g ◌ʰ
+gʲ	Consonant	ɡʲ	ɡʲ	◌g ◌ʲ
+gʷ	Consonant	ɡʷ	ɡʷ	◌g ◌ʷ
+gʷː	Geminate	ɡʷː	ɡʷː	◌g ◌ʷ ◌ː
+gː	Geminate	ɡː	ɡː	◌g ◌ː
+h	Consonant	h	h	◌h
+hʲ	Consonant	hʲ	hʲ	◌h ◌ʲ
+hː	Geminate	hː	hː	◌h ◌ː
+i	Vowel	i	/i	◌i
+ia	Vowel_sequence	ia	/ia	◌i ◌a
+ia	Vowel_sequence	ia	ia	◌i ◌a
+ia	Diphtong	ia	/ia	◌i ◌a
+ia	Diphtong	ia	ia	◌i ◌a
+ie	Vowel_sequence	ie	ie	◌i ◌e
+ie	Diphtong	ie	/ie	◌i ◌e
+ie	Diphtong	ie	ie	◌i ◌e
+io	Vowel_sequence	io	/io	◌i ◌o
+io	Vowel_sequence	io	io	◌i ◌o
+io	Diphtong	io	io	◌i ◌o
+iu	Vowel_sequence	iu	/iu	◌i ◌u
+iu	Vowel_sequence	iu	iu	◌i ◌u
+iu	Vowel_sequence	iu	iu/.	◌i ◌u
+iu	Diphtong	iu	/iu	◌i ◌u
+iu	Diphtong	iu	iu	◌i ◌u
+iu̯	Diphtong	iw	/iw	◌i ◌u ◌̯
+iu̯	Diphtong	iːw	iːw	◌i ◌u ◌̯
+iɔ	Vowel_sequence	iɔ	iɔ	◌i ◌ɔ
+iɔ	Diphtong	iɔ	iɔ	◌i ◌ɔ
+iə	Vowel_sequence	iə	iə	◌i ◌ə
+iə	Diphtong	iə	/iə	◌i ◌ə
+iə̰	Diphtong	iə̰	iə̰	◌i ◌ə ◌̰
+iɛ	Vowel_sequence	iɛ	iɛ	◌i ◌ɛ
+iɨ	Diphtong	iɨ	iɨ	◌i ◌ɨ
+iː	Vowel_sequence	ii	/ii	◌i ◌ː
+iː	Diphtong	ii	/ii	◌i ◌ː
+iː	Diphtong	ii	ii	◌i ◌ː
+iː	Vowel	iː	iː	◌i ◌ː
+iːa	Vowel_sequence	iːa	iːa	◌i ◌ː ◌a
+ĩ	Vowel	i\~{}	i\~{}	◌i ◌̃
+ĩ	Vowel	ĩ	ĩ	◌i ◌̃
+ĩũ	Diphtong	ĩũ	ĩũ	◌i ◌̃ ◌u ◌̃
+ĩː	Vowel	ĩː	ĩː	◌i ◌̃ ◌ː
+i̥	Vowel	i̥	i̥	◌i ◌̥
+i̥	Vowel	i̥	i̥/	◌i ◌̥
+i̯e	Diphtong	jə	jə/	◌i ◌̯ ◌e
+ḭ	Vowel	ḭ	ḭ	◌i ◌̰
+ḭṵ	Diphtong	ḭṵ	ḭṵ	◌i ◌̰ ◌u ◌̰
+ḭ̃	Vowel	ḭ̃	ḭ̃	◌i ◌̰ ◌̃
+ḭ̃ṵ̃	Diphtong	ḭ̃ṵ̃	ḭ̃ṵ̃	◌i ◌̰ ◌̃ ◌u ◌̰ ◌̃
+j	Consonant	j	j/	◌j
+j	Consonant	j	j	◌j
+jˀ	Consonant	j\textsuperscript{ʔ}/	j\textsuperscript{ʔ}/	◌j ◌ˀ
+jː	Geminate	jː	jː/	◌j ◌ː
+j’	Consonant	j’	j’	◌j ◌’
+k	Consonant	k	k	◌k
+kp	Consonant	k͡p	/k͡p	◌k ◌p
+kp	Consonant	k͡p	k͡p	◌k ◌p
+kpʷ	Consonant	k͡pʷ	/k͡pʷ	◌k ◌p ◌ʷ
+kʰ	Consonant	kʰ	kʰ	◌k ◌ʰ
+kʲ	Consonant	kʲ	kʲ	◌k ◌ʲ
+kʲʰ	Consonant	kʲʰ	kʲʰ	◌k ◌ʲ ◌ʰ
+kʷ	Consonant	kʷ	kʷ	◌k ◌ʷ
+kʷʰ	Consonant	kʰʷ	kʰʷ	◌k ◌ʷ ◌ʰ
+kʷʰ	Consonant	kʷʰ	kʷʰ	◌k ◌ʷ ◌ʰ
+kʷː	Geminate	kʷː	kʷː	◌k ◌ʷ ◌ː
+kʼ	Consonant	k’	k’	◌k ◌ʼ
+kʼʷ	Consonant	k’ʷ	k’ʷ	◌k ◌ʼ ◌ʷ
+kː	Geminate	kː	kː	◌k ◌ː
+k’ʲ	Consonant	kʲ’	kʲ’	◌k ◌’ ◌ʲ
+k’ː	Geminate	k’ː	k’ː	◌k ◌’ ◌ː
+kⁿ	Consonant	k\textsuperscript{ŋ}	k\textsuperscript{ŋ}	◌k ◌ⁿ
+l	Consonant	l	l/	◌l
+l	Consonant	l	l	◌l
+lʰ	Consonant	lʰ	lʰ	◌l ◌ʰ
+lʱ	Consonant	l\textsuperscript{ɦ}	l\textsuperscript{ɦ}	◌l ◌ʱ
+lʲ	Consonant	lʲ	lʲ	◌l ◌ʲ
+lʷ	Consonant	lʷ	lʷ	◌l ◌ʷ
+lˀ	Consonant	l\textsuperscript{ʔ}	l\textsuperscript{ʔ}	◌l ◌ˀ
+lˀ	Geminate	l\textsuperscript{ʔ}ː	l\textsuperscript{ʔ}ː	◌l ◌ˀ
+lː	Geminate	lː	lː	◌l ◌ː
+lˠ	Consonant	ɫ	ɫ	◌l ◌ˠ
+lˤ	Consonant	lˤ	lˤ	◌l ◌ˤ
+lˤː	Geminate	lˤː	lˤː	◌l ◌ˤ ◌ː
+l̥	Consonant	l̥	l̥	◌l ◌̥
+l̪	Consonant	l̪	l̪	◌l ◌̪
+l’	Consonant	l’	l’	◌l ◌’
+m	Consonant	m	m	◌m
+mʰ	Consonant	mʰ	mʰ	◌m ◌ʰ
+mʱ	Consonant	m\textsuperscript{ɦ}	m\textsuperscript{ɦ}	◌m ◌ʱ
+mʱ	Consonant	n\textsuperscript{ɦ}	n\textsuperscript{ɦ}	◌m ◌ʱ
+mʲ	Consonant	mʲ	mʲ	◌m ◌ʲ
+mː	Geminate	mː	mː	◌m ◌ː
+m̥	Consonant	m̥	m̥	◌m ◌̥
+m’	Consonant	m’	m’	◌m ◌’
+n	Consonant	n	n	◌n
+nʰ	Consonant	nʰ	nʰ	◌n ◌ʰ
+nʲ	Consonant	nʲ	nʲ	◌n ◌ʲ
+nː	Geminate	nː	nː	◌n ◌ː
+n̠	Consonant	n̠	n̠	◌n ◌̠
+n̥	Consonant	n̥	n̥	◌n ◌̥
+n̪	Consonant	n̪	n̪	◌n ◌̪
+n̪’	Consonant	n̪’	n̪’	◌n ◌̪ ◌’
+n’	Consonant	n’	n’	◌n ◌’
+o	Vowel	o	o	◌o
+o	Vowel	o	o/	◌o
+oa	Vowel_sequence	oa	oa	◌o ◌a
+oa	Diphtong	oa	oa	◌o ◌a
+oa	Diphtong	oa	oa/	◌o ◌a
+oe	Diphtong	oe	oe	◌o ◌e
+oi	Vowel_sequence	oi	oi	◌o ◌i
+oi	Vowel_sequence	oi	oi/	◌o ◌i
+oi	Diphtong	oi	oi	◌o ◌i
+oi	Diphtong	oi	oi/	◌o ◌i
+ou	Vowel_sequence	ou	ou/	◌o ◌u
+ou	Diphtong	ou	ou	◌o ◌u
+ou	Diphtong	ou	ou/	◌o ◌u
+ou̯	Diphtong	ow	ow/	◌o ◌u ◌̯
+oɨ	Diphtong	oɨ	oɨ	◌o ◌ɨ
+oɯ	Diphtong	oɯ	oɯ/	◌o ◌ɯ
+oː	Vowel_sequence	oo	oo	◌o ◌ː
+oː	Vowel_sequence	oo	oo/	◌o ◌ː
+oː	Vowel	oː	oː	◌o ◌ː
+oː	Vowel	oː	oː/	◌o ◌ː
+õ	Vowel	õ	õ	◌o ◌̃
+õ	Vowel	õ	õ/	◌o ◌̃
+õː	Vowel	õː	õː	◌o ◌̃ ◌ː
+õː	Vowel	õː	õː/	◌o ◌̃ ◌ː
+o̰	Vowel	o̰	o̰	◌o ◌̰
+o̰ː	Vowel	o̰ː	o̰ː	◌o ◌̰ ◌ː
+p	Consonant	p	/p	◌p
+p	Consonant	p	p	◌p
+pʰ	Consonant	pʰ	/pʰ	◌p ◌ʰ
+pʰ	Consonant	pʰ	pʰ	◌p ◌ʰ
+pʲ	Consonant	pʲ	pʲ	◌p ◌ʲ
+pʼ	Consonant	p’	p’	◌p ◌ʼ
+p’ː	Geminate	p’ː	p’ː	◌p ◌’ ◌ː
+pⁿ	Consonant	p\textsuperscript{m}	p\textsuperscript{m}	◌p ◌ⁿ
+q	Consonant	q	q	◌q
+qʰ	Consonant	qʰ	qʰ	◌q ◌ʰ
+qʷ	Consonant	qʷ	qʷ	◌q ◌ʷ
+qʷʰ	Consonant	qʷʰ	qʷʰ	◌q ◌ʷ ◌ʰ
+qʷː	Geminate	qʷː	qʷː	◌q ◌ʷ ◌ː
+qʼ	Consonant	q’	q’	◌q ◌ʼ
+qʼʷ	Consonant	q’ʷ	q’ʷ	◌q ◌ʼ ◌ʷ
+qː	Geminate	qː	qː	◌q ◌ː
+r	Consonant	r	r	◌r
+r	Consonant	r	r/	◌r
+rʰ	Consonant	rʰ	rʰ	◌r ◌ʰ
+rʷ	Consonant	rʷ	rʷ	◌r ◌ʷ
+rː	Geminate	rː	rː	◌r ◌ː
+rː	Geminate	rː	rː/	◌r ◌ː
+rˤ	Consonant	rˤ	rˤ	◌r ◌ˤ
+rˤː	Geminate	rˤː	rˤː	◌r ◌ˤ ◌ː
+r̥	Consonant	r̥	r̥	◌r ◌̥
+s	Consonant	s	s	◌s
+sʷ	Consonant	sʷ	sʷ	◌s ◌ʷ
+sː	Geminate	sː	sː	◌s ◌ː
+sˤ	Consonant	sˤ	sˤ	◌s ◌ˤ
+sˤː	Geminate	sˤː	sˤː	◌s ◌ˤ ◌ː
+s̪	Consonant	s̪	s̪	◌s ◌̪
+t	Consonant	t	/t	◌t
+t	Consonant	t	t	◌t
+ts	Consonant	t͡s	t͡s	◌t ◌s
+tsʰ	Consonant	t͡sʰ	t͡sʰ	◌t ◌s ◌ʰ
+tsʷ	Consonant	t͡sʷ	t͡sʷ	◌t ◌s ◌ʷ
+tsʷʰ	Consonant	t͡sʷʰ	t͡sʷʰ	◌t ◌s ◌ʷ ◌ʰ
+tsʼ	Consonant	t͡s’	t͡s’	◌t ◌s ◌ʼ
+ts̪	Consonant	t̪s̪	t̪s̪	◌t ◌s ◌̪
+ts̪	Consonant	t̪͡s̪	t̪͡s̪	◌t ◌s ◌̪
+ts̪ʼ	Consonant	t̪s̪’	t̪s̪’	◌t ◌s ◌̪ ◌ʼ
+ts’ʷ	Consonant	t͡s’ʷ	t͡s’ʷ	◌t ◌s ◌’ ◌ʷ
+tɕ	Consonant	c͡ɕ	c͡ɕ	◌t ◌ɕ
+tɕ	Consonant	tɕ	tɕ	◌t ◌ɕ
+tɕ	Consonant	t͡ɕ	t͡ɕ	◌t ◌ɕ
+tɕʰ	Consonant	t͡ɕʰ	t͡ɕʰ	◌t ◌ɕ ◌ʰ
+tɕʷ	Consonant	t͡ɕʷ	t͡ɕʷ	◌t ◌ɕ ◌ʷ
+tɕ’	Consonant	c͡ɕ’	c͡ɕ’	◌t ◌ɕ ◌’
+tɬ	Consonant	t͡ɬ	t͡ɬ	◌t ◌ɬ
+tɬʲ	Consonant	t͡ʎ̥	t͡ʎ̥	◌t ◌ɬ ◌ʲ
+tɬʼ	Consonant	t͡ɬ’	t͡ɬ’	◌t ◌ɬ ◌ʼ
+tɬ̪ʼ	Consonant	t̪͡ɬ’	t̪͡ɬ’	◌t ◌ɬ ◌̪ ◌ʼ
+tɬ’ʲ	Consonant	t͡ʎ̥’	t͡ʎ̥’	◌t ◌ɬ ◌’ ◌ʲ
+tʃ	Consonant	t͡ʃ	t͡ʃ	◌t ◌ʃ
+tʃʰ	Consonant	t͡ʃʰ	t͡ʃʰ	◌t ◌ʃ ◌ʰ
+tʃʷ	Consonant	t͡ʃʷ	t͡ʃʷ	◌t ◌ʃ ◌ʷ
+tʃʼ	Consonant	t͡ʃ’	t͡ʃ’	◌t ◌ʃ ◌ʼ
+tʃʼː	Geminate	t͡ʃ’ː	t͡ʃ’ː	◌t ◌ʃ ◌ʼ ◌ː
+tʃː	Geminate	t͡ʃː	t͡ʃː	◌t ◌ʃ ◌ː
+tʰ	Consonant	tʰ	tʰ	◌t ◌ʰ
+tʲ	Consonant	tʲ	tʲ	◌t ◌ʲ
+tʷ	Consonant	tʷ	tʷ	◌t ◌ʷ
+tʷʰ	Consonant	tʷʰ	tʷʰ	◌t ◌ʷ ◌ʰ
+tʼ	Consonant	t’	t’	◌t ◌ʼ
+tː	Geminate	tː	tː	◌t ◌ː
+tˤ	Consonant	tˤ	tˤ	◌t ◌ˤ
+tˤː	Geminate	tˤː	tˤː	◌t ◌ˤ ◌ː
+t̪	Consonant	t̪	t̪	◌t ◌̪
+t̪ʰ	Consonant	t̪ʰ	t̪ʰ	◌t ◌̪ ◌ʰ
+t̪ʲ	Consonant	t̪ʲ	t̪ʲ	◌t ◌̪ ◌ʲ
+t̪ʼ	Consonant	t̪’	t̪’	◌t ◌̪ ◌ʼ
+t̪ⁿ	Consonant	t̪\textsuperscript{n̪}	t̪\textsuperscript{n̪}	◌t ◌̪ ◌ⁿ
+t’ʷ	Consonant	t’ʷ	t’ʷ	◌t ◌’ ◌ʷ
+t’ː	Geminate	t’ː	t’ː	◌t ◌’ ◌ː
+tⁿ	Consonant	t\textsuperscript{n}	t\textsuperscript{n}	◌t ◌ⁿ
+u	Vowel	u	u	◌u
+u	Vowel	u/	u/	◌u
+ua	Vowel_sequence	ua	ua	◌u ◌a
+ua	Diphtong	ua	ua	◌u ◌a
+ua	Diphtong	ua	ua/	◌u ◌a
+ue	Vowel_sequence	ue	ue	◌u ◌e
+ue	Diphtong	ue	ue	◌u ◌e
+ue	Diphtong	ue	ue/	◌u ◌e
+ui	Vowel_sequence	ui	ui	◌u ◌i
+ui	Vowel_sequence	ui	ui/	◌u ◌i
+ui	Diphtong	ui	/ui/	◌u ◌i
+ui	Diphtong	ui	ui	◌u ◌i
+ui̯	Diphtong	uj	uj	◌u ◌i ◌̯
+ui̯	Diphtong	uːj	uːj	◌u ◌i ◌̯
+uo	Vowel_sequence	uo	uo	◌u ◌o
+uo	Diphtong	uo	uo	◌u ◌o
+uɔ	Vowel_sequence	uɔ	uɔ	◌u ◌ɔ
+uɔ	Diphtong	uɔ	uɔ	◌u ◌ɔ
+uə	Vowel_sequence	uə	/uə	◌u ◌ə
+uə	Vowel_sequence	uə	uə	◌u ◌ə
+uə	Vowel_sequence	uə	uə/	◌u ◌ə
+uə	Diphtong	uə	uə	◌u ◌ə
+uə	Diphtong	uə	uə/	◌u ◌ə
+uə̰	Diphtong	uə̰	uə̰/	◌u ◌ə ◌̰
+uɛ	Vowel_sequence	uɛ	uɛ	◌u ◌ɛ
+uɛ	Vowel_sequence	uɛ	uɛ/	◌u ◌ɛ
+uɨ	Diphtong	uɨ	uɨ	◌u ◌ɨ
+uː	Vowel_sequence	uu	/uu	◌u ◌ː
+uː	Vowel_sequence	uu	uu	◌u ◌ː
+uː	Vowel_sequence	uu	uu/	◌u ◌ː
+uː	Diphtong	uu	uu/	◌u ◌ː
+uː	Vowel	uː	uː	◌u ◌ː
+uː	Vowel	uː	uː/	◌u ◌ː
+uːa	Vowel_sequence	uːa	uːa/	◌u ◌ː ◌a
+ũ	Vowel	u\~{}	u\~{}	◌u ◌̃
+ũ	Vowel	ũ	ũ	◌u ◌̃
+ũ	Vowel	ũ	ũ/	◌u ◌̃
+ũː	Vowel	ũː	ũː	◌u ◌̃ ◌ː
+ũː	Vowel	ũː	ũː/	◌u ◌̃ ◌ː
+u̥	Vowel	u̥	u̥/	◌u ◌̥
+ṵ	Vowel	ṵ	ṵ	◌u ◌̰
+ṵ	Vowel	ṵ	ṵ/	◌u ◌̰
+ṵ̃	Vowel	ṵ̃	ṵ̃/	◌u ◌̰ ◌̃
+v	Consonant	v	v	◌v
+vʲ	Consonant	vʲ	vʲ	◌v ◌ʲ
+w	Consonant	w	w	◌w
+w	Consonant	w/	w/	◌w
+wˀ	Consonant	w\textsuperscript{ʔ}	w\textsuperscript{ʔ}	◌w ◌ˀ
+wː	Geminate	wː	wː	◌w ◌ː
+w̥	Consonant	w̥	w̥	◌w ◌̥
+w’	Consonant	w’	w’	◌w ◌’
+w’	Consonant	w’	w’/	◌w ◌’
+x	Consonant	x	x	◌x
+xʷ	Consonant	xʷ	xʷ	◌x ◌ʷ
+xː	Consonant	xː	xː	◌x ◌ː
+y	Vowel	y	y	◌y
+ye	Diphtong	ye	ye	◌y ◌e
+z	Consonant	z	z	◌z
+zʷ	Consonant	zʷ	zʷ	◌z ◌ʷ
+zː	Geminate	zː	zː	◌z ◌ː
+zˤ	Consonant	zˤ	zˤ	◌z ◌ˤ
+zˤː	Geminate	zˤː	zˤː	◌z ◌ˤ ◌ː
+z̪	Consonant	z̪	z̪	◌z ◌̪
+æ	Vowel	æ	æ	◌æ
+æː	Vowel	æː	æː	◌æ ◌ː
+æ̃	Vowel	\~{æ}	\~{æ}	◌æ ◌̃
+æ̃	Vowel	\~{æ}ː	\~{æ}ː	◌æ ◌̃
+ð	Consonant	ð	ð	◌ð
+ø	Vowel	ø	ø	◌ø
+øi	Diphtong	øi	øi	◌ø ◌i
+ħ	Consonant	ħ	ħ	◌ħ
+ŋ	Consonant	ŋ	ŋ	◌ŋ
+ŋm	Consonant	ŋ͡m	ŋ͡m	◌ŋ ◌m
+ŋmʷ	Consonant	ŋ͡mʷ	ŋ͡mʷ	◌ŋ ◌m ◌ʷ
+ŋǀ	Consonant	ŋǀ	ŋǀ	◌ŋ ◌ǀ
+ŋǀ’	Consonant	ŋ̥ǀ’	ŋ̥ǀ’	◌ŋ ◌ǀ ◌’
+ŋǁ	Consonant	ŋǁ	ŋǁ	◌ŋ ◌ǁ
+ŋǃ	Consonant	ŋǃ	ŋǃ	◌ŋ ◌ǃ
+ŋǃ’	Consonant	ŋ̥ǃ’	ŋ̥ǃ’	◌ŋ ◌ǃ ◌’
+ŋʷ	Consonant	ŋʷ	ŋʷ	◌ŋ ◌ʷ
+ŋː	Geminate	ŋː	ŋː	◌ŋ ◌ː
+œ	Vowel	œ	œ	◌œ
+œː	Vowel	œː	œː	◌œ ◌ː
+œ̥	Vowel	œ̥	œ̥	◌œ ◌̥
+ǀ	Consonant	kǀ	kǀ	◌ǀ
+ǁ	Consonant	kǁ	kǁ	◌ǁ
+ǃ	Consonant	kǃ	kǃ	◌ǃ
+ɐ	Vowel	ɐ	ɐ	◌ɐ
+ɑ	Vowel	ɑ	ɑ	◌ɑ
+ɑi	Diphtong	ɑi	ɑi	◌ɑ ◌i
+ɑu	Diphtong	ɑu	ɑu	◌ɑ ◌u
+ɑː	Vowel	ɑː	ɑː	◌ɑ ◌ː
+ɒ	Vowel	ɒ	ɒ	◌ɒ
+ɒː	Vowel	ɒː	ɒː	◌ɒ ◌ː
+ɓ	Consonant	ɓ	ɓ	◌ɓ
+ɔ	Vowel	ɔ	ɔ	◌ɔ
+ɔ	Vowel	ɔ	ɔ/	◌ɔ
+ɔa	Vowel_sequence	ɔa	ɔa	◌ɔ ◌a
+ɔa	Diphtong	ɔa	ɔa	◌ɔ ◌a
+ɔe	Diphtong	ɔe	ɔe	◌ɔ ◌e
+ɔi	Vowel_sequence	ɔi	ɔi	◌ɔ ◌i
+ɔi	Diphtong	ɔi	ɔi	◌ɔ ◌i
+ɔo	Diphtong	ɔo	ɔo	◌ɔ ◌o
+ɔu	Vowel_sequence	ɔu	ɔu	◌ɔ ◌u
+ɔu	Diphtong	ɔu	ɔu	◌ɔ ◌u
+ɔɛ	Vowel_sequence	ɔɛ	ɔɛ	◌ɔ ◌ɛ
+ɔː	Vowel_sequence	ɔɔ	ɔɔ	◌ɔ ◌ː
+ɔː	Vowel	ɔː	ɔː	◌ɔ ◌ː
+ɕ	Consonant	ɕ	ɕ	◌ɕ
+ɕ’	Consonant	ɕ'	ɕ'	◌ɕ ◌’
+ɖ	Consonant	ɖ	ɖ	◌ɖ
+ɖʐ	Consonant	ɖ͡ʐ	ɖ͡ʐ	◌ɖ ◌ʐ
+ɖʰ	Consonant	ɖʰ	ɖʰ	◌ɖ ◌ʰ
+ɗ	Consonant	ɗ	ɗ	◌ɗ
+ɗ	Consonant	ɗ̪	ɗ̪	◌ɗ
+ɘ	Vowel	ɘ	ɘ	◌ɘ
+ɘː	Vowel	ɘː	ɘː	◌ɘ ◌ː
+ə	Vowel	ə	/ə	◌ə
+ə	Vowel	ə	ə	◌ə
+əi	Vowel_sequence	əi	əi	◌ə ◌i
+əi	Diphtong	əi	əi	◌ə ◌i
+əu	Vowel_sequence	əu	əu	◌ə ◌u
+əu	Diphtong	əu	əu	◌ə ◌u
+əː	Vowel	əː	əː	◌ə ◌ː
+ə̘	Vowel	ə̘	ə̘	◌ə ◌̘
+ə̰	Vowel	ə̰	ə̰	◌ə ◌̰
+ə̰ː	Vowel	ə̰ː	ə̰ː	◌ə ◌̰ ◌ː
+ɛ	Vowel	ɛ	ɛ	◌ɛ
+ɛa	Vowel_sequence	ɛa	ɛa	◌ɛ ◌a
+ɛi	Vowel_sequence	ɛi	ɛi	◌ɛ ◌i
+ɛi	Diphtong	ɛi	ɛi	◌ɛ ◌i
+ɛu	Vowel_sequence	ɛu	ɛu	◌ɛ ◌u
+ɛɔ	Vowel_sequence	ɛɔ	/ɛɔ	◌ɛ ◌ɔ
+ɛɔ	Vowel_sequence	ɛɔ	ɛɔ	◌ɛ ◌ɔ
+ɛː	Vowel_sequence	ɛɛ	ɛɛ	◌ɛ ◌ː
+ɛː	Vowel	ɛː	ɛː	◌ɛ ◌ː
+ɟ	Consonant	ɟ	ɟ	◌ɟ
+ɟʰ	Consonant	ɟʰ	ɟʰ	◌ɟ ◌ʰ
+ɠɓ	Consonant	ɠ͡ɓ	ɠ͡ɓ	◌ɠ ◌ɓ
+ɢ	Consonant	ɢ	ɢ	◌ɢ
+ɣ	Consonant	ɣ	ɣ	◌ɣ
+ɣ̞	Consonant	ɣ̞	ɣ̞/	◌ɣ ◌̞
+ɤ	Vowel	ɤ	ɤ	◌ɤ
+ɤː	Vowel	ɤː	ɤː	◌ɤ ◌ː
+ɦ	Consonant	ɦ	ɦ	◌ɦ
+ɦ	Consonant	ɦ	ɦ/	◌ɦ
+ɨ	Vowel	ɨ	ɨ	◌ɨ
+ɨa	Diphtong	ɨa	ɨa	◌ɨ ◌a
+ɨi	Diphtong	ɨi	ɨi	◌ɨ ◌i
+ɨo	Diphtong	ɨo	ɨo	◌ɨ ◌o
+ɨu	Diphtong	ɨu	ɨu	◌ɨ ◌u
+ɨə	Diphtong	ɨə	ɨə	◌ɨ ◌ə
+ɨə̰	Diphtong	ɨə̰	ɨə̰	◌ɨ ◌ə ◌̰
+ɨː	Vowel	ɨː	ɨː	◌ɨ ◌ː
+ɨ̰	Vowel	ɨ̰	ɨ̰	◌ɨ ◌̰
+ɪ	Vowel	ɪ	/ɪ	◌ɪ
+ɪ	Vowel	ɪ	ɪ	◌ɪ
+ɪa	Vowel_sequence	ɪa	ɪa	◌ɪ ◌a
+ɪe	Diphtong	ɪe	ɪe	◌ɪ ◌e
+ɪː	Vowel_sequence	ɪɪ	ɪɪ	◌ɪ ◌ː
+ɪː	Vowel	ɪː	ɪː	◌ɪ ◌ː
+ɬ	Consonant	ɬ	ɬ	◌ɬ
+ɬ	Consonant	ɬ	ɬ/	◌ɬ
+ɬʲ	Consonant	ɬʲ	ɬʲ	◌ɬ ◌ʲ
+ɬʼ	Consonant	ɬ’	ɬ’	◌ɬ ◌ʼ
+ɬː	Consonant	ɬː	ɬː	◌ɬ ◌ː
+ɬ̪	Consonant	ɬ̪	ɬ̪	◌ɬ ◌̪
+ɭ	Consonant	ɭ	ɭ	◌ɭ
+ɮ	Consonant	ɮ	ɮ	◌ɮ
+ɯ	Vowel	ɯ	ɯ	◌ɯ
+ɯ	Vowel	ɯ	ɯ/	◌ɯ
+ɯa	Diphtong	ɯa	ɯa/	◌ɯ ◌a
+ɯː	Vowel	ɯː	ɯː	◌ɯ ◌ː
+ɯ̥	Vowel	ɯ̥	ɯ̥	◌ɯ ◌̥
+ɰ	Consonant	ɰ	ɰ	◌ɰ
+ɰ	Consonant	ɰ	ɰ/	◌ɰ
+ɰ̟	Consonant	ɰ̟	ɰ̟	◌ɰ ◌̟
+ɰ’	Consonant	ɰ’	ɰ’	◌ɰ ◌’
+ɲ	Consonant	ɲ	ɲ	◌ɲ
+ɲʰ	Consonant	ɲʰ	ɲʰ	◌ɲ ◌ʰ
+ɲː	Geminate	ɲː	ɲː	◌ɲ ◌ː
+ɲː	Consonant	ɲː	ɲː	◌ɲ ◌ː
+ɳ	Consonant	ɳ	ɳ	◌ɳ
+ɴ	Consonant	ɴ	ɴ	◌ɴ
+ɴː	Geminate	ɴː	/ɴː/,	◌ɴ ◌ː
+ɵ	Vowel	ɵ	ɵ	◌ɵ
+ɸ	Consonant	ɸ	ɸ	◌ɸ
+ɹ	Consonant	ɹ	ɹ	◌ɹ
+ɹ̪	Consonant	ð̞	ð̞	◌ɹ ◌̪
+ɹ̪’	Consonant	ð̞’	ð̞’	◌ɹ ◌̪ ◌’
+ɺ	Consonant	ɺ	ɺ	◌ɺ
+ɻ	Consonant	ɻ	ɻ	◌ɻ
+ɽ	Consonant	ɽ	ɽ/	◌ɽ
+ɽ	Consonant	ɽ	ɽ	◌ɽ
+ɾ	Consonant	ɾ	ɾ/	◌ɾ
+ɾ	Consonant	ɾ	ɾ	◌ɾ
+ɾˀ	Consonant	ɾ\textsuperscript{ʔ}	ɾ\textsuperscript{ʔ}	◌ɾ ◌ˀ
+ɾˀ	Geminate	ɾ\textsuperscript{ʔ}ː	ɾ\textsuperscript{ʔ}ː	◌ɾ ◌ˀ
+ɾ̪	Consonant	ɾ̪	ɾ̪	◌ɾ ◌̪
+ʁ	Consonant	ʁ	ʁ	◌ʁ
+ʁʷ	Consonant	ʁʷ	ʁʷ	◌ʁ ◌ʷ
+ʁʷː	Geminate	ʁʷː	ʁʷː	◌ʁ ◌ʷ ◌ː
+ʁː	Geminate	ʁː	ʁː	◌ʁ ◌ː
+ʂ	Consonant	ʂ	ʂ	◌ʂ
+ʃ	Consonant	ʃ	ʃ	◌ʃ
+ʃː	Geminate	ʃː	ʃː	◌ʃ ◌ː
+ʄ	Consonant	ʄ	ʄ	◌ʄ
+ʈ	Consonant	ʈ	ʈ	◌ʈ
+ʈʂ	Consonant	t͡ʂ	t͡ʂ	◌ʈ ◌ʂ
+ʈʂ	Consonant	ʈ͡ʂ	ʈ͡ʂ	◌ʈ ◌ʂ
+ʈʂʰ	Consonant	t͡ʂʰ	t͡ʂʰ	◌ʈ ◌ʂ ◌ʰ
+ʈʂʰ	Consonant	ʈ͡ʂʰ	ʈ͡ʂʰ	◌ʈ ◌ʂ ◌ʰ
+ʈʂ’	Consonant	ʈ͡ʂ’	ʈ͡ʂ’	◌ʈ ◌ʂ ◌’
+ʈʰ	Consonant	ʈʰ	ʈʰ	◌ʈ ◌ʰ
+ʈⁿ	Consonant	ʈ\textsuperscript{ɳ}	ʈ\textsuperscript{ɳ}	◌ʈ ◌ⁿ
+ʉ	Vowel	ʉ	ʉ	◌ʉ
+ʉː	Vowel_sequence	ʉʉ	ʉʉ	◌ʉ ◌ː
+ʊ	Vowel	ʊ	ʊ	◌ʊ
+ʊ	Vowel	ʊ/	ʊ/	◌ʊ
+ʊa	Vowel_sequence	ʊa	ʊa	◌ʊ ◌a
+ʊː	Vowel_sequence	ʊʊ	ʊʊ	◌ʊ ◌ː
+ʊː	Vowel	ʊː	ʊː	◌ʊ ◌ː
+ʋ	Consonant	ʋ	ʋ	◌ʋ
+ʌ	Vowel	ʌ	ʌ	◌ʌ
+ʌi	Diphtong	ʌi	/ʌi	◌ʌ ◌i
+ʌu	Diphtong	ʌu	ʌu/	◌ʌ ◌u
+ʌː	Vowel	ʌː	ʌː	◌ʌ ◌ː
+ʎ	Consonant	ʎ	ʎ	◌ʎ
+ʏ	Vowel	ʏ	ʏ	◌ʏ
+ʐ	Consonant	ʐ	ʐ	◌ʐ
+ʑ	Consonant	ʑ	ʑ	◌ʑ
+ʒ	Consonant	ʒ	ʒ	◌ʒ
+ʒː	Geminate	ʒː	ʒː	◌ʒ ◌ː
+ʒː	Consonant	ʒː	ʒː	◌ʒ ◌ː
+ʒˤː	Geminate	ʒːˤ	ʒːˤ	◌ʒ ◌ˤ ◌ː
+ʔ	Consonant	ʔ	ʔ	◌ʔ
+ʔʷ	Consonant	ʔw	ʔw/	◌ʔ ◌ʷ
+ʔʷ	Consonant	ʔʷ	ʔʷ	◌ʔ ◌ʷ
+ʔː	Geminate	ʔː	ʔː	◌ʔ ◌ː
+ʕ	Consonant	ʕ	ʕ	◌ʕ
+ʜ	Consonant	ʜ	ʜ	◌ʜ
+ʜː	Geminate	ʜː	ʜː	◌ʜ ◌ː
+ʝ	Consonant	ʝ	ʝ	◌ʝ
+ʟ	Consonant	ʟ	ʟ	◌ʟ
+ʢ	Consonant	ʢ	ʢ	◌ʢ
+ʢʷ	Consonant	ʢʷ	ʢʷ	◌ʢ ◌ʷ
+ʢː	Geminate	ʢː	ʢː	◌ʢ ◌ː
+ʢ’	Consonant	ʢ’	ʢ’	◌ʢ ◌’
+ʢ’ʷ	Consonant	ʢ’ʷ	ʢ’ʷ/	◌ʢ ◌’ ◌ʷ
+β	Consonant	β	β	◌β
+β̞	Consonant	β̞	β̞	◌β ◌̞
+θ	Consonant	θ	θ	◌θ
+χ	Consonant	χ	χ	◌χ
+χʷ	Consonant	χʷ	χʷ	◌χ ◌ʷ
+χʷː	Geminate	χʷː	χʷː	◌χ ◌ʷ ◌ː
+χː	Geminate	χː	χː	◌χ ◌ː
+χː	Consonant	χː	χː	◌χ ◌ː
+ⁿb	Consonant	\textsuperscript{m}b	/\textsuperscript{m}b	◌ⁿ ◌b
+ⁿb	Consonant	ᵐb	\textsuperscript{m}b	◌ⁿ ◌b
+ⁿd	Consonant	ⁿd	\textsuperscript{n}d	◌ⁿ ◌d
+ⁿdz	Consonant	ⁿd͡z	\textsuperscript{n}d͡z	◌ⁿ ◌d ◌z
+ⁿdʑ	Consonant	\textsuperscript{ɲ}d͡ʑ	\textsuperscript{ɲ}d͡ʑ	◌ⁿ ◌d ◌ʑ
+ⁿdʒ	Consonant	\textsuperscript{ɲ}d͡ʒ	\textsuperscript{ɲ}d͡ʒ	◌ⁿ ◌d ◌ʒ
+ⁿdʲ	Consonant	ⁿdʲ	\textsuperscript{n}dʲ	◌ⁿ ◌d ◌ʲ
+ⁿdʷ	Consonant	ⁿdʷ	\textsuperscript{n}dʷ	◌ⁿ ◌d ◌ʷ
+ⁿd̪	Consonant	\textsuperscript{n̪}d̪	\textsuperscript{n̪}d̪	◌ⁿ ◌d ◌̪
+ⁿd̪	Consonant	ⁿd̪	\textsuperscript{n}d̪	◌ⁿ ◌d ◌̪
+ⁿg	Consonant	ᵑɡ	\textsuperscript{ŋ}ɡ	◌ⁿ ◌g
+ⁿgb	Consonant	\textsuperscript{ŋ͡m}ɡ͡b	\textsuperscript{ŋ͡m}ɡ͡b	◌ⁿ ◌g ◌b
+ⁿgʷ	Consonant	ᵑɡʷ	\textsuperscript{ŋ}ɡʷ	◌ⁿ ◌g ◌ʷ
+ⁿk	Consonant	ᵑk	\textsuperscript{ŋ}k	◌ⁿ ◌k
+ⁿkʰ	Consonant	ᵑkʰ	\textsuperscript{ŋ}kʰ	◌ⁿ ◌k ◌ʰ
+ⁿp	Consonant	ᵐp	\textsuperscript{m}p	◌ⁿ ◌p
+ⁿpʰ	Consonant	ᵐpʰ	\textsuperscript{m}pʰ	◌ⁿ ◌p ◌ʰ
+ⁿs	Consonant	ⁿs	\textsuperscript{n}s	◌ⁿ ◌s
+ⁿts	Consonant	ⁿt͡s	\textsuperscript{n}t͡s	◌ⁿ ◌t ◌s
+ⁿtʰ	Consonant	ⁿtʰ	\textsuperscript{n}tʰ	◌ⁿ ◌t ◌ʰ
+ⁿt̪	Consonant	ⁿt̪	\textsuperscript{n}t̪	◌ⁿ ◌t ◌̪
+ⁿv	Consonant	\textsuperscript{ɱ}v	\textsuperscript{ɱ}v	◌ⁿ ◌v
+ⁿɖʐ	Consonant	\textsuperscript{ɳ}ɖ͡ʐ	\textsuperscript{ɳ}ɖ͡ʐ	◌ⁿ ◌ɖ ◌ʐ
+ⁿɟ	Consonant	\textsuperscript{ɲ}ɟ	\textsuperscript{ɲ}ɟ	◌ⁿ ◌ɟ
+ⁿɢ	Consonant	\textsuperscript{ɴ}ɢ	\textsuperscript{ɴ}ɢ	◌ⁿ ◌ɢ

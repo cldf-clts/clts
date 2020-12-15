@@ -448,19 +448,19 @@ fˠ	voiceless	labio-dental	fricative		velarization:velarized
 ɱ̊	voiced	labio-dental	nasal		voicing:devoiced	
 fʷː	voiceless	labio-dental	fricative		labialization:labialized,duration:long	
 fːʷ	voiceless	labio-dental	fricative	+	labialization:labialized,duration:long	
-gǁ	voiced	lateral	click			
-ǁ	voiceless	lateral	click			
-kǁ	voiceless	lateral	click	+		
-ŋǁ	voiced	lateral 	nasal-click			
-ŋ̊ǁ	voiced	lateral 	nasal-click		voicing:devoiced	
-ˀŋǁ	voiced	lateral 	nasal-click		preceding:pre-glottalized	
-ŋgǁ	voiced	lateral 	click	+	preceding:pre-nasalized	
-ⁿgǁ	voiced	lateral 	click		preceding:pre-nasalized	
-ŋǀǀ	voiced	lateral 	nasal-click	+		
-ŋ̊ǀǀ	voiced	lateral 	nasal-click	+	voicing:devoiced	
-ˀŋǀǀ	voiced	lateral 	nasal-click	+	preceding:pre-glottalized	
-ŋgǀǀ	voiced	lateral 	click	+	preceding:pre-nasalized	
-ⁿgǀǀ	voiced	lateral 	click	+	preceding:pre-nasalized	
+gǁ	voiced	alveolar	click		airstream:lateral	
+ǁ	voiceless	alveolar	click		airstream:lateral	
+kǁ	voiceless	alveolar	click	+	airstream:lateral	
+ŋǁ	voiced	alveolar	nasal-click		airstream:lateral	
+ŋ̊ǁ	voiced	alveolar	nasal-click		airstream:lateral,voicing:devoiced	
+ˀŋǁ	voiced	alveolar	nasal-click		airstream:lateral,preceding:pre-glottalized	
+ŋgǁ	voiced	alveolar	click	+	airstream:lateral,preceding:pre-nasalized	
+ⁿgǁ	voiced	alveolar	click		airstream:lateral,preceding:pre-nasalized	
+ŋǀǀ	voiced	alveolar	nasal-click	+	airstream:lateral	
+ŋ̊ǀǀ	voiced	alveolar	nasal-click	+	airstream:lateral,voicing:devoiced	
+ˀŋǀǀ	voiced	alveolar	nasal-click	+	airstream:lateral,preceding:pre-glottalized	
+ŋgǀǀ	voiced	alveolar	click	+	airstream:lateral,preceding:pre-nasalized	
+ⁿgǀǀ	voiced	alveolar	click	+	airstream:lateral,preceding:pre-nasalized	
 ɟʝ	voiced	palatal	affricate			
 cç	voiceless	palatal	affricate			
 j	voiced	palatal	approximant			
