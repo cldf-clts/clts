@@ -189,7 +189,7 @@ gb	voiced velar-and-bilabial stop consonant		+	gb	◌g ◌b						9
 gː	long voiced velar stop consonant		+	gg	◌g ◌ː						1	
 gʱː	long breathy voiced velar stop consonant	+	+	ggʱ	◌g ◌ʱ ◌ː						1	
 gǀ	voiced dental click consonant		+	gǀ	◌g ◌ǀ						1	
-gǁ	voiced lateral click consonant		+	gǁ	◌g ◌ǁ						1	
+gǁ	voiced alveolar lateral click consonant		+	gǁ	◌g ◌ǁ						1	
 gǃ	voiced alveolar click consonant		+	gǃ	◌g ◌ǃ						1	
 gʰ	aspirated voiced velar stop consonant		+	gʰ	◌g ◌ʰ						1	
 gʱ	breathy voiced velar stop consonant		+	gʱ	◌g ◌ʱ						6	
@@ -633,8 +633,8 @@ ç	voiceless palatal sibilant fricative consonant		+	ç	◌c ◌̧						7
 ǀ	voiceless dental click consonant		+	ǀ	◌ǀ						1	
 ǀʰ	aspirated voiceless dental click consonant	+	+	ǀʰ	◌ǀ ◌ʰ						1	
 ǀ’	voiceless dental ejective click consonant	+	+	ǀ’	◌ǀ ◌’						1	
-ǁ	voiceless lateral click consonant		+	ǁ	◌ǁ						1	
-ǁʰ	aspirated voiceless lateral click consonant	+	+	ǁʰ	◌ǁ ◌ʰ						1	
+ǁ	voiceless alveolar lateral click consonant		+	ǁ	◌ǁ						1	
+ǁʰ	aspirated voiceless alveolar lateral click consonant	+	+	ǁʰ	◌ǁ ◌ʰ						1	
 ǃ	voiceless alveolar click consonant		+	ǃ	◌ǃ						1	
 ǃʰ	aspirated voiceless alveolar click consonant	+	+	ǃʰ	◌ǃ ◌ʰ						1	
 ǃ’	voiceless alveolar ejective click consonant	+	+	ǃ’	◌ǃ ◌’						1	
@@ -951,7 +951,7 @@ t̪ⁿ	with-nasal-release voiceless dental stop consonant		+	ᵗ̪n̪	◌t ◌̪
 ⁿdʒ	pre-nasalized voiced post-alveolar affricate consonant		+	ⁿdʒ	◌ⁿ ◌d ◌ʒ						2	
 ⁿg	pre-nasalized voiced velar stop consonant		+	ⁿg	◌ⁿ ◌g						1	
 ⁿǀ	pre-nasalized voiceless dental click consonant	+	+	ⁿǀ	◌ⁿ ◌ǀ						1	
-ⁿǁ	pre-nasalized voiceless lateral click consonant	+	+	ⁿǁ	◌ⁿ ◌ǁ						1	
+ⁿǁ	pre-nasalized voiceless alveolar lateral click consonant	+	+	ⁿǁ	◌ⁿ ◌ǁ						1	
 ⁿǃ	pre-nasalized voiceless alveolar click consonant	+	+	ⁿǃ	◌ⁿ ◌ǃ						1	
 ⁿɟ	pre-nasalized voiced palatal stop consonant		+	ⁿɟ	◌ⁿ ◌ɟ						1	
 ⱱ	voiced labio-dental tap consonant		+	ⱱ	◌ⱱ						1	

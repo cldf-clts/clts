@@ -1,0 +1,46 @@
+{
+    "title": "PYCLTS. A Python library for the handling of phonetic transcription systems",
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Cormac Anderson"
+        },
+        {
+            "name": "Tiago Tresoldi"
+        },
+        {
+            "name": "Robert Forkel"
+        }
+    ],
+    "description": "<p>Cite the library as:</p>\n\n<blockquote>\n<p>List, Johann-Mattis; Anderson, Cormac; Tresoldi, Tiago; Forkel, Robert (2020): PYCLTS. A Python library for the handling of phonetic transcription systems. Version 3.0.0. URL: https://doi.org/10.5281/zenodo.3687546. With contributions by Tiago Tresoldi and Simon J. Greenhill and Christoph Rzymski. Jena: Max Planck Institute for the Science of Human History.</p>\n</blockquote>",
+    "access_right": "open",
+    "keywords": [
+        "linguistics",
+        "transcription system",
+        "reference catalog"
+    ],
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "contributors": [
+        {
+            "type": "Other",
+            "name": "Christoph Rzymski"
+        },
+        {
+            "type": "Other",
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "upload_type": "software",
+    "communities": [
+        {
+            "identifier": "dighl"
+        },
+        {
+            "identifier": "calc"
+        }
+    ]
+}

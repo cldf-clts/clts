@@ -267,7 +267,7 @@ n̠ʲ	retracted palatalized voiced alveolar nasal consonant	+	+	n̠ʲ	◌n ◌̠
 nʱ	breathy voiced alveolar nasal consonant	+	+	n̤	◌n ◌ʱ						1	
 n̥	devoiced voiced alveolar nasal consonant		+	n̥	◌n ◌̥						6	
 ⁿǀ	pre-nasalized voiceless dental click consonant	+	+	n̥ǀ	◌ⁿ ◌ǀ						1	
-ⁿǁ	pre-nasalized voiceless lateral click consonant	+	+	n̥ǁ	◌ⁿ ◌ǁ						1	
+ⁿǁ	pre-nasalized voiceless alveolar lateral click consonant	+	+	n̥ǁ	◌ⁿ ◌ǁ						1	
 ⁿǂ	pre-nasalized voiceless palatal click consonant	+	+	n̥ǂ	◌ⁿ ◌ǂ						1	
 ⁿǃ	pre-nasalized voiceless alveolar click consonant	+	+	n̥ǃ	◌ⁿ ◌ǃ						1	
 n̪	voiced dental nasal consonant		+	n̪	◌n ◌̪						2	
@@ -502,11 +502,11 @@ ũː	long nasalized rounded close back vowel		+	ũː	◌u ◌̃ ◌ː						4
 ǀxʼ	from voiceless dental click to voiceless velar ejective fricative cluster	+	+	ǀxʼ	◌ǀ ◌x ◌ʼ						1	
 ǀʰ	aspirated voiceless dental click consonant	+	+	ǀʰ	◌ǀ ◌ʰ						1	
 ǀ’	voiceless dental ejective click consonant	+	+	ǀʼ	◌ǀ ◌’						1	
-ǁ	voiceless lateral click consonant		+	ǁ	◌ǁ						2	
-ǁx	from voiceless lateral click to voiceless velar fricative cluster	+	+	ǁx	◌ǁ ◌x						1	
-ǁxʼ	from voiceless lateral click to voiceless velar ejective fricative cluster	+	+	ǁxʼ	◌ǁ ◌x ◌ʼ						1	
-ǁʰ	aspirated voiceless lateral click consonant	+	+	ǁʰ	◌ǁ ◌ʰ						1	
-ǁ̟	advanced voiceless lateral click consonant	+	+	ǁ̟	◌ǁ ◌̟						1	
+ǁ	voiceless alveolar lateral click consonant		+	ǁ	◌ǁ						2	
+ǁx	from voiceless alveolar lateral click to voiceless velar fricative cluster	+	+	ǁx	◌ǁ ◌x						1	
+ǁxʼ	from voiceless alveolar lateral click to voiceless velar ejective fricative cluster	+	+	ǁxʼ	◌ǁ ◌x ◌ʼ						1	
+ǁʰ	aspirated voiceless alveolar lateral click consonant	+	+	ǁʰ	◌ǁ ◌ʰ						1	
+ǁ̟	advanced voiceless alveolar lateral click consonant	+	+	ǁ̟	◌ǁ ◌̟						1	
 ǂ	voiceless palatal click consonant		+	ǂ	◌ǂ						2	
 ǂ’	voiceless palatal ejective click consonant	+	+	ǂʼ	◌ǂ ◌’						1	
 ǃ	voiceless alveolar click consonant		+	ǃ	◌ǃ						1	
@@ -580,7 +580,7 @@ g	voiced velar stop consonant		+	ɡ	◌g						107
 gb	voiced velar-and-bilabial stop consonant		+	ɡb	◌g ◌b						8	
 gbʰ	aspirated voiced velar-and-bilabial stop consonant	+	+	ɡbʰ	◌g ◌b ◌ʰ						1	
 gǀ	voiced dental click consonant		+	ɡǀ	◌g ◌ǀ						1	
-gǁ	voiced lateral click consonant		+	ɡǁ	◌g ◌ǁ						1	
+gǁ	voiced alveolar lateral click consonant		+	ɡǁ	◌g ◌ǁ						1	
 gǃ	voiced alveolar click consonant		+	ɡǃ	◌g ◌ǃ						1	
 gʰ	aspirated voiced velar stop consonant		+	ɡʰ	◌g ◌ʰ						3	
 gʷʰ	labialized aspirated voiced velar stop consonant	+	+	ɡʰʷ	◌g ◌ʷ ◌ʰ						1	

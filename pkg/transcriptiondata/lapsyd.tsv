@@ -147,9 +147,9 @@ kⁿʷ	labialized with-nasal-release voiceless velar stop consonant	+	+	kŋʷ	�
 ǀ	voiceless dental click consonant		+	kǀ	◌ǀ			click stop voiceless dental velar				
 ǀʔ	from voiceless dental click to voiceless glottal stop cluster	+	+	kǀʔ	◌ǀ ◌ʔ			click stop voiceless dental velar glottal				
 ǀʰ	aspirated voiceless dental click consonant	+	+	kǀʰ	◌ǀ ◌ʰ			click stop aspirated voiceless dental velar				
-ǁ	voiceless lateral click consonant		+	kǁ	◌ǁ			click stop lateral voiceless alveolar velar				
-ǁʔ	from voiceless lateral click to voiceless glottal stop cluster	+	+	kǁʔ	◌ǁ ◌ʔ			click stop lateral voiceless alveolar velar glottal				
-ǁʰ	aspirated voiceless lateral click consonant	+	+	kǁʰ	◌ǁ ◌ʰ			click stop lateral aspirated voiceless alveolar velar				
+ǁ	voiceless alveolar lateral click consonant		+	kǁ	◌ǁ			click stop lateral voiceless alveolar velar				
+ǁʔ	from voiceless alveolar lateral click to voiceless glottal stop cluster	+	+	kǁʔ	◌ǁ ◌ʔ			click stop lateral voiceless alveolar velar glottal				
+ǁʰ	aspirated voiceless alveolar lateral click consonant	+	+	kǁʰ	◌ǁ ◌ʰ			click stop lateral aspirated voiceless alveolar velar				
 ǂ	voiceless palatal click consonant		+	kǂ	◌ǂ			click stop voiceless palatal velar				
 ǃ	voiceless alveolar click consonant		+	kǃ	◌ǃ			click stop voiceless palato-alveolar velar				
 ǃʔ	from voiceless alveolar click to voiceless glottal stop cluster	+	+	kǃʔ	◌ǃ ◌ʔ			click stop voiceless palato-alveolar velar glottal				
@@ -499,7 +499,7 @@ ç	voiceless palatal sibilant fricative consonant		+	ç	◌c ◌̧			pulmonic f
 ⁿgb	from pre-nasalized voiced velar stop to voiced bilabial stop cluster	+	+	ŋmɡb	◌ⁿ ◌g ◌b			pulmonic stop prenasalized voiced bilabial velar				
 ŋmʷ	labialized voiced velar-and-bilabial nasal consonant	+	+	ŋmʷ	◌ŋ ◌m ◌ʷ			pulmonic nasal voiced labialized velar				
 ŋǀ	voiced dental nasal-click consonant		+	ŋǀ	◌ŋ ◌ǀ			click nasal voiced dental velar				
-ŋǁ	voiced lateral nasal-click consonant		+	ŋǁ	◌ŋ ◌ǁ			click nasal lateral voiced alveolar velar				
+ŋǁ	voiced alveolar lateral nasal-click consonant		+	ŋǁ	◌ŋ ◌ǁ			click nasal lateral voiced alveolar velar				
 ŋǂ	voiced palatal nasal-click consonant		+	ŋǂ	◌ŋ ◌ǂ			click nasal voiced palatal velar				
 ŋǃ	voiced alveolar nasal-click consonant		+	ŋǃ	◌ŋ ◌ǃ			click nasal voiced palato-alveolar velar				
 ⁿg	pre-nasalized voiced velar stop consonant		+	ŋɡ	◌ⁿ ◌g			pulmonic stop prenasalized voiced velar				
@@ -511,9 +511,9 @@ ç	voiceless palatal sibilant fricative consonant		+	ç	◌c ◌̧			pulmonic f
 ⁿǀʰ	pre-nasalized aspirated voiceless dental click consonant	+	+	ŋ̥ǀh̃	◌ⁿ ◌ǀ ◌ʰ			click fricative nasal nasalized voiceless dental velar glottal				
 ⁿǀ	pre-nasalized voiceless dental click consonant	+	+	ŋ̥ǀx	◌ⁿ ◌ǀ			click fricative nasal voiceless dental velar				
 ⁿǀˀ	pre-nasalized glottalized voiceless dental click consonant	+	+	ŋ̥ǀʔ	◌ⁿ ◌ǀ ◌ˀ			click stop nasal voiceless dental velar glottal				
-ⁿǁʰ	pre-nasalized aspirated voiceless lateral click consonant	+	+	ŋ̥ǁh̃	◌ⁿ ◌ǁ ◌ʰ			click fricative nasal lateral nasalized voiceless alveolar velar glottal				
-ⁿǁ	pre-nasalized voiceless lateral click consonant	+	+	ŋ̥ǁx	◌ⁿ ◌ǁ			click fricative nasal lateral voiceless alveolar velar				
-ⁿǁˀ	pre-nasalized glottalized voiceless lateral click consonant	+	+	ŋ̥ǁʔ	◌ⁿ ◌ǁ ◌ˀ			click stop nasal lateral voiceless alveolar velar glottal				
+ⁿǁʰ	pre-nasalized aspirated voiceless alveolar lateral click consonant	+	+	ŋ̥ǁh̃	◌ⁿ ◌ǁ ◌ʰ			click fricative nasal lateral nasalized voiceless alveolar velar glottal				
+ⁿǁ	pre-nasalized voiceless alveolar lateral click consonant	+	+	ŋ̥ǁx	◌ⁿ ◌ǁ			click fricative nasal lateral voiceless alveolar velar				
+ⁿǁˀ	pre-nasalized glottalized voiceless alveolar lateral click consonant	+	+	ŋ̥ǁʔ	◌ⁿ ◌ǁ ◌ˀ			click stop nasal lateral voiceless alveolar velar glottal				
 ⁿǂʰ	pre-nasalized aspirated voiceless palatal click consonant	+	+	ŋ̥ǂh̃	◌ⁿ ◌ǂ ◌ʰ			click fricative nasal nasalized voiceless palatal velar glottal				
 ⁿǂ	pre-nasalized voiceless palatal click consonant	+	+	ŋ̥ǂx	◌ⁿ ◌ǂ			click fricative nasal voiceless palatal velar				
 ⁿǂˀ	pre-nasalized glottalized voiceless palatal click consonant	+	+	ŋ̥ǂʔ	◌ⁿ ◌ǂ ◌ˀ			click stop nasal voiceless palatal velar glottal				
@@ -604,7 +604,7 @@ dʑʲ	palatalized voiced alveolo-palatal sibilant affricate consonant	+	+	ɟʑ	�
 g	voiced velar stop consonant		+	ɡ	◌g			pulmonic stop voiced velar				
 gb	voiced velar-and-bilabial stop consonant		+	ɡb	◌g ◌b			pulmonic stop voiced bilabial velar				
 gǀ	voiced dental click consonant		+	ɡǀ	◌g ◌ǀ			click stop voiced dental velar				
-gǁ	voiced lateral click consonant		+	ɡǁ	◌g ◌ǁ			click stop lateral voiced alveolar velar				
+gǁ	voiced alveolar lateral click consonant		+	ɡǁ	◌g ◌ǁ			click stop lateral voiced alveolar velar				
 gǃ	voiced alveolar click consonant		+	ɡǃ	◌g ◌ǃ			click stop voiced palato-alveolar velar				
 gʲ	palatalized voiced velar stop consonant		+	ɡʲ	◌g ◌ʲ			pulmonic stop voiced palatalized velar				
 gʷ	labialized voiced velar stop consonant		+	ɡʷ	◌g ◌ʷ			pulmonic stop voiced labialized velar				
