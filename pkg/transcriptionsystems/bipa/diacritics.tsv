@@ -68,6 +68,7 @@ GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
 ◌̊	consonant	voicing	devoiced	+	up	
 ◌̊	consonant	voicing	devoiced	+	up	
 ◌̬	consonant	voicing	revoiced			
+◌̙	consonant	tongue_root	retracted-tongue-root			
 ◌͈	vowel	articulation	strong			
 ◌ʱ	vowel	breathiness	breathy	+		
 ◌̤	vowel	breathiness	breathy			
