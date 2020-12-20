@@ -273,7 +273,7 @@ pː	voiceless	bilabial	stop		duration:long
 pʼ	voiceless	bilabial	stop		ejection:ejective	
 pʷ	voiceless	bilabial	stop		labialization:labialized	
 pʲ	voiceless	bilabial	stop		palatalization:palatalized	
-pʰʲ	voiceless	bilabial	stop		palatalization:palatalized,aspiration:aspirated	
+pʲʰ	voiceless	bilabial	stop		palatalization:palatalized,aspiration:aspirated	
 ʰp	voiceless	bilabial	stop		preceding:pre-aspirated	
 ⁿp	voiceless	bilabial	stop		preceding:pre-nasalized	
 p̚	voiceless	bilabial	stop		release:unreleased	
@@ -373,7 +373,7 @@ t̪ʼ	voiceless	dental	stop		ejection:ejective
 t̪ʷ	voiceless	dental	stop		labialization:labialized	
 t̪ʷʰ	voiceless	dental	stop		labialization:labialized,aspiration:aspirated	
 t̪ʲ	voiceless	dental	stop		palatalization:palatalized	
-t̪ʰʲ	voiceless	dental	stop		palatalization:palatalized,aspiration:aspirated	
+t̪ʲʰ	voiceless	dental	stop		palatalization:palatalized,aspiration:aspirated	
 t̪ˤ	voiceless	dental	stop		pharyngealization:pharyngealized	
 ʰt̪	voiceless	dental	stop		preceding:pre-aspirated	
 ʰt̪ʰ	voiceless	dental	stop		preceding:pre-aspirated,aspiration:aspirated	

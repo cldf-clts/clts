@@ -1,6 +1,6 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	SYMBOLS	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
-<NA>	<NA>		+	pʲʰ	<NA>			pulmonic stop aspirated voiceless palatalized bilabial				
-<NA>	<NA>		+	t̪ʲʰ	<NA>			pulmonic stop aspirated voiceless palatalized dental				
+pʲʰ	palatalized aspirated voiceless bilabial stop consonant		+	pʲʰ	◌p ◌ʲ ◌ʰ			pulmonic stop aspirated voiceless palatalized bilabial				
+t̪ʲʰ	palatalized aspirated voiceless dental stop consonant		+	t̪ʲʰ	◌t ◌̪ ◌ʲ ◌ʰ			pulmonic stop aspirated voiceless palatalized dental				
 a	unrounded open front vowel		+	a	◌a			low central unrounded				
 ae	from unrounded open front to unrounded close-mid front diphthong	+	+	ae	◌a ◌e			diphtong higher mid low front central unrounded rising fronting				
 ai	from unrounded open front to unrounded close front diphthong	+	+	ai	◌a ◌i			diphtong high low front central unrounded rising fronting				
@@ -794,3 +794,90 @@ g̰ʷ	labialized creaky voiced velar stop consonant	+	+	ɡ̰ʷ	◌g ◌̰ ◌ʷ	
 χˤ	pharyngealized voiceless uvular fricative consonant	+	+	χˤ	◌χ ◌ˤ			pulmonic fricative voiceless pharyngealized  uvular				
 ᶑ	voiced retroflex implosive consonant		+	ᶑ	◌ᶑ			implosive stop voiced retroflex				
 ⱱ	voiced labio-dental tap consonant		+		◌ⱱ			pulmonic tap/flap voiced labio-dental				
+zʲ	palatalized voiced alveolar sibilant fricative consonant		+	zʲ	◌z ◌ʲ			pulmonic fricative sibilant voiced palatalized alveolar				
+ə̰	creaky unrounded mid central vowel		+	ə̰	◌ə ◌̰			laryngealized higher mid central unrounded				
+ḛ̃ə̰̃	from nasalized creaky unrounded close-mid front to nasalized creaky unrounded mid central diphthong	+	+	ḛ̃ə̰̃	◌e ◌̰ ◌̃ ◌ə ◌̰ ◌̃			laryngealized diphtong higher mid front central unrounded backing nasalizing				
+tθ’	voiceless dental ejective affricate consonant	+	+	t̪θʼ	◌t ◌θ ◌’			ejective affricate dental				
+ĩə̃	from nasalized unrounded close front to nasalized unrounded mid central diphthong	+	+	ĩə̃	◌i ◌̃ ◌ə ◌̃			diphtong high higher mid front central unrounded lowering backing nasalizing				
+tɬ̪ʼ	voiceless dental ejective lateral affricate consonant		+	t̪ɬ̪ʼ	◌t ◌ɬ ◌̪ ◌ʼ			ejective affricate lateral dental alveolar				
+θ’	voiceless dental ejective fricative consonant	+	+	θʼ	◌θ ◌’			ejective fricative dental				
+d̪ⁿ	with-nasal-release voiced dental stop consonant		+	d̪n̪	◌d ◌̪ ◌ⁿ			pulmonic stop voiced dental				
+ã̰ṵ̃	from nasalized creaky unrounded open front to nasalized creaky rounded close back diphthong	+	+	ã̰ṵ̃	◌a ◌̰ ◌̃ ◌u ◌̰ ◌̃			nasalized laryngealized diphtong high low central back unrounded rounded rising backing rounding				
+tɬ̪ʰ	aspirated voiceless dental lateral affricate consonant		+	t̪ɬ̪ʰ	◌t ◌ɬ ◌̪ ◌ʰ			pulmonic affricate lateral aspirated voiceless dental alveolar				
+pɸ	voiceless bilabial affricate consonant		+	pɸ	◌p ◌ɸ			pulmonic affricate voiceless bilabial				
+ɟⁿ	with-nasal-release voiced palatal stop consonant	+	+	ɟɲ	◌ɟ ◌ⁿ			pulmonic stop voiced palatal				
+ɖʳ	with-trilled-release voiced retroflex stop consonant	+	+	ɖɽ	◌ɖ ◌ʳ			pulmonic stop trilled release voiced retroflex				
+ɓ̥	devoiced voiced bilabial implosive consonant	+	+	ɓ̥	◌ɓ ◌̥			implosive stop voiceless bilabial				
+ḛə̰	from creaky unrounded close-mid front to creaky unrounded mid central diphthong	+	+	ḛə̰	◌e ◌̰ ◌ə ◌̰			laryngealized diphtong higher mid front central unrounded backing				
+tɕʰ	aspirated voiceless alveolo-palatal sibilant affricate consonant		+	tɕʰ	◌t ◌ɕ ◌ʰ			pulmonic affricate sibilant aspirated voiceless palatalized palato-alveolar				
+ɛ̰	creaky unrounded open-mid front vowel		+	ɛ̰	◌ɛ ◌̰			laryngealized lower mid front unrounded				
+r̝̥	raised devoiced voiced alveolar trill consonant	+	+	r̝̥	◌r ◌̝ ◌̥			pulmonic trill voiceless alveolar supra high				
+s̠	retracted voiceless alveolar sibilant fricative consonant	+	+	s̠	◌s ◌̠			pulmonic fricative sibilant voiceless retracted				
+<NA>	<NA>		+	'z'̰	<NA>			pulmonic fricative sibilant voiced laryngealized unspecified coronal place				
+ṵ̃ə̰̃	from nasalized creaky rounded close back to nasalized creaky unrounded mid central diphthong	+	+	ṵ̃ə̰̃	◌u ◌̰ ◌̃ ◌ə ◌̰ ◌̃			laryngealized diphtong high higher mid central back unrounded rounded lowering fronting unrounding nasalizing				
+e̤	breathy unrounded close-mid front vowel		+	e̤	◌e ◌̤			breathy voiced higher mid front unrounded				
+tɬ̪	voiceless dental lateral affricate consonant		+	t̪ɬ̪	◌t ◌ɬ ◌̪			pulmonic affricate lateral voiceless dental alveolar				
+ɨ̥	devoiced unrounded close central vowel	+	+	ɨ̥	◌ɨ ◌̥			voiceless high central unrounded				
+ts’ˤ	pharyngealized voiceless alveolar ejective sibilant affricate consonant	+	+	tsˤʼ	◌t ◌s ◌’ ◌ˤ			ejective affricate sibilant pharyngealized alveolar				
+oə	from rounded close-mid back to unrounded mid central diphthong	+	+	oə	◌o ◌ə			diphtong higher mid central back unrounded rounded fronting unrounding				
+ʄ̥	devoiced voiced palatal implosive consonant	+	+	ʄ̥	◌ʄ ◌̥			implosive stop voiceless palatal				
+l̪̥	devoiced voiced dental lateral approximant consonant		+	l̪̥	◌l ◌̪ ◌̥			pulmonic approximant lateral voiceless dental				
+ɸ’	voiceless bilabial ejective fricative consonant	+	+	ɸʼ	◌ɸ ◌’			ejective fricative bilabial				
+ⁿd̠ʲ	retracted pre-nasalized palatalized voiced alveolar stop consonant	+	+	n̠d̠ʲ	◌ⁿ ◌d ◌̠ ◌ʲ			pulmonic stop prenasalized voiced palatalized palato-alveolar				
+l̃	nasalized voiced alveolar lateral approximant consonant	+	+	l̃	◌l ◌̃			pulmonic approximant lateral nasalized voiced unspecified coronal place				
+ʃʼ	voiceless post-alveolar ejective sibilant fricative consonant		+	ʃʼ	◌ʃ ◌ʼ			ejective fricative sibilant palato-alveolar				
+bβ	voiced bilabial affricate consonant		+	bβ	◌b ◌β			pulmonic affricate voiced bilabial				
+eo	from unrounded close-mid front to rounded close-mid back diphthong	+	+	eo	◌e ◌o			diphtong higher mid front back unrounded rounded backing rounding				
+dˡ	with-lateral-release voiced alveolar stop consonant	+	+	dl	◌d ◌ˡ			pulmonic stop approximant lateral voiced alveolar				
+dʒʱ	breathy voiced post-alveolar sibilant affricate consonant		+	d̠̤ʒ̤	◌d ◌ʒ ◌ʱ			pulmonic affricate sibilant voiced breathy voiced palato-alveolar retracted				
+õə̃	from nasalized rounded close-mid back to nasalized unrounded mid central diphthong	+	+	õə̃	◌o ◌̃ ◌ə ◌̃			diphtong higher mid central back unrounded rounded fronting unrounding nasalizing				
+pː	long voiceless bilabial stop consonant		+	pː	◌p ◌ː			pulmonic stop voiceless long bilabial				
+ũə̃	from nasalized rounded close back to nasalized unrounded mid central diphthong	+	+	ũə̃	◌u ◌̃ ◌ə ◌̃			diphtong high higher mid central back unrounded rounded lowering fronting unrounding nasalizing				
+tʃ’ˤ	pharyngealized voiceless post-alveolar ejective sibilant affricate consonant	+	+	t̠ʃˤʼ	◌t ◌ʃ ◌’ ◌ˤ			ejective affricate sibilant pharyngealized palato-alveolar retracted				
+ṵo̰	from creaky rounded close back to creaky rounded close-mid back diphthong	+	+	ṵo̰	◌u ◌̰ ◌o ◌̰			laryngealized diphtong high higher mid back rounded lowering				
+ə̰̃	nasalized creaky unrounded mid central vowel	+	+	ə̰̃	◌ə ◌̰ ◌̃			nasalized laryngealized higher mid central unrounded				
+ⁿts	pre-nasalized voiceless alveolar sibilant affricate consonant	+	+	nts	◌ⁿ ◌t ◌s			pulmonic affricate sibilant prenasalized voiceless unspecified coronal place				
+tsʲ	palatalized voiceless alveolar sibilant affricate consonant		+	tsʲ	◌t ◌s ◌ʲ			pulmonic affricate sibilant voiceless palatalized unspecified coronal place				
+ʈʳ	with-trilled-release voiceless retroflex stop consonant	+	+	ʈɽ	◌ʈ ◌ʳ			pulmonic stop tap/flap voiceless voiced retroflex				
+ɛ̥	devoiced unrounded open-mid front vowel	+	+	ɛ̥	◌ɛ ◌̥			voiceless lower mid front unrounded				
+ḭ̃ə̰̃	from nasalized creaky unrounded close front to nasalized creaky unrounded mid central diphthong	+	+	ḭ̃ə̰̃	◌i ◌̰ ◌̃ ◌ə ◌̰ ◌̃			laryngealized diphtong high higher mid front central unrounded lowering backing nasalizing				
+ɔ̰	creaky rounded open-mid back vowel		+	ɔ̰	◌ɔ ◌̰			laryngealized lower mid back rounded				
+t’ʲ	palatalized voiceless alveolar ejective stop consonant	+	+	tʲʼ	◌t ◌’ ◌ʲ			ejective stop palatalized alveolar				
+ḭḛ	from creaky unrounded close front to creaky unrounded close-mid front diphthong	+	+	ḭḛ	◌i ◌̰ ◌e ◌̰			laryngealized diphtong high higher mid front unrounded lowering				
+ɟˡ	with-lateral-release voiced palatal stop consonant	+	+	ɟʎ	◌ɟ ◌ˡ			pulmonic stop approximant lateral voiced palatal				
+o̰ḛ	from creaky rounded close-mid back to creaky unrounded close-mid front diphthong	+	+	o̰ḛ	◌o ◌̰ ◌e ◌̰			laryngealized diphtong higher mid front back unrounded rounded fronting unrounding				
+ʰtʃ	pre-aspirated voiceless post-alveolar sibilant affricate consonant	+	+	ʰt̠ʃ	◌ʰ ◌t ◌ʃ			pulmonic affricate sibilant pre-aspirated voiceless palato-alveolar				
+tsʲʰ	palatalized aspirated voiceless alveolar sibilant affricate consonant	+	+	tsʲʰ	◌t ◌s ◌ʲ ◌ʰ			pulmonic affricate sibilant aspirated voiceless palatalized unspecified coronal place				
+nˤ	pharyngealized voiced alveolar nasal consonant		+	nˤ	◌n ◌ˤ			pulmonic nasal voiced pharyngealized unspecified coronal place				
+l̪̰	creaky voiced dental lateral approximant consonant	+	+	l̪̰	◌l ◌̪ ◌̰			pulmonic approximant lateral voiced laryngealized dental				
+ŋ̰	creaky voiced velar nasal consonant	+	+	ŋ̰	◌ŋ ◌̰			pulmonic nasal voiced laryngealized velar				
+rʲː	palatalized long voiced alveolar trill consonant	+	+	rrʲ	◌r ◌ʲ ◌ː			pulmonic unspecified rhotic voiced palatalized unspecified coronal place				
+ɖⁿ	with-nasal-release voiced retroflex stop consonant	+	+	ɖɳ	◌ɖ ◌ⁿ			pulmonic stop voiced retroflex				
+ɖˡ	with-lateral-release voiced retroflex stop consonant	+	+	ɖɭ	◌ɖ ◌ˡ			pulmonic stop approximant lateral voiced retroflex				
+dⁿ	with-nasal-release voiced alveolar stop consonant		+	dn	◌d ◌ⁿ			pulmonic stop voiced alveolar				
+l̠̥	devoiced voiced post-alveolar lateral approximant consonant	+	+	l̠̥	◌l ◌̠ ◌̥			pulmonic approximant lateral voiceless palato-alveolar				
+ã̰ḭ̃	from nasalized creaky unrounded open front to nasalized creaky unrounded close front diphthong	+	+	ã̰ḭ̃	◌a ◌̰ ◌̃ ◌i ◌̰ ◌̃			nasalized laryngealized diphtong high low front central unrounded rising fronting				
+kː	long voiceless velar stop consonant		+	kː	◌k ◌ː			pulmonic stop voiceless long velar				
+ⁿdʷ	pre-nasalized labialized voiced alveolar stop consonant	+	+	ndʷ	◌ⁿ ◌d ◌ʷ			pulmonic stop prenasalized voiced labialized alveolar				
+oɛ	from rounded close-mid back to unrounded open-mid front diphthong	+	+	oɛ	◌o ◌ɛ			diphtong higher mid lower mid front back unrounded rounded lowering fronting unrounding				
+eə	from unrounded close-mid front to unrounded mid central diphthong	+	+	eə	◌e ◌ə			diphtong higher mid front central unrounded backing				
+nʷ	labialized voiced alveolar nasal consonant	+	+	nʷ	◌n ◌ʷ			pulmonic nasal voiced labialized unspecified coronal place				
+ʂ’	voiceless retroflex ejective sibilant fricative consonant	+	+	ʂʼ	◌ʂ ◌’			ejective fricative sibilant retroflex				
+a̰ḭ	from creaky unrounded open front to creaky unrounded close front diphthong	+	+	a̰ḭ	◌a ◌̰ ◌i ◌̰			laryngealized diphtong high low front central unrounded rising fronting				
+ᶑ̥	devoiced voiced retroflex implosive consonant	+	+	ᶑ̥	◌ᶑ ◌̥			implosive stop voiceless retroflex				
+ḭə̰	from creaky unrounded close front to creaky unrounded mid central diphthong	+	+	ḭə̰	◌i ◌̰ ◌ə ◌̰			laryngealized diphtong high higher mid front central unrounded lowering backing				
+ɛ̰̃	nasalized creaky unrounded open-mid front vowel	+	+	ɛ̰̃	◌ɛ ◌̰ ◌̃			nasalized laryngealized lower mid front unrounded				
+o̤	breathy rounded close-mid back vowel		+	o̤	◌o ◌̤			breathy voiced higher mid back rounded				
+a̰ṵ	from creaky unrounded open front to creaky rounded close back diphthong	+	+	a̰ṵ	◌a ◌̰ ◌u ◌̰			laryngealized diphtong high low central back unrounded rounded rising backing rounding				
+kʲʰ	palatalized aspirated voiceless velar stop consonant	+	+	kʰʲ	◌k ◌ʲ ◌ʰ			pulmonic stop aspirated voiceless palatalized velar				
+ẽə̃	from nasalized unrounded close-mid front to nasalized unrounded mid central diphthong	+	+	ẽə̃	◌e ◌̃ ◌ə ◌̃			diphtong higher mid front central unrounded backing nasalizing				
+ṵə̰	from creaky rounded close back to creaky unrounded mid central diphthong	+	+	ṵə̰	◌u ◌̰ ◌ə ◌̰			laryngealized diphtong high higher mid central back unrounded rounded lowering fronting unrounding				
+ə˞	rhotacized unrounded mid central vowel		+	ə˞	◌ə ◌˞			unspecified mid central unrounded rhotacized				
+tː	long voiceless alveolar stop consonant		+	tː	◌t ◌ː			pulmonic stop voiceless long alveolar				
+ɒ̃ː	long nasalized rounded open back vowel		+	ɒ̃ː	◌ɒ ◌̃ ◌ː			nasalized long low back rounded				
+ə̤	breathy unrounded mid central vowel	+	+	ə̤	◌ə ◌̤			breathy voiced higher mid central unrounded				
+ə̰̃õ̰	from nasalized creaky unrounded mid central to nasalized creaky rounded close-mid back diphthong	+	+	ə̰̃õ̰	◌ə ◌̰ ◌̃ ◌o ◌̰ ◌̃			laryngealized diphtong higher mid central back unrounded rounded backing rounding nasalizing				
+ⁿɖʳ	pre-nasalized with-trilled-release voiced retroflex stop consonant	+	+	ɳɖɽ	◌ⁿ ◌ɖ ◌ʳ			pulmonic stop prenasalized trilled release voiced retroflex				
+s̪ʼ	voiceless dental ejective sibilant fricative consonant		+	s̪ʼ	◌s ◌̪ ◌ʼ			ejective fricative sibilant dental				
+ɬˤ	pharyngealized voiceless alveolar lateral fricative consonant	+	+	ɬˤ	◌ɬ ◌ˤ			pulmonic fricative lateral voiceless pharyngealized alveolar				
+pfʼ	voiceless labio-dental ejective affricate consonant		+	pfʼ	◌p ◌f ◌ʼ			ejective affricate bilabial labio-dental				
