@@ -212,7 +212,7 @@ dʰ	aspirated voiced alveolar stop consonant		+	dʰ	◌d ◌ʰ	http://eurasianph
 dʱ	breathy voiced alveolar stop consonant		+	dʱ	◌d ◌ʱ	http://eurasianphonology.info/search_exact?dialects=True&query=d%CA%B1					1	
 dʲ	palatalized voiced alveolar stop consonant		+	dʲ	◌d ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=d%CA%B2					22	
 dʷ	labialized voiced alveolar stop consonant	+	+	dʷ	◌d ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=d%CA%B7					2	
-d’	voiced alveolar ejective stop consonant	+	+	dʼ	◌d ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=d%CA%BC					1	
+dʼ	voiced alveolar ejective stop consonant	+	+	dʼ	◌d ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=d%CA%BC					1	
 dː	long voiced alveolar stop consonant		+	dː	◌d ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=d%CB%90					3	
 dˤ	pharyngealized voiced alveolar stop consonant		+	dˤ	◌d ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=d%CB%A4					5	
 d̠	voiced post-alveolar stop consonant		+	d̠	◌d ◌̠	http://eurasianphonology.info/search_exact?dialects=True&query=d%CC%A0					1	
@@ -391,25 +391,25 @@ j̊	devoiced voiced palatal approximant consonant		+	j̊	◌j ◌̊	http://euras
 k	voiceless velar stop consonant		+	k	◌k	http://eurasianphonology.info/search_exact?dialects=True&query=k					372	
 kx	voiceless velar affricate consonant		+	kx	◌k ◌x	http://eurasianphonology.info/search_exact?dialects=True&query=kx					3	
 kxʰː	aspirated long voiceless velar affricate consonant	+	+	kxːʰ	◌k ◌x ◌ʰ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=kx%CB%90%CA%B0					1	
-kx’ː	long voiceless velar ejective affricate consonant	+	+	kxːʼ	◌k ◌x ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=kx%CB%90%CA%BC					2	
+kxʼː	long voiceless velar ejective affricate consonant	+	+	kxːʼ	◌k ◌x ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=kx%CB%90%CA%BC					2	
 kʰ	aspirated voiceless velar stop consonant		+	kʰ	◌k ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B0					241	
 kʲʰ	palatalized aspirated voiceless velar stop consonant	+	+	kʰʲ	◌k ◌ʲ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B0%CA%B2					5	
 kʷʰ	labialized aspirated voiceless velar stop consonant		+	kʰʷ	◌k ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B0%CA%B7					13	
 kʲʷʰ	palatalized labialized aspirated voiceless velar stop consonant	+	+	kʰʷʲ	◌k ◌ʲ ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B0%CA%B7%CA%B2					1	
 kʲ	palatalized voiceless velar stop consonant		+	kʲ	◌k ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B2					18	
 kʲʰ	palatalized aspirated voiceless velar stop consonant	+	+	kʲʰ	◌k ◌ʲ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B2%CA%B0					4	
-k’ʲ	palatalized voiceless velar ejective stop consonant	+	+	kʲʼ	◌k ◌’ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B2%CA%BC					4	
+kʼʲ	palatalized voiceless velar ejective stop consonant	+	+	kʲʼ	◌k ◌ʼ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B2%CA%BC					4	
 kʲː	palatalized long voiceless velar stop consonant	+	+	kʲː	◌k ◌ʲ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B2%CB%90					1	
 kʷ	labialized voiceless velar stop consonant		+	kʷ	◌k ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B7					24	
 kʷʰ	labialized aspirated voiceless velar stop consonant		+	kʷʰ	◌k ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B7%CA%B0					7	
 kʲʷ	palatalized labialized voiceless velar stop consonant	+	+	kʷʲ	◌k ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B7%CA%B2					1	
 kʼʷ	labialized voiceless velar ejective stop consonant		+	kʷʼ	◌k ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%B7%CA%BC					3	
 kʼ	voiceless velar ejective stop consonant		+	kʼ	◌k ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC					43	
-k’ʲ	palatalized voiceless velar ejective stop consonant	+	+	kʼʲ	◌k ◌’ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC%CA%B2					1	
+kʼʲ	palatalized voiceless velar ejective stop consonant	+	+	kʼʲ	◌k ◌ʼ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC%CA%B2					1	
 kʼʷ	labialized voiceless velar ejective stop consonant		+	kʼʷ	◌k ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC%CA%B7					18	
-k’ʲʷ	palatalized labialized voiceless velar ejective stop consonant	+	+	kʼʷʲ	◌k ◌’ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC%CA%B7%CA%B2					1	
-k’ː	long voiceless velar ejective stop consonant	+	+	kʼː	◌k ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC%CB%90					1	
-k’ʷː	labialized long voiceless velar ejective stop consonant	+	+	kʼːʷ	◌k ◌’ ◌ʷ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC%CB%90%CA%B7					1	
+kʼʲʷ	palatalized labialized voiceless velar ejective stop consonant	+	+	kʼʷʲ	◌k ◌ʼ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC%CA%B7%CA%B2					1	
+kʼː	long voiceless velar ejective stop consonant	+	+	kʼː	◌k ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC%CB%90					1	
+kʼʷː	labialized long voiceless velar ejective stop consonant	+	+	kʼːʷ	◌k ◌ʼ ◌ʷ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=k%CA%BC%CB%90%CA%B7					1	
 kː	long voiceless velar stop consonant		+	kː	◌k ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=k%CB%90					7	
 kʰː	aspirated long voiceless velar stop consonant	+	+	kːʰ	◌k ◌ʰ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=k%CB%90%CA%B0					1	
 kʷː	labialized long voiceless velar stop consonant		+	kːʷ	◌k ◌ʷ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=k%CB%90%CA%B7					2	
@@ -521,15 +521,15 @@ o̰	creaky rounded close-mid back vowel		+	o̰	◌o ◌̰	http://eurasianphonolo
 p	voiceless bilabial stop consonant		+	p	◌p	http://eurasianphonology.info/search_exact?dialects=True&query=p					382	
 pf	voiceless labio-dental affricate consonant		+	pf	◌p ◌f	http://eurasianphonology.info/search_exact?dialects=True&query=pf					2	
 pʰ	aspirated voiceless bilabial stop consonant		+	pʰ	◌p ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%B0					241	
-pʰʲ	palatalized aspirated voiceless bilabial stop consonant		+	pʰʲ	◌p ◌ʰ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%B0%CA%B2					5	
+pʲʰ	palatalized aspirated voiceless bilabial stop consonant	+	+	pʰʲ	◌p ◌ʲ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%B0%CA%B2					5	
 pʷʰ	labialized aspirated voiceless bilabial stop consonant	+	+	pʰʷ	◌p ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%B0%CA%B7					1	
 pˤʰ	pharyngealized aspirated voiceless bilabial stop consonant	+	+	pʰˤ	◌p ◌ˤ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%B0%CB%A4					1	
 pʲ	palatalized voiceless bilabial stop consonant		+	pʲ	◌p ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%B2					27	
 pʲː	palatalized long voiceless bilabial stop consonant	+	+	pʲː	◌p ◌ʲ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%B2%CB%90					1	
 pʷ	labialized voiceless bilabial stop consonant		+	pʷ	◌p ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%B7					1	
 pʼ	voiceless bilabial ejective stop consonant		+	pʼ	◌p ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%BC					40	
-p’ʲ	palatalized voiceless bilabial ejective stop consonant	+	+	pʼʲ	◌p ◌’ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%BC%CA%B2					1	
-p’ʷ	labialized voiceless bilabial ejective stop consonant	+	+	pʼʷ	◌p ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%BC%CA%B7					1	
+pʼʲ	palatalized voiceless bilabial ejective stop consonant	+	+	pʼʲ	◌p ◌ʼ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%BC%CA%B2					1	
+pʼʷ	labialized voiceless bilabial ejective stop consonant	+	+	pʼʷ	◌p ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CA%BC%CA%B7					1	
 pː	long voiceless bilabial stop consonant		+	pː	◌p ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=p%CB%90					10	
 pʰː	aspirated long voiceless bilabial stop consonant		+	pːʰ	◌p ◌ʰ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=p%CB%90%CA%B0					1	
 pˠ	velarized voiceless bilabial stop consonant		+	pˠ	◌p ◌ˠ	http://eurasianphonology.info/search_exact?dialects=True&query=p%CB%A0					1	
@@ -542,27 +542,27 @@ qʲʰ	palatalized aspirated voiceless uvular stop consonant	+	+	qʰʲ	◌q ◌ʲ
 qʷʰ	labialized aspirated voiceless uvular stop consonant		+	qʰʷ	◌q ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%B0%CA%B7					2	
 qʲʷʰ	palatalized labialized aspirated voiceless uvular stop consonant	+	+	qʰʷʲ	◌q ◌ʲ ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%B0%CA%B7%CA%B2					1	
 qʲ	palatalized voiceless uvular stop consonant	+	+	qʲ	◌q ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%B2					1	
-q’ʲ	palatalized voiceless uvular ejective stop consonant	+	+	qʲʼ	◌q ◌’ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%B2%CA%BC					2	
+qʼʲ	palatalized voiceless uvular ejective stop consonant	+	+	qʲʼ	◌q ◌ʼ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%B2%CA%BC					2	
 qʷ	labialized voiceless uvular stop consonant		+	qʷ	◌q ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%B7					17	
 qʷʰ	labialized aspirated voiceless uvular stop consonant		+	qʷʰ	◌q ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%B7%CA%B0					1	
 qʲʷ	palatalized labialized voiceless uvular stop consonant	+	+	qʷʲ	◌q ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%B7%CA%B2					1	
 qʼʷ	labialized voiceless uvular ejective stop consonant		+	qʷʼ	◌q ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%B7%CA%BC					3	
 qʼ	voiceless uvular ejective stop consonant		+	qʼ	◌q ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC					17	
-q’ʲ	palatalized voiceless uvular ejective stop consonant	+	+	qʼʲ	◌q ◌’ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC%CA%B2					1	
+qʼʲ	palatalized voiceless uvular ejective stop consonant	+	+	qʼʲ	◌q ◌ʼ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC%CA%B2					1	
 qʼʷ	labialized voiceless uvular ejective stop consonant		+	qʼʷ	◌q ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC%CA%B7					6	
-q’ʲʷ	palatalized labialized voiceless uvular ejective stop consonant	+	+	qʼʷʲ	◌q ◌’ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC%CA%B7%CA%B2					1	
-q’ː	long voiceless uvular ejective stop consonant	+	+	qʼː	◌q ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC%CB%90					1	
-q’ʷː	labialized long voiceless uvular ejective stop consonant	+	+	qʼːʷ	◌q ◌’ ◌ʷ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC%CB%90%CA%B7					1	
+qʼʲʷ	palatalized labialized voiceless uvular ejective stop consonant	+	+	qʼʷʲ	◌q ◌ʼ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC%CA%B7%CA%B2					1	
+qʼː	long voiceless uvular ejective stop consonant	+	+	qʼː	◌q ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC%CB%90					1	
+qʼʷː	labialized long voiceless uvular ejective stop consonant	+	+	qʼːʷ	◌q ◌ʼ ◌ʷ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=q%CA%BC%CB%90%CA%B7					1	
 qː	long voiceless uvular stop consonant	+	+	qː	◌q ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=q%CB%90					9	
 qʷː	labialized long voiceless uvular stop consonant	+	+	qːʷ	◌q ◌ʷ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=q%CB%90%CA%B7					2	
 qˤ	pharyngealized voiceless uvular stop consonant	+	+	qˤ	◌q ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CB%A4					2	
-q’ˤ	pharyngealized voiceless uvular ejective stop consonant	+	+	qˤʼ	◌q ◌’ ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CB%A4%CA%BC					1	
+qʼˤ	pharyngealized voiceless uvular ejective stop consonant	+	+	qˤʼ	◌q ◌ʼ ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CB%A4%CA%BC					1	
 q̺	voiceless apical uvular stop consonant	+	+	q̺	◌q ◌̺	http://eurasianphonology.info/search_exact?dialects=True&query=q%CC%BA					1	
 qχ	voiceless uvular affricate consonant		+	qχ	◌q ◌χ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CF%87					3	
 qχʰ	aspirated voiceless uvular affricate consonant	+	+	qχʰ	◌q ◌χ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CF%87%CA%B0					1	
-qχ’	voiceless uvular ejective affricate consonant	+	+	qχʼ	◌q ◌χ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=q%CF%87%CA%BC					8	
+qχʼ	voiceless uvular ejective affricate consonant	+	+	qχʼ	◌q ◌χ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=q%CF%87%CA%BC					8	
 qχʰː	aspirated long voiceless uvular affricate consonant	+	+	qχːʰ	◌q ◌χ ◌ʰ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=q%CF%87%CB%90%CA%B0					2	
-qχ’ː	long voiceless uvular ejective affricate consonant	+	+	qχːʼ	◌q ◌χ ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=q%CF%87%CB%90%CA%BC					1	
+qχʼː	long voiceless uvular ejective affricate consonant	+	+	qχːʼ	◌q ◌χ ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=q%CF%87%CB%90%CA%BC					1	
 qʼ	voiceless uvular ejective stop consonant		+	q’	◌q ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=q%E2%80%99					1	
 qʼʷ	labialized voiceless uvular ejective stop consonant		+	q’ʷ	◌q ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=q%E2%80%99%CA%B7					1	
 r	voiced alveolar trill consonant		+	r	◌r	http://eurasianphonology.info/search_exact?dialects=True&query=r					258	
@@ -591,7 +591,7 @@ sʲː	palatalized long voiceless alveolar sibilant fricative consonant	+	+	sʲː
 sʷ	labialized voiceless alveolar sibilant fricative consonant	+	+	sʷ	◌s ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=s%CA%B7					2	
 sʼ	voiceless alveolar ejective sibilant fricative consonant		+	sʼ	◌s ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=s%CA%BC					1	
 sː	long voiceless alveolar sibilant fricative consonant		+	sː	◌s ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=s%CB%90					13	
-s’ː	long voiceless alveolar ejective sibilant fricative consonant	+	+	sːʼ	◌s ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=s%CB%90%CA%BC					1	
+sʼː	long voiceless alveolar ejective sibilant fricative consonant	+	+	sːʼ	◌s ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=s%CB%90%CA%BC					1	
 sˠ	velarized voiceless alveolar sibilant fricative consonant		+	sˠ	◌s ◌ˠ	http://eurasianphonology.info/search_exact?dialects=True&query=s%CB%A0					2	
 sˤ	pharyngealized voiceless alveolar sibilant fricative consonant	+	+	sˤ	◌s ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=s%CB%A4					9	
 s̠	retracted voiceless alveolar sibilant fricative consonant	+	+	s̠	◌s ◌̠	http://eurasianphonology.info/search_exact?dialects=True&query=s%CC%A0					2	
@@ -618,11 +618,11 @@ tsʲ	palatalized voiceless alveolar sibilant affricate consonant		+	tsʲ	◌t �
 tsʲː	palatalized long voiceless alveolar sibilant affricate consonant	+	+	tsʲː	◌t ◌s ◌ʲ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CA%B2%CB%90					1	
 tsʷ	labialized voiceless alveolar sibilant affricate consonant	+	+	tsʷ	◌t ◌s ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CA%B7					1	
 tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	tsʼ	◌t ◌s ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CA%BC					29	
-ts’ʷ	labialized voiceless alveolar ejective sibilant affricate consonant	+	+	tsʼʷ	◌t ◌s ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CA%BC%CA%B7					2	
-ts’ː	long voiceless alveolar ejective sibilant affricate consonant	+	+	tsʼː	◌t ◌s ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CA%BC%CB%90					1	
+tsʼʷ	labialized voiceless alveolar ejective sibilant affricate consonant	+	+	tsʼʷ	◌t ◌s ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CA%BC%CA%B7					2	
+tsʼː	long voiceless alveolar ejective sibilant affricate consonant	+	+	tsʼː	◌t ◌s ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CA%BC%CB%90					1	
 tsː	long voiceless alveolar sibilant affricate consonant		+	tsː	◌t ◌s ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CB%90					4	
 tsʰː	aspirated long voiceless alveolar sibilant affricate consonant	+	+	tsːʰ	◌t ◌s ◌ʰ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CB%90%CA%B0					3	
-ts’ː	long voiceless alveolar ejective sibilant affricate consonant	+	+	tsːʼ	◌t ◌s ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CB%90%CA%BC					1	
+tsʼː	long voiceless alveolar ejective sibilant affricate consonant	+	+	tsːʼ	◌t ◌s ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CB%90%CA%BC					1	
 ts̪	voiceless dental sibilant affricate consonant		+	ts̪	◌t ◌s ◌̪	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CC%AA					1	
 ts̺	voiceless apical alveolar sibilant affricate consonant	+	+	ts̺	◌t ◌s ◌̺	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CC%BA					6	
 ts̻	voiceless laminal alveolar sibilant affricate consonant	+	+	ts̻	◌t ◌s ◌̻	http://eurasianphonology.info/search_exact?dialects=True&query=ts%CC%BB					5	
@@ -630,21 +630,21 @@ tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	ts’	◌t ◌s
 tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant		+	tŝʰ	◌t ◌ʃ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C5%9D%CA%B0					1	
 tʃʷ	labialized voiceless post-alveolar sibilant affricate consonant		+	tŝʷ	◌t ◌ʃ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C5%9D%CA%B7					1	
 tʃʷʰ	labialized aspirated voiceless post-alveolar sibilant affricate consonant	+	+	tŝʷʰ	◌t ◌ʃ ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C5%9D%CA%B7%CA%B0					2	
-tʃ’ʷ	labialized voiceless post-alveolar ejective sibilant affricate consonant	+	+	tŝʷʼ	◌t ◌ʃ ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C5%9D%CA%B7%CA%BC					2	
+tʃʼʷ	labialized voiceless post-alveolar ejective sibilant affricate consonant	+	+	tŝʷʼ	◌t ◌ʃ ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C5%9D%CA%B7%CA%BC					2	
 tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	tŝʼ	◌t ◌ʃ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C5%9D%CA%BC					1	
 tɕ	voiceless alveolo-palatal sibilant affricate consonant		+	tɕ	◌t ◌ɕ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%95					94	
 tɕʰ	aspirated voiceless alveolo-palatal sibilant affricate consonant		+	tɕʰ	◌t ◌ɕ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%95%CA%B0					57	
-tɕ’	voiceless alveolo-palatal ejective sibilant affricate consonant	+	+	tɕʼ	◌t ◌ɕ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%95%CA%BC					2	
+tɕʼ	voiceless alveolo-palatal ejective sibilant affricate consonant	+	+	tɕʼ	◌t ◌ɕ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%95%CA%BC					2	
 tɕː	long voiceless alveolo-palatal sibilant affricate consonant		+	tɕː	◌t ◌ɕ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%95%CB%90					1	
 tɬ	voiceless alveolar lateral affricate consonant		+	tɬ	◌t ◌ɬ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC					1	
 tɬʰ	aspirated voiceless alveolar lateral affricate consonant		+	tɬʰ	◌t ◌ɬ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CA%B0					1	
 tɬʷʰ	labialized aspirated voiceless alveolar lateral affricate consonant	+	+	tɬʰʷ	◌t ◌ɬ ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CA%B0%CA%B7					1	
 tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬʼ	◌t ◌ɬ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CA%BC					3	
-tɬ’ʷ	labialized voiceless alveolar ejective lateral affricate consonant	+	+	tɬʼʷ	◌t ◌ɬ ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CA%BC%CA%B7					1	
-tɬ’ː	long voiceless alveolar ejective lateral affricate consonant	+	+	tɬʼː	◌t ◌ɬ ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CA%BC%CB%90					1	
+tɬʼʷ	labialized voiceless alveolar ejective lateral affricate consonant	+	+	tɬʼʷ	◌t ◌ɬ ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CA%BC%CA%B7					1	
+tɬʼː	long voiceless alveolar ejective lateral affricate consonant	+	+	tɬʼː	◌t ◌ɬ ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CA%BC%CB%90					1	
 tɬː	long voiceless alveolar lateral affricate consonant	+	+	tɬː	◌t ◌ɬ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CB%90					1	
 tɬʰː	aspirated long voiceless alveolar lateral affricate consonant	+	+	tɬːʰ	◌t ◌ɬ ◌ʰ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CB%90%CA%B0					3	
-tɬ’ː	long voiceless alveolar ejective lateral affricate consonant	+	+	tɬːʼ	◌t ◌ɬ ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CB%90%CA%BC					2	
+tɬʼː	long voiceless alveolar ejective lateral affricate consonant	+	+	tɬːʼ	◌t ◌ɬ ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%CB%90%CA%BC					2	
 tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬ’	◌t ◌ɬ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%C9%AC%E2%80%99					1	
 ʈʂ	voiceless retroflex sibilant affricate consonant		+	tʂ	◌ʈ ◌ʂ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%82					5	
 ʈʂʰ	aspirated voiceless retroflex sibilant affricate consonant		+	tʂʰ	◌ʈ ◌ʂ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%82%CA%B0					4	
@@ -656,9 +656,9 @@ tʃʲ	palatalized voiceless post-alveolar sibilant affricate consonant		+	tʃʲ	
 tʃʷ	labialized voiceless post-alveolar sibilant affricate consonant		+	tʃʷ	◌t ◌ʃ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CA%B7					3	
 tʃʷʰ	labialized aspirated voiceless post-alveolar sibilant affricate consonant	+	+	tʃʷʰ	◌t ◌ʃ ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CA%B7%CA%B0					1	
 tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼ	◌t ◌ʃ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CA%BC					36	
-tʃ’ʷ	labialized voiceless post-alveolar ejective sibilant affricate consonant	+	+	tʃʼʷ	◌t ◌ʃ ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CA%BC%CA%B7					2	
+tʃʼʷ	labialized voiceless post-alveolar ejective sibilant affricate consonant	+	+	tʃʼʷ	◌t ◌ʃ ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CA%BC%CA%B7					2	
 tʃʼː	long voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼː	◌t ◌ʃ ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CA%BC%CB%90					1	
-tʃ’ˤ	pharyngealized voiceless post-alveolar ejective sibilant affricate consonant	+	+	tʃʼˤ	◌t ◌ʃ ◌’ ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CA%BC%CB%A4					1	
+tʃʼˤ	pharyngealized voiceless post-alveolar ejective sibilant affricate consonant	+	+	tʃʼˤ	◌t ◌ʃ ◌ʼ ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CA%BC%CB%A4					1	
 tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tʃː	◌t ◌ʃ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CB%90					4	
 tʃʰː	aspirated long voiceless post-alveolar sibilant affricate consonant	+	+	tʃːʰ	◌t ◌ʃ ◌ʰ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CB%90%CA%B0					3	
 tʃʲː	palatalized long voiceless post-alveolar sibilant affricate consonant	+	+	tʃːʲ	◌t ◌ʃ ◌ʲ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%83%CB%90%CA%B2					1	
@@ -675,9 +675,9 @@ tʲ	palatalized voiceless alveolar stop consonant		+	tʲ	◌t ◌ʲ	http://euras
 tʲʰ	palatalized aspirated voiceless alveolar stop consonant		+	tʲʰ	◌t ◌ʲ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%B2%CA%B0					3	
 tʷ	labialized voiceless alveolar stop consonant		+	tʷ	◌t ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%B7					1	
 tʷʰ	labialized aspirated voiceless alveolar stop consonant		+	tʷʰ	◌t ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%B7%CA%B0					3	
-t’ʷ	labialized voiceless alveolar ejective stop consonant	+	+	tʷʼ	◌t ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%B7%CA%BC					2	
+tʼʷ	labialized voiceless alveolar ejective stop consonant	+	+	tʷʼ	◌t ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%B7%CA%BC					2	
 tʼ	voiceless alveolar ejective stop consonant		+	tʼ	◌t ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%BC					12	
-t’ʷ	labialized voiceless alveolar ejective stop consonant	+	+	tʼʷ	◌t ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%BC%CA%B7					3	
+tʼʷ	labialized voiceless alveolar ejective stop consonant	+	+	tʼʷ	◌t ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CA%BC%CA%B7					3	
 tː	long voiceless alveolar stop consonant		+	tː	◌t ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%CB%90					6	
 ts	voiceless alveolar sibilant affricate consonant		+	tˢ	◌t ◌s	http://eurasianphonology.info/search_exact?dialects=True&query=t%CB%A2					1	
 tˤ	pharyngealized voiceless alveolar stop consonant		+	tˤ	◌t ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CB%A4					8	
@@ -695,14 +695,14 @@ ts̪ʲ	palatalized voiceless dental sibilant affricate consonant		+	t̪s̪ʲ	◌
 ts̪ʷ	labialized voiceless dental sibilant affricate consonant	+	+	t̪s̪ʷ	◌t ◌s ◌̪ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CA%B7					1	
 ts̪ʲʷ	palatalized labialized voiceless dental sibilant affricate consonant	+	+	t̪s̪ʷʲ	◌t ◌s ◌̪ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CA%B7%CA%B2					1	
 ts̪ʼ	voiceless dental ejective sibilant affricate consonant		+	t̪s̪ʼ	◌t ◌s ◌̪ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CA%BC					2	
-ts̪’ʲ	palatalized voiceless dental ejective sibilant affricate consonant	+	+	t̪s̪ʼʲ	◌t ◌s ◌̪ ◌’ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CA%BC%CA%B2					1	
-ts̪’ʷ	labialized voiceless dental ejective sibilant affricate consonant	+	+	t̪s̪ʼʷ	◌t ◌s ◌̪ ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CA%BC%CA%B7					1	
-ts̪’ʲʷ	palatalized labialized voiceless dental ejective sibilant affricate consonant	+	+	t̪s̪ʼʷʲ	◌t ◌s ◌̪ ◌’ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CA%BC%CA%B7%CA%B2					1	
+ts̪ʼʲ	palatalized voiceless dental ejective sibilant affricate consonant	+	+	t̪s̪ʼʲ	◌t ◌s ◌̪ ◌ʼ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CA%BC%CA%B2					1	
+ts̪ʼʷ	labialized voiceless dental ejective sibilant affricate consonant	+	+	t̪s̪ʼʷ	◌t ◌s ◌̪ ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CA%BC%CA%B7					1	
+ts̪ʼʲʷ	palatalized labialized voiceless dental ejective sibilant affricate consonant	+	+	t̪s̪ʼʷʲ	◌t ◌s ◌̪ ◌ʼ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CA%BC%CA%B7%CA%B2					1	
 ts̪ː	long voiceless dental sibilant affricate consonant		+	t̪s̪ː	◌t ◌s ◌̪ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AAs%CC%AA%CB%90					1	
 tɬ̪	voiceless dental lateral affricate consonant		+	t̪ɬ	◌t ◌ɬ ◌̪	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%C9%AC					1	
 tɬ̪ʼ	voiceless dental ejective lateral affricate consonant		+	t̪ɬʼ	◌t ◌ɬ ◌̪ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%C9%AC%CA%BC					1	
 t̪ʰ	aspirated voiceless dental stop consonant		+	t̪ʰ	◌t ◌̪ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%B0					66	
-t̪ʰʲ	palatalized aspirated voiceless dental stop consonant		+	t̪ʰʲ	◌t ◌̪ ◌ʰ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%B0%CA%B2					2	
+t̪ʲʰ	palatalized aspirated voiceless dental stop consonant	+	+	t̪ʰʲ	◌t ◌̪ ◌ʲ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%B0%CA%B2					2	
 t̪ʷʰ	labialized aspirated voiceless dental stop consonant		+	t̪ʰʷ	◌t ◌̪ ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%B0%CA%B7					1	
 t̪ʲʷʰ	palatalized labialized aspirated voiceless dental stop consonant	+	+	t̪ʰʷʲ	◌t ◌̪ ◌ʲ ◌ʷ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%B0%CA%B7%CA%B2					1	
 t̪ˤʰ	pharyngealized aspirated voiceless dental stop consonant	+	+	t̪ʰˤ	◌t ◌̪ ◌ˤ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%B0%CB%A4					1	
@@ -710,10 +710,10 @@ t̪ʲ	palatalized voiceless dental stop consonant		+	t̪ʲ	◌t ◌̪ ◌ʲ	http
 t̪ʷ	labialized voiceless dental stop consonant		+	t̪ʷ	◌t ◌̪ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%B7					1	
 t̪ʲʷ	palatalized labialized voiceless dental stop consonant	+	+	t̪ʷʲ	◌t ◌̪ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%B7%CA%B2					1	
 t̪ʼ	voiceless dental ejective stop consonant		+	t̪ʼ	◌t ◌̪ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%BC					19	
-t̪’ʲ	palatalized voiceless dental ejective stop consonant	+	+	t̪ʼʲ	◌t ◌̪ ◌’ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%BC%CA%B2					1	
-t̪’ʷ	labialized voiceless dental ejective stop consonant	+	+	t̪ʼʷ	◌t ◌̪ ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%BC%CA%B7					1	
-t̪’ʲʷ	palatalized labialized voiceless dental ejective stop consonant	+	+	t̪ʼʷʲ	◌t ◌̪ ◌’ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%BC%CA%B7%CA%B2					1	
-t̪’ˤ	pharyngealized voiceless dental ejective stop consonant	+	+	t̪ʼˤ	◌t ◌̪ ◌’ ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%BC%CB%A4					1	
+t̪ʼʲ	palatalized voiceless dental ejective stop consonant	+	+	t̪ʼʲ	◌t ◌̪ ◌ʼ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%BC%CA%B2					1	
+t̪ʼʷ	labialized voiceless dental ejective stop consonant	+	+	t̪ʼʷ	◌t ◌̪ ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%BC%CA%B7					1	
+t̪ʼʲʷ	palatalized labialized voiceless dental ejective stop consonant	+	+	t̪ʼʷʲ	◌t ◌̪ ◌ʼ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%BC%CA%B7%CA%B2					1	
+t̪ʼˤ	pharyngealized voiceless dental ejective stop consonant	+	+	t̪ʼˤ	◌t ◌̪ ◌ʼ ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CA%BC%CB%A4					1	
 t̪ː	long voiceless dental stop consonant		+	t̪ː	◌t ◌̪ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CB%90					6	
 t̪ˠ	velarized voiceless dental stop consonant		+	t̪ˠ	◌t ◌̪ ◌ˠ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CB%A0					1	
 t̪ˠʰ	velarized aspirated voiceless dental stop consonant	+	+	t̪ˠʰ	◌t ◌̪ ◌ˠ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%AA%CB%A0%CA%B0					1	
@@ -726,10 +726,10 @@ t̪ʼ	voiceless dental ejective stop consonant		+	t̪’	◌t ◌̪ ◌ʼ	http:/
 t̺	voiceless apical alveolar stop consonant	+	+	t̺	◌t ◌̺	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BA					15	
 ts̺	voiceless apical alveolar sibilant affricate consonant	+	+	t̺s̺	◌t ◌s ◌̺	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BAs%CC%BA					11	
 ts̺ʰ	aspirated voiceless apical alveolar sibilant affricate consonant	+	+	t̺s̺ʰ	◌t ◌s ◌̺ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BAs%CC%BA%CA%B0					7	
-ts̺’	voiceless apical alveolar ejective sibilant affricate consonant	+	+	t̺s̺ʼ	◌t ◌s ◌̺ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BAs%CC%BA%CA%BC					9	
+ts̺ʼ	voiceless apical alveolar ejective sibilant affricate consonant	+	+	t̺s̺ʼ	◌t ◌s ◌̺ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BAs%CC%BA%CA%BC					9	
 ts̺ː	long voiceless apical alveolar sibilant affricate consonant	+	+	t̺s̺ː	◌t ◌s ◌̺ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BAs%CC%BA%CB%90					4	
 t̺ʰ	aspirated voiceless apical alveolar stop consonant	+	+	t̺ʰ	◌t ◌̺ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BA%CA%B0					15	
-t̺’	voiceless apical alveolar ejective stop consonant	+	+	t̺ʼ	◌t ◌̺ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BA%CA%BC					13	
+t̺ʼ	voiceless apical alveolar ejective stop consonant	+	+	t̺ʼ	◌t ◌̺ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BA%CA%BC					13	
 t̻	voiceless laminal alveolar stop consonant	+	+	t̻	◌t ◌̻	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BB					11	
 ts̻	voiceless laminal alveolar sibilant affricate consonant	+	+	t̻s̻	◌t ◌s ◌̻	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BBs%CC%BB					1	
 t̻ʰ	aspirated voiceless laminal alveolar stop consonant	+	+	t̻ʰ	◌t ◌̻ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=t%CC%BB%CA%B0					3	
@@ -905,7 +905,7 @@ çː	long voiceless palatal sibilant fricative consonant	+	+	çː	◌c ◌̧ �
 ç̟	advanced voiceless palatal sibilant fricative consonant	+	+	ç̟	◌c ◌̧ ◌̟	http://eurasianphonology.info/search_exact?dialects=True&query=%C3%A7%CC%9F					2	
 ð	voiced dental fricative consonant		+	ð	◌ð	http://eurasianphonology.info/search_exact?dialects=True&query=%C3%B0					34	
 ðʲ	palatalized voiced dental fricative consonant	+	+	ðʲ	◌ð ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=%C3%B0%CA%B2					2	
-ð’	voiced dental ejective fricative consonant	+	+	ðʼ	◌ð ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=%C3%B0%CA%BC					1	
+ðʼ	voiced dental ejective fricative consonant	+	+	ðʼ	◌ð ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=%C3%B0%CA%BC					1	
 ðː	long voiced dental fricative consonant		+	ðː	◌ð ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%C3%B0%CB%90					1	
 ðˤ	pharyngealized voiced dental fricative consonant	+	+	ðˤ	◌ð ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=%C3%B0%CB%A4					3	
 ɹ̪	voiced dental approximant consonant		+	ð̞	◌ɹ ◌̪	http://eurasianphonology.info/search_exact?dialects=True&query=%C3%B0%CC%9E					2	
@@ -962,7 +962,7 @@ ç̟	advanced voiceless palatal sibilant fricative consonant	+	+	ç̟	◌c ◌�
 ʃ	voiceless post-alveolar sibilant fricative consonant		+	ŝ	◌ʃ	http://eurasianphonology.info/search_exact?dialects=True&query=%C5%9D					4	
 ʃʷ	labialized voiceless post-alveolar sibilant fricative consonant	+	+	ŝʷ	◌ʃ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=%C5%9D%CA%B7					2	
 ʃʼ	voiceless post-alveolar ejective sibilant fricative consonant		+	ŝʼ	◌ʃ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=%C5%9D%CA%BC					3	
-ʃ’ʷ	labialized voiceless post-alveolar ejective sibilant fricative consonant	+	+	ŝʼʷ	◌ʃ ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=%C5%9D%CA%BC%CA%B7					1	
+ʃʼʷ	labialized voiceless post-alveolar ejective sibilant fricative consonant	+	+	ŝʼʷ	◌ʃ ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=%C5%9D%CA%BC%CA%B7					1	
 ɐ	unrounded near-open central vowel		+	ɐ	◌ɐ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%90					26	
 ɐi	from unrounded near-open central to unrounded close front diphthong	+	+	ɐi	◌ɐ ◌i	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%90i					4	
 ɐi̯	from unrounded near-open central to non-syllabic unrounded close front diphthong	+	+	ɐi̯	◌ɐ ◌i ◌̯	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%90i%CC%AF					1	
@@ -1051,7 +1051,7 @@ ç̟	advanced voiceless palatal sibilant fricative consonant	+	+	ç̟	◌c ◌�
 ɕ	voiceless alveolo-palatal sibilant fricative consonant		+	ɕ	◌ɕ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%95					88	
 ɕʰ	aspirated voiceless alveolo-palatal sibilant fricative consonant	+	+	ɕʰ	◌ɕ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%95%CA%B0					9	
 ɕː	long voiceless alveolo-palatal sibilant fricative consonant	+	+	ɕː	◌ɕ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%95%CB%90					6	
-ɕ’	voiceless alveolo-palatal ejective sibilant fricative consonant	+	+	ɕ’	◌ɕ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%95%E2%80%99					1	
+ɕʼ	voiceless alveolo-palatal ejective sibilant fricative consonant	+	+	ɕ’	◌ɕ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%95%E2%80%99					1	
 ɖ	voiced retroflex stop consonant		+	ɖ	◌ɖ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%96					104	
 ɖʐ	voiced retroflex sibilant affricate consonant		+	ɖʐ	◌ɖ ◌ʐ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%96%CA%90					39	
 ɖʰ	aspirated voiced retroflex stop consonant	+	+	ɖʰ	◌ɖ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%96%CA%B0					19	
@@ -1249,7 +1249,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	�
 ɭ̊	devoiced voiced retroflex lateral approximant consonant		+	ɭ̥	◌ɭ ◌̊	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AD%CC%A5					1	
 ɮ	voiced alveolar lateral fricative consonant		+	ɮ	◌ɮ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AE					4	
 ɮʲ	palatalized voiced alveolar lateral fricative consonant	+	+	ɮʲ	◌ɮ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AE%CA%B2					1	
-ɮ’	voiced alveolar ejective lateral fricative consonant	+	+	ɮʼ	◌ɮ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AE%CA%BC					1	
+ɮʼ	voiced alveolar ejective lateral fricative consonant	+	+	ɮʼ	◌ɮ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AE%CA%BC					1	
 ɮ̺	voiced apical alveolar lateral fricative consonant	+	+	ɮ̺	◌ɮ ◌̺	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AE%CC%BA					1	
 ɯ	unrounded close back vowel		+	ɯ	◌ɯ	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AF					57	
 ɯa	from unrounded close back to unrounded open front diphthong	+	+	ɯa	◌ɯ ◌a	http://eurasianphonology.info/search_exact?dialects=True&query=%C9%AFa					10	
@@ -1349,9 +1349,9 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	�
 ʃː	long voiceless post-alveolar sibilant fricative consonant	+	+	ʃː	◌ʃ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%83%CB%90					8	
 ʃʲː	palatalized long voiceless post-alveolar sibilant fricative consonant	+	+	ʃːʲ	◌ʃ ◌ʲ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%83%CB%90%CA%B2					1	
 ʃʷː	labialized long voiceless post-alveolar sibilant fricative consonant	+	+	ʃːʷ	◌ʃ ◌ʷ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%83%CB%90%CA%B7					1	
-ʃ’ː	long voiceless post-alveolar ejective sibilant fricative consonant	+	+	ʃːʼ	◌ʃ ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%83%CB%90%CA%BC					1	
+ʃʼː	long voiceless post-alveolar ejective sibilant fricative consonant	+	+	ʃːʼ	◌ʃ ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%83%CB%90%CA%BC					1	
 ʃ̞	lowered voiceless post-alveolar sibilant fricative consonant	+	+	ʃ̞	◌ʃ ◌̞	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%83%CC%9E					1	
-ʃ̞’	lowered voiceless post-alveolar ejective sibilant fricative consonant	+	+	ʃ̞ʼ	◌ʃ ◌̞ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%83%CC%9E%CA%BC					1	
+ʃ̞ʼ	lowered voiceless post-alveolar ejective sibilant fricative consonant	+	+	ʃ̞ʼ	◌ʃ ◌̞ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%83%CC%9E%CA%BC					1	
 ʃ̺	voiceless apical post-alveolar sibilant fricative consonant	+	+	ʃ̺	◌ʃ ◌̺	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%83%CC%BA					3	
 ʄ	voiced palatal implosive consonant		+	ʄ	◌ʄ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%84					2	
 ʅ	unrounded close with-friction central vowel		+	ʅ	◌ʅ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%85					2	
@@ -1360,7 +1360,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	�
 ʈʂ	voiceless retroflex sibilant affricate consonant		+	ʈʂ	◌ʈ ◌ʂ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%CA%82					59	
 ʈʂʰ	aspirated voiceless retroflex sibilant affricate consonant		+	ʈʂʰ	◌ʈ ◌ʂ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%CA%82%CA%B0					43	
 ʈʂʷ	labialized voiceless retroflex sibilant affricate consonant	+	+	ʈʂʷ	◌ʈ ◌ʂ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%CA%82%CA%B7					1	
-ʈʂ’	voiceless retroflex ejective sibilant affricate consonant	+	+	ʈʂʼ	◌ʈ ◌ʂ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%CA%82%CA%BC					2	
+ʈʂʼ	voiceless retroflex ejective sibilant affricate consonant		+	ʈʂʼ	◌ʈ ◌ʂ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%CA%82%CA%BC					2	
 ʈʰ	aspirated voiceless retroflex stop consonant		+	ʈʰ	◌ʈ ◌ʰ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%CA%B0					77	
 ʈʲ	palatalized voiceless retroflex stop consonant	+	+	ʈʲ	◌ʈ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%CA%B2					1	
 ʈʂ̻	voiceless laminal retroflex sibilant affricate consonant	+	+	ʈ̻ʂ̻	◌ʈ ◌ʂ ◌̻	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%88%CC%BB%CA%82%CC%BB					1	
@@ -1433,8 +1433,8 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	�
 ʒ̺	voiced apical post-alveolar sibilant fricative consonant	+	+	ʒ̺	◌ʒ ◌̺	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%92%CC%BA					2	
 ʔ	voiceless glottal stop consonant		+	ʔ	◌ʔ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%94					136	
 ʔʷ	labialized voiceless glottal stop consonant		+	ʔʷ	◌ʔ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%94%CA%B7					3	
-ʔ’	voiceless glottal ejective stop consonant	+	+	ʔʼ	◌ʔ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%94%CA%BC					1	
-ʔ’ʷ	labialized voiceless glottal ejective stop consonant	+	+	ʔʼʷ	◌ʔ ◌’ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%94%CA%BC%CA%B7					1	
+ʔʼ	voiceless glottal ejective stop consonant	+	+	ʔʼ	◌ʔ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%94%CA%BC					1	
+ʔʼʷ	labialized voiceless glottal ejective stop consonant	+	+	ʔʼʷ	◌ʔ ◌ʼ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%94%CA%BC%CA%B7					1	
 ʔː	long voiceless glottal stop consonant	+	+	ʔː	◌ʔ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%94%CB%90					1	
 ʔˤ	pharyngealized voiceless glottal stop consonant	+	+	ʔˤ	◌ʔ ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%94%CB%A4					1	
 ʔ̃	nasalized voiceless glottal stop consonant	+	+	ʔ̃	◌ʔ ◌̃	http://eurasianphonology.info/search_exact?dialects=True&query=%CA%94%CC%83					1	
@@ -1513,7 +1513,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	�
 β̞	voiced bilabial approximant consonant		+	β̞	◌β ◌̞	http://eurasianphonology.info/search_exact?dialects=True&query=%CE%B2%CC%9E					5	
 β̩	syllabic voiced bilabial fricative consonant	+	+	β̩	◌β ◌̩	http://eurasianphonology.info/search_exact?dialects=True&query=%CE%B2%CC%A9					1	
 θ	voiceless dental fricative consonant		+	θ	◌θ	http://eurasianphonology.info/search_exact?dialects=True&query=%CE%B8					32	
-θ’	voiceless dental ejective fricative consonant	+	+	θʼ	◌θ ◌’	http://eurasianphonology.info/search_exact?dialects=True&query=%CE%B8%CA%BC					1	
+θʼ	voiceless dental ejective fricative consonant	+	+	θʼ	◌θ ◌ʼ	http://eurasianphonology.info/search_exact?dialects=True&query=%CE%B8%CA%BC					1	
 θ̻	voiceless laminal dental fricative consonant	+	+	θ̻	◌θ ◌̻	http://eurasianphonology.info/search_exact?dialects=True&query=%CE%B8%CC%BB					1	
 χ	voiceless uvular fricative consonant		+	χ	◌χ	http://eurasianphonology.info/search_exact?dialects=True&query=%CF%87					93	
 χʲ	palatalized voiceless uvular fricative consonant	+	+	χʲ	◌χ ◌ʲ	http://eurasianphonology.info/search_exact?dialects=True&query=%CF%87%CA%B2					4	
@@ -1521,7 +1521,7 @@ l̻ˠ	velarized voiced laminal alveolar lateral approximant consonant	+	+	ɫ̻	�
 χʲʷ	palatalized labialized voiceless uvular fricative consonant	+	+	χʷʲ	◌χ ◌ʲ ◌ʷ	http://eurasianphonology.info/search_exact?dialects=True&query=%CF%87%CA%B7%CA%B2					1	
 χː	long voiceless uvular fricative consonant	+	+	χː	◌χ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CF%87%CB%90					3	
 χʷː	labialized long voiceless uvular fricative consonant	+	+	χːʷ	◌χ ◌ʷ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CF%87%CB%90%CA%B7					2	
-χ’ː	long voiceless uvular ejective fricative consonant	+	+	χːʼ	◌χ ◌’ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CF%87%CB%90%CA%BC					1	
+χʼː	long voiceless uvular ejective fricative consonant	+	+	χːʼ	◌χ ◌ʼ ◌ː	http://eurasianphonology.info/search_exact?dialects=True&query=%CF%87%CB%90%CA%BC					1	
 χˤ	pharyngealized voiceless uvular fricative consonant	+	+	χˤ	◌χ ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=%CF%87%CB%A4					1	
 χʷˤ	labialized pharyngealized voiceless uvular fricative consonant	+	+	χˤʷ	◌χ ◌ʷ ◌ˤ	http://eurasianphonology.info/search_exact?dialects=True&query=%CF%87%CB%A4%CA%B7					1	
 ᶑ	voiced retroflex implosive consonant		+	ᶑ	◌ᶑ	http://eurasianphonology.info/search_exact?dialects=True&query=%E1%B6%91					1	

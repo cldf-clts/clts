@@ -84,6 +84,7 @@ palatalized voiced dental stop consonant	d̪ʲ	T	C	1	T	d	#9664c8
 long voiced dental stop consonant	d̪ː	T	C	1	T	d	#9664c8
 velarized voiced dental stop consonant	d̪ˠ	T	C	1	T	d	#9664c8
 pharyngealized voiced dental stop consonant	d̪ˤ	T	C	1	T	d	#9664c8
+voiced retracted-tongue-root dental stop consonant	d̪̙	T	C	1	T	d	#9664c8
 unreleased voiced dental stop consonant	d̪̚	T	C	1	T	d	#9664c8
 unreleased devoiced voiced dental stop consonant	d̪̥̚	T	C	1	T	d	#9664c8
 with-nasal-release devoiced voiced dental stop consonant	d̪̥ⁿ	T	C	1	T	d	#9664c8
@@ -232,9 +233,9 @@ voiceless bilabial-and-velar stop consonant	pk	P	C	1	P	p	#c8c864
 voiceless bilabial-and-alveolar stop consonant	pt	P	C	1	P	p	#c8c864
 voiceless bilabial affricate consonant	pɸ	P	C	1	P	p	#c8c864
 aspirated voiceless bilabial stop consonant	pʰ	P	C	1	P	p	#c8c864
-palatalized aspirated voiceless bilabial stop consonant	pʰʲ	P	C	1	P	p	#c8c864
 aspirated long voiceless bilabial stop consonant	pʰː	P	C	1	P	p	#c8c864
 palatalized voiceless bilabial stop consonant	pʲ	P	C	1	P	p	#c8c864
+palatalized aspirated voiceless bilabial stop consonant	pʲʰ	P	C	1	P	p	#c8c864
 labialized voiceless bilabial stop consonant	pʷ	P	C	1	P	p	#c8c864
 voiceless bilabial ejective stop consonant	pʼ	P	C	1	P	p	#c8c864
 long voiceless bilabial stop consonant	pː	P	C	1	P	p	#c8c864
@@ -324,9 +325,9 @@ voiceless post-alveolar stop consonant	t̠	T	C	1	T	t	#9664c8
 voiceless post-alveolar whistled-sibilant affricate consonant	t̠ʃ̫	T	C	1	T	t	#9664c8
 voiceless dental stop consonant	t̪	T	C	1	T	t	#9664c8
 aspirated voiceless dental stop consonant	t̪ʰ	T	C	1	T	t	#9664c8
-palatalized aspirated voiceless dental stop consonant	t̪ʰʲ	T	C	1	T	t	#9664c8
 aspirated long voiceless dental stop consonant	t̪ʰː	T	C	1	T	t	#9664c8
 palatalized voiceless dental stop consonant	t̪ʲ	T	C	1	T	t	#9664c8
+palatalized aspirated voiceless dental stop consonant	t̪ʲʰ	T	C	1	T	t	#9664c8
 labialized voiceless dental stop consonant	t̪ʷ	T	C	1	T	t	#9664c8
 labialized aspirated voiceless dental stop consonant	t̪ʷʰ	T	C	1	T	t	#9664c8
 voiceless dental ejective stop consonant	t̪ʼ	T	C	1	T	t	#9664c8
@@ -701,7 +702,7 @@ voiceless retroflex stop consonant	ʈ	T	C	1	T	t	#9664c8
 voiceless retroflex affricate consonant	ʈɻ̝̊	T	C	1	T	t	#9664c8
 voiceless retroflex sibilant affricate consonant	ʈʂ	C	C	2	K	C	#c89664
 aspirated voiceless retroflex sibilant affricate consonant	ʈʂʰ	C	C	2	K	C	#c89664
-voiceless retroflex ejective sibilant affricate consonant	ʈʂ’	T	C	1	T	t	#9664c8
+voiceless retroflex ejective sibilant affricate consonant	ʈʂʼ	T	C	1	T	t	#9664c8
 aspirated voiceless retroflex stop consonant	ʈʰ	T	C	1	T	t	#9664c8
 aspirated long voiceless retroflex stop consonant	ʈʰː	T	C	1	T	t	#9664c8
 rounded close central vowel	ʉ	Y	V	7	V	I	#c86464

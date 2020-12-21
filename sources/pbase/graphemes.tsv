@@ -281,8 +281,8 @@ bʲ	bJ	bʲ	conso:stop:bilabial:voiced:palatalized	◌b ◌ʲ
 bʲ	bj	bʲ	conso:stop:bilabial:voiced:palatalized	◌b ◌ʲ
 bʲ	by	bʲ	conso:stop:bilabial:voiced:palatalized	◌b ◌ʲ
 bʷ	bW	bʷ	conso:stop:bilabial:voiced:labialized	◌b ◌ʷ
-b’	b'	bʼ	conso:stop:bilabial:voiced:glottalized	◌b ◌’
-b’	b’	bʼ	conso:stop:bilabial:voiced:glottalized	◌b ◌’
+bʼ	b'	bʼ	conso:stop:bilabial:voiced:glottalized	◌b ◌’
+bʼ	b’	bʼ	conso:stop:bilabial:voiced:glottalized	◌b ◌’
 bː	b:	bː	conso:stop:bilabial:voiced_long:plain	◌b ◌ː
 bˡ	bl	bˡ	conso:stop:bilabial:voiced:lateral	◌b ◌ˡ
 bˤ	b³	bˤ	conso:stop:bilabial:voiced:pharyngealized	◌b ◌ˤ
@@ -292,8 +292,8 @@ bg	bƒg	b͡ɡ	conso:stop:bilabial_to_velar:voiced:plain	◌b ◌g
 c	c	c	conso:stop:palatal:voiceless:plain	◌c
 cç	cC	cç	conso:affricate:palatal:voiceless:plain	◌c ◌c ◌̧
 cçʰ	cCh	cçʰ	conso:affricate:palatal:voiceless:aspirated	◌c ◌c ◌̧ ◌ʰ
-cç’	cC'	cçʼ	conso:affricate:palatal:voiceless:glottalized	◌c ◌c ◌̧ ◌’
-cç’	cC’	cçʼ	conso:affricate:palatal:voiceless:glottalized	◌c ◌c ◌̧ ◌’
+cçʼ	cC'	cçʼ	conso:affricate:palatal:voiceless:glottalized	◌c ◌c ◌̧ ◌’
+cçʼ	cC’	cçʼ	conso:affricate:palatal:voiceless:glottalized	◌c ◌c ◌̧ ◌’
 cʰ	cH	cʰ	conso:stop:palatal:voiceless:aspirated	◌c ◌ʰ
 cʷ	cw	cʷ	conso:stop:palatal:voiceless:labialized	◌c ◌ʷ
 cʼ	c'	cʼ	conso:ejective:palatal:voiceless:plain	◌c ◌ʼ
@@ -304,8 +304,8 @@ dz	dz	dz	conso:affricate:alveolar:voiced:plain	◌d ◌z
 dzʰ	dzH	dzʰ	conso:affricate:alveolar:voiced:aspirated	◌d ◌z ◌ʰ
 dzʲ	dzj	dzʲ	conso:affricate:alveolar:voiced:palatalized	◌d ◌z ◌ʲ
 dzʷ	dzw	dzʷ	conso:affricate:alveolar:voiced:labialized	◌d ◌z ◌ʷ
-dz’	dz'	dzʼ	conso:affricate:alveolar:voiced:glottalized	◌d ◌z ◌’
-dz’	dz’	dzʼ	conso:affricate:alveolar:voiced:glottalized	◌d ◌z ◌’
+dzʼ	dz'	dzʼ	conso:affricate:alveolar:voiced:glottalized	◌d ◌z ◌’
+dzʼ	dz’	dzʼ	conso:affricate:alveolar:voiced:glottalized	◌d ◌z ◌’
 dð	dD	dð	conso:affricate:alveolar_to_interdental:voiced:plain	◌d ◌ð
 ɖʐ	d½	dʐ	conso:affricate:alveolar_to_retroflex:voiced:plain	◌ɖ ◌ʐ
 dʑ	dü	dʑ	conso:affricate:alveolopalatal:voiced:plain	◌d ◌ʑ
@@ -319,8 +319,8 @@ dʲ	dj	dʲ	conso:stop:alveolar:voiced:palatalized	◌d ◌ʲ
 dʲ	dJ	dʲ	conso:stop:alveolar:voiced:palatalized	◌d ◌ʲ
 dʲ	dy	dʲ	conso:stop:alveolar:voiced:palatalized	◌d ◌ʲ
 dʷ	dW	dʷ	conso:stop:alveolar:voiced:labialized	◌d ◌ʷ
-d’	d'	dʼ	conso:ejective:alveolar:voiced:plain	◌d ◌’
-d’	d’	dʼ	conso:ejective:alveolar:voiced:plain	◌d ◌’
+dʼ	d'	dʼ	conso:ejective:alveolar:voiced:plain	◌d ◌’
+dʼ	d’	dʼ	conso:ejective:alveolar:voiced:plain	◌d ◌’
 dˠ	dÄ	dˠ	conso:stop:alveolar:voiced:velarized	◌d ◌ˠ
 dˤ	dÖ	dˤ	conso:stop:alveolar:voiced:pharyngealized	◌d ◌ˤ
 dˤ	d³	dˤ	conso:stop:alveolar:voiced:pharyngealized	◌d ◌ˤ
@@ -410,17 +410,17 @@ ie	je	je	vowel:glide_to_higher_mid:palatal_to_front_unrounded:plain:plain	◌i �
 ieː	je:	jeː	vowel:glide_to_higher_mid:palatal_to_front_unrounded:plain:long	◌i ◌e ◌ː
 jʰ	jH	jʰ	conso:approximant:palatal:voiced:aspirated	◌j ◌ʰ
 jʷ	jW	jʷ	conso:approximant:palatal:voiced:labialized	◌j ◌ʷ
-j’	j'	jʼ	conso:approximant:palatal:voiced:glottalized	◌j ◌’
-j’	j/	jʼ	conso:approximant:palatal:voiced:glottalized	◌j ◌’
-j’	j’	jʼ	conso:approximant:palatal:voiced:glottalized	◌j ◌’
+jʼ	j'	jʼ	conso:approximant:palatal:voiced:glottalized	◌j ◌’
+jʼ	j/	jʼ	conso:approximant:palatal:voiced:glottalized	◌j ◌’
+jʼ	j’	jʼ	conso:approximant:palatal:voiced:glottalized	◌j ◌’
 jː	j:	jː	conso:approximant:palatal:voiced_long:plain	◌j ◌ː
 j̃	j)	j̃	conso:approximant:palatal:voiced:nasalized	◌j ◌̃
 j̊	j*	j̥	conso:approximant:palatal:voiceless:plain	◌j ◌̊
 iẽ	je)	jẽ	vowel:glide_to_higher_mid:palatal_to_front_unrounded:nasalized:plain	◌i ◌e ◌̃
 k	k	k	conso:stop:velar:voiceless:plain	◌k
 kxʰ	kxh	kxʰ	conso:affricate:velar:voiceless:aspirated	◌k ◌x ◌ʰ
-kx’	kx'	kxʼ	conso:affricate:velar:voiceless:glottalized	◌k ◌x ◌’
-kx’	kx’	kxʼ	conso:affricate:velar:voiceless:glottalized	◌k ◌x ◌’
+kxʼ	kx'	kxʼ	conso:affricate:velar:voiceless:glottalized	◌k ◌x ◌’
+kxʼ	kx’	kxʼ	conso:affricate:velar:voiceless:glottalized	◌k ◌x ◌’
 kʰ	kH	kʰ	conso:stop:velar:voiceless:aspirated	◌k ◌ʰ
 kʲʰ	kJH	kʰʲ	conso:stop:velar:voiceless:aspirated_palatalized	◌k ◌ʲ ◌ʰ
 kʷʰ	kHW	kʰʷ	conso:stop:velar:voiceless:aspirated_labialized	◌k ◌ʷ ◌ʰ
@@ -433,8 +433,8 @@ kʼʷ	kw’	kʷʼ	conso:stop:velar:voiceless:glottalized_labialized	◌k ◌ʼ �
 kʷː	kw:	kʷː	conso:stop:velar:voiceless_long:labialized	◌k ◌ʷ ◌ː
 kʼ	k'	kʼ	conso:ejective:velar:voiceless:plain	◌k ◌ʼ
 kʼ	k’	kʼ	conso:ejective:velar:voiceless:plain	◌k ◌ʼ
-k’ʲ	k’j	kʼʲ	conso:ejective:velar:voiceless:palatalized	◌k ◌’ ◌ʲ
-k’ʲ	k'j	kʼʲ	conso:ejective:velar:voiceless:palatalized	◌k ◌’ ◌ʲ
+kʼʲ	k’j	kʼʲ	conso:ejective:velar:voiceless:palatalized	◌k ◌’ ◌ʲ
+kʼʲ	k'j	kʼʲ	conso:ejective:velar:voiceless:palatalized	◌k ◌’ ◌ʲ
 kʼʷ	k’w	kʼʷ	conso:ejective:velar:voiceless:labialized	◌k ◌ʼ ◌ʷ
 kʼʷ	k'w	kʼʷ	conso:ejective:velar:voiceless:labialized	◌k ◌ʼ ◌ʷ
 kː	k:	kː	conso:stop:velar:voiceless_long:plain	◌k ◌ː
@@ -449,8 +449,8 @@ l	l	l	conso:lateral_approximant:lateral:voiced:plain	◌l
 lʰ	lH	lʰ	conso:lateral_approximant:lateral:voiced:aspirated	◌l ◌ʰ
 lʲ	lJ	lʲ	conso:lateral_approximant:lateral:voiced:palatalized	◌l ◌ʲ
 lʷ	lW	lʷ	conso:lateral_approximant:lateral:voiced:labialized	◌l ◌ʷ
-l’	l'	lʼ	conso:lateral_approximant:lateral:voiced:glottalized	◌l ◌’
-l’	l’	lʼ	conso:lateral_approximant:lateral:voiced:glottalized	◌l ◌’
+lʼ	l'	lʼ	conso:lateral_approximant:lateral:voiced:glottalized	◌l ◌’
+lʼ	l’	lʼ	conso:lateral_approximant:lateral:voiced:glottalized	◌l ◌’
 lː	l:	lː	conso:lateral_approximant:lateral:voiced_long:plain	◌l ◌ː
 lː	ll	lː	conso:lateral_approximant:lateral:voiced_long:plain	◌l ◌ː
 lˠ	É	lˠ	conso:lateral_approximant:lateral:voiced:velarized	◌l ◌ˠ
@@ -468,8 +468,8 @@ l̩	l`	l̩	conso:lateral_approximant:lateral:voiced:syllabic	◌l ◌̩
 l̪	l5	l̪	conso:lateral_approximant:dental:voiced:plain	◌l ◌̪
 l̪ʰ	l5h	l̪ʰ	conso:lateral_approximant:dental:voiced:aspirated	◌l ◌̪ ◌ʰ
 l̪ʲ	l5j	l̪ʲ	conso:lateral_approximant:dental:voiced:palatalized	◌l ◌̪ ◌ʲ
-l̪’	l5'	l̪ʼ	conso:lateral_approximant:dental:voiced:glottalized	◌l ◌̪ ◌’
-l̪’	l5’	l̪ʼ	conso:lateral_approximant:dental:voiced:glottalized	◌l ◌̪ ◌’
+l̪ʼ	l5'	l̪ʼ	conso:lateral_approximant:dental:voiced:glottalized	◌l ◌̪ ◌’
+l̪ʼ	l5’	l̪ʼ	conso:lateral_approximant:dental:voiced:glottalized	◌l ◌̪ ◌’
 l̪ː	l5:	l̪ː	conso:lateral_approximant:dental:voiced_long:plain	◌l ◌̪ ◌ː
 l̪ˤ	l5Ö	l̪ˤ	conso:lateral_approximant:dental:voiced:pharyngealized	◌l ◌̪ ◌ˤ
 l̪ˤ	l5³	l̪ˤ	conso:lateral_approximant:dental:voiced:pharyngealized	◌l ◌̪ ◌ˤ
@@ -479,9 +479,9 @@ m	m	m	conso:nasal:bilabial:voiced:plain	◌m
 mʰ	mH	mʰ	conso:nasal:bilabial:voiced:aspirated	◌m ◌ʰ
 mʲ	mJ	mʲ	conso:nasal:bilabial:voiced:palatalized	◌m ◌ʲ
 mʷ	mW	mʷ	conso:nasal:bilabial:voiced:labialized	◌m ◌ʷ
-m’	m'	mʼ	conso:nasal:bilabial:voiced:glottalized	◌m ◌’
-m’	m/	mʼ	conso:nasal:bilabial:voiced:glottalized	◌m ◌’
-m’	m’	mʼ	conso:nasal:bilabial:voiced:glottalized	◌m ◌’
+mʼ	m'	mʼ	conso:nasal:bilabial:voiced:glottalized	◌m ◌’
+mʼ	m/	mʼ	conso:nasal:bilabial:voiced:glottalized	◌m ◌’
+mʼ	m’	mʼ	conso:nasal:bilabial:voiced:glottalized	◌m ◌’
 mː	m:	mː	conso:nasal:bilabial:voiced_long:plain	◌m ◌ː
 mː	mm	mː	conso:nasal:bilabial:voiced_long:plain	◌m ◌ː
 mˠ	mì	mˠ	conso:nasal:bilabial:voiced:velarized	◌m ◌ˠ
@@ -521,13 +521,13 @@ n̩	n`	n̩	conso:nasal:alveolar:voiced:syllabic	◌n ◌̩
 n̪	n5	n̪	conso:nasal:dental:voiced:plain	◌n ◌̪
 n̪ʰ	n5h	n̪ʰ	conso:nasal:dental:voiced:aspirated	◌n ◌̪ ◌ʰ
 n̪ʲ	n5j	n̪ʲ	conso:nasal:dental:voiced:palatalized	◌n ◌̪ ◌ʲ
-n̪’	n5'	n̪ʼ	conso:nasal:dental:voiced:glottalized	◌n ◌̪ ◌’
-n̪’	n5’	n̪ʼ	conso:nasal:dental:voiced:glottalized	◌n ◌̪ ◌’
+n̪ʼ	n5'	n̪ʼ	conso:nasal:dental:voiced:glottalized	◌n ◌̪ ◌’
+n̪ʼ	n5’	n̪ʼ	conso:nasal:dental:voiced:glottalized	◌n ◌̪ ◌’
 n̪ː	n5:	n̪ː	conso:nasal:dental:voiced_long:plain	◌n ◌̪ ◌ː
 n̻	n6	n̻	conso:nasal:laminal_alveolar:voiced:plain	◌n ◌̻
-n’	n'	n’	conso:nasal:alveolar:voiced:glottalized	◌n ◌’
-n’	n/	n’	conso:nasal:alveolar:voiced:glottalized	◌n ◌’
-n’	n’	n’	conso:nasal:alveolar:voiced:glottalized	◌n ◌’
+nʼ	n'	n’	conso:nasal:alveolar:voiced:glottalized	◌n ◌’
+nʼ	n/	n’	conso:nasal:alveolar:voiced:glottalized	◌n ◌’
+nʼ	n’	n’	conso:nasal:alveolar:voiced:glottalized	◌n ◌’
 o	o	o	vowel:higher_mid:back_rounded:plain:plain	◌o
 oi	oi	oi	vowel:higher_mid_to_high:back_rounded_to_front:plain:plain	◌o ◌i
 oi	oj	oj	vowel:higher_mid_to_glide:back_rounded_to_palatal:plain:plain	◌o ◌i
@@ -565,12 +565,12 @@ pʷʰ	pHW	pʰʷ	conso:stop:bilabial:voiceless:aspirated_labialized	◌p ◌ʷ �
 pʲ	pJ	pʲ	conso:stop:bilabial:voiceless:palatalized	◌p ◌ʲ
 pʰʲ	pJH	pʲʰ	conso:stop:bilabial:voiceless:aspirated_palatalized	◌p ◌ʰ ◌ʲ
 pʷ	pW	pʷ	conso:stop:bilabial:voiceless:labialized	◌p ◌ʷ
-p’ʷ	pw'	pʷʼ	conso:stop:bilabial:voiceless:glottalized_labialized	◌p ◌’ ◌ʷ
-p’ʷ	pw’	pʷʼ	conso:stop:bilabial:voiceless:glottalized_labialized	◌p ◌’ ◌ʷ
+pʼʷ	pw'	pʷʼ	conso:stop:bilabial:voiceless:glottalized_labialized	◌p ◌’ ◌ʷ
+pʼʷ	pw’	pʷʼ	conso:stop:bilabial:voiceless:glottalized_labialized	◌p ◌’ ◌ʷ
 pʼ	p'	pʼ	conso:ejective:bilabial:voiceless:plain	◌p ◌ʼ
 pʼ	p’	pʼ	conso:ejective:bilabial:voiceless:plain	◌p ◌ʼ
-p’ˤ	p’³	pʼˤ	conso:ejective:bilabial:voiceless:pharyngealized	◌p ◌’ ◌ˤ
-p’ˤ	p'³	pʼˤ	conso:ejective:bilabial:voiceless:pharyngealized	◌p ◌’ ◌ˤ
+pʼˤ	p’³	pʼˤ	conso:ejective:bilabial:voiceless:pharyngealized	◌p ◌’ ◌ˤ
+pʼˤ	p'³	pʼˤ	conso:ejective:bilabial:voiceless:pharyngealized	◌p ◌’ ◌ˤ
 pː	p:	pː	conso:stop:bilabial:voiceless_long:plain	◌p ◌ː
 pː	pp	pː	conso:stop:bilabial:voiceless_long:plain	◌p ◌ː
 pˠ	pì	pˠ	conso:stop:bilabial:voiceless:velarized	◌p ◌ˠ
@@ -591,26 +591,26 @@ qʼʷ	qw’	qʷʼ	conso:stop:uvular:voiceless:glottalized_labialized	◌q ◌ʼ 
 qʷː	qw:	qʷː	conso:stop:uvular:voiceless_long:labialized	◌q ◌ʷ ◌ː
 qʼ	q'	qʼ	conso:ejective:uvular:voiceless:plain	◌q ◌ʼ
 qʼ	q’	qʼ	conso:ejective:uvular:voiceless:plain	◌q ◌ʼ
-q’ʲ	q’j	qʼʲ	conso:ejective:uvular:voiceless:palatalized	◌q ◌’ ◌ʲ
-q’ʲ	q'j	qʼʲ	conso:ejective:uvular:voiceless:palatalized	◌q ◌’ ◌ʲ
+qʼʲ	q’j	qʼʲ	conso:ejective:uvular:voiceless:palatalized	◌q ◌’ ◌ʲ
+qʼʲ	q'j	qʼʲ	conso:ejective:uvular:voiceless:palatalized	◌q ◌’ ◌ʲ
 qʼʷ	q’w	qʼʷ	conso:ejective:uvular:voiceless:labialized	◌q ◌ʼ ◌ʷ
 qʼʷ	q'w	qʼʷ	conso:ejective:uvular:voiceless:labialized	◌q ◌ʼ ◌ʷ
-q’ˤ	q’³	qʼˤ	conso:ejective:uvular:voiceless:pharyngealized	◌q ◌’ ◌ˤ
-q’ˤ	q'³	qʼˤ	conso:ejective:uvular:voiceless:pharyngealized	◌q ◌’ ◌ˤ
-q’ʷˤ	q’³w	qʼˤʷ	conso:ejective:uvular:voiceless:pharyngealized_labialized	◌q ◌’ ◌ʷ ◌ˤ
-q’ʷˤ	q'³w	qʼˤʷ	conso:ejective:uvular:voiceless:pharyngealized_labialized	◌q ◌’ ◌ʷ ◌ˤ
+qʼˤ	q’³	qʼˤ	conso:ejective:uvular:voiceless:pharyngealized	◌q ◌’ ◌ˤ
+qʼˤ	q'³	qʼˤ	conso:ejective:uvular:voiceless:pharyngealized	◌q ◌’ ◌ˤ
+qʼʷˤ	q’³w	qʼˤʷ	conso:ejective:uvular:voiceless:pharyngealized_labialized	◌q ◌’ ◌ʷ ◌ˤ
+qʼʷˤ	q'³w	qʼˤʷ	conso:ejective:uvular:voiceless:pharyngealized_labialized	◌q ◌’ ◌ʷ ◌ˤ
 qː	q:	qː	conso:stop:uvular:voiceless_long:plain	◌q ◌ː
 qˤ	q³	qˤ	conso:stop:uvular:voiceless:pharyngealized	◌q ◌ˤ
 qʷˤ	q³w	qˤʷ	conso:stop:uvular:voiceless:pharyngealized_labialized	◌q ◌ʷ ◌ˤ
-q’ˤ	q³'	qˤʼ	conso:stop:uvular:voiceless:pharyngealized_glottalized	◌q ◌’ ◌ˤ
-q’ˤ	q³’	qˤʼ	conso:stop:uvular:voiceless:pharyngealized_glottalized	◌q ◌’ ◌ˤ
+qʼˤ	q³'	qˤʼ	conso:stop:uvular:voiceless:pharyngealized_glottalized	◌q ◌’ ◌ˤ
+qʼˤ	q³’	qˤʼ	conso:stop:uvular:voiceless:pharyngealized_glottalized	◌q ◌’ ◌ˤ
 qχ	qX	qχ	conso:affricate:uvular:voiceless:plain	◌q ◌χ
 r	r	r	conso:trill:alveolar:voiced:plain	◌r
 rʰ	rH	rʰ	conso:trill:alveolar:voiced:aspirated	◌r ◌ʰ
 rʲ	rJ	rʲ	conso:trill:alveolar:voiced:palatalized	◌r ◌ʲ
 rʷ	rW	rʷ	conso:trill:alveolar:voiced:labialized	◌r ◌ʷ
-r’	r'	rʼ	conso:trill:alveolar:voiced:glottalized	◌r ◌’
-r’	r’	rʼ	conso:trill:alveolar:voiced:glottalized	◌r ◌’
+rʼ	r'	rʼ	conso:trill:alveolar:voiced:glottalized	◌r ◌’
+rʼ	r’	rʼ	conso:trill:alveolar:voiced:glottalized	◌r ◌’
 rː	r:	rː	conso:trill:alveolar:voiced_long:plain	◌r ◌ː
 rː	rr	rː	conso:trill:alveolar:voiced_long:plain	◌r ◌ː
 rˤ	rÖ	rˤ	conso:trill:alveolar:voiced:pharyngealized	◌r ◌ˤ
@@ -660,8 +660,8 @@ tsʲ	tsj	tsʲ	conso:affricate:alveolar:voiceless:palatalized	◌t ◌s ◌ʲ
 tsʷ	tsw	tsʷ	conso:affricate:alveolar:voiceless:labialized	◌t ◌s ◌ʷ
 tsʼ	ts'	tsʼ	conso:affricate:alveolar:voiceless:glottalized	◌t ◌s ◌ʼ
 tsʼ	ts’	tsʼ	conso:affricate:alveolar:voiceless:glottalized	◌t ◌s ◌ʼ
-ts’ʷ	ts’w	tsʼʷ	conso:affricate:alveolar:voiceless:glottalized_labialized	◌t ◌s ◌’ ◌ʷ
-ts’ʷ	ts'w	tsʼʷ	conso:affricate:alveolar:voiceless:glottalized_labialized	◌t ◌s ◌’ ◌ʷ
+tsʼʷ	ts’w	tsʼʷ	conso:affricate:alveolar:voiceless:glottalized_labialized	◌t ◌s ◌’ ◌ʷ
+tsʼʷ	ts'w	tsʼʷ	conso:affricate:alveolar:voiceless:glottalized_labialized	◌t ◌s ◌’ ◌ʷ
 ts	tz	tz	conso:affricate:alveolar:voiceless_to_voiced:plain	◌t ◌s
 tsʼ	tz'	tzʼ	conso:affricate:alveolar:voiceless_to_voiced:glottalized	◌t ◌s ◌ʼ
 tsʼ	tz’	tzʼ	conso:affricate:alveolar:voiceless_to_voiced:glottalized	◌t ◌s ◌ʼ
@@ -673,16 +673,16 @@ tɬʰ	tÂh	tɬʰ	conso:affricate:lateral:voiceless:aspirated	◌t ◌ɬ ◌ʰ
 tɬʼ	tÂ'	tɬʼ	conso:affricate:lateral:voiceless:glottalized	◌t ◌ɬ ◌ʼ
 tɬʼ	tÂ’	tɬʼ	conso:affricate:lateral:voiceless:glottalized	◌t ◌ɬ ◌ʼ
 ʈʂ	t§	tʂ	conso:affricate:alveolar_to_retroflex:voiceless:plain	◌ʈ ◌ʂ
-ʈʂ’	t§'	tʂʼ	conso:affricate:alveolar_to_retroflex:voiceless:glottalized	◌ʈ ◌ʂ ◌’
-ʈʂ’	t§’	tʂʼ	conso:affricate:alveolar_to_retroflex:voiceless:glottalized	◌ʈ ◌ʂ ◌’
+ʈʂʼ	t§'	tʂʼ	conso:affricate:alveolar_to_retroflex:voiceless:glottalized	◌ʈ ◌ʂ ◌’
+ʈʂʼ	t§’	tʂʼ	conso:affricate:alveolar_to_retroflex:voiceless:glottalized	◌ʈ ◌ʂ ◌’
 tʃ	tS	tʃ	conso:affricate:postalveolar:voiceless:plain	◌t ◌ʃ
 tʃʰ	tSú	tʃɦ	conso:affricate:postalveolar:voiceless:voiced_aspirated	◌t ◌ʃ ◌ʰ
 tʃʰ	tSH	tʃʰ	conso:affricate:postalveolar:voiceless:aspirated	◌t ◌ʃ ◌ʰ
 tʃʷʰ	tSHW	tʃʰʷ	conso:affricate:postalveolar:voiceless:aspirated_labialized	◌t ◌ʃ ◌ʷ ◌ʰ
 tʃʲ	tSj	tʃʲ	conso:affricate:postalveolar:voiceless:palatalized	◌t ◌ʃ ◌ʲ
 tʃʷ	tSW	tʃʷ	conso:affricate:postalveolar:voiceless:labialized	◌t ◌ʃ ◌ʷ
-tʃ’ʷ	tSw'	tʃʷʼ	conso:affricate:postalveolar:voiceless:glottalized_labialized	◌t ◌ʃ ◌’ ◌ʷ
-tʃ’ʷ	tSw’	tʃʷʼ	conso:affricate:postalveolar:voiceless:glottalized_labialized	◌t ◌ʃ ◌’ ◌ʷ
+tʃʼʷ	tSw'	tʃʷʼ	conso:affricate:postalveolar:voiceless:glottalized_labialized	◌t ◌ʃ ◌’ ◌ʷ
+tʃʼʷ	tSw’	tʃʷʼ	conso:affricate:postalveolar:voiceless:glottalized_labialized	◌t ◌ʃ ◌’ ◌ʷ
 tʃʼ	tS'	tʃʼ	conso:affricate:postalveolar:voiceless:glottalized	◌t ◌ʃ ◌ʼ
 tʃʼ	tSʼ	tʃʼ	conso:affricate:postalveolar:voiceless:glottalized	◌t ◌ʃ ◌ʼ
 tʃˤ	tSÖ	tʃˤ	conso:affricate:postalveolar:voiceless:pharyngealized	◌t ◌ʃ ◌ˤ
@@ -690,13 +690,13 @@ tʰ	tH	tʰ	conso:stop:alveolar:voiceless:aspirated	◌t ◌ʰ
 tʷʰ	tHW	tʰʷ	conso:stop:alveolar:voiceless:aspirated_labialized	◌t ◌ʷ ◌ʰ
 tʲ	tJ	tʲ	conso:stop:alveolar:voiceless:palatalized	◌t ◌ʲ
 tʲʰ	tjh	tʲʰ	conso:stop:alveolar:voiceless:aspirated_palatalized	◌t ◌ʲ ◌ʰ
-t’ʲ	tj'	tʲʼ	conso:stop:alveolar:voiceless:glottalized_palatalized	◌t ◌’ ◌ʲ
-t’ʲ	tj’	tʲʼ	conso:stop:alveolar:voiceless:glottalized_palatalized	◌t ◌’ ◌ʲ
+tʼʲ	tj'	tʲʼ	conso:stop:alveolar:voiceless:glottalized_palatalized	◌t ◌’ ◌ʲ
+tʼʲ	tj’	tʲʼ	conso:stop:alveolar:voiceless:glottalized_palatalized	◌t ◌’ ◌ʲ
 tʷ	tW	tʷ	conso:stop:alveolar:voiceless:labialized	◌t ◌ʷ
 tʼ	t'	tʼ	conso:ejective:alveolar:voiceless:plain	◌t ◌ʼ
 tʼ	t’	tʼ	conso:ejective:alveolar:voiceless:plain	◌t ◌ʼ
-t’ʷ	t’w	tʼʷ	conso:ejective:alveolar:voiceless:labialized	◌t ◌’ ◌ʷ
-t’ʷ	t'w	tʼʷ	conso:ejective:alveolar:voiceless:labialized	◌t ◌’ ◌ʷ
+tʼʷ	t’w	tʼʷ	conso:ejective:alveolar:voiceless:labialized	◌t ◌’ ◌ʷ
+tʼʷ	t'w	tʼʷ	conso:ejective:alveolar:voiceless:labialized	◌t ◌’ ◌ʷ
 tː	tt	tː	conso:stop:alveolar:voiceless_long:plain	◌t ◌ː
 tʃː	ttS	tːʃ	conso:affricate:alveolopalatal:voiceless_long:plain	◌t ◌ʃ ◌ː
 tʃː	ttSS	tːʃː	conso:affricate:alveolopalatal:voiceless_extra_long:plain	◌t ◌ʃ ◌ː
@@ -725,8 +725,8 @@ t̪ⁿ	t5n5	t̪ⁿ	conso:stop:dental:voiceless:postnasalized	◌t ◌̪ ◌ⁿ
 ts̺ʲ	t5s5j	t̺s̺ʲ	conso:affricate:dental:voiceless:palatalized	◌t ◌s ◌̺ ◌ʲ
 ts̻	t6s6	t̻s̻	conso:affricate:laminal_alveolar:voiceless:plain	◌t ◌s ◌̻
 tθ	tT	tθ	conso:affricate:alveolar_to_interdental:voiceless:plain	◌t ◌θ
-tθ’	tT'	tθʼ	conso:affricate:alveolar_to_dental:voiceless:glottalized	◌t ◌θ ◌’
-tθ’	tT’	tθʼ	conso:affricate:alveolar_to_dental:voiceless:glottalized	◌t ◌θ ◌’
+tθʼ	tT'	tθʼ	conso:affricate:alveolar_to_dental:voiceless:glottalized	◌t ◌θ ◌’
+tθʼ	tT’	tθʼ	conso:affricate:alveolar_to_dental:voiceless:glottalized	◌t ◌θ ◌’
 tⁿ	tn	tⁿ	conso:stop:alveolar:voiceless:postnasalized	◌t ◌ⁿ
 u	u	u	vowel:high:back_rounded:plain:plain	◌u
 ua	ua	ua	vowel:high_to_low:back_rounded_to_central_unrounded:plain:plain	◌u ◌a
@@ -762,9 +762,9 @@ w	w	w	conso:approximant:labiovelar:voiced:plain	◌w
 wʰ	wú	wɦ	conso:approximant:labiovelar:voiced:voiced_aspirated	◌w ◌ʰ
 wʰ	wH	wʰ	conso:approximant:labiovelar:voiced:aspirated	◌w ◌ʰ
 wʲ	wj	wʲ	conso:approximant:labiovelar:voiced:palatalized	◌w ◌ʲ
-w’	w'	wʼ	conso:approximant:labiovelar:voiced:glottalized	◌w ◌’
-w’	w/	wʼ	conso:approximant:labiovelar:voiced:glottalized	◌w ◌’
-w’	w’	wʼ	conso:approximant:labiovelar:voiced:glottalized	◌w ◌’
+wʼ	w'	wʼ	conso:approximant:labiovelar:voiced:glottalized	◌w ◌’
+wʼ	w/	wʼ	conso:approximant:labiovelar:voiced:glottalized	◌w ◌’
+wʼ	w’	wʼ	conso:approximant:labiovelar:voiced:glottalized	◌w ◌’
 wː	w:	wː	conso:approximant:labiovelar:voiced_long:plain	◌w ◌ː
 wˤ	w³	wˤ	conso:approximant:labiovelar:voiced:pharyngealized	◌w ◌ˤ
 w̃	w)	w̃	conso:approximant:labiovelar:voiced:nasalized	◌w ◌̃
@@ -782,8 +782,8 @@ yː	y:	yː	vowel:high:front_rounded:plain:long	◌y ◌ː
 z	z	z	conso:fricative:alveolar:voiced:plain	◌z
 zʲ	zj	zʲ	conso:fricative:alveolar:voiced:palatalized	◌z ◌ʲ
 zʷ	zW	zʷ	conso:fricative:alveolar:voiced:labialized	◌z ◌ʷ
-z’	z'	zʼ	conso:fricative:alveolar:voiced:glottalized	◌z ◌’
-z’	z’	zʼ	conso:fricative:alveolar:voiced:glottalized	◌z ◌’
+zʼ	z'	zʼ	conso:fricative:alveolar:voiced:glottalized	◌z ◌’
+zʼ	z’	zʼ	conso:fricative:alveolar:voiced:glottalized	◌z ◌’
 zˤ	zÖ	zˤ	conso:fricative:alveolar:voiced:pharyngealized	◌z ◌ˤ
 zˤ	z³	zˤ	conso:fricative:alveolar:voiced:pharyngealized	◌z ◌ˤ
 zʱ	z-	z̤	conso:fricative:alveolar:breathy:plain	◌z ◌ʱ
@@ -836,9 +836,9 @@ ĩː	i):	ĩː	vowel:high:front_unrounded:nasalized:long	◌i ◌̃ ◌ː
 ŋ	N	ŋ	conso:nasal:velar:voiced:plain	◌ŋ
 ŋʰ	NH	ŋʰ	conso:nasal:velar:voiced:aspirated	◌ŋ ◌ʰ
 ŋʷ	NW	ŋʷ	conso:nasal:velar:voiced:labialized	◌ŋ ◌ʷ
-ŋ’	N'	ŋʼ	conso:nasal:velar:voiced:glottalized	◌ŋ ◌’
-ŋ’	N/	ŋʼ	conso:nasal:velar:voiced:glottalized	◌ŋ ◌’
-ŋ’	N’	ŋʼ	conso:nasal:velar:voiced:glottalized	◌ŋ ◌’
+ŋʼ	N'	ŋʼ	conso:nasal:velar:voiced:glottalized	◌ŋ ◌’
+ŋʼ	N/	ŋʼ	conso:nasal:velar:voiced:glottalized	◌ŋ ◌’
+ŋʼ	N’	ŋʼ	conso:nasal:velar:voiced:glottalized	◌ŋ ◌’
 ŋː	N:	ŋː	conso:nasal:velar:voiced_long:plain	◌ŋ ◌ː
 ŋː	NN	ŋː	conso:nasal:velar:voiced_long:plain	◌ŋ ◌ː
 ŋ̊	N8	ŋ̥	conso:nasal:velar:voiceless:plain	◌ŋ ◌̊
@@ -982,8 +982,8 @@ gbʷ	gƒbw	ɡ͡bʷ	conso:stop:labiovelar:voiced:labialized	◌g ◌b ◌ʷ
 ɣʰ	Äh	ɣʰ	conso:fricative:velar:voiced:aspirated	◌ɣ ◌ʰ
 ɣʲ	Äj	ɣʲ	conso:fricative:velar:voiced:palatalized	◌ɣ ◌ʲ
 ɣʷ	Äw	ɣʷ	conso:fricative:velar:voiced:labialized	◌ɣ ◌ʷ
-ɣ’	Ä'	ɣʼ	conso:fricative:velar:voiced:glottalized	◌ɣ ◌’
-ɣ’	Ä’	ɣʼ	conso:fricative:velar:voiced:glottalized	◌ɣ ◌’
+ɣʼ	Ä'	ɣʼ	conso:fricative:velar:voiced:glottalized	◌ɣ ◌’
+ɣʼ	Ä’	ɣʼ	conso:fricative:velar:voiced:glottalized	◌ɣ ◌’
 ɣː	g&	ɣː	conso:fricative:velar:voiced_long:plain	◌ɣ ◌ː
 ɤ	F	ɤ	vowel:higher_mid:back_unrounded:plain:plain	◌ɤ
 ɤː	F:	ɤː	vowel:higher_mid:back_unrounded:plain:long	◌ɤ ◌ː
@@ -1026,8 +1026,8 @@ gbʷ	gƒbw	ɡ͡bʷ	conso:stop:labiovelar:voiced:labialized	◌g ◌b ◌ʷ
 ɯ̃	µ)	ɯ̃	vowel:high:back_unrounded:nasalized:plain	◌ɯ ◌̃
 ɰ	å	ɰ	conso:approximant:velar:voiced:plain	◌ɰ
 ɰ	µ9	ɰ	conso:approximant:velar:voiced:plain	◌ɰ
-ɰ’	å'	ɰʼ	conso:approximant:velar:voiced:glottalized	◌ɰ ◌’
-ɰ’	å’	ɰʼ	conso:approximant:velar:voiced:glottalized	◌ɰ ◌’
+ɰʼ	å'	ɰʼ	conso:approximant:velar:voiced:glottalized	◌ɰ ◌’
+ɰʼ	å’	ɰʼ	conso:approximant:velar:voiced:glottalized	◌ɰ ◌’
 ɲ	ø	ɲ	conso:nasal:palatal:voiced:plain	◌ɲ
 ɲʰ	øH	ɲʰ	conso:nasal:palatal:voiced:aspirated	◌ɲ ◌ʰ
 ɲː	ø:	ɲː	conso:nasal:palatal:voiced_long:plain	◌ɲ ◌ː
@@ -1037,8 +1037,8 @@ gbʷ	gƒbw	ɡ͡bʷ	conso:stop:labiovelar:voiced:labialized	◌g ◌b ◌ʷ
 ɳ	÷	ɳ	conso:nasal:retroflex:voiced:plain	◌ɳ
 ɳʷ	÷w	ɳʷ	conso:nasal:retroflex:voiced:labialized	◌ɳ ◌ʷ
 ɴ	²	ɴ	conso:nasal:uvular:voiced:plain	◌ɴ
-ɴ’	²'	ɴʼ	conso:nasal:uvular:voiced:glottalized	◌ɴ ◌’
-ɴ’	²’	ɴʼ	conso:nasal:uvular:voiced:glottalized	◌ɴ ◌’
+ɴʼ	²'	ɴʼ	conso:nasal:uvular:voiced:glottalized	◌ɴ ◌’
+ɴʼ	²’	ɴʼ	conso:nasal:uvular:voiced:glottalized	◌ɴ ◌’
 ɵ	P	ɵ	vowel:higher_mid:central_rounded:plain:plain	◌ɵ
 ɸ	¸	ɸ	conso:fricative:bilabial:voiceless:plain	◌ɸ
 ɹ	¨	ɹ	conso:approximant:alveolar:voiced:plain	◌ɹ
@@ -1057,8 +1057,8 @@ gbʷ	gƒbw	ɡ͡bʷ	conso:stop:labiovelar:voiced:labialized	◌g ◌b ◌ʷ
 ɾ̪	R5	ɾ̪	conso:flap:dental:voiced:plain	◌ɾ ◌̪
 ɾ̪ˤ	R5³	ɾ̪ˤ	conso:flap:dental:voiced:pharyngealized	◌ɾ ◌̪ ◌ˤ
 ʀ	{	ʀ	conso:trill:uvular:voiced:plain	◌ʀ
-ʀ’	{'	ʀʼ	conso:trill:uvular:voiced:glottalized	◌ʀ ◌’
-ʀ’	{’	ʀʼ	conso:trill:uvular:voiced:glottalized	◌ʀ ◌’
+ʀʼ	{'	ʀʼ	conso:trill:uvular:voiced:glottalized	◌ʀ ◌’
+ʀʼ	{’	ʀʼ	conso:trill:uvular:voiced:glottalized	◌ʀ ◌’
 ʁ	Ò	ʁ	conso:fricative:uvular:voiced:plain	◌ʁ
 ʁʲ	Òj	ʁʲ	conso:fricative:uvular:voiced:palatalized	◌ʁ ◌ʲ
 ʁʷ	Òw	ʁʷ	conso:fricative:uvular:voiced:labialized	◌ʁ ◌ʷ
@@ -1072,8 +1072,8 @@ gbʷ	gƒbw	ɡ͡bʷ	conso:stop:labiovelar:voiced:labialized	◌g ◌b ◌ʷ
 ʃʷ	SW	ʃʷ	conso:fricative:postalveolar:voiceless:labialized	◌ʃ ◌ʷ
 ʃʼ	S'	ʃʼ	conso:fricative:postalveolar:voiceless:glottalized	◌ʃ ◌ʼ
 ʃʼ	S’	ʃʼ	conso:fricative:postalveolar:voiceless:glottalized	◌ʃ ◌ʼ
-ʃ’ʷ	S’w	ʃʼʷ	conso:fricative:alveolar:voiceless:glottalized_labialized	◌ʃ ◌’ ◌ʷ
-ʃ’ʷ	S'w	ʃʼʷ	conso:fricative:alveolar:voiceless:glottalized_labialized	◌ʃ ◌’ ◌ʷ
+ʃʼʷ	S’w	ʃʼʷ	conso:fricative:alveolar:voiceless:glottalized_labialized	◌ʃ ◌’ ◌ʷ
+ʃʼʷ	S'w	ʃʼʷ	conso:fricative:alveolar:voiceless:glottalized_labialized	◌ʃ ◌’ ◌ʷ
 ʃː	S:	ʃː	conso:fricative:postalveolar:voiceless_long:plain	◌ʃ ◌ː
 ʃː	SS	ʃː	conso:fricative:postalveolar:voiceless_long:plain	◌ʃ ◌ː
 ʃ̥ʷ	S6w	ʃ̥ʷ	conso:fricative:laminal_postalveolar:voiceless:labialized	◌ʃ ◌̥ ◌ʷ
@@ -1082,8 +1082,8 @@ gbʷ	gƒbw	ɡ͡bʷ	conso:stop:labiovelar:voiced:labialized	◌g ◌b ◌ʷ
 ʈ	ÿ	ʈ	conso:stop:retroflex:voiceless:plain	◌ʈ
 ʈʂ	ÿ§	ʈʂ	conso:affricate:retroflex:voiceless:plain	◌ʈ ◌ʂ
 ʈʂʰ	ÿ§H	ʈʂʰ	conso:affricate:retroflex:voiceless:aspirated	◌ʈ ◌ʂ ◌ʰ
-ʈʂ’	ÿ§'	ʈʂʼ	conso:affricate:retroflex:voiceless:glottalized	◌ʈ ◌ʂ ◌’
-ʈʂ’	ÿ§’	ʈʂʼ	conso:affricate:retroflex:voiceless:glottalized	◌ʈ ◌ʂ ◌’
+ʈʂʼ	ÿ§'	ʈʂʼ	conso:affricate:retroflex:voiceless:glottalized	◌ʈ ◌ʂ ◌’
+ʈʂʼ	ÿ§’	ʈʂʼ	conso:affricate:retroflex:voiceless:glottalized	◌ʈ ◌ʂ ◌’
 ʈʰ	ÿH	ʈʰ	conso:stop:retroflex:voiceless:aspirated	◌ʈ ◌ʰ
 ʈʰ	ÿh	ʈʰ	conso:stop:retroflex:voiceless:aspirated	◌ʈ ◌ʰ
 ʈʲ	ÿj	ʈʲ	conso:stop:retroflex:voiceless:palatalized	◌ʈ ◌ʲ
@@ -1154,10 +1154,10 @@ gbʷ	gƒbw	ɡ͡bʷ	conso:stop:labiovelar:voiced:labialized	◌g ◌b ◌ʷ
 ʔˤ	/³	ʔˤ	conso:stop:glottal:voiceless:pharyngealized	◌ʔ ◌ˤ
 ʕ	Ö	ʕ	conso:fricative:pharyngeal:voiced:plain	◌ʕ
 ʕʷ	Öw	ʕʷ	conso:fricative:pharyngeal:voiced:labialized	◌ʕ ◌ʷ
-ʕ’	Ö'	ʕʼ	conso:fricative:pharyngeal:voiced:glottalized	◌ʕ ◌’
-ʕ’	Ö’	ʕʼ	conso:fricative:pharyngeal:voiced:glottalized	◌ʕ ◌’
-ʕ’ʷ	Ö’w	ʕʼʷ	conso:fricative:pharyngeal:voiced:glottalized_labialized	◌ʕ ◌’ ◌ʷ
-ʕ’ʷ	Ö'w	ʕʼʷ	conso:fricative:pharyngeal:voiced:glottalized_labialized	◌ʕ ◌’ ◌ʷ
+ʕʼ	Ö'	ʕʼ	conso:fricative:pharyngeal:voiced:glottalized	◌ʕ ◌’
+ʕʼ	Ö’	ʕʼ	conso:fricative:pharyngeal:voiced:glottalized	◌ʕ ◌’
+ʕʼʷ	Ö’w	ʕʼʷ	conso:fricative:pharyngeal:voiced:glottalized_labialized	◌ʕ ◌’ ◌ʷ
+ʕʼʷ	Ö'w	ʕʼʷ	conso:fricative:pharyngeal:voiced:glottalized_labialized	◌ʕ ◌’ ◌ʷ
 ʘ	‡	ʘ	conso:click:bilabial:voiceless:plain	◌ʘ
 ʘ̃	‡n	ʘn	conso:click:bilabial:voiceless:nasalized	◌ʘ ◌̃
 ʘ̃	‡n8	ʘn̥	conso:click:bilabial:voiceless:voiceless_nasalized	◌ʘ ◌̃
@@ -1165,12 +1165,12 @@ gbʷ	gƒbw	ɡ͡bʷ	conso:stop:labiovelar:voiced:labialized	◌g ◌b ◌ʷ
 ʘʰ	‡h	ʘʰ	conso:click:bilabial:voiceless:aspirated	◌ʘ ◌ʰ
 ʛ	ý	ʛ	conso:implosive:uvular:voiced:plain	◌ʛ
 ʝ	Æ	ʝ	conso:fricative:palatal:voiced:plain	◌ʝ
-ʝ’	Æ'	ʝʼ	conso:fricative:palatal:voiced:glottalized	◌ʝ ◌’
-ʝ’	Æ’	ʝʼ	conso:fricative:palatal:voiced:glottalized	◌ʝ ◌’
+ʝʼ	Æ'	ʝʼ	conso:fricative:palatal:voiced:glottalized	◌ʝ ◌’
+ʝʼ	Æ’	ʝʼ	conso:fricative:palatal:voiced:glottalized	◌ʝ ◌’
 β	B	β	conso:fricative:bilabial:voiced:plain	◌β
 θ	T	θ	conso:fricative:interdental:voiceless:plain	◌θ
-θ’	T'	θʼ	conso:fricative:interdental:voiceless:glottalized	◌θ ◌’
-θ’	T’	θʼ	conso:fricative:interdental:voiceless:glottalized	◌θ ◌’
+θʼ	T'	θʼ	conso:fricative:interdental:voiceless:glottalized	◌θ ◌’
+θʼ	T’	θʼ	conso:fricative:interdental:voiceless:glottalized	◌θ ◌’
 χ	X	χ	conso:fricative:uvular:voiceless:plain	◌χ
 χʲ	Xj	χʲ	conso:fricative:uvular:voiceless:palatalized	◌χ ◌ʲ
 χʷ	Xw	χʷ	conso:fricative:uvular:voiceless:labialized	◌χ ◌ʷ
@@ -1214,14 +1214,14 @@ ỹ	y)	ỹ	vowel:high:front_rounded:nasalized:plain	◌y ◌̃
 ⁿs	ns	ⁿs	conso:fricative:alveolar:voiceless:prenasalized	◌ⁿ ◌s
 ⁿt	nt	ⁿt	conso:stop:alveolar:voiceless:prenasalized	◌ⁿ ◌t
 ⁿts	nts	ⁿts	conso:affricate:alveolar:voiceless:prenasalized	◌ⁿ ◌t ◌s
-ⁿts’	nts'	ⁿtsʼ	conso:affricate:alveolar:voiceless:glottalized_prenasalized	◌ⁿ ◌t ◌s ◌’
-ⁿts’	nts’	ⁿtsʼ	conso:affricate:alveolar:voiceless:glottalized_prenasalized	◌ⁿ ◌t ◌s ◌’
+ⁿtsʼ	nts'	ⁿtsʼ	conso:affricate:alveolar:voiceless:glottalized_prenasalized	◌ⁿ ◌t ◌s ◌’
+ⁿtsʼ	nts’	ⁿtsʼ	conso:affricate:alveolar:voiceless:glottalized_prenasalized	◌ⁿ ◌t ◌s ◌’
 ⁿtɬ	ntÂ	ⁿtɬ	conso:affricate:lateral:voiceless:prenasalized	◌ⁿ ◌t ◌ɬ
 ⁿtʃ	ntS	ⁿtʃ	conso:affricate:postalveolar:voiceless:prenasalized	◌ⁿ ◌t ◌ʃ
 ⁿtʃʷʰ	ntSHW	ⁿtʃʰʷ	conso:affricate:postalveolar:voiceless:aspirated_labialized_prenasalized	◌ⁿ ◌t ◌ʃ ◌ʷ ◌ʰ
 ⁿtʃʷ	ntSW	ⁿtʃʷ	conso:affricate:postalveolar:voiceless:labialized_prenasalized	◌ⁿ ◌t ◌ʃ ◌ʷ
-ⁿtʃ’	ntS'	ⁿtʃʼ	conso:affricate:postalveolar:voiceless:glottalized_prenasalized	◌ⁿ ◌t ◌ʃ ◌’
-ⁿtʃ’	ntS’	ⁿtʃʼ	conso:affricate:postalveolar:voiceless:glottalized_prenasalized	◌ⁿ ◌t ◌ʃ ◌’
+ⁿtʃʼ	ntS'	ⁿtʃʼ	conso:affricate:postalveolar:voiceless:glottalized_prenasalized	◌ⁿ ◌t ◌ʃ ◌’
+ⁿtʃʼ	ntS’	ⁿtʃʼ	conso:affricate:postalveolar:voiceless:glottalized_prenasalized	◌ⁿ ◌t ◌ʃ ◌’
 ⁿtʰ	nth	ⁿtʰ	conso:stop:alveolar:voiceless:aspirated_prenasalized	◌ⁿ ◌t ◌ʰ
 ⁿtʰ	ntH	ⁿtʰ	conso:stop:alveolar:voiceless:aspirated_prenasalized	◌ⁿ ◌t ◌ʰ
 ⁿz	nz	ⁿz	conso:fricative:alveolar:voiced:prenasalized	◌ⁿ ◌z
@@ -1247,8 +1247,8 @@ ỹ	y)	ỹ	vowel:high:front_rounded:nasalized:plain	◌y ◌̃
 ⁿp	mp	p	conso:stop:bilabial:voiceless:prenasalized	◌ⁿ ◌p
 ⁿpʰ	mph	pʰ	conso:stop:bilabial:voiceless:aspirated_prenasalized	◌ⁿ ◌p ◌ʰ
 ⁿpʰ	mpH	pʰ	conso:stop:bilabial:voiceless:aspirated_prenasalized	◌ⁿ ◌p ◌ʰ
-ⁿp’	mp'	pʼ	conso:stop:bilabial:voiceless:glottalized_prenasalized	◌ⁿ ◌p ◌’
-ⁿp’	mp’	pʼ	conso:stop:bilabial:voiceless:glottalized_prenasalized	◌ⁿ ◌p ◌’
+ⁿpʼ	mp'	pʼ	conso:stop:bilabial:voiceless:glottalized_prenasalized	◌ⁿ ◌p ◌’
+ⁿpʼ	mp’	pʼ	conso:stop:bilabial:voiceless:glottalized_prenasalized	◌ⁿ ◌p ◌’
 ⁿt	mt	t	conso:stop:alveolar:voiceless:labial_prenasalized	◌ⁿ ◌t
 ⁿts	mts	ts	conso:affricate:alveolar:voiceless:labial_prenasalized	◌ⁿ ◌t ◌s
 ⁿtʃ	mtS	tʃ	conso:affricate:postalveolar:voiceless:labial_prenasalized	◌ⁿ ◌t ◌ʃ

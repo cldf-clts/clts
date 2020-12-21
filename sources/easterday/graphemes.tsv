@@ -1,5 +1,5 @@
 BIPA	TYPE	GRAPHEME	GRAPHEME_IN_CLDF	SYMBOLS
-ŋǁ’	Consonant	ŋ̥ǁ’	ŋ̥ǁ’	◌ⁿ ◌ǁ ◌’
+ŋǁʼ	Consonant	ŋ̥ǁ’	ŋ̥ǁ’	◌ⁿ ◌ǁ ◌’
 <NA>	Vowel		/	
 <NA>	Diphtong		/	
 <NA>	Vowel_sequence	and	and	
@@ -168,7 +168,7 @@ j	Consonant	j	j/	◌j
 j	Consonant	j	j	◌j
 jˀ	Consonant	j\textsuperscript{ʔ}/	j\textsuperscript{ʔ}/	◌j ◌ˀ
 jː	Geminate	jː	jː/	◌j ◌ː
-j’	Consonant	j’	j’	◌j ◌’
+jʼ	Consonant	j’	j’	◌j ◌’
 k	Consonant	k	k	◌k
 kp	Consonant	k͡p	/k͡p	◌k ◌p
 kp	Consonant	k͡p	k͡p	◌k ◌p
@@ -183,8 +183,8 @@ kʷː	Geminate	kʷː	kʷː	◌k ◌ʷ ◌ː
 kʼ	Consonant	k’	k’	◌k ◌ʼ
 kʼʷ	Consonant	k’ʷ	k’ʷ	◌k ◌ʼ ◌ʷ
 kː	Geminate	kː	kː	◌k ◌ː
-k’ʲ	Consonant	kʲ’	kʲ’	◌k ◌’ ◌ʲ
-k’ː	Geminate	k’ː	k’ː	◌k ◌’ ◌ː
+kʼʲ	Consonant	kʲ’	kʲ’	◌k ◌’ ◌ʲ
+kʼː	Geminate	k’ː	k’ː	◌k ◌’ ◌ː
 kⁿ	Consonant	k\textsuperscript{ŋ}	k\textsuperscript{ŋ}	◌k ◌ⁿ
 l	Consonant	l	l/	◌l
 l	Consonant	l	l	◌l
@@ -200,7 +200,7 @@ lˤ	Consonant	lˤ	lˤ	◌l ◌ˤ
 lˤː	Geminate	lˤː	lˤː	◌l ◌ˤ ◌ː
 l̥	Consonant	l̥	l̥	◌l ◌̥
 l̪	Consonant	l̪	l̪	◌l ◌̪
-l’	Consonant	l’	l’	◌l ◌’
+lʼ	Consonant	l’	l’	◌l ◌’
 m	Consonant	m	m	◌m
 mʰ	Consonant	mʰ	mʰ	◌m ◌ʰ
 mʱ	Consonant	m\textsuperscript{ɦ}	m\textsuperscript{ɦ}	◌m ◌ʱ
@@ -208,7 +208,7 @@ mʱ	Consonant	n\textsuperscript{ɦ}	n\textsuperscript{ɦ}	◌m ◌ʱ
 mʲ	Consonant	mʲ	mʲ	◌m ◌ʲ
 mː	Geminate	mː	mː	◌m ◌ː
 m̥	Consonant	m̥	m̥	◌m ◌̥
-m’	Consonant	m’	m’	◌m ◌’
+mʼ	Consonant	m’	m’	◌m ◌’
 n	Consonant	n	n	◌n
 nʰ	Consonant	nʰ	nʰ	◌n ◌ʰ
 nʲ	Consonant	nʲ	nʲ	◌n ◌ʲ
@@ -216,8 +216,8 @@ nː	Geminate	nː	nː	◌n ◌ː
 n̠	Consonant	n̠	n̠	◌n ◌̠
 n̥	Consonant	n̥	n̥	◌n ◌̥
 n̪	Consonant	n̪	n̪	◌n ◌̪
-n̪’	Consonant	n̪’	n̪’	◌n ◌̪ ◌’
-n’	Consonant	n’	n’	◌n ◌’
+n̪ʼ	Consonant	n̪’	n̪’	◌n ◌̪ ◌’
+nʼ	Consonant	n’	n’	◌n ◌’
 o	Vowel	o	o	◌o
 o	Vowel	o	o/	◌o
 oa	Vowel_sequence	oa	oa	◌o ◌a
@@ -250,7 +250,7 @@ pʰ	Consonant	pʰ	/pʰ	◌p ◌ʰ
 pʰ	Consonant	pʰ	pʰ	◌p ◌ʰ
 pʲ	Consonant	pʲ	pʲ	◌p ◌ʲ
 pʼ	Consonant	p’	p’	◌p ◌ʼ
-p’ː	Geminate	p’ː	p’ː	◌p ◌’ ◌ː
+pʼː	Geminate	p’ː	p’ː	◌p ◌’ ◌ː
 pⁿ	Consonant	p\textsuperscript{m}	p\textsuperscript{m}	◌p ◌ⁿ
 q	Consonant	q	q	◌q
 qʰ	Consonant	qʰ	qʰ	◌q ◌ʰ
@@ -285,18 +285,18 @@ tsʼ	Consonant	t͡s’	t͡s’	◌t ◌s ◌ʼ
 ts̪	Consonant	t̪s̪	t̪s̪	◌t ◌s ◌̪
 ts̪	Consonant	t̪͡s̪	t̪͡s̪	◌t ◌s ◌̪
 ts̪ʼ	Consonant	t̪s̪’	t̪s̪’	◌t ◌s ◌̪ ◌ʼ
-ts’ʷ	Consonant	t͡s’ʷ	t͡s’ʷ	◌t ◌s ◌’ ◌ʷ
+tsʼʷ	Consonant	t͡s’ʷ	t͡s’ʷ	◌t ◌s ◌’ ◌ʷ
 tɕ	Consonant	c͡ɕ	c͡ɕ	◌t ◌ɕ
 tɕ	Consonant	tɕ	tɕ	◌t ◌ɕ
 tɕ	Consonant	t͡ɕ	t͡ɕ	◌t ◌ɕ
 tɕʰ	Consonant	t͡ɕʰ	t͡ɕʰ	◌t ◌ɕ ◌ʰ
 tɕʷ	Consonant	t͡ɕʷ	t͡ɕʷ	◌t ◌ɕ ◌ʷ
-tɕ’	Consonant	c͡ɕ’	c͡ɕ’	◌t ◌ɕ ◌’
+tɕʼ	Consonant	c͡ɕ’	c͡ɕ’	◌t ◌ɕ ◌’
 tɬ	Consonant	t͡ɬ	t͡ɬ	◌t ◌ɬ
 tɬʲ	Consonant	t͡ʎ̥	t͡ʎ̥	◌t ◌ɬ ◌ʲ
 tɬʼ	Consonant	t͡ɬ’	t͡ɬ’	◌t ◌ɬ ◌ʼ
 tɬ̪ʼ	Consonant	t̪͡ɬ’	t̪͡ɬ’	◌t ◌ɬ ◌̪ ◌ʼ
-tɬ’ʲ	Consonant	t͡ʎ̥’	t͡ʎ̥’	◌t ◌ɬ ◌’ ◌ʲ
+tɬʼʲ	Consonant	t͡ʎ̥’	t͡ʎ̥’	◌t ◌ɬ ◌’ ◌ʲ
 tʃ	Consonant	t͡ʃ	t͡ʃ	◌t ◌ʃ
 tʃʰ	Consonant	t͡ʃʰ	t͡ʃʰ	◌t ◌ʃ ◌ʰ
 tʃʷ	Consonant	t͡ʃʷ	t͡ʃʷ	◌t ◌ʃ ◌ʷ
@@ -316,8 +316,8 @@ t̪ʰ	Consonant	t̪ʰ	t̪ʰ	◌t ◌̪ ◌ʰ
 t̪ʲ	Consonant	t̪ʲ	t̪ʲ	◌t ◌̪ ◌ʲ
 t̪ʼ	Consonant	t̪’	t̪’	◌t ◌̪ ◌ʼ
 t̪ⁿ	Consonant	t̪\textsuperscript{n̪}	t̪\textsuperscript{n̪}	◌t ◌̪ ◌ⁿ
-t’ʷ	Consonant	t’ʷ	t’ʷ	◌t ◌’ ◌ʷ
-t’ː	Geminate	t’ː	t’ː	◌t ◌’ ◌ː
+tʼʷ	Consonant	t’ʷ	t’ʷ	◌t ◌’ ◌ʷ
+tʼː	Geminate	t’ː	t’ː	◌t ◌’ ◌ː
 tⁿ	Consonant	t\textsuperscript{n}	t\textsuperscript{n}	◌t ◌ⁿ
 u	Vowel	u	u	◌u
 u	Vowel	u/	u/	◌u
@@ -369,8 +369,8 @@ w	Consonant	w/	w/	◌w
 wˀ	Consonant	w\textsuperscript{ʔ}	w\textsuperscript{ʔ}	◌w ◌ˀ
 wː	Geminate	wː	wː	◌w ◌ː
 w̥	Consonant	w̥	w̥	◌w ◌̥
-w’	Consonant	w’	w’	◌w ◌’
-w’	Consonant	w’	w’/	◌w ◌’
+wʼ	Consonant	w’	w’	◌w ◌’
+wʼ	Consonant	w’	w’/	◌w ◌’
 x	Consonant	x	x	◌x
 xʷ	Consonant	xʷ	xʷ	◌x ◌ʷ
 xː	Consonant	xː	xː	◌x ◌ː
@@ -394,10 +394,10 @@ z̪	Consonant	z̪	z̪	◌z ◌̪
 ŋm	Consonant	ŋ͡m	ŋ͡m	◌ŋ ◌m
 ŋmʷ	Consonant	ŋ͡mʷ	ŋ͡mʷ	◌ŋ ◌m ◌ʷ
 ŋǀ	Consonant	ŋǀ	ŋǀ	◌ŋ ◌ǀ
-ŋǀ’	Consonant	ŋ̥ǀ’	ŋ̥ǀ’	◌ŋ ◌ǀ ◌’
+ŋǀʼ	Consonant	ŋ̥ǀ’	ŋ̥ǀ’	◌ŋ ◌ǀ ◌’
 ŋǁ	Consonant	ŋǁ	ŋǁ	◌ŋ ◌ǁ
 ŋǃ	Consonant	ŋǃ	ŋǃ	◌ŋ ◌ǃ
-ŋǃ’	Consonant	ŋ̥ǃ’	ŋ̥ǃ’	◌ŋ ◌ǃ ◌’
+ŋǃʼ	Consonant	ŋ̥ǃ’	ŋ̥ǃ’	◌ŋ ◌ǃ ◌’
 ŋʷ	Consonant	ŋʷ	ŋʷ	◌ŋ ◌ʷ
 ŋː	Geminate	ŋː	ŋː	◌ŋ ◌ː
 œ	Vowel	œ	œ	◌œ
@@ -428,7 +428,7 @@ z̪	Consonant	z̪	z̪	◌z ◌̪
 ɔː	Vowel_sequence	ɔɔ	ɔɔ	◌ɔ ◌ː
 ɔː	Vowel	ɔː	ɔː	◌ɔ ◌ː
 ɕ	Consonant	ɕ	ɕ	◌ɕ
-ɕ’	Consonant	ɕ'	ɕ'	◌ɕ ◌’
+ɕʼ	Consonant	ɕ'	ɕ'	◌ɕ ◌’
 ɖ	Consonant	ɖ	ɖ	◌ɖ
 ɖʐ	Consonant	ɖ͡ʐ	ɖ͡ʐ	◌ɖ ◌ʐ
 ɖʰ	Consonant	ɖʰ	ɖʰ	◌ɖ ◌ʰ
@@ -496,7 +496,7 @@ z̪	Consonant	z̪	z̪	◌z ◌̪
 ɰ	Consonant	ɰ	ɰ	◌ɰ
 ɰ	Consonant	ɰ	ɰ/	◌ɰ
 ɰ̟	Consonant	ɰ̟	ɰ̟	◌ɰ ◌̟
-ɰ’	Consonant	ɰ’	ɰ’	◌ɰ ◌’
+ɰʼ	Consonant	ɰ’	ɰ’	◌ɰ ◌’
 ɲ	Consonant	ɲ	ɲ	◌ɲ
 ɲʰ	Consonant	ɲʰ	ɲʰ	◌ɲ ◌ʰ
 ɲː	Geminate	ɲː	ɲː	◌ɲ ◌ː
@@ -508,7 +508,7 @@ z̪	Consonant	z̪	z̪	◌z ◌̪
 ɸ	Consonant	ɸ	ɸ	◌ɸ
 ɹ	Consonant	ɹ	ɹ	◌ɹ
 ɹ̪	Consonant	ð̞	ð̞	◌ɹ ◌̪
-ɹ̪’	Consonant	ð̞’	ð̞’	◌ɹ ◌̪ ◌’
+ɹ̪ʼ	Consonant	ð̞’	ð̞’	◌ɹ ◌̪ ◌’
 ɺ	Consonant	ɺ	ɺ	◌ɺ
 ɻ	Consonant	ɻ	ɻ	◌ɻ
 ɽ	Consonant	ɽ	ɽ/	◌ɽ
@@ -531,7 +531,7 @@ z̪	Consonant	z̪	z̪	◌z ◌̪
 ʈʂ	Consonant	ʈ͡ʂ	ʈ͡ʂ	◌ʈ ◌ʂ
 ʈʂʰ	Consonant	t͡ʂʰ	t͡ʂʰ	◌ʈ ◌ʂ ◌ʰ
 ʈʂʰ	Consonant	ʈ͡ʂʰ	ʈ͡ʂʰ	◌ʈ ◌ʂ ◌ʰ
-ʈʂ’	Consonant	ʈ͡ʂ’	ʈ͡ʂ’	◌ʈ ◌ʂ ◌’
+ʈʂʼ	Consonant	ʈ͡ʂ’	ʈ͡ʂ’	◌ʈ ◌ʂ ◌’
 ʈʰ	Consonant	ʈʰ	ʈʰ	◌ʈ ◌ʰ
 ʈⁿ	Consonant	ʈ\textsuperscript{ɳ}	ʈ\textsuperscript{ɳ}	◌ʈ ◌ⁿ
 ʉ	Vowel	ʉ	ʉ	◌ʉ
@@ -566,8 +566,8 @@ z̪	Consonant	z̪	z̪	◌z ◌̪
 ʢ	Consonant	ʢ	ʢ	◌ʢ
 ʢʷ	Consonant	ʢʷ	ʢʷ	◌ʢ ◌ʷ
 ʢː	Geminate	ʢː	ʢː	◌ʢ ◌ː
-ʢ’	Consonant	ʢ’	ʢ’	◌ʢ ◌’
-ʢ’ʷ	Consonant	ʢ’ʷ	ʢ’ʷ/	◌ʢ ◌’ ◌ʷ
+ʢʼ	Consonant	ʢ’	ʢ’	◌ʢ ◌’
+ʢʼʷ	Consonant	ʢ’ʷ	ʢ’ʷ/	◌ʢ ◌’ ◌ʷ
 β	Consonant	β	β	◌β
 β̞	Consonant	β̞	β̞	◌β ◌̞
 θ	Consonant	θ	θ	◌θ

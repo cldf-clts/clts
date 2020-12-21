@@ -208,7 +208,7 @@ cʲː	palatalized long voiceless palatal stop consonant	+	+	cʲː	◌c ◌ʲ ◌
 c̠ʲ	retracted palatalized voiceless palatal stop consonant	+	+	cʲ̱	◌c ◌̠ ◌ʲ						1	
 cʷ	labialized voiceless palatal stop consonant	+	+	cʷ	◌c ◌ʷ						234	
 cʼ	voiceless palatal ejective stop consonant		+	cʹ	◌c ◌ʼ						4	
-c’ˀ	glottalized voiceless palatal ejective stop consonant	+	+	cʹˀ	◌c ◌’ ◌ˀ						0	
+cʼˀ	glottalized voiceless palatal ejective stop consonant	+	+	cʹˀ	◌c ◌ʼ ◌ˀ						0	
 cˀ	glottalized voiceless palatal stop consonant	+	+	cˀ	◌c ◌ˀ						13	
 cː	long voiceless palatal stop consonant		+	cː	◌c ◌ː						2	
 cː	long voiceless palatal stop consonant		+	cːː	◌c ◌ː						1	
@@ -288,7 +288,7 @@ l	voiced alveolar lateral approximant consonant		+	l	◌l						1650
 lʲ	palatalized voiced alveolar lateral approximant consonant		+	lʲ	◌l ◌ʲ						3	
 lˀ	glottalized voiced alveolar lateral approximant consonant	+	+	lˀ	◌l ◌ˀ						4	
 l̃	nasalized voiced alveolar lateral approximant consonant	+	+	l˜	◌l ◌̃						1	
-l’	voiced alveolar ejective lateral approximant consonant	+	+	ľ	◌l ◌’						38	
+lʼ	voiced alveolar ejective lateral approximant consonant	+	+	ľ	◌l ◌ʼ						38	
 l̩	syllabic voiced alveolar lateral approximant consonant		+	ḷ	◌l ◌̩						105	
 l̩ʱ	syllabic breathy voiced alveolar lateral approximant consonant	+	+	ḷ̤	◌l ◌̩ ◌ʱ						2	
 l̩̥	syllabic devoiced voiced alveolar lateral approximant consonant	+	+	ḷ̥	◌l ◌̩ ◌̥						1	
@@ -479,7 +479,7 @@ y	rounded close front vowel		+	y	◌y						140
 z	voiced alveolar sibilant fricative consonant		+	z	◌z						597	
 zʱ	breathy voiced alveolar sibilant fricative consonant	+	+	zʱ	◌z ◌ʱ						1	
 zʷ	labialized voiced alveolar sibilant fricative consonant	+	+	zʷ	◌z ◌ʷ						1	
-z’	voiced alveolar ejective sibilant fricative consonant	+	+	zʹ	◌z ◌’						1	
+zʼ	voiced alveolar ejective sibilant fricative consonant	+	+	zʹ	◌z ◌ʼ						1	
 zˀ	glottalized voiced alveolar sibilant fricative consonant	+	+	zˀ	◌z ◌ˀ						1	
 ʒ	voiced post-alveolar sibilant fricative consonant		+	ž	◌ʒ						291	
 ʒʱ	breathy voiced post-alveolar sibilant fricative consonant	+	+	žʱ	◌ʒ ◌ʱ						1	
@@ -522,7 +522,7 @@ z̪ʲ	palatalized voiced dental sibilant fricative consonant	+	+	z̪ʲ	◌z ◌�
 ɔ	rounded open-mid back vowel		+	ɔ	◌ɔ						653	
 ɔ̤	breathy rounded open-mid back vowel	+	+	ɔ̤	◌ɔ ◌̤						3	
 ɗ	voiced dental implosive consonant		+	ɗ	◌ɗ						106	
-ɖ’	voiced retroflex ejective stop consonant	+	+	ɗ̣	◌ɖ ◌’						20	
+ɖʼ	voiced retroflex ejective stop consonant	+	+	ɗ̣	◌ɖ ◌ʼ						20	
 ɗʱ	breathy voiced dental implosive consonant	+	+	ɗ̤	◌ɗ ◌ʱ						1	
 ə	unrounded mid central vowel		+	ə	◌ə						600	
 ə̤	breathy unrounded mid central vowel	+	+	ə̤	◌ə ◌̤						1	
