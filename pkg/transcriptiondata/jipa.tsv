@@ -1,10 +1,17 @@
 BIPA_GRAPHEME	CLTS_NAME	GENERATED	EXPLICIT	GRAPHEME	SYMBOLS	URL	LATEX	FEATURES	SOUND	IMAGE	COUNT	NOTE
-<NA>	<NA>		+	1	<NA>						v̼	
-kʼ	voiceless velar ejective stop consonant		+	6	◌k ◌ʼ						kʼ	
-kʼʷ	labialized voiceless velar ejective stop consonant		+	2	◌k ◌ʼ ◌ʷ						kʷʼ	
-pʼ	voiceless bilabial ejective stop consonant		+	3	◌p ◌ʼ						pʼ	
-tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	5	◌t ◌s ◌ʼ						tsʼ	
-tʼ	voiceless alveolar ejective stop consonant		+	4	◌t ◌ʼ						tʼ	
+<NA>	<NA>		+	v̼	<NA>						1	
+kʼ	voiceless velar ejective stop consonant		+	kʼ	◌k ◌ʼ						6	◌k ◌ʼ
+kʼʷ	labialized voiceless velar ejective stop consonant		+	kʼʷ	◌k ◌ʼ ◌ʷ						1	◌k ◌ʼ ◌ʷ
+kʼʷ	labialized voiceless velar ejective stop consonant		+	kʷʼ	◌k ◌ʼ ◌ʷ						2	◌k ◌ʼ ◌ʷ
+pʼ	voiceless bilabial ejective stop consonant		+	pʼ	◌p ◌ʼ						3	◌p ◌ʼ
+qʼ	voiceless uvular ejective stop consonant		+	qʼ	◌q ◌ʼ						2	◌q ◌ʼ
+qʼʷ	labialized voiceless uvular ejective stop consonant		+	qʼʷ	◌q ◌ʼ ◌ʷ						1	◌q ◌ʼ ◌ʷ
+sʼ	voiceless alveolar ejective sibilant fricative consonant		+	sʼ	◌s ◌ʼ						1	◌s ◌ʼ
+tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	tsʼ	◌t ◌s ◌ʼ						5	◌t ◌s ◌ʼ
+tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬʼ	◌t ◌ɬ ◌ʼ						3	◌t ◌ɬ ◌ʼ
+tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼ	◌t ◌ʃ ◌ʼ						5	◌t ◌ʃ ◌ʼ
+tʃʼː	long voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼː	◌t ◌ʃ ◌ʼ ◌ː						1	◌t ◌ʃ ◌ʼ ◌ː
+tʼ	voiceless alveolar ejective stop consonant		+	tʼ	◌t ◌ʼ						4	◌t ◌ʼ
 <NA>	<NA>		+	aʊɪ	<NA>						1	triphthong
 <NA>	<NA>		+	eəɪ	<NA>						1	triphthong
 <NA>	<NA>		+	iau	<NA>						2	triphthong
@@ -19,7 +26,7 @@ tʼ	voiceless alveolar ejective stop consonant		+	4	◌t ◌ʼ						tʼ
 <NA>	<NA>		+	uei	<NA>						1	
 <NA>	<NA>		+	wai̯	<NA>						1	
 <NA>	<NA>		+	wei̯	<NA>						1	
-<NA>	<NA>		+	z̻	<NA>						1	
+z̻	voiced laminal alveolar sibilant fricative consonant		+	z̻	◌z ◌̻						1	
 ǁʼ	voiceless alveolar ejective lateral click consonant	+	+	ǁʼ	◌ǁ ◌ʼ						1	
 <NA>	<NA>		+	ɔoũ	<NA>						1	triphthong
 <NA>	<NA>		+	əɪa	<NA>						1	triphthong
@@ -251,10 +258,7 @@ kʷ	labialized voiceless velar stop consonant		+	kʷ	◌k ◌ʷ						24
 kʷʰ	labialized aspirated voiceless velar stop consonant		+	kʷʰ	◌k ◌ʷ ◌ʰ						3	
 kʷː	labialized long voiceless velar stop consonant		+	kʷː	◌k ◌ʷ ◌ː						5	
 kʼ	voiceless velar ejective stop consonant		+	k'	◌k ◌ʼ						1	
-kʼ	voiceless velar ejective stop consonant		+	kʼ	◌k ◌ʼ						1	
 kʼʷ	labialized voiceless velar ejective stop consonant		+	kʷ'	◌k ◌ʼ ◌ʷ						2	
-kʼʷ	labialized voiceless velar ejective stop consonant		+	kʷʼ	◌k ◌ʼ ◌ʷ						1	
-kʼʷ	labialized voiceless velar ejective stop consonant		+	kʼʷ	◌k ◌ʼ ◌ʷ						1	
 kː	long voiceless velar stop consonant		+	k:	◌k ◌ː						1	
 kː	long voiceless velar stop consonant		+	kk	◌k ◌ː						1	
 kː	long voiceless velar stop consonant		+	kː	◌k ◌ː						15	
@@ -277,6 +281,7 @@ lˠ	velarized voiced alveolar lateral approximant consonant		+	ɫ	◌l ◌ˠ				
 lˤ	pharyngealized voiced alveolar lateral approximant consonant	+	+	lˤ	◌l ◌ˤ						2	
 lˤː	pharyngealized long voiced alveolar lateral approximant consonant	+	+	lˤː	◌l ◌ˤ ◌ː						1	
 l̥	devoiced voiced alveolar lateral approximant consonant		+	l̥	◌l ◌̥						3	
+l̪	voiced dental lateral approximant consonant		+	1	◌l ◌̪						l	
 l̪	voiced dental lateral approximant consonant		+	l̪	◌l ◌̪						1	
 l̪ʷ	labialized voiced dental lateral approximant consonant	+	+	l̪ʷ	◌l ◌̪ ◌ʷ						1	
 l̪ˠ	velarized voiced dental lateral approximant consonant		+	l̪ˠ	◌l ◌̪ ◌ˠ						1	
@@ -356,7 +361,6 @@ pʰː	aspirated long voiceless bilabial stop consonant		+	pʰː	◌p ◌ʰ ◌ː
 pʲ	palatalized voiceless bilabial stop consonant		+	pʲ	◌p ◌ʲ						4	
 pʷ	labialized voiceless bilabial stop consonant		+	pʷ	◌p ◌ʷ						2	
 pʼ	voiceless bilabial ejective stop consonant		+	p'	◌p ◌ʼ						2	
-pʼ	voiceless bilabial ejective stop consonant		+	pʼ	◌p ◌ʼ						2	
 pː	long voiceless bilabial stop consonant		+	p:	◌p ◌ː						2	
 pː	long voiceless bilabial stop consonant		+	pp	◌p ◌ː						1	
 pː	long voiceless bilabial stop consonant		+	pː	◌p ◌ː						9	
@@ -368,9 +372,7 @@ q	voiceless uvular stop consonant		+	q	◌q						18
 qʰ	aspirated voiceless uvular stop consonant		+	qʰ	◌q ◌ʰ						4	
 qʷ	labialized voiceless uvular stop consonant		+	qʷ	◌q ◌ʷ						4	
 qʼ	voiceless uvular ejective stop consonant		+	q'	◌q ◌ʼ						1	
-qʼ	voiceless uvular ejective stop consonant		+	qʼ	◌q ◌ʼ						1	
 qʼʷ	labialized voiceless uvular ejective stop consonant		+	qʷ'	◌q ◌ʼ ◌ʷ						1	
-qʼʷ	labialized voiceless uvular ejective stop consonant		+	qʼʷ	◌q ◌ʼ ◌ʷ						1	
 qː	long voiceless uvular stop consonant	+	+	qː	◌q ◌ː						1	
 qχ	voiceless uvular affricate consonant		+	qχ	◌q ◌χ						1	
 r	voiced alveolar trill consonant		+	r	◌r						77	
@@ -386,7 +388,6 @@ sʲ	palatalized voiceless alveolar sibilant fricative consonant		+	sʲ	◌s ◌�
 sʲː	palatalized long voiceless alveolar sibilant fricative consonant	+	+	sʲː	◌s ◌ʲ ◌ː						1	
 sʷ	labialized voiceless alveolar sibilant fricative consonant	+	+	sʷ	◌s ◌ʷ						1	
 sʷː	labialized long voiceless alveolar sibilant fricative consonant	+	+	sʷː	◌s ◌ʷ ◌ː						1	
-sʼ	voiceless alveolar ejective sibilant fricative consonant		+	sʼ	◌s ◌ʼ						1	
 sː	long voiceless alveolar sibilant fricative consonant		+	s:	◌s ◌ː						1	
 sː	long voiceless alveolar sibilant fricative consonant		+	ss	◌s ◌ː						1	
 sː	long voiceless alveolar sibilant fricative consonant		+	sː	◌s ◌ː						14	
@@ -403,7 +404,6 @@ tsʰ	aspirated voiceless alveolar sibilant affricate consonant		+	tsʰ	◌t ◌s
 tsʰː	aspirated long voiceless alveolar sibilant affricate consonant	+	+	tsʰː	◌t ◌s ◌ʰ ◌ː						1	
 tsʲ	palatalized voiceless alveolar sibilant affricate consonant		+	tsʲ	◌t ◌s ◌ʲ						2	
 tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	ts'	◌t ◌s ◌ʼ						2	
-tsʼ	voiceless alveolar ejective sibilant affricate consonant		+	tsʼ	◌t ◌s ◌ʼ						2	
 tsː	long voiceless alveolar sibilant affricate consonant		+	tsts	◌t ◌s ◌ː						1	
 tsː	long voiceless alveolar sibilant affricate consonant		+	tsː	◌t ◌s ◌ː						2	
 ts̪	voiceless dental sibilant affricate consonant		+	t̪s̪	◌t ◌s ◌̪						1	
@@ -422,15 +422,12 @@ tɕː	long voiceless alveolo-palatal sibilant affricate consonant		+	t̠ɕː	◌
 tɬ	voiceless alveolar lateral affricate consonant		+	tɬ	◌t ◌ɬ						5	
 tɬʰ	aspirated voiceless alveolar lateral affricate consonant		+	tɬʰ	◌t ◌ɬ ◌ʰ						2	
 tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬ'	◌t ◌ɬ ◌ʼ						2	
-tɬʼ	voiceless alveolar ejective lateral affricate consonant		+	tɬʼ	◌t ◌ɬ ◌ʼ						1	
 tʃ	voiceless post-alveolar sibilant affricate consonant		+	tʃ	◌t ◌ʃ						91	
 tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant		+	tʃtʃʰ	◌t ◌ʃ ◌ʰ						1	
 tʃʰ	aspirated voiceless post-alveolar sibilant affricate consonant		+	tʃʰ	◌t ◌ʃ ◌ʰ						11	
 tʃʰː	aspirated long voiceless post-alveolar sibilant affricate consonant	+	+	tʃʰː	◌t ◌ʃ ◌ʰ ◌ː						1	
 tʃʲ	palatalized voiceless post-alveolar sibilant affricate consonant		+	tʃʲ	◌t ◌ʃ ◌ʲ						2	
 tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	tʃ'	◌t ◌ʃ ◌ʼ						2	
-tʃʼ	voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼ	◌t ◌ʃ ◌ʼ						1	
-tʃʼː	long voiceless post-alveolar ejective sibilant affricate consonant		+	tʃʼː	◌t ◌ʃ ◌ʼ ◌ː						1	
 tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tʃtʃ	◌t ◌ʃ ◌ː						1	
 tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tʃː	◌t ◌ʃ ◌ː						6	
 tʃː	long voiceless post-alveolar sibilant affricate consonant		+	tːʃ	◌t ◌ʃ ◌ː						2	
@@ -444,7 +441,6 @@ tʲʷ	palatalized labialized voiceless alveolar stop consonant	+	+	tʲʷ	◌t �
 tʲː	palatalized long voiceless alveolar stop consonant	+	+	tʲː	◌t ◌ʲ ◌ː						1	
 tʷ	labialized voiceless alveolar stop consonant		+	tʷ	◌t ◌ʷ						2	
 tʼ	voiceless alveolar ejective stop consonant		+	t'	◌t ◌ʼ						2	
-tʼ	voiceless alveolar ejective stop consonant		+	tʼ	◌t ◌ʼ						2	
 tː	long voiceless alveolar stop consonant		+	tt	◌t ◌ː						1	
 tː	long voiceless alveolar stop consonant		+	tː	◌t ◌ː						14	
 tˠ	velarized voiceless alveolar stop consonant	+	+	tˠ	◌t ◌ˠ						1	

@@ -1,17 +1,17 @@
 BIPA	GRAPHEME	COUNT	NOTE	SYMBOLS
-<NA>	1	v̼		
-kʼ	6	kʼ		◌k ◌ʼ
-kʼʷ	1	kʼʷ		◌k ◌ʼ ◌ʷ
-kʼʷ	2	kʷʼ		◌k ◌ʼ ◌ʷ
-pʼ	3	pʼ		◌p ◌ʼ
-qʼ	2	qʼ		◌q ◌ʼ
-qʼʷ	1	qʼʷ		◌q ◌ʼ ◌ʷ
-sʼ	1	sʼ		◌s ◌ʼ
-tsʼ	5	tsʼ		◌t ◌s ◌ʼ
-tɬʼ	3	tɬʼ		◌t ◌ɬ ◌ʼ
-tʃʼ	5	tʃʼ		◌t ◌ʃ ◌ʼ
-tʃʼː	1	tʃʼː		◌t ◌ʃ ◌ʼ ◌ː
-tʼ	4	tʼ		◌t ◌ʼ
+<NA>	v̼	1		
+kʼ	kʼ	6	◌k ◌ʼ
+kʼʷ	kʼʷ	1	◌k ◌ʼ ◌ʷ
+kʼʷ	kʷʼ	2	◌k ◌ʼ ◌ʷ
+pʼ	pʼ	3	◌p ◌ʼ
+qʼ	qʼ	2	◌q ◌ʼ
+qʼʷ	qʼʷ	1	◌q ◌ʼ ◌ʷ
+sʼ	sʼ	1	◌s ◌ʼ
+tsʼ	tsʼ	5	◌t ◌s ◌ʼ
+tɬʼ	tɬʼ	3	◌t ◌ɬ ◌ʼ
+tʃʼ	tʃʼ	5	◌t ◌ʃ ◌ʼ
+tʃʼː	tʃʼː	1	◌t ◌ʃ ◌ʼ ◌ː
+tʼ	tʼ	4	◌t ◌ʼ
 <NA>	aʊɪ	1	triphthong	
 <NA>	eəɪ	1	triphthong	
 <NA>	iau	2	triphthong	
@@ -26,7 +26,7 @@ tʼ	4	tʼ		◌t ◌ʼ
 <NA>	uei	1		
 <NA>	wai̯	1		
 <NA>	wei̯	1		
-<NA>	z̻	1		
+z̻	z̻	1		
 ǁʼ	ǁʼ	1		
 <NA>	ɔoũ	1	triphthong	
 <NA>	əɪa	1	triphthong	
