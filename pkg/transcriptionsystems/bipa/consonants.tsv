@@ -64,6 +64,7 @@ dg	voiced	alveolar-and-velar	stop
 pfʰ	voiceless	labio-dental	affricate		aspiration:aspirated	
 n̼	voiced	linguolabial	nasal			
 ⁿd̼	voiced	linguolabial	stop		preceding:pre-nasalized	
+ⁿgb	voiced	velar-and-bilabial	stop		preceding:pre-nasalized	
 t̼	voiceless	linguolabial	stop			
 d̼	voiced	linguolabial	stop			
 ɾ̼	voiced	linguolabial	tap			
@@ -75,6 +76,7 @@ l̼	voiced	linguolabial	approximant		airstream:lateral
 ɬ̼	voiceless	linguolabial	fricative		airstream:lateral	
 ɮ̼	voiced	linguolabial	fricative		airstream:lateral	
 ᶑ	voiced	retroflex	implosive			
+ɠɓ	voiced	velar-and-bilabial	implosive
 b̪	voiced	labio-dental	stop			
 ȸ	voiced	labio-dental	stop	+		
 p̪	voiceless	labio-dental	stop			
