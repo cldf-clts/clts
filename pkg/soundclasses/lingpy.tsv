@@ -583,6 +583,7 @@ long nasalized rounded near-open central vowel	ɞ̞̃ː	U	V	7	V	u	#c86464
 voiced palatal stop consonant	ɟ	C	C	1	K	C	#c89664
 voiced palatal affricate consonant	ɟʝ	C	C	1	K	C	#c89664
 voiced velar implosive consonant	ɠ	K	C	1	K	g	#c89664
+voiced velar-and-bilabial implosive consonant	ɠɓ	K	C	1	K	g	#c89664
 voiced uvular stop consonant	ɢ	K	C	1	K	q	#c89664
 voiced uvular affricate consonant	ɢʁ	K	C	1	K	q	#c89664
 aspirated voiced uvular stop consonant	ɢʰ	K	C	1	K	q	#c89664
@@ -850,6 +851,7 @@ pre-nasalized voiced post-alveolar affricate consonant	ⁿdʒ	T	C	1	T	d	#9664c8
 pre-nasalized voiced dental stop consonant	ⁿd̪	T	C	1	T	d	#9664c8
 pre-nasalized voiced linguolabial stop consonant	ⁿd̼	T	C	1	T	d	#9664c8
 pre-nasalized voiced velar stop consonant	ⁿg	K	C	1	K	g	#c89664
+pre-nasalized voiced velar-and-bilabial stop consonant	ⁿgb	K	C	1	K	g	#c89664
 pre-nasalized voiced dental click consonant	ⁿgǀ	!	C	1	K	!	#c89664
 pre-nasalized voiced alveolar lateral click consonant	ⁿgǁ	!	C	1	K	!	#c89664
 pre-nasalized voiced palatal click consonant	ⁿgǂ	!	C	1	K	!	#c89664

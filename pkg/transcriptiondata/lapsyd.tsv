@@ -496,7 +496,7 @@ ç	voiceless palatal sibilant fricative consonant		+	ç	◌c ◌̧			pulmonic f
 ⁿkʷ	pre-nasalized labialized voiceless velar stop consonant		+	ŋkʷ	◌ⁿ ◌k ◌ʷ			pulmonic stop prenasalized voiceless labialized velar				
 ŋm	voiced velar-and-bilabial nasal consonant		+	ŋm	◌ŋ ◌m			pulmonic nasal voiced bilabial velar				
 ⁿkp	from pre-nasalized voiceless velar stop to voiceless bilabial stop cluster	+	+	ŋmkp	◌ⁿ ◌k ◌p			pulmonic stop prenasalized voiceless bilabial velar				
-ⁿgb	from pre-nasalized voiced velar stop to voiced bilabial stop cluster	+	+	ŋmɡb	◌ⁿ ◌g ◌b			pulmonic stop prenasalized voiced bilabial velar				
+ⁿgb	pre-nasalized voiced velar-and-bilabial stop consonant		+	ŋmɡb	◌ⁿ ◌g ◌b			pulmonic stop prenasalized voiced bilabial velar				
 ŋmʷ	labialized voiced velar-and-bilabial nasal consonant	+	+	ŋmʷ	◌ŋ ◌m ◌ʷ			pulmonic nasal voiced labialized velar				
 ŋǀ	voiced dental nasal-click consonant		+	ŋǀ	◌ŋ ◌ǀ			click nasal voiced dental velar				
 ŋǁ	voiced alveolar lateral nasal-click consonant		+	ŋǁ	◌ŋ ◌ǁ			click nasal lateral voiced alveolar velar				
@@ -600,7 +600,7 @@ dʑʲ	palatalized voiced alveolo-palatal sibilant affricate consonant	+	+	ɟʑ	�
 ɟʱ	breathy voiced palatal stop consonant	+	+	ɟ̤	◌ɟ ◌ʱ			pulmonic stop voiced breathy voiced palatal				
 ɟ̰	creaky voiced palatal stop consonant	+	+	ɟ̰	◌ɟ ◌̰			pulmonic stop voiced laryngealized palatal				
 ɠ	voiced velar implosive consonant		+	ɠ	◌ɠ			implosive stop voiced velar				
-ɠɓ	from voiced velar implosive to voiced bilabial implosive cluster	+	+	ɠɓ	◌ɠ ◌ɓ			implosive stop voiced bilabial velar				
+ɠɓ	voiced velar-and-bilabial implosive consonant		+	ɠɓ	◌ɠ ◌ɓ			implosive stop voiced bilabial velar				
 g	voiced velar stop consonant		+	ɡ	◌g			pulmonic stop voiced velar				
 gb	voiced velar-and-bilabial stop consonant		+	ɡb	◌g ◌b			pulmonic stop voiced bilabial velar				
 gǀ	voiced dental click consonant		+	ɡǀ	◌g ◌ǀ			click stop voiced dental velar				

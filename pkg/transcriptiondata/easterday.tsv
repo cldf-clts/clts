@@ -362,7 +362,7 @@ z̪	voiced dental sibilant fricative consonant		+	z̪	◌z ◌̪
 ɛː	long unrounded open-mid front vowel		+	ɛː	◌ɛ ◌ː							
 ɟ	voiced palatal stop consonant		+	ɟ	◌ɟ							
 ɟʰ	aspirated voiced palatal stop consonant	+	+	ɟʰ	◌ɟ ◌ʰ							
-ɠɓ	from voiced velar implosive to voiced bilabial implosive cluster	+	+	ɠ͡ɓ	◌ɠ ◌ɓ							
+ɠɓ	voiced velar-and-bilabial implosive consonant		+	ɠ͡ɓ	◌ɠ ◌ɓ							
 ɢ	voiced uvular stop consonant		+	ɢ	◌ɢ							
 ɣ	voiced velar fricative consonant		+	ɣ	◌ɣ							
 ɣ̞	lowered voiced velar fricative consonant	+	+	ɣ̞	◌ɣ ◌̞							
@@ -482,7 +482,7 @@ z̪	voiced dental sibilant fricative consonant		+	z̪	◌z ◌̪
 ⁿd̪	pre-nasalized voiced dental stop consonant		+	\textsuperscript{n̪}d̪	◌ⁿ ◌d ◌̪							
 ⁿd̪	pre-nasalized voiced dental stop consonant		+	ⁿd̪	◌ⁿ ◌d ◌̪							
 ⁿg	pre-nasalized voiced velar stop consonant		+	ᵑɡ	◌ⁿ ◌g							
-ⁿgb	from pre-nasalized voiced velar stop to voiced bilabial stop cluster	+	+	\textsuperscript{ŋ͡m}ɡ͡b	◌ⁿ ◌g ◌b							
+ⁿgb	pre-nasalized voiced velar-and-bilabial stop consonant		+	\textsuperscript{ŋ͡m}ɡ͡b	◌ⁿ ◌g ◌b							
 ⁿgʷ	pre-nasalized labialized voiced velar stop consonant	+	+	ᵑɡʷ	◌ⁿ ◌g ◌ʷ							
 ⁿk	pre-nasalized voiceless velar stop consonant		+	ᵑk	◌ⁿ ◌k							
 ⁿkʰ	pre-nasalized aspirated voiceless velar stop consonant	+	+	ᵑkʰ	◌ⁿ ◌k ◌ʰ							
