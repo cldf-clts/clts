@@ -14,7 +14,7 @@
             "name": "Robert Forkel"
         }
     ],
-    "description": "<p>Cite the library as:</p>\n\n<blockquote>\n<p>List, Johann-Mattis; Anderson, Cormac; Tresoldi, Tiago; Forkel, Robert (2020): PYCLTS. A Python library for the handling of phonetic transcription systems. Version 3.0.0. URL: https://doi.org/10.5281/zenodo.3687546. With contributions by Tiago Tresoldi and Simon J. Greenhill and Christoph Rzymski. Jena: Max Planck Institute for the Science of Human History.</p>\n</blockquote>",
+    "description": "<p>Cite the dataset as:</p>\n\n<blockquote>\n<p>List, Johann-Mattis; Anderson, Cormac; Tresoldi, Tiago; Forkel, Robert (2021): CLTS. Cross-Linguistic Transcription Systems. Version 2.0.0. URL: https://doi.org/10.5281/zenodo.3515744. Jena: Max Planck Institute for the Science of Human History.</p>\n</blockquote>",
     "access_right": "open",
     "keywords": [
         "linguistics",
