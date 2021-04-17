@@ -28,6 +28,7 @@ property | value
 
 
 
+
 ### <a name="table-sourcesindextsv"></a>Table [sources/index.tsv](./sources/index.tsv)
 
 
@@ -35,6 +36,7 @@ CLTS is compiled from information about transcriptions and how these relate to s
 
 property | value
  --- | ---
+
 
 
 
@@ -50,6 +52,7 @@ Name/Property | Datatype | Description
 `URITEMPLATE` | `string` | Several CLTS sources provide an online catalog of the graphemes they describe. If this is the case, the URI template specified in this column was used to derive the URL column in graphemes.csv.
 
 
+
 ### <a name="table-datafeaturestsv"></a>Table [data/features.tsv](./data/features.tsv)
 
 
@@ -57,6 +60,7 @@ The feature system employed by CLTS describes sounds by assigning values for cer
 
 property | value
  --- | ---
+
 
 
 
@@ -71,11 +75,13 @@ Name/Property | Datatype | Description
 `VALUE` | `string` | 
 
 
+
 ### <a name="table-datagraphemestsv"></a>Table [data/graphemes.tsv](./data/graphemes.tsv)
 
 
 property | value
  --- | ---
+
 
 
 
@@ -99,11 +105,13 @@ Name/Property | Datatype | Description
 [NOTE](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 
 
+
 ### <a name="table-datasoundstsv"></a>Table [data/sounds.tsv](./data/sounds.tsv)
 
 
 property | value
  --- | ---
+
 
 
 
@@ -119,449 +127,4 @@ Name/Property | Datatype | Description
 `UNICODE` | `string` | 
 `GENERATED` | `boolean` | 
 `TYPE` | `string` | 
-`NOTE` | `string` | ### <a name="table-sourcesindextsv"></a>Table [sources/index.tsv](./sources/index.tsv)
-
-
-CLTS is compiled from information about transcriptions and how these relate to sounds from many sources, such as phoneme inventory databases like PHOIBLE or relevant typological surveys.
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[NAME](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-[DESCRIPTION](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
-[REFS](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `, `) | References [data/references.bib::BibTeX-key](./data/references.bib)
-`TYPE` | `string` | CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).
-`URITEMPLATE` | `string` | Several CLTS sources provide an online catalog of the graphemes they describe. If this is tha case, the URI template specified in this column can be expanded with relevant rows from `data/graphemes.tsv` to form full URIs linking to the source catalog.
-
-
-### <a name="table-datafeaturestsv"></a>Table [data/features.tsv](./data/features.tsv)
-
-
-The feature system employed by CLTS describes sounds by assigning values for certain features (constrained by sound type). The permissible values per (feature, sound type) are listed in this table.
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-`TYPE` | `string` | 
-`FEATURE` | `string` | 
-`VALUE` | `string` | 
-
-
-### <a name="table-datagraphemestsv"></a>Table [data/graphemes.tsv](./data/graphemes.tsv)
-
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`PK` | `integer` | Primary key
-`GRAPHEME` | `string` | 
-`NAME` | `string` | References [data/sounds.tsv::NAME](#table-datasoundstsv)
-`BIPA` | `string` | 
-`DATASET` | `string` | References [sources/index.tsv::NAME](#table-sourcesindextsv)
-`DATATYPE` | `string` | 
-`FREQUENCY` | `integer` | 
-`URL` | `anyURI` | 
-`IMAGE` | `anyURI` | 
-`SOUND` | `anyURI` | 
-`EXPLICIT` | `string` | 
-`ALIAS` | `string` | 
-`FEATURES` | `string` | 
-`NOTE` | `string` | 
-
-
-### <a name="table-datasoundstsv"></a>Table [data/sounds.tsv](./data/sounds.tsv)
-
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`ID` | `string` | Primary key
-`NAME` | `string` | 
-`FEATURES` | list of `string` (separated by ` `) | References [data/features.tsv::VALUE](#table-datafeaturestsv)
-`GRAPHEME` | `string` | 
-`UNICODE` | `string` | 
-`GENERATED` | `boolean` | 
-`TYPE` | `string` | 
-`NOTE` | `string` | ### <a name="table-sourcesindextsv"></a>Table [sources/index.tsv](./sources/index.tsv)
-
-
-CLTS is compiled from information about transcriptions and how these relate to sounds from many sources, such as phoneme inventory databases like PHOIBLE or relevant typological surveys.
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[NAME](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-[DESCRIPTION](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
-[REFS](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `, `) | References [data/references.bib::BibTeX-key](./data/references.bib)
-`TYPE` | `string` | CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).
-`URITEMPLATE` | `string` | Several CLTS sources provide an online catalog of the graphemes they describe. If this is tha case, the URI template specified in this column can be expanded with relevant rows from `data/graphemes.tsv` to form full URIs linking to the source catalog.
-
-
-### <a name="table-datafeaturestsv"></a>Table [data/features.tsv](./data/features.tsv)
-
-
-The feature system employed by CLTS describes sounds by assigning values for certain features (constrained by sound type). The permissible values per (feature, sound type) are listed in this table.
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-`TYPE` | `string` | 
-`FEATURE` | `string` | 
-`VALUE` | `string` | 
-
-
-### <a name="table-datagraphemestsv"></a>Table [data/graphemes.tsv](./data/graphemes.tsv)
-
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`PK` | `integer` | Primary key
-`GRAPHEME` | `string` | 
-`NAME` | `string` | References [data/sounds.tsv::NAME](#table-datasoundstsv)
-`BIPA` | `string` | 
-`DATASET` | `string` | References [sources/index.tsv::NAME](#table-sourcesindextsv)
-`DATATYPE` | `string` | 
-`FREQUENCY` | `integer` | 
-`URL` | `anyURI` | 
-`IMAGE` | `anyURI` | 
-`SOUND` | `anyURI` | 
-`EXPLICIT` | `string` | 
-`ALIAS` | `string` | 
-`FEATURES` | `string` | 
-`NOTE` | `string` | 
-
-
-### <a name="table-datasoundstsv"></a>Table [data/sounds.tsv](./data/sounds.tsv)
-
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`ID` | `string` | Primary key
-`NAME` | `string` | 
-`FEATURES` | list of `string` (separated by ` `) | References [data/features.tsv::VALUE](#table-datafeaturestsv)
-`GRAPHEME` | `string` | 
-`UNICODE` | `string` | 
-`GENERATED` | `boolean` | 
-`TYPE` | `string` | 
-`NOTE` | `string` | ### <a name="table-sourcesindextsv"></a>Table [sources/index.tsv](./sources/index.tsv)
-
-
-CLTS is compiled from information about transcriptions and how these relate to sounds from many sources, such as phoneme inventory databases like PHOIBLE or relevant typological surveys.
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[NAME](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-[DESCRIPTION](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
-[REFS](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `, `) | References [data/references.bib::BibTeX-key](./data/references.bib)
-`TYPE` | `string` | CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).
-`URITEMPLATE` | `string` | Several CLTS sources provide an online catalog of the graphemes they describe. If this is tha case, the URI template specified in this column can be expanded with relevant rows from `data/graphemes.tsv` to form full URIs linking to the source catalog.
-
-
-### <a name="table-datafeaturestsv"></a>Table [data/features.tsv](./data/features.tsv)
-
-
-The feature system employed by CLTS describes sounds by assigning values for certain features (constrained by sound type). The permissible values per (feature, sound type) are listed in this table.
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-`TYPE` | `string` | 
-`FEATURE` | `string` | 
-`VALUE` | `string` | 
-
-
-### <a name="table-datagraphemestsv"></a>Table [data/graphemes.tsv](./data/graphemes.tsv)
-
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`PK` | `integer` | Primary key
-`GRAPHEME` | `string` | 
-`NAME` | `string` | References [data/sounds.tsv::NAME](#table-datasoundstsv)
-`BIPA` | `string` | 
-`DATASET` | `string` | References [sources/index.tsv::NAME](#table-sourcesindextsv)
-`DATATYPE` | `string` | 
-`FREQUENCY` | `integer` | 
-`URL` | `anyURI` | 
-`IMAGE` | `anyURI` | 
-`SOUND` | `anyURI` | 
-`EXPLICIT` | `string` | 
-`ALIAS` | `string` | 
-`FEATURES` | `string` | 
-`NOTE` | `string` | 
-
-
-### <a name="table-datasoundstsv"></a>Table [data/sounds.tsv](./data/sounds.tsv)
-
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`ID` | `string` | Primary key
-`NAME` | `string` | 
-`FEATURES` | list of `string` (separated by ` `) | References [data/features.tsv::VALUE](#table-datafeaturestsv)
-`GRAPHEME` | `string` | 
-`UNICODE` | `string` | 
-`GENERATED` | `boolean` | 
-`TYPE` | `string` | 
-`NOTE` | `string` | ### <a name="table-sourcesindextsv"></a>Table [sources/index.tsv](./sources/index.tsv)
-
-
-CLTS is compiled from information about transcriptions and how these relate to sounds from many sources, such as phoneme inventory databases like PHOIBLE or relevant typological surveys.
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[NAME](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-[DESCRIPTION](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
-[REFS](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `, `) | References [data/references.bib::BibTeX-key](./data/references.bib)
-`TYPE` | `string` | CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).
-`URITEMPLATE` | `string` | Several CLTS sources provide an online catalog of the graphemes they describe. If this is tha case, the URI template specified in this column can be expanded with relevant rows from `data/graphemes.tsv` to form full URIs linking to the source catalog.
-
-
-### <a name="table-datafeaturestsv"></a>Table [data/features.tsv](./data/features.tsv)
-
-
-The feature system employed by CLTS describes sounds by assigning values for certain features (constrained by sound type). The permissible values per (feature, sound type) are listed in this table.
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-`TYPE` | `string` | 
-`FEATURE` | `string` | 
-`VALUE` | `string` | 
-
-
-### <a name="table-datagraphemestsv"></a>Table [data/graphemes.tsv](./data/graphemes.tsv)
-
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`PK` | `integer` | Primary key
-`GRAPHEME` | `string` | 
-`NAME` | `string` | References [data/sounds.tsv::NAME](#table-datasoundstsv)
-`BIPA` | `string` | 
-`DATASET` | `string` | 
-`DATATYPE` | `string` | 
-`FREQUENCY` | `integer` | 
-`URL` | `anyURI` | 
-`IMAGE` | `anyURI` | 
-`SOUND` | `anyURI` | 
-`EXPLICIT` | `string` | 
-`ALIAS` | `string` | 
-`FEATURES` | `string` | 
-`NOTE` | `string` | 
-
-
-### <a name="table-datasoundstsv"></a>Table [data/sounds.tsv](./data/sounds.tsv)
-
-
-property | value
- --- | ---
-
-
-
-#### Columns
-
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`ID` | `string` | Primary key
-`NAME` | `string` | 
-`FEATURES` | list of `string` (separated by ` `) | References [data/features.tsv::VALUE](#table-datafeaturestsv)
-`GRAPHEME` | `string` | 
-`UNICODE` | `string` | 
-`GENERATED` | `boolean` | 
-`TYPE` | `string` | 
-`NOTE` | `string` | ### <a name="table-sourcesindextsv"></a>Table [sources/index.tsv](./sources/index.tsv)
-
-CLTS is compiled from information about transcriptions and how these relate to sounds from many sources, such as phoneme inventory databases like PHOIBLE or relevant typological surveys.
-
-property | value
- --- | ---
-
-
-#### Columns
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[NAME](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-[DESCRIPTION](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
-[REFS](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `, `) | References [data/references.bib::BibTeX-key](./data/references.bib)
-`TYPE` | `string` | CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).
-`URITEMPLATE` | `string` | Several CLTS sources provide an online catalog of the graphemes they describe. If this is tha case, the URI template specified in this column can be expanded with relevant rows from `data/graphemes.tsv` to form full URIs linking to the source catalog.
-
-### <a name="table-datafeaturestsv"></a>Table [data/features.tsv](./data/features.tsv)
-
-The feature system employed by CLTS describes sounds by assigning values for certain features (constrained by sound type). The permissible values per (feature, sound type) are listed in this table.
-
-property | value
- --- | ---
-
-
-#### Columns
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-`TYPE` | `string` | 
-`FEATURE` | `string` | 
-`VALUE` | `string` | 
-
-### <a name="table-datagraphemestsv"></a>Table [data/graphemes.tsv](./data/graphemes.tsv)
-
-property | value
- --- | ---
-
-
-#### Columns
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`PK` | `integer` | Primary key
-`GRAPHEME` | `string` | 
-`NAME` | `string` | References [data/sounds.tsv::NAME](#table-datasoundstsv)
-`BIPA` | `string` | 
-`DATASET` | `string` | 
-`DATATYPE` | `string` | 
-`FREQUENCY` | `integer` | 
-`URL` | `anyURI` | 
-`IMAGE` | `anyURI` | 
-`SOUND` | `anyURI` | 
-`EXPLICIT` | `string` | 
-`ALIAS` | `string` | 
-`FEATURES` | `string` | 
-`NOTE` | `string` | 
-
-### <a name="table-datasoundstsv"></a>Table [data/sounds.tsv](./data/sounds.tsv)
-
-property | value
- --- | ---
-
-
-#### Columns
-
-Name/Property | Datatype | Description
- --- | --- | --- 
-`ID` | `string` | Primary key
-`NAME` | `string` | 
-`FEATURES` | list of `string` (separated by ` `) | References [data/features.tsv::VALUE](#table-datafeaturestsv)
-`GRAPHEME` | `string` | 
-`UNICODE` | `string` | 
-`GENERATED` | `boolean` | 
-`TYPE` | `string` | 
-`NOTE` | `string` | 
+[NOTE](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
