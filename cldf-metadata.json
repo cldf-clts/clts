@@ -6,6 +6,9 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
+    "dc:bibliographicCitation": "Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2021). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744",
+    "dc:description": "The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of speech sounds aggregated from (and linked to) phonetic notation systems from various sources.",
+    "dc:identifier": "https://doi.org/10.5281/zenodo.3515744",
     "dc:source": "data/references.bib",
     "dialect": {
         "doubleQuote": false,
@@ -60,7 +63,8 @@
                 "primaryKey": [
                     "NAME"
                 ]
-            }
+            },
+            "dc:extent": 33
         },
         {
             "url": "data/features.tsv",
@@ -97,7 +101,8 @@
                 "primaryKey": [
                     "ID"
                 ]
-            }
+            },
+            "dc:extent": 156
         },
         {
             "url": "data/graphemes.tsv",
@@ -217,7 +222,8 @@
                         }
                     }
                 ]
-            }
+            },
+            "dc:extent": 80457
         },
         {
             "url": "data/sounds.tsv",
@@ -225,18 +231,21 @@
                 "columns": [
                     {
                         "name": "ID",
+                        "valueUrl": "https://clts.clld.org/parameters/{ID}",
                         "datatype": {
                             "base": "string"
                         }
                     },
                     {
                         "name": "NAME",
+                        "dc:description": "Ordered list of features + sound type",
                         "datatype": {
                             "base": "string"
                         }
                     },
                     {
                         "name": "FEATURES",
+                        "dc:description": "Ordered list of feature values for the sound.",
                         "separator": " ",
                         "datatype": {
                             "base": "string"
@@ -244,12 +253,15 @@
                     },
                     {
                         "name": "GRAPHEME",
+                        "dc:description": "CLTS choses the BIPA grapheme as canonical representative of the graphemes mapped to a sound.",
                         "datatype": {
                             "base": "string"
                         }
                     },
                     {
                         "name": "UNICODE",
+                        "dc:description": "Unicode character names of the codepoints in GRAPHEME",
+                        "separator": " / ",
                         "datatype": {
                             "base": "string"
                         }
@@ -292,7 +304,8 @@
                         }
                     }
                 ]
-            }
+            },
+            "dc:extent": 8647
         }
     ]
 }

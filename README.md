@@ -22,9 +22,13 @@ data types live (i.e. where to edit data).
 
 **Sources**: [data/references.bib](./data/references.bib)
 
+The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of speech sounds aggregated from (and linked to) phonetic notation systems from various sources.
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2021). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744
+[dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.5281/zenodo.3515744
 
 
 
@@ -36,6 +40,7 @@ CLTS is compiled from information about transcriptions and how these relate to s
 
 property | value
  --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 33
 
 
 
@@ -60,6 +65,7 @@ The feature system employed by CLTS describes sounds by assigning values for cer
 
 property | value
  --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 156
 
 
 
@@ -81,6 +87,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 80457
 
 
 
@@ -111,6 +118,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 8647
 
 
 
@@ -121,10 +129,10 @@ property | value
 Name/Property | Datatype | Description
  --- | --- | --- 
 `ID` | `string` | Primary key
-`NAME` | `string` | 
-`FEATURES` | list of `string` (separated by ` `) | References [data/features.tsv::VALUE](#table-datafeaturestsv)
-`GRAPHEME` | `string` | 
-`UNICODE` | `string` | 
+`NAME` | `string` | Ordered list of features + sound type
+`FEATURES` | list of `string` (separated by ` `) | Ordered list of feature values for the sound.<br>References [data/features.tsv::VALUE](#table-datafeaturestsv)
+`GRAPHEME` | `string` | CLTS choses the BIPA grapheme as canonical representative of the graphemes mapped to a sound.
+`UNICODE` | list of `string` (separated by ` / `) | Unicode character names of the codepoints in GRAPHEME
 `GENERATED` | `boolean` | 
 `TYPE` | `string` | 
 [NOTE](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
