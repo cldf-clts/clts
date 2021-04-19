@@ -1,145 +1,158 @@
-TYPE	FEATURE	VALUE
-vowel	relative_articulation	centralized
-vowel	relative_articulation	mid-centralized
-vowel	relative_articulation	advanced
-vowel	relative_articulation	retracted
-vowel	centrality	back
-vowel	centrality	central
-vowel	centrality	front
-vowel	centrality	near-back
-vowel	centrality	near-front
-vowel	creakiness	creaky
-vowel	rounding	less-rounded
-vowel	rounding	more-rounded
-vowel	stress	primary-stress
-vowel	stress	secondary-stress
-vowel	pharyngealization	pharyngealized
-vowel	rhotacization	rhotacized
-vowel	voicing	devoiced
-vowel	nasalization	nasalized
-vowel	syllabicity	non-syllabic
-vowel	raising	lowered
-vowel	raising	raised
-vowel	height	close
-vowel	height	close-mid
-vowel	height	mid
-vowel	height	near-close
-vowel	height	near-open
-vowel	height	open
-vowel	height	open-mid
-vowel	frication	with-frication
-vowel	roundedness	rounded
-vowel	roundedness	unrounded
-vowel	duration	long
-vowel	duration	mid-long
-vowel	duration	ultra-long
-vowel	duration	ultra-short
-vowel	velarization	velarized
-vowel	tongue_root	advanced-tongue-root
-vowel	tongue_root	retracted-tongue-root
-vowel	tone	with_downstep
-vowel	tone	with_extra-high_tone
-vowel	tone	with_extra-low_tone
-vowel	tone	with_falling_tone
-vowel	tone	with_global_fall
-vowel	tone	with_global_rise
-vowel	tone	with_high_tone
-vowel	tone	with_low_tone
-vowel	tone	with_mid_tone
-vowel	tone	with_rising_tone
-vowel	tone	with_upstep
-vowel	articulation	strong
-vowel	breathiness	breathy
-vowel	glottalization	glottalized
-consonant	aspiration	aspirated
-consonant	sibilancy	sibilant
-consonant	creakiness	creaky
-consonant	release	unreleased
-consonant	release	with-lateral-release
-consonant	release	with-mid-central-vowel-release
-consonant	release	with-nasal-release
-consonant	ejection	ejective
-consonant	place	alveolar
-consonant	place	alveolo-palatal
-consonant	place	bilabial
-consonant	place	dental
-consonant	place	epiglottal
-consonant	place	glottal
-consonant	place	labial
-consonant	place	linguolabial
-consonant	place	labio-palatal
-consonant	place	labio-velar
-consonant	place	labio-dental
-consonant	place	palatal
-consonant	place	palatal-velar
-consonant	place	pharyngeal
-consonant	place	post-alveolar
-consonant	place	retroflex
-consonant	place	uvular
-consonant	place	velar
-consonant	pharyngealization	pharyngealized
-consonant	voicing	devoiced
-consonant	voicing	revoiced
-consonant	nasalization	nasalized
-consonant	preceding	pre-aspirated
-consonant	preceding	pre-glottalized
-consonant	preceding	pre-labialized
-consonant	preceding	pre-nasalized
-consonant	preceding	pre-palatalized
-consonant	labialization	labialized
-consonant	syllabicity	syllabic
-consonant	palatalization	labio-palatalized
-consonant	palatalization	palatalized
-consonant	phonation	voiced
-consonant	phonation	voiceless
-consonant	duration	long
-consonant	duration	mid-long
-consonant	stress	primary-stress
-consonant	stress	primary-stress
-consonant	stress	primary-stress
-consonant	stress	primary-stress
-consonant	stress	secondary-stress
-consonant	laterality	lateral
-consonant	velarization	velarized
-consonant	manner	affricate
-consonant	manner	approximant
-consonant	manner	click
-consonant	manner	fricative
-consonant	manner	implosive
-consonant	manner	nasal
-consonant	manner	nasal-click
-consonant	manner	stop
-consonant	manner	tap
-consonant	manner	trill
-consonant	laminality	apical
-consonant	laminality	laminal
-consonant	articulation	strong
-consonant	breathiness	breathy
-consonant	glottalization	glottalized
-consonant	raising	lowered
-consonant	raising	raised
-consonant	relative_articulation	centralized
-consonant	relative_articulation	mid-centralized
-consonant	relative_articulation	advanced
-consonant	relative_articulation	retracted
-tone	middle	via-high
-tone	middle	via-low
-tone	middle	via-mid
-tone	middle	via-mid-high
-tone	middle	via-mid-low
-tone	start	from-high
-tone	start	from-low
-tone	start	from-mid
-tone	start	from-mid-high
-tone	start	from-mid-low
-tone	start	neutral
-tone	contour	contour
-tone	contour	falling
-tone	contour	flat
-tone	contour	rising
-tone	contour	short
-tone	end	to-high
-tone	end	to-low
-tone	end	to-mid
-tone	end	to-mid-high
-tone	end	to-mid-low
+ID	TYPE	FEATURE	VALUE
+vowel_relative_articulation_centralized	vowel	relative_articulation	centralized
+vowel_relative_articulation_mid-centralized	vowel	relative_articulation	mid-centralized
+vowel_relative_articulation_advanced	vowel	relative_articulation	advanced
+vowel_relative_articulation_retracted	vowel	relative_articulation	retracted
+vowel_centrality_back	vowel	centrality	back
+vowel_centrality_central	vowel	centrality	central
+vowel_centrality_front	vowel	centrality	front
+vowel_centrality_near-back	vowel	centrality	near-back
+vowel_centrality_near-front	vowel	centrality	near-front
+vowel_creakiness_creaky	vowel	creakiness	creaky
+vowel_rounding_less-rounded	vowel	rounding	less-rounded
+vowel_rounding_more-rounded	vowel	rounding	more-rounded
+vowel_stress_primary-stress	vowel	stress	primary-stress
+vowel_stress_secondary-stress	vowel	stress	secondary-stress
+vowel_pharyngealization_pharyngealized	vowel	pharyngealization	pharyngealized
+vowel_rhotacization_rhotacized	vowel	rhotacization	rhotacized
+vowel_voicing_devoiced	vowel	voicing	devoiced
+vowel_nasalization_nasalized	vowel	nasalization	nasalized
+vowel_syllabicity_non-syllabic	vowel	syllabicity	non-syllabic
+vowel_raising_lowered	vowel	raising	lowered
+vowel_raising_raised	vowel	raising	raised
+vowel_height_close	vowel	height	close
+vowel_height_close-mid	vowel	height	close-mid
+vowel_height_mid	vowel	height	mid
+vowel_height_near-close	vowel	height	near-close
+vowel_height_near-open	vowel	height	near-open
+vowel_height_open	vowel	height	open
+vowel_height_open-mid	vowel	height	open-mid
+vowel_friction_with-friction	vowel	friction	with-friction
+vowel_roundedness_rounded	vowel	roundedness	rounded
+vowel_roundedness_unrounded	vowel	roundedness	unrounded
+vowel_duration_long	vowel	duration	long
+vowel_duration_mid-long	vowel	duration	mid-long
+vowel_duration_ultra-long	vowel	duration	ultra-long
+vowel_duration_ultra-short	vowel	duration	ultra-short
+vowel_velarization_velarized	vowel	velarization	velarized
+vowel_tongue_root_advanced-tongue-root	vowel	tongue_root	advanced-tongue-root
+vowel_tongue_root_retracted-tongue-root	vowel	tongue_root	retracted-tongue-root
+vowel_tone_with-downstep	vowel	tone	with-downstep
+vowel_tone_with-extra-high_tone	vowel	tone	with-extra-high_tone
+vowel_tone_with-extra-low_tone	vowel	tone	with-extra-low_tone
+vowel_tone_with-falling_tone	vowel	tone	with-falling_tone
+vowel_tone_with-global_fall	vowel	tone	with-global_fall
+vowel_tone_with-global_rise	vowel	tone	with-global_rise
+vowel_tone_with-high_tone	vowel	tone	with-high_tone
+vowel_tone_with-low_tone	vowel	tone	with-low_tone
+vowel_tone_with-mid_tone	vowel	tone	with-mid_tone
+vowel_tone_with-rising_tone	vowel	tone	with-rising_tone
+vowel_tone_with-upstep	vowel	tone	with-upstep
+vowel_articulation_strong	vowel	articulation	strong
+vowel_breathiness_breathy	vowel	breathiness	breathy
+vowel_glottalization_glottalized	vowel	glottalization	glottalized
+consonant_relative_articulation_centralized	consonant	relative_articulation	centralized
+consonant_relative_articulation_mid-centralized	consonant	relative_articulation	mid-centralized
+consonant_relative_articulation_advanced	consonant	relative_articulation	advanced
+consonant_relative_articulation_retracted	consonant	relative_articulation	retracted
+consonant_tongue_root_advanced-tongue-root	consonant	tongue_root	advanced-tongue-root
+consonant_tongue_root_retracted-tongue-root	consonant	tongue_root	retracted-tongue-root
+consonant_aspiration_aspirated	consonant	aspiration	aspirated
+consonant_airstream_sibilant	consonant	airstream	sibilant
+consonant_airstream_whistled-sibilant	consonant	airstream	whistled-sibilant
+consonant_airstream_lateral	consonant	airstream	lateral
+consonant_creakiness_creaky	consonant	creakiness	creaky
+consonant_release_unreleased	consonant	release	unreleased
+consonant_release_with-lateral-release	consonant	release	with-lateral-release
+consonant_release_with-mid-central-vowel-release	consonant	release	with-mid-central-vowel-release
+consonant_release_with-nasal-release	consonant	release	with-nasal-release
+consonant_release_with-uvular-release	consonant	release	with-uvular-release
+consonant_release_with-sibilant-release	consonant	release	with-sibilant-release
+consonant_release_with-trilled-release	consonant	release	with-trilled-release
+consonant_ejection_ejective	consonant	ejection	ejective
+consonant_place_alveolar	consonant	place	alveolar
+consonant_place_alveolo-palatal	consonant	place	alveolo-palatal
+consonant_place_bilabial	consonant	place	bilabial
+consonant_place_dental	consonant	place	dental
+consonant_place_epiglottal	consonant	place	epiglottal
+consonant_place_glottal	consonant	place	glottal
+consonant_place_labial	consonant	place	labial
+consonant_place_linguolabial	consonant	place	linguolabial
+consonant_place_labio-palatal	consonant	place	labio-palatal
+consonant_place_labio-velar	consonant	place	labio-velar
+consonant_place_labio-dental	consonant	place	labio-dental
+consonant_place_palatal	consonant	place	palatal
+consonant_place_palatal-velar	consonant	place	palatal-velar
+consonant_place_pharyngeal	consonant	place	pharyngeal
+consonant_place_post-alveolar	consonant	place	post-alveolar
+consonant_place_retroflex	consonant	place	retroflex
+consonant_place_uvular	consonant	place	uvular
+consonant_place_velar	consonant	place	velar
+consonant_place_bilabial-and-alveolar	consonant	place	bilabial-and-alveolar
+consonant_place_bilabial-and-velar	consonant	place	bilabial-and-velar
+consonant_place_alveolar-and-bilabial	consonant	place	alveolar-and-bilabial
+consonant_place_alveolar-and-velar	consonant	place	alveolar-and-velar
+consonant_place_velar-and-alveolar	consonant	place	velar-and-alveolar
+consonant_place_velar-and-bilabial	consonant	place	velar-and-bilabial
+consonant_place_velar-and-uvular	consonant	place	velar-and-uvular
+consonant_pharyngealization_pharyngealized	consonant	pharyngealization	pharyngealized
+consonant_friction_with-friction	consonant	friction	with-friction
+consonant_voicing_devoiced	consonant	voicing	devoiced
+consonant_voicing_revoiced	consonant	voicing	revoiced
+consonant_nasalization_nasalized	consonant	nasalization	nasalized
+consonant_preceding_pre-aspirated	consonant	preceding	pre-aspirated
+consonant_preceding_pre-breathy-aspirated	consonant	preceding	pre-breathy-aspirated
+consonant_preceding_pre-glottalized	consonant	preceding	pre-glottalized
+consonant_preceding_pre-labialized	consonant	preceding	pre-labialized
+consonant_preceding_pre-nasalized	consonant	preceding	pre-nasalized
+consonant_preceding_pre-palatalized	consonant	preceding	pre-palatalized
+consonant_preceding_pre-glottalized-and-nasalized	consonant	preceding	pre-glottalized-and-nasalized
+consonant_labialization_labialized	consonant	labialization	labialized
+consonant_syllabicity_syllabic	consonant	syllabicity	syllabic
+consonant_palatalization_labio-palatalized	consonant	palatalization	labio-palatalized
+consonant_palatalization_palatalized	consonant	palatalization	palatalized
+consonant_phonation_voiced	consonant	phonation	voiced
+consonant_phonation_voiceless	consonant	phonation	voiceless
+consonant_duration_long	consonant	duration	long
+consonant_duration_mid-long	consonant	duration	mid-long
+consonant_stress_primary-stress	consonant	stress	primary-stress
+consonant_stress_secondary-stress	consonant	stress	secondary-stress
+consonant_velarization_velarized	consonant	velarization	velarized
+consonant_manner_affricate	consonant	manner	affricate
+consonant_manner_approximant	consonant	manner	approximant
+consonant_manner_click	consonant	manner	click
+consonant_manner_fricative	consonant	manner	fricative
+consonant_manner_implosive	consonant	manner	implosive
+consonant_manner_nasal	consonant	manner	nasal
+consonant_manner_nasal-click	consonant	manner	nasal-click
+consonant_manner_stop	consonant	manner	stop
+consonant_manner_tap	consonant	manner	tap
+consonant_manner_trill	consonant	manner	trill
+consonant_laminality_apical	consonant	laminality	apical
+consonant_laminality_laminal	consonant	laminality	laminal
+consonant_articulation_strong	consonant	articulation	strong
+consonant_breathiness_breathy	consonant	breathiness	breathy
+consonant_raising_lowered	consonant	raising	lowered
+consonant_raising_raised	consonant	raising	raised
+consonant_glottalization_glottalized	consonant	glottalization	glottalized
+tone_middle_via-high	tone	middle	via-high
+tone_middle_via-low	tone	middle	via-low
+tone_middle_via-mid	tone	middle	via-mid
+tone_middle_via-mid-high	tone	middle	via-mid-high
+tone_middle_via-mid-low	tone	middle	via-mid-low
+tone_start_from-high	tone	start	from-high
+tone_start_from-low	tone	start	from-low
+tone_start_from-mid	tone	start	from-mid
+tone_start_from-mid-high	tone	start	from-mid-high
+tone_start_from-mid-low	tone	start	from-mid-low
+tone_start_neutral	tone	start	neutral
+tone_contour_contour	tone	contour	contour
+tone_contour_falling	tone	contour	falling
+tone_contour_flat	tone	contour	flat
+tone_contour_rising	tone	contour	rising
+tone_contour_short	tone	contour	short
+tone_end_to-high	tone	end	to-high
+tone_end_to-low	tone	end	to-low
+tone_end_to-mid	tone	end	to-mid
+tone_end_to-mid-high	tone	end	to-mid-high
+tone_end_to-mid-low	tone	end	to-mid-low

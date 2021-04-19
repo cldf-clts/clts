@@ -1,4 +1,4 @@
-# Data for Cross-Linguistic Transcription Systems
+# Cross-Linguistic Transcription Systems
 
 This repository provides the data underlying the "cross-linguistic transcription systems" project, which offers transcription systems and transcription data for various sources. Please see `CONTRIBUTING.md` for more information on how to contribute.
 
@@ -12,6 +12,7 @@ data types live (i.e. where to edit data).
 
 - **References:** `data/references.bib`
 - **Feature system:** `pkg/transcriptionsystems/features.json`
+- **BIPA transcription system:** `pkg/transcriptionsystems/bipa/`
 - **Index of source datasets:** `sources/index.tsv`
 - **Source datasets:** `sources/*/graphemes.tsv`
 
@@ -65,7 +66,7 @@ The feature system employed by CLTS describes sounds by assigning values for cer
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 156
+[dc:extent](http://purl.org/dc/terms/extent) | 157
 
 
 
@@ -76,8 +77,8 @@ property | value
 Name/Property | Datatype | Description
  --- | --- | --- 
 [ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-`TYPE` | `string` | 
-`FEATURE` | `string` | 
+`TYPE` | `string` | CLTS distinguishes the basic sound types consonant, vowel, tone, and marker. Features are defined for consonants, vowels, and tones.
+`FEATURE` | `string` | Note that CLTS features are not necessarily binary.
 `VALUE` | `string` | 
 
 
@@ -106,8 +107,7 @@ Name/Property | Datatype | Description
 `URL` | `anyURI` | URL of the grapheme in its source online database
 `IMAGE` | `anyURI` | Image of the typeset grapheme.
 `SOUND` | `anyURI` | Audio recording of the sound being pronounced.
-`EXPLICIT` | `string` | 
-`ALIAS` | `string` | 
+`EXPLICIT` | `string` | Indicates whether the mapping of grapheme to sound was done manually (explicitly, +) or whether it was inferred from the Grapheme.
 `FEATURES` | `string` | Features of the sound as described in the local feature system of the source dataset
 [NOTE](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 
@@ -128,11 +128,11 @@ property | value
 
 Name/Property | Datatype | Description
  --- | --- | --- 
-`ID` | `string` | Primary key
-`NAME` | `string` | Ordered list of features + sound type
-`FEATURES` | list of `string` (separated by ` `) | Ordered list of feature values for the sound.<br>References [data/features.tsv::VALUE](#table-datafeaturestsv)
+`ID` | `string` | 
+`NAME` | `string` | Ordered list of features + sound type<br>Primary key
+`FEATURES` | list of `string` (separated by ` `) | Ordered list of feature values for the sound.<br>References [data/features.tsv::ID](#table-datafeaturestsv)
 `GRAPHEME` | `string` | CLTS choses the BIPA grapheme as canonical representative of the graphemes mapped to a sound.
 `UNICODE` | list of `string` (separated by ` / `) | Unicode character names of the codepoints in GRAPHEME
-`GENERATED` | `boolean` | 
-`TYPE` | `string` | 
+`GENERATED` | `boolean` | Indicates whether the sound was inferred by our algorithmic procedure (which is active for all diphthongs, all cluster sounds, but also all sounds which we do not label explicitly) or whether no inference was needed, since the sound is explicitly defined.
+`TYPE` | `string` | CLTS defines five sound types: consonant, vowel, tone, diphthong, and cluster. The latter two are always GENERATED.
 [NOTE](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 

@@ -6,9 +6,6 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
-    "dc:bibliographicCitation": "Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2021). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744",
-    "dc:description": "The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of speech sounds aggregated from (and linked to) phonetic notation systems from various sources.",
-    "dc:identifier": "https://doi.org/10.5281/zenodo.3515744",
     "dc:source": "data/references.bib",
     "dialect": {
         "doubleQuote": false,
@@ -80,6 +77,7 @@
                     },
                     {
                         "name": "TYPE",
+                        "dc:description": "CLTS distinguishes the basic sound types consonant, vowel, tone, and marker. Features are defined for consonants, vowels, and tones.",
                         "datatype": {
                             "base": "string",
                             "format": "consonant|vowel|tone"
@@ -87,6 +85,7 @@
                     },
                     {
                         "name": "FEATURE",
+                        "dc:description": "Note that CLTS features are not necessarily binary.",
                         "datatype": {
                             "base": "string"
                         }
@@ -102,7 +101,7 @@
                     "ID"
                 ]
             },
-            "dc:extent": 156
+            "dc:extent": 157
         },
         {
             "url": "data/graphemes.tsv",
@@ -170,12 +169,7 @@
                     },
                     {
                         "name": "EXPLICIT",
-                        "datatype": {
-                            "base": "string"
-                        }
-                    },
-                    {
-                        "name": "ALIAS",
+                        "dc:description": "Indicates whether the mapping of grapheme to sound was done manually (explicitly, +) or whether it was inferred from the Grapheme.",
                         "datatype": {
                             "base": "string"
                         }
@@ -268,6 +262,7 @@
                     },
                     {
                         "name": "GENERATED",
+                        "dc:description": "Indicates whether the sound was inferred by our algorithmic procedure (which is active for all diphthongs, all cluster sounds, but also all sounds which we do not label explicitly) or whether no inference was needed, since the sound is explicitly defined.",
                         "datatype": {
                             "base": "boolean",
                             "format": "+|-"
@@ -275,6 +270,7 @@
                     },
                     {
                         "name": "TYPE",
+                        "dc:description": "CLTS defines five sound types: consonant, vowel, tone, diphthong, and cluster. The latter two are always GENERATED.",
                         "datatype": {
                             "base": "string",
                             "format": "consonant|vowel|diphthong|tone|cluster"
@@ -289,7 +285,7 @@
                     }
                 ],
                 "primaryKey": [
-                    "ID"
+                    "NAME"
                 ],
                 "foreignKeys": [
                     {
@@ -298,7 +294,7 @@
                         ],
                         "reference": {
                             "columnReference": [
-                                "VALUE"
+                                "ID"
                             ],
                             "resource": "data/features.tsv"
                         }
@@ -307,5 +303,8 @@
             },
             "dc:extent": 8647
         }
-    ]
+    ],
+    "dc:bibliographicCitation": "Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2021). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744",
+    "dc:description": "The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of speech sounds aggregated from (and linked to) phonetic notation systems from various sources.",
+    "dc:identifier": "https://doi.org/10.5281/zenodo.3515744"
 }
