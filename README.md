@@ -105,8 +105,8 @@ Name/Property | Datatype | Description
 `DATASET` | `string` | Links to the source of this grapheme<br>References [sources/index.tsv::NAME](#table-sourcesindextsv)
 `FREQUENCY` | `integer` | 
 `URL` | `anyURI` | URL of the grapheme in its source online database
-`IMAGE` | `anyURI` | Image of the typeset grapheme.
-`SOUND` | `anyURI` | Audio recording of the sound being pronounced.
+`IMAGE` | `string` | Image of the typeset grapheme.
+`SOUND` | `string` | Audio recording of the sound being pronounced.
 `EXPLICIT` | `string` | Indicates whether the mapping of grapheme to sound was done manually (explicitly, +) or whether it was inferred from the Grapheme.
 `FEATURES` | `string` | Features of the sound as described in the local feature system of the source dataset
 [NOTE](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
