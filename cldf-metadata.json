@@ -1,0 +1,310 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
+    "dc:source": "data/references.bib",
+    "dialect": {
+        "doubleQuote": false,
+        "commentPrefix": null,
+        "delimiter": "\t",
+        "trim": true
+    },
+    "tables": [
+        {
+            "url": "sources/index.tsv",
+            "dc:description": "CLTS is compiled from information about transcriptions and how these relate to sounds from many sources, such as phoneme inventory databases like PHOIBLE or relevant typological surveys.",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "name": "NAME",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "REFS",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "datatype": {
+                            "base": "string"
+                        },
+                        "separator": ", "
+                    },
+                    {
+                        "name": "TYPE",
+                        "dc:description": "CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).",
+                        "datatype": {
+                            "base": "string",
+                            "format": "td|ts|sc"
+                        }
+                    },
+                    {
+                        "name": "URITEMPLATE",
+                        "dc:description": "Several CLTS sources provide an online catalog of the graphemes they describe. If this is the case, the URI template specified in this column was used to derive the URL column in graphemes.csv.",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "NAME"
+                ]
+            },
+            "dc:extent": 33
+        },
+        {
+            "url": "data/features.tsv",
+            "dc:description": "The feature system employed by CLTS describes sounds by assigning values for certain features (constrained by sound type). The permissible values per (feature, sound type) are listed in this table.",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "name": "ID",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "TYPE",
+                        "dc:description": "CLTS distinguishes the basic sound types consonant, vowel, tone, and marker. Features are defined for consonants, vowels, and tones.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "consonant|vowel|tone"
+                        }
+                    },
+                    {
+                        "name": "FEATURE",
+                        "dc:description": "Note that CLTS features are not necessarily binary.",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "VALUE",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "dc:extent": 157
+        },
+        {
+            "url": "data/graphemes.tsv",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "name": "PK",
+                        "datatype": {
+                            "base": "integer"
+                        }
+                    },
+                    {
+                        "name": "GRAPHEME",
+                        "dc:description": "Grapheme used in a particular transcription to denote a sound",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "NAME",
+                        "dc:description": "The ordered concatenation of feature values of the denoted sound",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "BIPA",
+                        "dc:description": "The grapheme for the denoted sound in the Broad IPA transcription system",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "DATASET",
+                        "dc:description": "Links to the source of this grapheme"
+                    },
+                    {
+                        "name": "FREQUENCY",
+                        "datatype": {
+                            "base": "integer"
+                        }
+                    },
+                    {
+                        "name": "URL",
+                        "dc:description": "URL of the grapheme in its source online database",
+                        "datatype": {
+                            "base": "anyURI"
+                        }
+                    },
+                    {
+                        "name": "IMAGE",
+                        "dc:description": "Image of the typeset grapheme.",
+                        "valueUrl": "http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/images/{IMAGE}",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "SOUND",
+                        "dc:description": "Audio recording of the sound being pronounced.",
+                        "valueUrl": "http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAsounds/{SOUND}",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "EXPLICIT",
+                        "dc:description": "Indicates whether the mapping of grapheme to sound was done manually (explicitly, +) or whether it was inferred from the Grapheme.",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "FEATURES",
+                        "dc:description": "Features of the sound as described in the local feature system of the source dataset",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "NOTE",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "PK"
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "NAME"
+                        ],
+                        "reference": {
+                            "columnReference": [
+                                "NAME"
+                            ],
+                            "resource": "data/sounds.tsv"
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "DATASET"
+                        ],
+                        "reference": {
+                            "columnReference": [
+                                "NAME"
+                            ],
+                            "resource": "sources/index.tsv"
+                        }
+                    }
+                ]
+            },
+            "dc:extent": 80457
+        },
+        {
+            "url": "data/sounds.tsv",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "name": "ID",
+                        "valueUrl": "https://clts.clld.org/parameters/{ID}",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "NAME",
+                        "dc:description": "Ordered list of features + sound type",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "FEATURES",
+                        "dc:description": "Ordered list of feature values for the sound.",
+                        "separator": " ",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "GRAPHEME",
+                        "dc:description": "CLTS choses the BIPA grapheme as canonical representative of the graphemes mapped to a sound.",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "UNICODE",
+                        "dc:description": "Unicode character names of the codepoints in GRAPHEME",
+                        "separator": " / ",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    },
+                    {
+                        "name": "GENERATED",
+                        "dc:description": "Indicates whether the sound was inferred by our algorithmic procedure (which is active for all diphthongs, all cluster sounds, but also all sounds which we do not label explicitly) or whether no inference was needed, since the sound is explicitly defined.",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "+|-"
+                        }
+                    },
+                    {
+                        "name": "TYPE",
+                        "dc:description": "CLTS defines five sound types: consonant, vowel, tone, diphthong, and cluster. The latter two are always GENERATED.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "consonant|vowel|diphthong|tone|cluster"
+                        }
+                    },
+                    {
+                        "name": "NOTE",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "datatype": {
+                            "base": "string"
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "NAME"
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "FEATURES"
+                        ],
+                        "reference": {
+                            "columnReference": [
+                                "ID"
+                            ],
+                            "resource": "data/features.tsv"
+                        }
+                    }
+                ]
+            },
+            "dc:extent": 8647
+        }
+    ],
+    "dc:bibliographicCitation": "Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2021). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744",
+    "dc:description": "The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of speech sounds aggregated from (and linked to) phonetic notation systems from various sources.",
+    "dc:identifier": "https://doi.org/10.5281/zenodo.3515744"
+}
