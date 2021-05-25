@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/cldf-clts/clts/workflows/CLDF-validation/badge.svg)](https://github.com/cldf-clts/clts/actions?query=workflow%3ACLDF-validation)
 
-This repository provides the data underlying the "cross-linguistic transcription systems" project, which offers transcription systems and transcription data for various sources. Please see `CONTRIBUTING.md` for more information on how to contribute.
+This repository provides the data underlying the "cross-linguistic transcription systems" project (CLTS [siː el tiː es]), which offers transcription systems and transcription data for various sources. Please see `CONTRIBUTING.md` for more information on how to contribute.
 
 
 ## Master data
