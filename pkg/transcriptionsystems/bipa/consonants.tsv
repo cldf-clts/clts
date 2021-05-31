@@ -17,8 +17,8 @@ t̪̙	voiceless	dental	stop		tongue_root:retracted-tongue-root
 ʕ̙	voiced	pharyngeal	fricative		tongue_root:retracted-tongue-root	
 s̙	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:sibilant	
 ð̙	voiceless	dental	fricative		tongue_root:retracted-tongue-root	
-s̙ˤ	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:sibilant,glottalization:glottalized	
-ð̙ˤ	voiceless	dental	fricative		tongue_root:retracted-tongue-root,glottalization:glottalized	
+s̙ˀ	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:sibilant,glottalization:glottalized	
+ð̙ˀ	voiceless	dental	fricative		tongue_root:retracted-tongue-root,glottalization:glottalized	
 tθ̠	voiceless	alveolar	affricate			
 tθ͇	voiceless	alveolar	affricate	+	
 tɹ̠̊˔	voiceless	post-alveolar	affricate			
