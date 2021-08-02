@@ -228,6 +228,7 @@ l̂	voiced	alveolo-palatal	approximant	+	airstream:lateral	Alias used in some tr
 ȵ	voiced	alveolo-palatal	nasal			
 n̂	voiced	alveolo-palatal	nasal	+		Alias used in some transcription systems.
 ȵ̊	voiced	alveolo-palatal	nasal		voicing:devoiced	
+ȵ̥	voiced	alveolo-palatal	nasal	+	voicing:devoiced	
 ᶀ	voiced	bilabial	stop	+	palatalization:palatalized	IPA extensions supplement
 ᶆ	voiced	bilabial	nasal	+	palatalization:palatalized	IPA extensions supplement
 ᶈ	voiceless	bilabial	stop	+	palatalization:palatalized	IPA extensions supplement
