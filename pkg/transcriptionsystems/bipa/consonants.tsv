@@ -1,4 +1,10 @@
 GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
+Ø	unspecified-voice	unspecified-place	unspecified-manner			
+Ø̥	voiceless	unspecified-place	unspecified-manner			
+Ø̬	voiced	unspecified-place	unspecified-manner			
+Øʲ	unspecified-voice	unspecified-place	unspecified-manner		palatalization:palatalized	
+Øˠ	unspecified-voice	unspecified-place	unspecified-manner		velarization:velarized	
+Øʷ	unspecified-voice	unspecified-place	unspecified-manner		labialization:labialized	
 z̰	voiced	alveolar	fricative		creakiness:creaky, airstream:sibilant
 r̠̙	voiced	alveolar	trill		tongue_root:retracted-tongue-root,relative_articulation:retracted	
 ɺ̪̪	voiced	dental	tap		airstream:lateral	
