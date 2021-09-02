@@ -154,7 +154,8 @@
       "alveolar-and-velar",
       "velar-and-alveolar",
       "velar-and-bilabial",
-      "velar-and-uvular"
+      "velar-and-uvular",
+      "unspecified-place"
     ],
     "pharyngealization": [
       "pharyngealized"
@@ -190,7 +191,8 @@
     ],
     "phonation": [
       "voiced",
-      "voiceless"
+      "voiceless",
+      "unspecified-voice"
     ],
     "duration": [
       "long",
@@ -213,7 +215,8 @@
       "nasal-click",
       "stop",
       "tap",
-      "trill"
+      "trill",
+      "unspecified-manner"
     ],
     "laminality": [
       "apical",
