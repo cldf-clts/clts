@@ -1,0 +1,10 @@
+[
+  {
+    "conditions": {"aspiration": "aspirated", "voicing": "voiced"},
+    "modifications": {"aspiration": null, "breathiness": "breathy"}
+  },
+  {
+    "conditions": {"voicing": "voiceless", "breathiness": "breathy"},
+    "modifications": {"voicing": "voiced"}
+  }
+]
