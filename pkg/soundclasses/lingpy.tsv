@@ -131,11 +131,13 @@ breathy voiced velar stop consonant	gʱ	K	C	1	K	g	#c89664
 palatalized voiced velar stop consonant	gʲ	K	C	1	K	g	#c89664
 labialized voiced velar stop consonant	gʷ	K	C	1	K	g	#c89664
 long voiced velar stop consonant	gː	K	C	1	K	g	#c89664
+voiced velar tap consonant	ğ	K	C	1	K	g	#c89664
 devoiced voiced velar stop consonant	g̊	K	C	1	K	g	#c89664
 aspirated devoiced voiced velar stop consonant	g̊ʰ	K	C	1	K	g	#c89664
 voiced retracted-tongue-root velar stop consonant	g̙	K	C	1	K	g	#c89664
 voiceless glottal fricative consonant	h	H	C	3	H	h	#96c864
 nasalized voiceless glottal fricative consonant	h̃	H	C	3	H	h	#96c864
+with-friction voiceless glottal fricative consonant	h͓	H	C	3	H	h	#96c864
 unrounded close front vowel	i	I	V	7	V	i	#c86464
 long unrounded close front vowel	iː	I	V	7	V	i	#c86464
 ultra-long unrounded close front vowel	iːː	I	V	7	V	i	#c86464
@@ -272,7 +274,7 @@ voiceless alveolar ejective sibilant fricative consonant	sʼ	S	C	3	S	s	#6496c8
 long voiceless alveolar sibilant fricative consonant	sː	S	C	3	S	s	#6496c8
 velarized voiceless alveolar sibilant fricative consonant	sˠ	S	C	3	S	s	#6496c8
 voiceless retracted-tongue-root alveolar sibilant fricative consonant	s̙	S	C	3	S	s	#6496c8
-glottalized voiceless retracted-tongue-root alveolar sibilant fricative consonant	s̙ˤ	S	C	3	S	s	#6496c8
+glottalized voiceless retracted-tongue-root alveolar sibilant fricative consonant	s̙ˀ	S	C	3	S	s	#6496c8
 syllabic voiceless alveolar sibilant fricative consonant	s̩	S	C	3	S	s	#6496c8
 voiceless dental sibilant fricative consonant	s̪	S	C	3	S	s	#6496c8
 palatalized voiceless dental sibilant fricative consonant	s̪ʲ	S	C	3	S	s	#6496c8
@@ -461,6 +463,12 @@ contour from-low via-high to-mid tone	¹⁵³	6	T	8	1	6	#c86496
 contour from-low via-high to-low tone	¹⁵¹	6	T	8	1	6	#c86496
 contour from-low via-high to-mid-high tone	¹⁵⁴	6	T	8	1	6	#c86496
 rising from-low via-high to-high tone	¹⁵⁵	6	T	8	1	6	#c86496
+unspecified-voice unspecified-place unspecified-manner consonant	Ø	0	0	0	0	0	0
+palatalized unspecified-voice unspecified-place unspecified-manner consonant	Øʲ	0	0	0	0	0	0
+labialized unspecified-voice unspecified-place unspecified-manner consonant	Øʷ	0	0	0	0	0	0
+velarized unspecified-voice unspecified-place unspecified-manner consonant	Øˠ	0	0	0	0	0	0
+voiceless unspecified-place unspecified-manner consonant	Ø̥	0	0	0	0	0	0
+voiced unspecified-place unspecified-manner consonant	Ø̬	0	0	0	0	0	0
 unrounded near-open front vowel	æ	E	V	7	V	E	#c86464
 long unrounded near-open front vowel	æː	E	V	7	V	E	#c86464
 ultra-long unrounded near-open front vowel	æːː	E	V	7	V	E	#c86464
@@ -471,7 +479,7 @@ creaky unrounded near-open front vowel	æ̰	E	V	7	V	E	#c86464
 voiced dental fricative consonant	ð	D	C	3	T	8	#9664c8
 long voiced dental fricative consonant	ðː	D	C	3	T	8	#9664c8
 voiceless retracted-tongue-root dental fricative consonant	ð̙	D	C	3	T	8	#9664c8
-glottalized voiceless retracted-tongue-root dental fricative consonant	ð̙ˤ	D	C	3	T	8	#9664c8
+glottalized voiceless retracted-tongue-root dental fricative consonant	ð̙ˀ	D	C	3	T	8	#9664c8
 unreleased voiced dental fricative consonant	ð̚	D	C	3	T	8	#9664c8
 voiced alveolar fricative consonant	ð̠	D	C	3	T	8	#9664c8
 voiced linguolabial fricative consonant	ð̼	D	C	3	T	8	#9664c8

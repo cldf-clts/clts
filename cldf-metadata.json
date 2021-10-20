@@ -101,7 +101,7 @@
                     "ID"
                 ]
             },
-            "dc:extent": 157
+            "dc:extent": 160
         },
         {
             "url": "data/graphemes.tsv",
@@ -217,7 +217,7 @@
                     }
                 ]
             },
-            "dc:extent": 80457
+            "dc:extent": 80450
         },
         {
             "url": "data/sounds.tsv",
@@ -301,7 +301,7 @@
                     }
                 ]
             },
-            "dc:extent": 8647
+            "dc:extent": 8657
         }
     ],
     "dc:bibliographicCitation": "Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2021). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744",
