@@ -60,6 +60,7 @@ GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
 ,◌	consonant	stress	secondary-stress	+		
 ◌̞	consonant	raising	lowered			
 ◌̝	consonant	raising	raised			
+◌̍	consonant	syllabicity	syllabic	+	up	
 ◌̩	consonant	syllabicity	syllabic			
 ◌ˠ	consonant	velarization	velarized			
 ◌˳	consonant	voicing	devoiced	+		
