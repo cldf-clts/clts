@@ -68,7 +68,7 @@ The feature system employed by CLTS describes sounds by assigning values for cer
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 160
+[dc:extent](http://purl.org/dc/terms/extent) | 161
 
 
 
@@ -90,7 +90,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 80450
+[dc:extent](http://purl.org/dc/terms/extent) | 80639
 
 
 
@@ -120,7 +120,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 8657
+[dc:extent](http://purl.org/dc/terms/extent) | 8684
 
 
 

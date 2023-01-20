@@ -116,6 +116,7 @@ consonant_phonation_voiced	consonant	phonation	voiced
 consonant_phonation_voiceless	consonant	phonation	voiceless
 consonant_phonation_unspecified-voice	consonant	phonation	unspecified-voice
 consonant_duration_long	consonant	duration	long
+consonant_duration_ultra-long	consonant	duration	ultra-long
 consonant_duration_mid-long	consonant	duration	mid-long
 consonant_stress_primary-stress	consonant	stress	primary-stress
 consonant_stress_secondary-stress	consonant	stress	secondary-stress
