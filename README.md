@@ -30,7 +30,7 @@ The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2021). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2023). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.5281/zenodo.3515744
 
 
