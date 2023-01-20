@@ -21,6 +21,7 @@
 - Create the CLDF dataset for distribution
   ```shell
   clts dist
+  pytest --cldf-metadata=cldf-metadata.json test.py
   ```
 - Create the release commit:
   ```shell
