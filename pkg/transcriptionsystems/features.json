@@ -196,6 +196,7 @@
     ],
     "duration": [
       "long",
+      "ultra-long",
       "mid-long"
     ],
     "stress": [

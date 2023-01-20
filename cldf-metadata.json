@@ -101,7 +101,7 @@
                     "ID"
                 ]
             },
-            "dc:extent": 160
+            "dc:extent": 161
         },
         {
             "url": "data/graphemes.tsv",
@@ -217,7 +217,7 @@
                     }
                 ]
             },
-            "dc:extent": 80450
+            "dc:extent": 80639
         },
         {
             "url": "data/sounds.tsv",
@@ -301,10 +301,10 @@
                     }
                 ]
             },
-            "dc:extent": 8657
+            "dc:extent": 8684
         }
     ],
-    "dc:bibliographicCitation": "Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2021). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744",
+    "dc:bibliographicCitation": "Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2023). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744",
     "dc:description": "The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of speech sounds aggregated from (and linked to) phonetic notation systems from various sources.",
     "dc:identifier": "https://doi.org/10.5281/zenodo.3515744"
 }

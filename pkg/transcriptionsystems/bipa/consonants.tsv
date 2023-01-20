@@ -256,7 +256,7 @@ pᶲ	voiceless	bilabial	affricate	+
 m	voiced	bilabial	nasal			
 mʰ	voiced	bilabial	nasal		aspiration:aspirated	
 mː	voiced	bilabial	nasal		duration:long	
-mː	voiced	bilabial	nasal		duration:ultra-long	
+mːː	voiced	bilabial	nasal		duration:ultra-long	
 mʷ	voiced	bilabial	nasal		labialization:labialized	
 mʲ	voiced	bilabial	nasal		palatalization:palatalized	
 ṃ	voiced	bilabial	nasal	+	syllabicity:syllabic	
@@ -460,7 +460,7 @@ v̥	voiced	labio-dental	fricative		voicing:devoiced
 f	voiceless	labio-dental	fricative			
 fʰ	voiceless	labio-dental	fricative		aspiration:aspirated	
 fː	voiceless	labio-dental	fricative		duration:long	
-fː	voiceless	labio-dental	fricative		duration:ultra-long	
+fːː	voiceless	labio-dental	fricative		duration:ultra-long	
 fˈ	voiceless	labio-dental	fricative	+	ejection:ejective	
 fʼ	voiceless	labio-dental	fricative		ejection:ejective	
 fʲ	voiceless	labio-dental	fricative		palatalization:palatalized	

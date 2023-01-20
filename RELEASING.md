@@ -4,6 +4,7 @@
   ```shell
   clts test
   ```
+- Adapt the metadata in `metadata.json`
 - Create the package accessible from the `pyclts` API
   ```shell
   clts make_pkg
