@@ -30,7 +30,7 @@ The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2021). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2023). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.5281/zenodo.3515744
 
 
@@ -68,7 +68,7 @@ The feature system employed by CLTS describes sounds by assigning values for cer
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 157
+[dc:extent](http://purl.org/dc/terms/extent) | 161
 
 
 
@@ -90,7 +90,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 80457
+[dc:extent](http://purl.org/dc/terms/extent) | 80639
 
 
 
@@ -120,7 +120,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 8647
+[dc:extent](http://purl.org/dc/terms/extent) | 8684
 
 
 

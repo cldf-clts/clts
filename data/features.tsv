@@ -95,6 +95,7 @@ consonant_place_alveolar-and-velar	consonant	place	alveolar-and-velar
 consonant_place_velar-and-alveolar	consonant	place	velar-and-alveolar
 consonant_place_velar-and-bilabial	consonant	place	velar-and-bilabial
 consonant_place_velar-and-uvular	consonant	place	velar-and-uvular
+consonant_place_unspecified-place	consonant	place	unspecified-place
 consonant_pharyngealization_pharyngealized	consonant	pharyngealization	pharyngealized
 consonant_friction_with-friction	consonant	friction	with-friction
 consonant_voicing_devoiced	consonant	voicing	devoiced
@@ -113,7 +114,9 @@ consonant_palatalization_labio-palatalized	consonant	palatalization	labio-palata
 consonant_palatalization_palatalized	consonant	palatalization	palatalized
 consonant_phonation_voiced	consonant	phonation	voiced
 consonant_phonation_voiceless	consonant	phonation	voiceless
+consonant_phonation_unspecified-voice	consonant	phonation	unspecified-voice
 consonant_duration_long	consonant	duration	long
+consonant_duration_ultra-long	consonant	duration	ultra-long
 consonant_duration_mid-long	consonant	duration	mid-long
 consonant_stress_primary-stress	consonant	stress	primary-stress
 consonant_stress_secondary-stress	consonant	stress	secondary-stress
@@ -128,6 +131,7 @@ consonant_manner_nasal-click	consonant	manner	nasal-click
 consonant_manner_stop	consonant	manner	stop
 consonant_manner_tap	consonant	manner	tap
 consonant_manner_trill	consonant	manner	trill
+consonant_manner_unspecified-manner	consonant	manner	unspecified-manner
 consonant_laminality_apical	consonant	laminality	apical
 consonant_laminality_laminal	consonant	laminality	laminal
 consonant_articulation_strong	consonant	articulation	strong

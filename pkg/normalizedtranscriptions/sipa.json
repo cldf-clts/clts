@@ -1,0 +1,12 @@
+[
+  {
+    "conditions": {"aspiration": "aspirated", "phonation": "voiced"},
+    "modifications": {"aspiration": null, "breathiness": "breathy"},
+    "note": {"converts voiced aspirated segments to breathy-voiced voiced"}
+  },
+  {
+    "conditions": {"phonation": "voiceless", "breathiness": "breathy"},
+    "modifications": {"phonation": "voiced"},
+    "note": {"converts breathy-voiced voiceless segments to breathy-voiced voiced"}
+  }
+]
