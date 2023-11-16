@@ -5,7 +5,7 @@ GRAPHEME	PHONATION	PLACE	MANNER	ALIAS	EXTRA	NOTE
 Øʲ	unspecified-voice	unspecified-place	unspecified-manner		palatalization:palatalized	
 Øˠ	unspecified-voice	unspecified-place	unspecified-manner		velarization:velarized	
 Øʷ	unspecified-voice	unspecified-place	unspecified-manner		labialization:labialized	
-z̰	voiced	alveolar	fricative		creakiness:creaky, airstream:sibilant
+z̰	voiced	alveolar	fricative		creakiness:creaky, airstream:sibilant	
 r̠̙	voiced	alveolar	trill		tongue_root:retracted-tongue-root,relative_articulation:retracted	
 ɺ̪̪	voiced	dental	tap		airstream:lateral	
 ɹ̪	voiced	dental	approximant			
@@ -26,10 +26,10 @@ s̙	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:si
 s̙ˀ	voiceless	alveolar	fricative		tongue_root:retracted-tongue-root,airstream:sibilant,glottalization:glottalized	
 ð̙ˀ	voiceless	dental	fricative		tongue_root:retracted-tongue-root,glottalization:glottalized	
 tθ̠	voiceless	alveolar	affricate			
-tθ͇	voiceless	alveolar	affricate	+	
+tθ͇	voiceless	alveolar	affricate	+		
 tɹ̠̊˔	voiceless	post-alveolar	affricate			
-ʈɻ̝̊	voiceless	retroflex	affricate 	
-ʈθ̣	voiceless	retroflex	affricate	+
+ʈɻ̝̊	voiceless	retroflex	affricate 			
+ʈθ̣	voiceless	retroflex	affricate	+		
 dð̠	voiced	alveolar	affricate			
 dð͇	voiced	alveolar	affricate	+		
 dɹ̠˔	voiced	post-alveolar	affricate			
@@ -51,12 +51,12 @@ d̠ʒ̫	voiced	post-alveolar	affricate		airstream:whistled-sibilant
  ɺ̣	voiced	retroflex	tap		airstream:lateral	
 ˀⁿg	voiced	velar	stop		preceding:pre-glottalized-and-nasalized	
 dʒ̊	voiced	alveolar	affricate		voicing:devoiced	
-ṛ	voiced	retroflex	trill				
+ṛ	voiced	retroflex	trill			
 ˀⁿd	voiced	alveolar	stop		preceding:pre-glottalized-and-nasalized	
 ŋm	voiced	velar-and-bilabial	nasal			
 pt	voiceless	bilabial-and-alveolar	stop			
 bd	voiced	bilabial-and-alveolar	stop			
-pk	voiceless	bilabial-and-velar	stop	
+pk	voiceless	bilabial-and-velar	stop			
 ŋ̥m̥	voiceless	bilabial-and-velar	nasal			
 bg	voiced	bilabial-and-velar	stop			
 tp	voiceless	alveolar-and-bilabial	stop			
@@ -82,7 +82,7 @@ l̼	voiced	linguolabial	approximant		airstream:lateral
 ɬ̼	voiceless	linguolabial	fricative		airstream:lateral	
 ɮ̼	voiced	linguolabial	fricative		airstream:lateral	
 ᶑ	voiced	retroflex	implosive			
-ɠɓ	voiced	velar-and-bilabial	implosive
+ɠɓ	voiced	velar-and-bilabial	implosive			
 b̪	voiced	labio-dental	stop			
 ȸ	voiced	labio-dental	stop	+		
 p̪	voiceless	labio-dental	stop			
@@ -422,7 +422,7 @@ l̪̍	voiced	dental	approximant	+	syllabicity:syllabic,airstream:lateral
 h̬	voiced	glottal	fricative	+		Check source.
 h	voiceless	glottal	fricative			
 hːː	voiceless	glottal	fricative		duration:ultra-long	
-h͓	voiceless	glottal	fricative		friction:with-friction
+h͓	voiceless	glottal	fricative		friction:with-friction	
 h̃	voiceless	glottal	fricative		nasalization:nasalized	Check with source.
 ʔ	voiceless	glottal	stop			
 ʔʷ	voiceless	glottal	stop		labialization:labialized	
