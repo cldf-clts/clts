@@ -1,8 +1,8 @@
 GRAPHEME	ROUNDEDNESS	HEIGHT	CENTRALITY	ALIAS	EXTRA	NOTE
 a	unrounded	open	front			
 ä	unrounded	open	front		relative_articulation:centralized	
-a̟	unrounded	open	front		relative_articulation:advanced
-a̟ː	unrounded	open	front		relative_articulation:advanced,duration:long
+a̟	unrounded	open	front		relative_articulation:advanced	
+a̟ː	unrounded	open	front		relative_articulation:advanced,duration:long	
 äː	unrounded	open	front		relative_articulation:centralized,duration:long	
 aː	unrounded	open	front		duration:long	
 aːː	unrounded	open	front		duration:ultra-long	
@@ -30,7 +30,7 @@ e̞ː	unrounded	mid	front		duration:long
 ɑ̟	unrounded	open	back		relative_articulation:advanced	
 ᴀ	unrounded	open	back	+	relative_articulation:advanced	
 e̞ˑ	unrounded	mid	front		duration:mid-long	
-ẽ̞	unrounded	mid	front		nasalization:nasalized		
+ẽ̞	unrounded	mid	front		nasalization:nasalized	
 ẽ̞ː	unrounded	mid	front		nasalization:nasalized,duration:long	
 e̤	unrounded	close-mid	front		breathiness:breathy	
 e̥	unrounded	close-mid	front		voicing:devoiced	
@@ -51,19 +51,19 @@ ḭ	unrounded	close	front		creakiness:creaky
 ḭː	unrounded	close	front		creakiness:creaky,duration:long	
 ḭːː	unrounded	close	front		creakiness:creaky,duration:ultra-long	
 i̹	rounded	close	front	+		
-i͓	unrounded	close	front		friction:with-friction
+i͓	unrounded	close	front		friction:with-friction	
 o	rounded	close-mid	back			
 oː	rounded	close-mid	back		duration:long	
 oːː	rounded	close-mid	back		duration:ultra-long	
 o̤ːː	rounded	close-mid	back		breathiness:breathy,duration:ultra-long	
 oˑ	rounded	close-mid	back		duration:mid-long	
 oˤ	rounded	close-mid	back		pharyngealization:pharyngealized	
-õ	rounded	close-mid	back		nasalization:nasalized		
+õ	rounded	close-mid	back		nasalization:nasalized	
 õː	rounded	close-mid	back		nasalization:nasalized,duration:long	
 ŏ	rounded	close-mid	back		duration:ultra-short	
 o̞	rounded	mid	back			
 o̞ː	rounded	mid	back		duration:long	
-õ̞	rounded	mid	back		nasalization:nasalized		
+õ̞	rounded	mid	back		nasalization:nasalized	
 õ̞ː	rounded	mid	back		nasalization:nasalized,duration:long	
 o̤	rounded	close-mid	back		breathiness:breathy	
 o̥	rounded	close-mid	back		voicing:devoiced	
@@ -74,7 +74,7 @@ uː	rounded	close	back		duration:long
 uːː	rounded	close	back		duration:ultra-long	
 ṳːː	rounded	close	back		breathiness:breathy,duration:ultra-long	
 uˑ	rounded	close	back		duration:mid-long	
-ũ	rounded	close	back		nasalization:nasalized		
+ũ	rounded	close	back		nasalization:nasalized	
 ũː	rounded	close	back		nasalization:nasalized,duration:long	
 ṳ	rounded	close	back		breathiness:breathy	
 u̥	rounded	close	back		voicing:devoiced	
@@ -83,14 +83,14 @@ y	rounded	close	front
 yː	rounded	close	front		duration:long	
 yːː	rounded	close	front		duration:ultra-long	
 yˑ	rounded	close	front		duration:mid-long	
-ỹ	rounded	close	front		nasalization:nasalized		
+ỹ	rounded	close	front		nasalization:nasalized	
 ỹː	rounded	close	front		nasalization:nasalized,duration:long	
 æ	unrounded	near-open	front			
 æː	unrounded	near-open	front		duration:long	
 æːː	unrounded	near-open	front		duration:ultra-long	
 æ̤ːː	unrounded	near-open	front		breathiness:breathy,duration:ultra-long	
 æˑ	unrounded	near-open	front		duration:mid-long	
-æ̃	unrounded	near-open	front		nasalization:nasalized		
+æ̃	unrounded	near-open	front		nasalization:nasalized	
 æ̃ː	unrounded	near-open	front		nasalization:nasalized,duration:long	
 æ̰	unrounded	near-open	front		creakiness:creaky	
 ø	rounded	close-mid	front			
@@ -105,7 +105,7 @@ ỹː	rounded	close	front		nasalization:nasalized,duration:long
 ø̞̃ː	rounded	mid	front		nasalization:nasalized,duration:long	
 œ	rounded	open-mid	front			
 œː	rounded	open-mid	front		duration:long	
-œ̃	rounded	open-mid	front		nasalization:nasalized		
+œ̃	rounded	open-mid	front		nasalization:nasalized	
 œ̃ː	rounded	open-mid	front		nasalization:nasalized,duration:long	
 ɐ	unrounded	near-open	central			
 ɐː	unrounded	near-open	central		duration:long	
@@ -148,7 +148,7 @@ ỹː	rounded	close	front		nasalization:nasalized,duration:long
 ɛː	unrounded	open-mid	front		duration:long	
 ɛːː	unrounded	open-mid	front		duration:ultra-long	
 ɛ̤ːː	unrounded	open-mid	front		breathiness:breathy,duration:ultra-long	
-ɛ̃	unrounded	open-mid	front		nasalization:nasalized		
+ɛ̃	unrounded	open-mid	front		nasalization:nasalized	
 ɛ̃ː	unrounded	open-mid	front		nasalization:nasalized,duration:long	
 ɛ̹̃	rounded	open-mid	front	+	nasalization:nasalized	
 ɛ̰	unrounded	open-mid	front		creakiness:creaky	
@@ -219,7 +219,7 @@ ỹː	rounded	close	front		nasalization:nasalized,duration:long
 ʅ	unrounded	close	central		friction:with-friction	
 ʉ	rounded	close	central			
 ʉː	rounded	close	central		duration:long	
-ʉ̃	rounded	close	central		nasalization:nasalized		
+ʉ̃	rounded	close	central		nasalization:nasalized	
 ʉ̃ː	rounded	close	central		nasalization:nasalized,duration:long	
 ʉ̰	rounded	close	central		creakiness:creaky	
 ʊ	rounded	near-close	near-back			
