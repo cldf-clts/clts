@@ -41,7 +41,7 @@ GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
 ◌̽	consonant	relative_articulation	mid-centralized			
 ◌̟	consonant	relative_articulation	advanced			
 ◌̠	consonant	relative_articulation	retracted			
-◌͉	consonant	release	unreleased	+		
+◌͉	consonant	articulation	weak			
 ◌̚	consonant	release	unreleased			
 ◌ˡ	consonant	release	with-lateral-release			
 ◌ᵊ	consonant	release	with-mid-central-vowel-release			
