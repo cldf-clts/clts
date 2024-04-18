@@ -701,3 +701,31 @@ kʲ	voiceless	velar	stop		palatalization:palatalized
 k̚	voiceless	velar	stop		release:unreleased	
 kʷʼ	voiceless	velar	stop	+	labialization:labialized,ejection:ejective	
 ɡ̤	voiced	velar	stop	+	breathiness:breathy	
+p͉ voiceless bilabial stop  articulation:weak 
+k͉ voiceless velar stop  articulation:weak 
+ȶ͉	voiceless	alveolo-palatal	stop  articulation:weak 
+t͉͉	voiceless	alveolar	stop  articulation:weak 
+ʈ͉	voiceless	retroflex	stop  articulation:weak 
+t̪͉	voiceless	dental	stop  articulation:weak
+t̺͉	voiceless	dental	stop  articulation:weak,laminality:apical
+s͉	voiceless	alveolar	fricative		airstream:sibilant,articulation:weak	
+tʃ͉	voiceless	post-alveolar	affricate		airstream:sibilant,articulation:weak	
+t̠ʃ͉	voiceless	post-alveolar	affricate	+	airstream:sibilant,articulation:weak	
+t̠͉ʃ	voiceless	post-alveolar	affricate	+	airstream:sibilant,articulation:weak	
+ʃ͉	voiceless	post-alveolar	fricative		airstream:sibilant,articulation:weak	
+f͉	voiceless	labio-dental	fricative		articulation:weak	
+t͉s	voiceless	post-alveolar	affricate	+	airstream:sibilant,articulation:weak	
+ts͉	voiceless	post-alveolar	affricate		airstream:sibilant,articulation:weak	
+ð͉ voiced dental fricative  articulation:weak 
+p͉ʲ voiceless bilabial stop  articulation:weak,palatalization:palatalized 
+t͉ʲ	voiceless	alveolar	stop  articulation:weak,palatalization:palatalized 
+k͉ʷ voiceless velar stop  articulation:weak,labialization:labialized 
+t͉ɕ͉	voiceless	alveolo-palatal	affricate	+	airstream:sibilant,articulation:weak	
+tɕ͉	voiceless	alveolo-palatal	affricate		airstream:sibilant,articulation:weak	
+b͉ voiced bilabial stop  articulation:weak 
+ˀb͉ voiced bilabial stop  articulation:weak,preceding:preglottalized 
+x͉	voiceless	velar	fricative		articulation:weak	
+ʂ͉	voiceless	retroflex	fricative		airstream:sibilant,articulation:weak	
+l͉	voiced	alveolar	approximant		airstream:lateral,articulation:weak	
+m͉	voiced	bilabial	nasal		articulation:weak	
+n͉	voiced	alveolar	nasal		articulation:weak	
