@@ -49,6 +49,7 @@ vowel_tone_with-mid_tone	vowel	tone	with-mid_tone
 vowel_tone_with-rising_tone	vowel	tone	with-rising_tone
 vowel_tone_with-upstep	vowel	tone	with-upstep
 vowel_articulation_strong	vowel	articulation	strong
+vowel_articulation_weak	vowel	articulation	weak
 vowel_breathiness_breathy	vowel	breathiness	breathy
 vowel_glottalization_glottalized	vowel	glottalization	glottalized
 consonant_relative_articulation_centralized	consonant	relative_articulation	centralized
