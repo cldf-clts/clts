@@ -135,6 +135,7 @@ consonant_manner_unspecified-manner	consonant	manner	unspecified-manner
 consonant_laminality_apical	consonant	laminality	apical
 consonant_laminality_laminal	consonant	laminality	laminal
 consonant_articulation_strong	consonant	articulation	strong
+consonant_articulation_weak	consonant	articulation	weak
 consonant_breathiness_breathy	consonant	breathiness	breathy
 consonant_raising_lowered	consonant	raising	lowered
 consonant_raising_raised	consonant	raising	raised
