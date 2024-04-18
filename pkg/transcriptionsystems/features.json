@@ -86,7 +86,8 @@
       "with-upstep"
     ],
     "articulation": [
-      "strong"
+      "strong",
+      "weak"
     ],
     "breathiness": [
       "breathy"
@@ -224,7 +225,8 @@
       "laminal"
     ],
     "articulation": [
-      "strong"
+      "strong",
+      "weak"
     ],
     "breathiness": [
       "breathy"
