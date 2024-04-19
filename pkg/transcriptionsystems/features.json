@@ -86,7 +86,8 @@
       "with-upstep"
     ],
     "articulation": [
-      "strong"
+      "strong",
+      "weak"
     ],
     "breathiness": [
       "breathy"
@@ -196,6 +197,7 @@
     ],
     "duration": [
       "long",
+      "ultra-long",
       "mid-long"
     ],
     "stress": [
@@ -223,7 +225,8 @@
       "laminal"
     ],
     "articulation": [
-      "strong"
+      "strong",
+      "weak"
     ],
     "breathiness": [
       "breathy"

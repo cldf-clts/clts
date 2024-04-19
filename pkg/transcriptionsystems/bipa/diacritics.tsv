@@ -1,11 +1,11 @@
 GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
-◌ʶ	consonant	release	with-uvular-release				
+◌ʶ	consonant	release	with-uvular-release			
 ◌ˢ	consonant	release	with-sibilant-release			
 ◌͓	consonant	articulation	with-friction			
 ◌͓	vowel	friction	with-friction			
 ◌͈	consonant	articulation	strong			
 ◌ʳ	consonant	release	with-trilled-release			
-ʱ◌	consonant	preceding	pre-breathy-aspirated		
+ʱ◌	consonant	preceding	pre-breathy-aspirated			
 ◌ʰ	consonant	aspiration	aspirated			
 ◌ʱ	consonant	breathiness	breathy			
 ◌̤	consonant	breathiness	breathy	+		
@@ -41,7 +41,7 @@ GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
 ◌̽	consonant	relative_articulation	mid-centralized			
 ◌̟	consonant	relative_articulation	advanced			
 ◌̠	consonant	relative_articulation	retracted			
-◌͉	consonant	release	unreleased	+		
+◌͉	consonant	articulation	weak			
 ◌̚	consonant	release	unreleased			
 ◌ˡ	consonant	release	with-lateral-release			
 ◌ᵊ	consonant	release	with-mid-central-vowel-release			
@@ -103,7 +103,7 @@ GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
 ◌↘	vowel	tone	with-global_fall			
 ◌↗	vowel	tone	with-global_rise			
 ◌́	vowel	tone	with-high_tone			
-◌́	vowel	tone	with-high_tone	+
+◌́	vowel	tone	with-high_tone	+		
 ◌̀	vowel	tone	with-low_tone			
 ◌̄	vowel	tone	with-mid_tone			
 ◌̌	vowel	tone	with-rising_tone			

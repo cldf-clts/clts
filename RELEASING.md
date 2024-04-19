@@ -1,25 +1,17 @@
 # Releasing clts
 
-- Do a general test of clts:
+- Recreate the CLDF dataset:
   ```shell
-  clts test
-  ```
-- Create the package accessible from the `pyclts` API
-  ```shell
-  clts make_pkg
+  clfbench makecldf cldfbench_clts.py
   ```
 - Check statistics
   ```shell
   clts stats
   clts tdstats
   ```
-- Create the javascript application
+- Validate the CLDF dataset:
   ```shell
-  clts make_app
-  ```
-- Create the CLDF dataset for distribution
-  ```shell
-  clts dist
+  pytest --cldf-metadata=cldf-metadata.json test.py
   ```
 - Create the release commit:
   ```shell

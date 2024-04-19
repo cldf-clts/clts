@@ -11,36 +11,67 @@
             "name": "Tiago Tresoldi"
         },
         {
+            "name": "Christoph Rzymski"
+        },
+        {
             "name": "Robert Forkel"
         }
     ],
-    "description": "Cross-Linguistic Transcription Systems",
     "access_right": "open",
     "keywords": [
+        "cldf:Generic",
         "linguistics",
-        "transcription system",
-        "reference catalog"
+        "reference catalog",
+        "transcription system"
     ],
     "license": {
         "id": "CC-BY-4.0"
     },
     "contributors": [
         {
-            "type": "Other",
-            "name": "Christoph Rzymski"
+            "name": "Johann-Mattis List",
+            "type": "Editor"
         },
         {
-            "type": "Other",
-            "name": "Simon J. Greenhill"
+            "name": "Cormac Anderson",
+            "type": "Editor"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Editor"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Editor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
+        },
+        {
+            "name": "Sacha Beniamine",
+            "type": "Other"
+        },
+        {
+            "name": "Sacha Beniamine",
+            "type": "Researcher"
+        },
+        {
+            "name": "Jeff Good",
+            "type": "Other"
+        },
+        {
+            "name": "Jeff Good",
+            "type": "Researcher"
         }
     ],
     "upload_type": "dataset",
     "communities": [
         {
-            "identifier": "dighl"
+            "identifier": "calc"
         },
         {
-            "identifier": "calc"
+            "identifier": "dighl"
         }
     ]
 }

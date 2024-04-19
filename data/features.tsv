@@ -49,6 +49,7 @@ vowel_tone_with-mid_tone	vowel	tone	with-mid_tone
 vowel_tone_with-rising_tone	vowel	tone	with-rising_tone
 vowel_tone_with-upstep	vowel	tone	with-upstep
 vowel_articulation_strong	vowel	articulation	strong
+vowel_articulation_weak	vowel	articulation	weak
 vowel_breathiness_breathy	vowel	breathiness	breathy
 vowel_glottalization_glottalized	vowel	glottalization	glottalized
 consonant_relative_articulation_centralized	consonant	relative_articulation	centralized
@@ -116,6 +117,7 @@ consonant_phonation_voiced	consonant	phonation	voiced
 consonant_phonation_voiceless	consonant	phonation	voiceless
 consonant_phonation_unspecified-voice	consonant	phonation	unspecified-voice
 consonant_duration_long	consonant	duration	long
+consonant_duration_ultra-long	consonant	duration	ultra-long
 consonant_duration_mid-long	consonant	duration	mid-long
 consonant_stress_primary-stress	consonant	stress	primary-stress
 consonant_stress_secondary-stress	consonant	stress	secondary-stress
@@ -134,6 +136,7 @@ consonant_manner_unspecified-manner	consonant	manner	unspecified-manner
 consonant_laminality_apical	consonant	laminality	apical
 consonant_laminality_laminal	consonant	laminality	laminal
 consonant_articulation_strong	consonant	articulation	strong
+consonant_articulation_weak	consonant	articulation	weak
 consonant_breathiness_breathy	consonant	breathiness	breathy
 consonant_raising_lowered	consonant	raising	lowered
 consonant_raising_raised	consonant	raising	raised
