@@ -6,14 +6,22 @@ long unrounded open front vowel	aː	A	V	7	V	a	#c86464
 ultra-long unrounded open front vowel	aːː	A	V	7	V	a	#c86464
 mid-long unrounded open front vowel	aˑ	A	V	7	V	a	#c86464
 rhotacized unrounded open front vowel	a˞	A	V	7	V	a	#c86464
+ultra-long unrounded open front with-low_tone vowel	àːː	A	V	7	V	a	#c86464
+ultra-long unrounded open front with-high_tone vowel	áːː	A	V	7	V	a	#c86464
+ultra-long unrounded open front with-falling_tone vowel	âːː	A	V	7	V	a	#c86464
 nasalized unrounded open front vowel	ã	A	V	7	V	a	#c86464
 long nasalized unrounded open front vowel	ãː	A	V	7	V	a	#c86464
 ultra-short unrounded open front vowel	ă	A	V	7	V	a	#c86464
 centralized unrounded open front vowel	ä	A	V	7	V	a	#c86464
 long centralized unrounded open front vowel	äː	A	V	7	V	a	#c86464
+ultra-long unrounded open front with-rising_tone vowel	ǎːː	A	V	7	V	a	#c86464
 advanced unrounded open front vowel	a̟	A	V	7	V	a	#c86464
 long advanced unrounded open front vowel	a̟ː	A	V	7	V	a	#c86464
 ultra-long breathy unrounded open front vowel	a̤ːː	A	V	7	V	a	#c86464
+ultra-long breathy unrounded open front with-low_tone vowel	à̤ːː	A	V	7	V	a	#c86464
+ultra-long breathy unrounded open front with-high_tone vowel	á̤ːː	A	V	7	V	a	#c86464
+ultra-long breathy unrounded open front with-falling_tone vowel	â̤ːː	A	V	7	V	a	#c86464
+ultra-long breathy unrounded open front with-rising_tone vowel	ǎ̤ːː	A	V	7	V	a	#c86464
 devoiced unrounded open front vowel	ḁ	A	V	7	V	a	#c86464
 non-syllabic unrounded open front vowel	a̯	A	V	7	V	a	#c86464
 creaky unrounded open front vowel	a̰	A	V	7	V	a	#c86464
@@ -100,9 +108,13 @@ unrounded close-mid front vowel	e	E	V	7	V	e	#c86464
 long unrounded close-mid front vowel	eː	E	V	7	V	e	#c86464
 ultra-long unrounded close-mid front vowel	eːː	E	V	7	V	e	#c86464
 mid-long unrounded close-mid front vowel	eˑ	E	V	7	V	e	#c86464
+ultra-long unrounded close-mid front with-low_tone vowel	èːː	E	V	7	V	e	#c86464
+ultra-long unrounded close-mid front with-high_tone vowel	éːː	E	V	7	V	e	#c86464
+ultra-long unrounded close-mid front with-falling_tone vowel	êːː	E	V	7	V	e	#c86464
 nasalized unrounded close-mid front vowel	ẽ	E	V	7	V	e	#c86464
 long nasalized unrounded close-mid front vowel	ẽː	E	V	7	V	e	#c86464
 ultra-short unrounded close-mid front vowel	ĕ	E	V	7	V	e	#c86464
+ultra-long unrounded close-mid front with-rising_tone vowel	ěːː	E	V	7	V	e	#c86464
 unrounded mid front vowel	e̞	E	V	7	V	e	#c86464
 long unrounded mid front vowel	e̞ː	E	V	7	V	e	#c86464
 mid-long unrounded mid front vowel	e̞ˑ	E	V	7	V	e	#c86464
@@ -110,6 +122,10 @@ nasalized unrounded mid front vowel	ẽ̞	E	V	7	V	e	#c86464
 long nasalized unrounded mid front vowel	ẽ̞ː	E	V	7	V	e	#c86464
 breathy unrounded close-mid front vowel	e̤	E	V	7	V	e	#c86464
 ultra-long breathy unrounded close-mid front vowel	e̤ːː	E	V	7	V	e	#c86464
+ultra-long breathy unrounded close-mid front with-low_tone vowel	è̤ːː	E	V	7	V	e	#c86464
+ultra-long breathy unrounded close-mid front with-high_tone vowel	é̤ːː	E	V	7	V	e	#c86464
+ultra-long breathy unrounded close-mid front with-falling_tone vowel	ê̤ːː	E	V	7	V	e	#c86464
+ultra-long breathy unrounded close-mid front with-rising_tone vowel	ě̤ːː	E	V	7	V	e	#c86464
 devoiced unrounded close-mid front vowel	e̥	E	V	7	V	e	#c86464
 non-syllabic unrounded close-mid front vowel	e̯	E	V	7	V	e	#c86464
 creaky unrounded close-mid front vowel	ḛ	E	V	7	V	e	#c86464
@@ -149,10 +165,18 @@ unrounded close front vowel	i	I	V	7	V	i	#c86464
 long unrounded close front vowel	iː	I	V	7	V	i	#c86464
 ultra-long unrounded close front vowel	iːː	I	V	7	V	i	#c86464
 mid-long unrounded close front vowel	iˑ	I	V	7	V	i	#c86464
+ultra-long unrounded close front with-low_tone vowel	ìːː	I	V	7	V	i	#c86464
+ultra-long unrounded close front with-high_tone vowel	íːː	I	V	7	V	i	#c86464
+ultra-long unrounded close front with-falling_tone vowel	îːː	I	V	7	V	i	#c86464
 nasalized unrounded close front vowel	ĩ	I	V	7	V	i	#c86464
 long nasalized unrounded close front vowel	ĩː	I	V	7	V	i	#c86464
+ultra-long unrounded close front with-rising_tone vowel	ǐːː	I	V	7	V	i	#c86464
 breathy unrounded close front vowel	i̤	I	V	7	V	i	#c86464
 ultra-long breathy unrounded close front vowel	i̤ːː	I	V	7	V	i	#c86464
+ultra-long breathy unrounded close front with-low_tone vowel	ì̤ːː	I	V	7	V	i	#c86464
+ultra-long breathy unrounded close front with-high_tone vowel	í̤ːː	I	V	7	V	i	#c86464
+ultra-long breathy unrounded close front with-falling_tone vowel	î̤ːː	I	V	7	V	i	#c86464
+ultra-long breathy unrounded close front with-rising_tone vowel	ǐ̤ːː	I	V	7	V	i	#c86464
 devoiced unrounded close front vowel	i̥	I	V	7	V	i	#c86464
 creaky unrounded close front vowel	ḭ	I	V	7	V	i	#c86464
 long creaky unrounded close front vowel	ḭː	I	V	7	V	i	#c86464
@@ -233,15 +257,23 @@ long rounded close-mid back vowel	oː	U	V	7	V	o	#c86464
 ultra-long rounded close-mid back vowel	oːː	U	V	7	V	o	#c86464
 mid-long rounded close-mid back vowel	oˑ	U	V	7	V	o	#c86464
 pharyngealized rounded close-mid back vowel	oˤ	U	V	7	V	o	#c86464
+ultra-long rounded close-mid back with-low_tone vowel	òːː	U	V	7	V	o	#c86464
+ultra-long rounded close-mid back with-high_tone vowel	óːː	U	V	7	V	o	#c86464
+ultra-long rounded close-mid back with-falling_tone vowel	ôːː	U	V	7	V	o	#c86464
 nasalized rounded close-mid back vowel	õ	U	V	7	V	o	#c86464
 long nasalized rounded close-mid back vowel	õː	U	V	7	V	o	#c86464
 ultra-short rounded close-mid back vowel	ŏ	U	V	7	V	o	#c86464
+ultra-long rounded close-mid back with-rising_tone vowel	ǒːː	U	V	7	V	o	#c86464
 rounded mid back vowel	o̞	U	V	7	V	o	#c86464
 long rounded mid back vowel	o̞ː	U	V	7	V	o	#c86464
 nasalized rounded mid back vowel	õ̞	U	V	7	V	o	#c86464
 long nasalized rounded mid back vowel	õ̞ː	U	V	7	V	o	#c86464
 breathy rounded close-mid back vowel	o̤	U	V	7	V	o	#c86464
 ultra-long breathy rounded close-mid back vowel	o̤ːː	U	V	7	V	o	#c86464
+ultra-long breathy rounded close-mid back with-low_tone vowel	ò̤ːː	U	V	7	V	o	#c86464
+ultra-long breathy rounded close-mid back with-high_tone vowel	ó̤ːː	U	V	7	V	o	#c86464
+ultra-long breathy rounded close-mid back with-falling_tone vowel	ô̤ːː	U	V	7	V	o	#c86464
+ultra-long breathy rounded close-mid back with-rising_tone vowel	ǒ̤ːː	U	V	7	V	o	#c86464
 devoiced rounded close-mid back vowel	o̥	U	V	7	V	o	#c86464
 non-syllabic rounded close-mid back vowel	o̯	U	V	7	V	o	#c86464
 creaky rounded close-mid back vowel	o̰	U	V	7	V	o	#c86464
@@ -380,10 +412,18 @@ rounded close back vowel	u	Y	V	7	V	u	#c86464
 long rounded close back vowel	uː	Y	V	7	V	u	#c86464
 ultra-long rounded close back vowel	uːː	Y	V	7	V	u	#c86464
 mid-long rounded close back vowel	uˑ	Y	V	7	V	u	#c86464
+ultra-long rounded close back with-low_tone vowel	ùːː	Y	V	7	V	u	#c86464
+ultra-long rounded close back with-high_tone vowel	úːː	Y	V	7	V	u	#c86464
+ultra-long rounded close back with-falling_tone vowel	ûːː	Y	V	7	V	u	#c86464
 nasalized rounded close back vowel	ũ	Y	V	7	V	u	#c86464
 long nasalized rounded close back vowel	ũː	Y	V	7	V	u	#c86464
+ultra-long rounded close back with-rising_tone vowel	ǔːː	Y	V	7	V	u	#c86464
 breathy rounded close back vowel	ṳ	Y	V	7	V	u	#c86464
 ultra-long breathy rounded close back vowel	ṳːː	Y	V	7	V	u	#c86464
+ultra-long breathy rounded close back with-low_tone vowel	ṳ̀ːː	Y	V	7	V	u	#c86464
+ultra-long breathy rounded close back with-high_tone vowel	ṳ́ːː	Y	V	7	V	u	#c86464
+ultra-long breathy rounded close back with-falling_tone vowel	ṳ̂ːː	Y	V	7	V	u	#c86464
+ultra-long breathy rounded close back with-rising_tone vowel	ṳ̌ːː	Y	V	7	V	u	#c86464
 devoiced rounded close back vowel	u̥	Y	V	7	V	u	#c86464
 creaky rounded close back vowel	ṵ	Y	V	7	V	u	#c86464
 voiced labio-dental fricative consonant	v	B	C	3	W	v	#c864c8
@@ -508,9 +548,17 @@ unrounded near-open front vowel	æ	E	V	7	V	E	#c86464
 long unrounded near-open front vowel	æː	E	V	7	V	E	#c86464
 ultra-long unrounded near-open front vowel	æːː	E	V	7	V	E	#c86464
 mid-long unrounded near-open front vowel	æˑ	E	V	7	V	E	#c86464
+ultra-long unrounded near-open front with-low_tone vowel	æ̀ːː	E	V	7	V	E	#c86464
+ultra-long unrounded near-open front with-high_tone vowel	ǽːː	E	V	7	V	E	#c86464
+ultra-long unrounded near-open front with-falling_tone vowel	æ̂ːː	E	V	7	V	E	#c86464
 nasalized unrounded near-open front vowel	æ̃	E	V	7	V	E	#c86464
 long nasalized unrounded near-open front vowel	æ̃ː	E	V	7	V	E	#c86464
+ultra-long unrounded near-open front with-rising_tone vowel	æ̌ːː	E	V	7	V	E	#c86464
 ultra-long breathy unrounded near-open front vowel	æ̤ːː	E	V	7	V	E	#c86464
+ultra-long breathy unrounded near-open front with-low_tone vowel	æ̤̀ːː	E	V	7	V	E	#c86464
+ultra-long breathy unrounded near-open front with-high_tone vowel	ǽ̤ːː	E	V	7	V	E	#c86464
+ultra-long breathy unrounded near-open front with-falling_tone vowel	æ̤̂ːː	E	V	7	V	E	#c86464
+ultra-long breathy unrounded near-open front with-rising_tone vowel	æ̤̌ːː	E	V	7	V	E	#c86464
 creaky unrounded near-open front vowel	æ̰	E	V	7	V	E	#c86464
 voiced dental fricative consonant	ð	D	C	3	T	8	#9664c8
 long voiced dental fricative consonant	ðː	D	C	3	T	8	#9664c8
@@ -585,9 +633,17 @@ palatalized voiced bilabial implosive consonant	ɓʲ	P	C	1	P	b	#c8c864
 rounded open-mid back vowel	ɔ	U	V	7	V	o	#c86464
 long rounded open-mid back vowel	ɔː	U	V	7	V	o	#c86464
 ultra-long rounded open-mid back vowel	ɔːː	U	V	7	V	o	#c86464
+ultra-long rounded open-mid back with-low_tone vowel	ɔ̀ːː	U	V	7	V	o	#c86464
+ultra-long rounded open-mid back with-high_tone vowel	ɔ́ːː	U	V	7	V	o	#c86464
+ultra-long rounded open-mid back with-falling_tone vowel	ɔ̂ːː	U	V	7	V	o	#c86464
 nasalized rounded open-mid back vowel	ɔ̃	U	V	7	V	o	#c86464
 long nasalized rounded open-mid back vowel	ɔ̃ː	U	V	7	V	o	#c86464
+ultra-long rounded open-mid back with-rising_tone vowel	ɔ̌ːː	U	V	7	V	o	#c86464
 ultra-long breathy rounded open-mid back vowel	ɔ̤ːː	U	V	7	V	o	#c86464
+ultra-long breathy rounded open-mid back with-low_tone vowel	ɔ̤̀ːː	U	V	7	V	o	#c86464
+ultra-long breathy rounded open-mid back with-high_tone vowel	ɔ̤́ːː	U	V	7	V	o	#c86464
+ultra-long breathy rounded open-mid back with-falling_tone vowel	ɔ̤̂ːː	U	V	7	V	o	#c86464
+ultra-long breathy rounded open-mid back with-rising_tone vowel	ɔ̤̌ːː	U	V	7	V	o	#c86464
 non-syllabic rounded open-mid back vowel	ɔ̯	U	V	7	V	o	#c86464
 creaky rounded open-mid back vowel	ɔ̰	U	V	7	V	o	#c86464
 voiceless alveolo-palatal sibilant fricative consonant	ɕ	S	C	3	S	S	#6496c8
@@ -607,17 +663,33 @@ unrounded mid central vowel	ə	E	V	7	V	I	#c86464
 long unrounded mid central vowel	əː	E	V	7	V	I	#c86464
 ultra-long unrounded mid central vowel	əːː	E	V	7	V	I	#c86464
 rhotacized unrounded mid central vowel	ə˞	E	V	7	V	I	#c86464
+ultra-long unrounded mid central with-low_tone vowel	ə̀ːː	E	V	7	V	I	#c86464
+ultra-long unrounded mid central with-high_tone vowel	ə́ːː	E	V	7	V	I	#c86464
+ultra-long unrounded mid central with-falling_tone vowel	ə̂ːː	E	V	7	V	I	#c86464
 nasalized unrounded mid central vowel	ə̃	E	V	7	V	I	#c86464
 long nasalized unrounded mid central vowel	ə̃ː	E	V	7	V	I	#c86464
 ultra-short unrounded mid central vowel	ə̆	E	V	7	V	I	#c86464
+ultra-long unrounded mid central with-rising_tone vowel	ə̌ːː	E	V	7	V	I	#c86464
 ultra-long breathy unrounded mid central vowel	ə̤ːː	E	V	7	V	I	#c86464
+ultra-long breathy unrounded mid central with-low_tone vowel	ə̤̀ːː	E	V	7	V	I	#c86464
+ultra-long breathy unrounded mid central with-high_tone vowel	ə̤́ːː	E	V	7	V	I	#c86464
+ultra-long breathy unrounded mid central with-falling_tone vowel	ə̤̂ːː	E	V	7	V	I	#c86464
+ultra-long breathy unrounded mid central with-rising_tone vowel	ə̤̌ːː	E	V	7	V	I	#c86464
 creaky unrounded mid central vowel	ə̰	E	V	7	V	I	#c86464
 unrounded open-mid front vowel	ɛ	E	V	7	V	E	#c86464
 long unrounded open-mid front vowel	ɛː	E	V	7	V	E	#c86464
 ultra-long unrounded open-mid front vowel	ɛːː	E	V	7	V	E	#c86464
+ultra-long unrounded open-mid front with-low_tone vowel	ɛ̀ːː	E	V	7	V	E	#c86464
+ultra-long unrounded open-mid front with-high_tone vowel	ɛ́ːː	E	V	7	V	E	#c86464
+ultra-long unrounded open-mid front with-falling_tone vowel	ɛ̂ːː	E	V	7	V	E	#c86464
 nasalized unrounded open-mid front vowel	ɛ̃	E	V	7	V	E	#c86464
 long nasalized unrounded open-mid front vowel	ɛ̃ː	E	V	7	V	E	#c86464
+ultra-long unrounded open-mid front with-rising_tone vowel	ɛ̌ːː	E	V	7	V	E	#c86464
 ultra-long breathy unrounded open-mid front vowel	ɛ̤ːː	E	V	7	V	E	#c86464
+ultra-long breathy unrounded open-mid front with-low_tone vowel	ɛ̤̀ːː	E	V	7	V	E	#c86464
+ultra-long breathy unrounded open-mid front with-high_tone vowel	ɛ̤́ːː	E	V	7	V	E	#c86464
+ultra-long breathy unrounded open-mid front with-falling_tone vowel	ɛ̤̂ːː	E	V	7	V	E	#c86464
+ultra-long breathy unrounded open-mid front with-rising_tone vowel	ɛ̤̌ːː	E	V	7	V	E	#c86464
 non-syllabic unrounded open-mid front vowel	ɛ̯	E	V	7	V	E	#c86464
 creaky unrounded open-mid front vowel	ɛ̰	E	V	7	V	E	#c86464
 unrounded open-mid central vowel	ɜ	E	V	7	V	I	#c86464
