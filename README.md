@@ -30,7 +30,6 @@ The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Johann-Mattis List, Cormac Anderson, Tiago Tresoldi, & Robert Forkel. (2023). CLTS. Cross-Linguistic Transcription Systems. Zenodo. https://doi.org/10.5281/zenodo.3515744
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.5281/zenodo.3515744
 
 
@@ -56,7 +55,7 @@ Name/Property | Datatype | Description
 [NAME](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
 [DESCRIPTION](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
 [REFS](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `, `) | References [data/references.bib::BibTeX-key](./data/references.bib)
-`TYPE` | `string` | CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).
+`TYPE` | `string`<br>Valid choices:<br> `td` `ts` `sc` | CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).
 `URITEMPLATE` | `string` | Several CLTS sources provide an online catalog of the graphemes they describe. If this is the case, the URI template specified in this column was used to derive the URL column in graphemes.csv.
 
 
@@ -68,7 +67,7 @@ The feature system employed by CLTS describes sounds by assigning values for cer
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 161
+[dc:extent](http://purl.org/dc/terms/extent) | 163
 
 
 
@@ -79,7 +78,7 @@ property | value
 Name/Property | Datatype | Description
  --- | --- | --- 
 [ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
-`TYPE` | `string` | CLTS distinguishes the basic sound types consonant, vowel, tone, and marker. Features are defined for consonants, vowels, and tones.
+`TYPE` | `string`<br>Valid choices:<br> `consonant` `vowel` `tone` | CLTS distinguishes the basic sound types consonant, vowel, tone, and marker. Features are defined for consonants, vowels, and tones.
 `FEATURE` | `string` | Note that CLTS features are not necessarily binary.
 `VALUE` | `string` | 
 
@@ -90,7 +89,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 80639
+[dc:extent](http://purl.org/dc/terms/extent) | 81391
 
 
 
@@ -120,7 +119,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 8684
+[dc:extent](http://purl.org/dc/terms/extent) | 8693
 
 
 
@@ -136,5 +135,5 @@ Name/Property | Datatype | Description
 `GRAPHEME` | `string` | CLTS choses the BIPA grapheme as canonical representative of the graphemes mapped to a sound.
 `UNICODE` | list of `string` (separated by ` / `) | Unicode character names of the codepoints in GRAPHEME
 `GENERATED` | `boolean` | Indicates whether the sound was inferred by our algorithmic procedure (which is active for all diphthongs, all cluster sounds, but also all sounds which we do not label explicitly) or whether no inference was needed, since the sound is explicitly defined.
-`TYPE` | `string` | CLTS defines five sound types: consonant, vowel, tone, diphthong, and cluster. The latter two are always GENERATED.
+`TYPE` | `string`<br>Valid choices:<br> `consonant` `vowel` `diphthong` `tone` `cluster` | CLTS defines five sound types: consonant, vowel, tone, diphthong, and cluster. The latter two are always GENERATED.
 [NOTE](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
