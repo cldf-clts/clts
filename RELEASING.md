@@ -2,7 +2,7 @@
 
 - Recreate the CLDF dataset:
   ```shell
-  clfbench makecldf cldfbench_clts.py
+  cldfbench makecldf cldfbench_clts.py
   ```
 - Check statistics
   ```shell
@@ -12,6 +12,10 @@
 - Validate the CLDF dataset:
   ```shell
   pytest --cldf-metadata=cldf-metadata.json test.py
+  ```
+- Create the metadata for Zenodo:
+  ```shell
+  cldfbench zenodo cldfbench_clts.py
   ```
 - Create the release commit:
   ```shell

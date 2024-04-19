@@ -89,7 +89,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 81391
+[dc:extent](http://purl.org/dc/terms/extent) | 81895
 
 
 
@@ -119,7 +119,7 @@ Name/Property | Datatype | Description
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 8693
+[dc:extent](http://purl.org/dc/terms/extent) | 8765
 
 
 
