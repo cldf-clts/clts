@@ -9,4 +9,4 @@ Christoph Rzymski | @chrzyki        | creator, Editor
 Robert Forkel | @xrotwang       | creator, Editor
 Sacha Beniamine | @XachaB         | other, Researcher
 Jeff Good | @jcgood         | other, Researcher
-Sean Roberst | @seannyD | other, Researcher
+Sean Roberts | @seannyD | other, Researcher
