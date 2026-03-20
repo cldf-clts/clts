@@ -97,8 +97,8 @@ GRAPHEME	TYPE	FEATURE	VALUE	ALIAS	TYPOGRAPHY	NOTE
 ◌̑	vowel	syllabicity	non-syllabic		up	
 ◌̯	vowel	syllabicity	non-syllabic			
 ◌↓	vowel	tone	with-downstep			
-◌̏	vowel	tone	with-extra_low_tone			
-◌̋	vowel	tone	with-extra_high_tone			
+◌̏	vowel	tone	with-extra-low_tone			
+◌̋	vowel	tone	with-extra-high_tone
 ◌̂	vowel	tone	with-falling_tone			
 ◌↘	vowel	tone	with-global_fall			
 ◌↗	vowel	tone	with-global_rise			
