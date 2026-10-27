@@ -11,8 +11,6 @@ vowel_centrality_near-front	vowel	centrality	near-front
 vowel_creakiness_creaky	vowel	creakiness	creaky
 vowel_rounding_less-rounded	vowel	rounding	less-rounded
 vowel_rounding_more-rounded	vowel	rounding	more-rounded
-vowel_stress_primary-stress	vowel	stress	primary-stress
-vowel_stress_secondary-stress	vowel	stress	secondary-stress
 vowel_pharyngealization_pharyngealized	vowel	pharyngealization	pharyngealized
 vowel_rhotacization_rhotacized	vowel	rhotacization	rhotacized
 vowel_voicing_devoiced	vowel	voicing	devoiced
@@ -119,8 +117,6 @@ consonant_phonation_unspecified-voice	consonant	phonation	unspecified-voice
 consonant_duration_long	consonant	duration	long
 consonant_duration_ultra-long	consonant	duration	ultra-long
 consonant_duration_mid-long	consonant	duration	mid-long
-consonant_stress_primary-stress	consonant	stress	primary-stress
-consonant_stress_secondary-stress	consonant	stress	secondary-stress
 consonant_velarization_velarized	consonant	velarization	velarized
 consonant_manner_affricate	consonant	manner	affricate
 consonant_manner_approximant	consonant	manner	approximant

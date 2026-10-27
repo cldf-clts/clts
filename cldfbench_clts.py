@@ -1,5 +1,6 @@
 import pathlib
 import subprocess
+import dataclasses
 
 import attr
 from clldutils.jsonlib import update, load
@@ -7,7 +8,7 @@ from cldfbench import Dataset as BaseDataset
 from cldfbench.metadata import Metadata
 
 
-@attr.s(auto_attribs=True, auto_detect=True)
+@dataclasses.dataclass
 class CLTSMetadata(Metadata):
     def __init__(self, **kw):
         kwmap = {
@@ -17,7 +18,8 @@ class CLTSMetadata(Metadata):
         }
         newkw = {kwmap.get(k, k): v for k, v in kw.items()}
         newkw.update(id='clts', title='CLTS. Cross-Linguistic Transcription Systems')
-        self.__attrs_init__(**newkw)
+        for k, v in newkw.items():
+            setattr(self, k, v)
 
 
 class Dataset(BaseDataset):

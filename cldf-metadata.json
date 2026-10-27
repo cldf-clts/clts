@@ -7,8 +7,9 @@
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:source": "data/references.bib",
+    "rdf:ID": "clts",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dialect": {
-        "doubleQuote": false,
         "commentPrefix": null,
         "delimiter": "\t",
         "trim": true
@@ -21,40 +22,40 @@
                 "columns": [
                     {
                         "name": "NAME",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "datatype": {
-                            "base": "string"
-                        }
-                    },
-                    {
-                        "name": "DESCRIPTION",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-                        "datatype": {
-                            "base": "string"
-                        }
-                    },
-                    {
-                        "name": "REFS",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "datatype": {
                             "base": "string"
                         },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
+                    },
+                    {
+                        "name": "DESCRIPTION",
+                        "datatype": {
+                            "base": "string"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description"
+                    },
+                    {
+                        "name": "REFS",
+                        "datatype": {
+                            "base": "string"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "separator": ", "
                     },
                     {
                         "name": "TYPE",
-                        "dc:description": "CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).",
                         "datatype": {
                             "base": "string",
-                            "format": "td|ts|sc"
-                        }
+                            "format": "sc|td|ts"
+                        },
+                        "dc:description": "CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`)."
                     },
                     {
                         "name": "URITEMPLATE",
-                        "dc:description": "Several CLTS sources provide an online catalog of the graphemes they describe. If this is the case, the URI template specified in this column was used to derive the URL column in graphemes.csv.",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "dc:description": "Several CLTS sources provide an online catalog of the graphemes they describe. If this is the case, the URI template specified in this column was used to derive the URL column in graphemes.csv."
                     }
                 ],
                 "primaryKey": [
@@ -70,25 +71,25 @@
                 "columns": [
                     {
                         "name": "ID",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
                     },
                     {
                         "name": "TYPE",
-                        "dc:description": "CLTS distinguishes the basic sound types consonant, vowel, tone, and marker. Features are defined for consonants, vowels, and tones.",
                         "datatype": {
                             "base": "string",
                             "format": "consonant|vowel|tone"
-                        }
+                        },
+                        "dc:description": "CLTS distinguishes the basic sound types consonant, vowel, tone, and marker. Features are defined for consonants, vowels, and tones."
                     },
                     {
                         "name": "FEATURE",
-                        "dc:description": "Note that CLTS features are not necessarily binary.",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "dc:description": "Note that CLTS features are not necessarily binary."
                     },
                     {
                         "name": "VALUE",
@@ -101,41 +102,46 @@
                     "ID"
                 ]
             },
-            "dc:extent": 163
+            "dc:extent": 159
         },
         {
             "url": "data/graphemes.tsv",
+            "dc:description": "Graphemes are symbols, i.e. strings, used to denote sounds in transcription systems.",
             "tableSchema": {
                 "columns": [
                     {
                         "name": "PK",
                         "datatype": {
-                            "base": "integer"
-                        }
+                            "base": "string"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
                     },
                     {
                         "name": "GRAPHEME",
-                        "dc:description": "Grapheme used in a particular transcription to denote a sound",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "dc:description": "Grapheme used in a particular transcription to denote a sound"
                     },
                     {
                         "name": "NAME",
-                        "dc:description": "The ordered concatenation of feature values of the denoted sound",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "dc:description": "The ordered concatenation of feature values of the denoted sound"
                     },
                     {
-                        "name": "BIPA",
-                        "dc:description": "The grapheme for the denoted sound in the Broad IPA transcription system",
+                        "name": "EXPLICIT",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "dc:description": "Indicates whether the mapping of grapheme to sound was done manually (explicitly, +) or whether it was inferred from the Grapheme."
                     },
                     {
                         "name": "DATASET",
+                        "datatype": {
+                            "base": "string"
+                        },
                         "dc:description": "Links to the source of this grapheme"
                     },
                     {
@@ -146,47 +152,40 @@
                     },
                     {
                         "name": "URL",
-                        "dc:description": "URL of the grapheme in its source online database",
-                        "datatype": {
-                            "base": "anyURI"
-                        }
-                    },
-                    {
-                        "name": "IMAGE",
-                        "dc:description": "Image of the typeset grapheme.",
-                        "valueUrl": "http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/images/{IMAGE}",
                         "datatype": {
                             "base": "string"
-                        }
-                    },
-                    {
-                        "name": "SOUND",
-                        "dc:description": "Audio recording of the sound being pronounced.",
-                        "valueUrl": "http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAsounds/{SOUND}",
-                        "datatype": {
-                            "base": "string"
-                        }
-                    },
-                    {
-                        "name": "EXPLICIT",
-                        "dc:description": "Indicates whether the mapping of grapheme to sound was done manually (explicitly, +) or whether it was inferred from the Grapheme.",
-                        "datatype": {
-                            "base": "string"
-                        }
+                        },
+                        "dc:description": "URL of the grapheme in its source online database"
                     },
                     {
                         "name": "FEATURES",
-                        "dc:description": "Features of the sound as described in the local feature system of the source dataset",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "dc:description": "Features of the sound as described in the local feature system of the source dataset"
+                    },
+                    {
+                        "name": "IMAGE",
+                        "datatype": {
+                            "base": "string"
+                        },
+                        "dc:description": "Image of the typeset grapheme.",
+                        "valueUrl": "http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/images/{IMAGE}"
+                    },
+                    {
+                        "name": "SOUND",
+                        "datatype": {
+                            "base": "string"
+                        },
+                        "dc:description": "Audio recording of the sound being pronounced.",
+                        "valueUrl": "http://web.uvic.ca/ling/resources/ipa/charts/IPAlab/IPAsounds/{SOUND}"
                     },
                     {
                         "name": "NOTE",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment"
                     }
                 ],
                 "primaryKey": [
@@ -217,71 +216,73 @@
                     }
                 ]
             },
-            "dc:extent": 81895
+            "dc:extent": 81909
         },
         {
             "url": "data/sounds.tsv",
+            "dc:description": "This table lists sounds described with unique sets of feature values.",
             "tableSchema": {
                 "columns": [
                     {
                         "name": "ID",
-                        "valueUrl": "https://clts.clld.org/parameters/{ID}",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "valueUrl": "https://clts.clld.org/parameters/{ID}"
                     },
                     {
                         "name": "NAME",
-                        "dc:description": "Ordered list of features + sound type",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "dc:description": "Ordered list of features + sound type",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id"
                     },
                     {
                         "name": "FEATURES",
+                        "datatype": {
+                            "base": "string"
+                        },
                         "dc:description": "Ordered list of feature values for the sound.",
-                        "separator": " ",
-                        "datatype": {
-                            "base": "string"
-                        }
-                    },
-                    {
-                        "name": "GRAPHEME",
-                        "dc:description": "CLTS choses the BIPA grapheme as canonical representative of the graphemes mapped to a sound.",
-                        "datatype": {
-                            "base": "string"
-                        }
-                    },
-                    {
-                        "name": "UNICODE",
-                        "dc:description": "Unicode character names of the codepoints in GRAPHEME",
-                        "separator": " / ",
-                        "datatype": {
-                            "base": "string"
-                        }
-                    },
-                    {
-                        "name": "GENERATED",
-                        "dc:description": "Indicates whether the sound was inferred by our algorithmic procedure (which is active for all diphthongs, all cluster sounds, but also all sounds which we do not label explicitly) or whether no inference was needed, since the sound is explicitly defined.",
-                        "datatype": {
-                            "base": "boolean",
-                            "format": "+|-"
-                        }
+                        "separator": " "
                     },
                     {
                         "name": "TYPE",
-                        "dc:description": "CLTS defines five sound types: consonant, vowel, tone, diphthong, and cluster. The latter two are always GENERATED.",
                         "datatype": {
                             "base": "string",
-                            "format": "consonant|vowel|diphthong|tone|cluster"
-                        }
+                            "format": "consonant|vowel|tone|diphthong|cluster|unknownsound"
+                        },
+                        "dc:description": "CLTS defines five sound types: consonant, vowel, tone, diphthong, and cluster. The latter two are always GENERATED."
+                    },
+                    {
+                        "name": "GRAPHEME",
+                        "datatype": {
+                            "base": "string"
+                        },
+                        "dc:description": "CLTS choses the BIPA grapheme as canonical representative of the graphemes mapped to a sound."
+                    },
+                    {
+                        "name": "UNICODE",
+                        "datatype": {
+                            "base": "string"
+                        },
+                        "dc:description": "Unicode character names of the codepoints in GRAPHEME",
+                        "separator": " / "
+                    },
+                    {
+                        "name": "GENERATED",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "+|-"
+                        },
+                        "dc:description": "Indicates whether the sound was inferred by our algorithmic procedure (which is active for all diphthongs, all cluster sounds, but also all sounds which we do not label explicitly) or whether no inference was needed, since the sound is explicitly defined."
                     },
                     {
                         "name": "NOTE",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "datatype": {
                             "base": "string"
-                        }
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment"
                     }
                 ],
                 "primaryKey": [
@@ -305,7 +306,5 @@
         }
     ],
     "dc:description": "The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of speech sounds aggregated from (and linked to) phonetic notation systems from various sources.",
-    "dc:identifier": "https://doi.org/10.5281/zenodo.3515744",
-    "rdf:ID": "clts",
-    "dc:license": "https://creativecommons.org/licenses/by/4.0/"
+    "dc:identifier": "https://doi.org/10.5281/zenodo.3515744"
 }

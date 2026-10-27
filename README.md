@@ -30,6 +30,8 @@ The Cross-Linguistic Transcription Systems (CLTS) project provides a catalog of 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
+[rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | clts
+[dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://doi.org/10.5281/zenodo.3515744
 
 
@@ -55,7 +57,7 @@ Name/Property | Datatype | Description
 [NAME](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
 [DESCRIPTION](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
 [REFS](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `, `) | References [data/references.bib::BibTeX-key](./data/references.bib)
-`TYPE` | `string`<br>Valid choices:<br> `td` `ts` `sc` | CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).
+`TYPE` | `string`<br>Valid choices:<br> `sc` `td` `ts` | CLTS groups transcription information into three categories: Transcription systems (`ts`), transcription data (`td`) and soundclass systems (`sc`).
 `URITEMPLATE` | `string` | Several CLTS sources provide an online catalog of the graphemes they describe. If this is the case, the URI template specified in this column was used to derive the URL column in graphemes.csv.
 
 
@@ -67,7 +69,7 @@ The feature system employed by CLTS describes sounds by assigning values for cer
 
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 163
+[dc:extent](http://purl.org/dc/terms/extent) | 159
 
 
 
@@ -87,9 +89,11 @@ Name/Property | Datatype | Description
 ### <a name="table-datagraphemestsv"></a>Table [data/graphemes.tsv](./data/graphemes.tsv)
 
 
+Graphemes are symbols, i.e. strings, used to denote sounds in transcription systems.
+
 property | value
  --- | ---
-[dc:extent](http://purl.org/dc/terms/extent) | 81895
+[dc:extent](http://purl.org/dc/terms/extent) | 81909
 
 
 
@@ -99,23 +103,24 @@ property | value
 
 Name/Property | Datatype | Description
  --- | --- | --- 
-`PK` | `integer` | Primary key
+[PK](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
 `GRAPHEME` | `string` | Grapheme used in a particular transcription to denote a sound
 `NAME` | `string` | The ordered concatenation of feature values of the denoted sound<br>References [data/sounds.tsv::NAME](#table-datasoundstsv)
-`BIPA` | `string` | The grapheme for the denoted sound in the Broad IPA transcription system
+`EXPLICIT` | `string` | Indicates whether the mapping of grapheme to sound was done manually (explicitly, +) or whether it was inferred from the Grapheme.
 `DATASET` | `string` | Links to the source of this grapheme<br>References [sources/index.tsv::NAME](#table-sourcesindextsv)
 `FREQUENCY` | `integer` | 
-`URL` | `anyURI` | URL of the grapheme in its source online database
+`URL` | `string` | URL of the grapheme in its source online database
+`FEATURES` | `string` | Features of the sound as described in the local feature system of the source dataset
 `IMAGE` | `string` | Image of the typeset grapheme.
 `SOUND` | `string` | Audio recording of the sound being pronounced.
-`EXPLICIT` | `string` | Indicates whether the mapping of grapheme to sound was done manually (explicitly, +) or whether it was inferred from the Grapheme.
-`FEATURES` | `string` | Features of the sound as described in the local feature system of the source dataset
 [NOTE](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 
 
 
 ### <a name="table-datasoundstsv"></a>Table [data/sounds.tsv](./data/sounds.tsv)
 
+
+This table lists sounds described with unique sets of feature values.
 
 property | value
  --- | ---
@@ -130,10 +135,10 @@ property | value
 Name/Property | Datatype | Description
  --- | --- | --- 
 `ID` | `string` | 
-`NAME` | `string` | Ordered list of features + sound type<br>Primary key
+[NAME](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Ordered list of features + sound type<br>Primary key
 `FEATURES` | list of `string` (separated by ` `) | Ordered list of feature values for the sound.<br>References [data/features.tsv::ID](#table-datafeaturestsv)
+`TYPE` | `string`<br>Valid choices:<br> `consonant` `vowel` `tone` `diphthong` `cluster` `unknownsound` | CLTS defines five sound types: consonant, vowel, tone, diphthong, and cluster. The latter two are always GENERATED.
 `GRAPHEME` | `string` | CLTS choses the BIPA grapheme as canonical representative of the graphemes mapped to a sound.
 `UNICODE` | list of `string` (separated by ` / `) | Unicode character names of the codepoints in GRAPHEME
 `GENERATED` | `boolean` | Indicates whether the sound was inferred by our algorithmic procedure (which is active for all diphthongs, all cluster sounds, but also all sounds which we do not label explicitly) or whether no inference was needed, since the sound is explicitly defined.
-`TYPE` | `string`<br>Valid choices:<br> `consonant` `vowel` `diphthong` `tone` `cluster` | CLTS defines five sound types: consonant, vowel, tone, diphthong, and cluster. The latter two are always GENERATED.
 [NOTE](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 

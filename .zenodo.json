@@ -63,6 +63,14 @@
         {
             "name": "Jeff Good",
             "type": "Researcher"
+        },
+        {
+            "name": "Sean Roberts",
+            "type": "Other"
+        },
+        {
+            "name": "Sean Roberts",
+            "type": "Researcher"
         }
     ],
     "upload_type": "dataset",
